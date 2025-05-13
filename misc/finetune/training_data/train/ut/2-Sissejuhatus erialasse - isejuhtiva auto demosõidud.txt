@@ -1,0 +1,102 @@
+in Estonian;
+has events, where the LLM has to understand by context (ut.ee domain, autonomous driving)
+that the thing is about ADL;
+3 events, because the drives will be done for 3 weeks
+!<-=->!
+Autonomous Driving Lab; Institute of Computer Science; Demo; AI ethics; UI/UX workshop
+!<-=->!
+madis.koivopuu@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAA6z13w\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAA661XEAAA=",
+    "createdDateTime": "2022-11-14T16:00:28Z",
+    "lastModifiedDateTime": "2022-11-14T16:00:31Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAA6z13w",
+    "categories": [],
+    "receivedDateTime": "2022-11-14T16:00:29Z",
+    "sentDateTime": "2022-11-14T16:00:24Z",
+    "hasAttachments": false,
+    "internetMessageId": "<9B.EF.09720.81662736@berta.it.da.ut.ee>",
+    "subject": "Sissejuhatus erialasse - isejuhtiva auto demosõidud",
+    "bodyPreview": "Tere!\r\n\r\nEelmisel nädalal toimunud isejuhtiva auto ekskursiooni ja loengu jätkuks on järgneval kolmel nädalal võimalik käia ka autoga demosõitudel. \r\n\r\nIgal nädalal on kolm aega teisipäeviti vahemikus kl 12-13. Üks sõit kestab umbes 20 minutit ning korrag",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAEappCXqeuZMheZWB9VJLHc=",
+    "conversationIndex": "AQHY+EI3RqmkJep65kyF5lYH1Uksdw==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAA661XEAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Tere!\r\n\r\nEelmisel nädalal toimunud isejuhtiva auto ekskursiooni ja loengu jätkuks on järgneval kolmel nädalal võimalik käia ka autoga demosõitudel. \r\n\r\nIgal nädalal on kolm aega teisipäeviti vahemikus kl 12-13. Üks sõit kestab umbes 20 minutit ning korraga saab autos olla 2-3 tudengit.\r\n\r\nSõidule saate registreerida Moodles valides endale sobivale ajale vastava rühma: https://moodle.ut.ee/mod/groupselect/view.php?id=1099445 \r\n\r\nParimat\r\nMattias\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Mattias Mihkelson",
+            "address": "mattias.mihkelson@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Mattias Mihkelson",
+            "address": "mattias.mihkelson@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Madis Kõivopuu",
+                "address": "madis.koivopuu@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "[VAJA REGISTREERIDA] Isejuhtiva auto demosõit (1)",
+        "start_date": "2022-11-15T12:00:00",
+        "end_date": "2022-11-15T13:00:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Autonomous Driving Lab", "Institute of Computer Science", "Demo"
+        ]
+    },
+    {
+        "event_name": "[VAJA REGISTREERIDA] Isejuhtiva auto demosõit (2)",
+        "start_date": "2022-11-22T12:00:00",
+        "end_date": "2022-11-22T13:00:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Autonomous Driving Lab", "Institute of Computer Science", "Demo"
+        ]
+    },
+    {
+        "event_name": "[VAJA REGISTREERIDA] Isejuhtiva auto demosõit (3)",
+        "start_date": "2022-11-29T12:00:00",
+        "end_date": "2022-11-29T13:00:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Autonomous Driving Lab", "Institute of Computer Science", "Demo"
+        ]
+    }
+]

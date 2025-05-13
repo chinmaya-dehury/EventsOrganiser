@@ -1,0 +1,153 @@
+{
+	"expected_response": [
+		{
+			"event_name": "[VAJA REGISTREERIDA] Tartu \u00dclikooli m\u00e4nguj\u00e4mm",
+			"start_date": "2024-04-12T00:00:00",
+			"end_date": "2024-04-14T23:59:00",
+			"country": "Eesti",
+			"city": "Tartu",
+			"address": "Narva mnt 18 (Delta keskus)",
+			"room": "",
+			"tags": [
+				"Game jam",
+				"University of Tartu"
+			]
+		}
+	],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "Delta \u00f5ppehoone m\u00e4nguj\u00e4mm",
+					"start_date": "2024-04-12T00:00:00+02:00",
+					"end_date": "2024-04-14T23:59:59+02:00",
+					"country": "Eesti",
+					"city": "Tartu",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Dance night",
+						"Mentoring"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Delta \u00f5ppehoone m\u00e4nguj\u00e4mm",
+						"start_date": "2024-04-12T00:00:00+02:00",
+						"end_date": "2024-04-14T23:59:59+02:00",
+						"country": "Eesti",
+						"city": "Tartu",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Dance night",
+							"Mentoring"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.8,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 0.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.0
+				}
+			],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Delta Gaming Marathon",
+					"start_date": "2024-04-12T00:00:00+02:00",
+					"end_date": "2024-04-14T23:59:00+02:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "T\u00dc Delta \u00f5ppehoone",
+					"room": "",
+					"tags": [
+						"Dance night",
+						"Game jam"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Delta Gaming Marathon",
+						"start_date": "2024-04-12T00:00:00+02:00",
+						"end_date": "2024-04-14T23:59:00+02:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "T\u00dc Delta \u00f5ppehoone",
+						"room": "",
+						"tags": [
+							"Dance night",
+							"Game jam"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.2,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 0.5,
+					"room_grade": 1.0,
+					"categories_grade": 0.5
+				}
+			],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Delta gaming marathon",
+					"start_date": "2024-04-12T00:00:00+00:00",
+					"end_date": "2024-04-14T23:59:00+00:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "Delta \u00f5ppehoone, Tartu \u00dclikooli puiestee 75",
+					"room": "",
+					"tags": [
+						"Dance night",
+						"University of Tartu",
+						"Game jam"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Delta gaming marathon",
+						"start_date": "2024-04-12T00:00:00+00:00",
+						"end_date": "2024-04-14T23:59:00+00:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "Delta \u00f5ppehoone, Tartu \u00dclikooli puiestee 75",
+						"room": "",
+						"tags": [
+							"Dance night",
+							"University of Tartu",
+							"Game jam"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.2,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 0.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.6666666666666666
+				}
+			],
+			"event_finding_grade": 1.0
+		}
+	]
+}

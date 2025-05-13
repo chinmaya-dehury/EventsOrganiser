@@ -1,0 +1,73 @@
+comment
+!<-=->!
+Tag1; Tag2; Tag3
+!<-=->!
+kaur.soomets@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AABNmDsg\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AABNvN1VAAA=",
+    "createdDateTime": "2022-12-12T08:25:33Z",
+    "lastModifiedDateTime": "2022-12-12T08:25:35Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AABNmDsg",
+    "categories": [],
+    "receivedDateTime": "2022-12-12T08:25:34Z",
+    "sentDateTime": "2022-12-12T08:25:32Z",
+    "hasAttachments": false,
+    "internetMessageId": "<AC.5E.20301.C75E6936@berta.it.da.ut.ee>",
+    "subject": "Sissejuhatus erialasse viimane nädal",
+    "bodyPreview": "Lugupeetud tudengid,\r\nsel nädalal toimuvad aine Sissejuhatus erialasse viimased seminarid. Seminari alguses teeme tehniliste oskuste testi ja seminari teine pool on täidetud semestrit kokku võtvate mängulisemate tegevustega.\r\n\r\nTule kindlasti, isegi (ja e",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQABLLsGk7u99ChnEJDCr7ZSk=",
+    "conversationIndex": "AQHZDgNNEsuwaTu730KGcQkMKvtlKQ==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AABNvN1VAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Lugupeetud tudengid,\r\nsel nädalal toimuvad aine Sissejuhatus erialasse viimased seminarid. Seminari alguses teeme tehniliste oskuste testi ja seminari teine pool on täidetud semestrit kokku võtvate mängulisemate tegevustega.\r\n\r\nTule kindlasti, isegi (ja eriti) siis, kui sa pole ammu seminari jõudnud. Tehniliste oskuste testi saab uuesti teha lõputesti ajal.\r\n\r\n\r\nKõik head\r\nAndrus\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Andrus Kivirähk ",
+            "address": "andrus.kivirahk@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Andrus Kivirähk ",
+            "address": "andrus.kivirahk@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Kaur Soomets",
+                "address": "kaur.soomets@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "",
+        "start_date": "",
+        "end_date": "",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": []
+    }
+]

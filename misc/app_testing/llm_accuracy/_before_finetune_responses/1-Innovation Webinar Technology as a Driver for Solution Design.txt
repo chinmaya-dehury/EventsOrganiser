@@ -1,0 +1,150 @@
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAHzpIOO\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAH0GPUVAAA=",
+    "createdDateTime": "2024-09-12T10:33:11Z",
+    "lastModifiedDateTime": "2024-09-12T19:38:31Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAHzpIOO",
+    "categories": [],
+    "receivedDateTime": "2024-09-12T10:33:13Z",
+    "sentDateTime": "2024-09-12T10:32:46Z",
+    "hasAttachments": false,
+    "internetMessageId": "<AM0PR02MB3778FC4CBF6D60F9E701D776F9642@AM0PR02MB3778.eurprd02.prod.outlook.com>",
+    "subject": "[ltt tudengid:408] Innovation Webinar: Technology as a Driver for Solution Design 16-17.09.2024",
+    "bodyPreview": "Are you ready to explore the future of manufacturing? Join us on 16 and 17 September for an insightful webinar hosted by the University of Tartu and EIT Manufacturing Doctoral School. This event is a must-attend for anyone interested in the latest trends ",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAMqbeuiJV_RNuhap88mExOE=",
+    "conversationIndex": "AQHa/2zBypt66IlX5E26FqnzyYTE4bJTp7zAgABXduI=",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAH0GPUVAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Are you ready to explore the future of manufacturing? Join us on 16 and 17 September for an insightful webinar hosted by the University of Tartu and EIT Manufacturing Doctoral School. This event is a must-attend for anyone interested in the latest trends and innovations in the manufacturing industry.\r\nWhat’s in it for you?\r\n\r\n  *   Unlock the Power of Data Analytics & AI: Learn how these technologies are revolutionizing solution design.\r\n  *   Master Design Thinking: Discover how to create user-centric products with a design-thinking approach.\r\n  *   Real-World Problem Solving: Gain hands-on experience in designing technology-driven solutions for real manufacturing challenges.\r\n\r\n[cid:b5c0473d-7a10-4723-ba5d-cbb08c72d35d]\r\nMore information and enroll here: https://www.eitmanufacturing.eu/what-we-do/education/education-programmes/manufacturing-innovation-webinars/technology-as-a-driver-for-solution-design/\r\nWe look forward to your participation!\r\n\r\nVeronika Lehtmets\r\n\r\nSpecialist of Marketing and Communication\r\n\r\nInstitute of Technology\r\n\r\nUniversity of Tartu\r\n\r\n+372 712 9917\r\n\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "ltt.tudengid-request@lists.ut.ee",
+            "address": "ltt.tudengid-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Steven Ogg",
+            "address": "ltt.tudengid@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+	"Webinar",
+	"Manufacturing",
+	"University of Tartu",
+	"Psychology",
+	"Mental health",
+	"Film screening",
+	"UI/UX workshop",
+	"Community service",
+	"Tech talk",
+	"Robotics",
+	"Engineering",
+	"Art exhibition",
+	"Dance night"
+]
+!<-=->!
+[
+	{
+		"event_name": "[REGISTRATION REQUIRED] Webinar - Technology as a Driver for Solution Design",
+		"start_date": "2024-09-16T00:00:00",
+		"end_date": "2024-09-17T23:59:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Webinar",
+			"Manufacturing",
+			"University of Tartu"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "Innovation Webinar: Technology as a Driver for Solution Design",
+		"start_date": "2024-09-16T00:00:00+00:00",
+		"end_date": "2024-09-17T23:59:59+00:00",
+		"country": "Estonia",
+		"city": "Tartu",
+		"address": "University of Tartu, Institute of Technology",
+		"room": "",
+		"tags": [
+			"Webinar",
+			"Manufacturing",
+			"University of Tartu",
+			"Engineering",
+			"Tech talk"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "Innovation Webinar: Technology as a Driver for Solution Design",
+		"start_date": "2024-09-16T00:00:00+00:00",
+		"end_date": "2024-09-17T23:59:59+00:00",
+		"country": "Estonia",
+		"city": "Tartu",
+		"address": "University of Tartu, Institute of Technology",
+		"room": "",
+		"tags": [
+			"Webinar",
+			"Manufacturing",
+			"Tech talk",
+			"University of Tartu",
+			"Engineering"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "Innovation Webinar: Technology as a Driver for Solution Design",
+		"start_date": "2024-09-16T00:00:00+02:00",
+		"end_date": "2024-09-17T23:59:59+02:00",
+		"country": "Estonia",
+		"city": "Tartu",
+		"address": "University of Tartu, Institute of Technology",
+		"room": "Not specified",
+		"tags": [
+			"Webinar",
+			"Manufacturing",
+			"Tech talk",
+			"University of Tartu"
+		]
+	}
+]

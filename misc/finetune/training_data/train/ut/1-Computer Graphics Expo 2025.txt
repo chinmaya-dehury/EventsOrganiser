@@ -1,0 +1,84 @@
+in both Estonian and English;
+the LLM should realize that even though the email has two dates, they refer to the same event
+whether LLM outputs text in English or Estonian is probably undefined, English is used in the response
+!<-=->!
+Computer Graphics; Exhibit
+!<-=->!
+onne.opilane@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJLcUae\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJLq2ZCAAA=",
+    "createdDateTime": "2025-01-21T12:11:21Z",
+    "lastModifiedDateTime": "2025-01-22T05:14:02Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJLcUae",
+    "categories": [],
+    "receivedDateTime": "2025-01-21T12:11:23Z",
+    "sentDateTime": "2025-01-21T12:06:39Z",
+    "hasAttachments": false,
+    "internetMessageId": "<AS8PR02MB10108B6FEDFC45237C3A8670DF6E62@AS8PR02MB10108.eurprd02.prod.outlook.com>",
+    "subject": "[cs.student:1097] Computer Graphics Expo 2025",
+    "bodyPreview": "/English below/\r\nHead tudengid,\r\n\r\nOled kunagi mõelnud, milline maagia peitub arvutigraafika taga – nii loengutes kui ka suurtes tehnoloogiaettevõtetes? 🤔 Nüüd on Sul võimalus see ise avastada!\r\nOotame Sind Computer Graphics Expo 2025-le, kus saad kogeda",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAPSC5dqYTnJIunIKm-AX89U=",
+    "conversationIndex": "AQHba/zC9ILl2phOcki6cgqb8Bfz1Q==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJLq2ZCAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "/English below/\r\nHead tudengid,\r\n\r\nOled kunagi mõelnud, milline maagia peitub arvutigraafika taga – nii loengutes kui ka suurtes tehnoloogiaettevõtetes? 🤔 Nüüd on Sul võimalus see ise avastada!\r\nOotame Sind Computer Graphics Expo 2025-le, kus saad kogeda uusimaid innovatsioone mängude 🎮, virtuaalreaalsuse 🕶️, loovtööriistade 🎨 ja teistes valdkondades!\r\n\r\n📆 Kuupäev: 24. jaanuar 2025\r\n⏰ Aeg: 13:00 – 17:00\r\n📍 Asukoht: Delta maja, 2. korruse koridor & ruumid 2006 – 2007\r\n\r\nMiks tulla?\r\n✅ Kohtu ettevõtetega ja avasta ka teisigi karjäärivõimalusi.\r\n✅ Mängi põnevaid mänge ja proovi simulatsioone.\r\n✅ Tutvu tudengiprojektidega ja näe uusimaid arvutigraafika lahendusi.\r\n\r\nKohtumiseni!\r\n--\r\n\r\nDear students,\r\n\r\nHave you ever wondered about the wizardry behind computer graphics — whether in the classroom or at industry giants? 🤔 Now’s your chance to explore the magic firsthand!\r\n\r\nWe are thrilled to invite you to the Computer Graphics Expo 2025 at the University of Tartu, where cutting-edge innovations in gaming 🎮, virtual reality 🕶️, creative tools 🎨, and more come to life!\r\n\r\n📆 Date: January 24, 2025\r\n⏰ Time: 13:00 – 17:00\r\n📍 Venue: Delta Building, 2nd Floor Hallway & Rooms 2006 – 2007\r\n\r\nAt this expo, you will:\r\n✅ Engage with industry professionals and discover more career opportunities.\r\n✅ Play exciting games and experience immersive simulations.\r\n✅ Explore student projects showcasing the latest in computer graphics.\r\n\r\nWe look forward to seeing you there.\r\n\r\n\r\n[cid:b6d95b5f-6c66-46bd-b1ca-d0c412a4c913]\r\n\r\nBest regards,\r\nKevin Oja\r\n\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "cs.student-request@lists.ut.ee",
+            "address": "cs.student-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Kevin Oja",
+            "address": "cs.student@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "Computer Graphics Expo 2025",
+        "start_date": "2025-01-24T13:00:00",
+        "end_date": "2025-01-24T17:00:00",
+        "country": "Estonia",
+        "city": "Tartu",
+        "address": "Narva mnt 18 (Delta Centre)",
+        "room": "2nd floor, rooms 2006 - 2007",
+        "tags": [
+            "Computer Graphics", "Exhibit"
+        ]
+    }
+]

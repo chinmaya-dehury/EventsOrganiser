@@ -1,0 +1,136 @@
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAGas9Wd\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAGbIYp9AAA=",
+    "createdDateTime": "2024-04-29T10:21:00Z",
+    "lastModifiedDateTime": "2024-04-29T10:21:02Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAGas9Wd",
+    "categories": [],
+    "receivedDateTime": "2024-04-29T10:21:00Z",
+    "sentDateTime": "2024-04-29T10:20:58Z",
+    "hasAttachments": false,
+    "internetMessageId": "<is.173A988C1983B0A3E0630100007FC6B8@ut.ee>",
+    "subject": "Ära lase oma häält raisku!",
+    "bodyPreview": "English below\r\n\r\nHea kaasüliõpilane\r\n\r\nPaneme koos tudengi hääle kõlama!\r\nKäes on üliõpilasdemokraatia pidupäevad ehk üliõpilasesindajate üldvalimised! Kuni teisipäeva südaööni (30.04 kell 23.59) saad just Sina otsustada, kellest saavad 2024/25 õppeaastal",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAH96ouxVY0RCg7-FQn9RMT8=",
+    "conversationIndex": "AQHamh7uf3qi7FVjREKDv8VCf1ExPw==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAGbIYp9AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Hea kaasüliõpilane\r\n\r\nPaneme koos tudengi hääle kõlama!\r\nKäes on üliõpilasdemokraatia pidupäevad ehk üliõpilasesindajate üldvalimised! Kuni teisipäeva südaööni (30.04 kell 23.59) saad just Sina otsustada, kellest saavad 2024/25 õppeaastal üliõpilasesindajad instituutide ja valdkondade nõukogudes.\r\nNB! Valdkondade esindajatest moodustub ka TÜ üliõpilaskonna kõrgeim otsustuskogu ehk volikogu!\r\n\r\nKõigis neljas valdkonnas on konkurents tihe, nii et iga hääl on ülioluline. \r\n\r\nTutvu kandidaatide ja nende lubadustega: https://tyye.ut.ee/et/tyye_kandidaadid \r\nAnna oma hääl: https://valimised.ut.ee/elections/tyye24/ kuni 30.04 kell 23:59.\r\n\r\nPalun tuleta ka oma kursakaaslastele meelde nende õigust ja kohustust valida oma üliõpilasesindajad!\r\n\r\nTervitades \r\nRivo Kozlov\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Rivo Kozlov ",
+            "address": "rivo.kozlov@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Rivo Kozlov ",
+            "address": "rivo.kozlov@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Greete-Liis Luik",
+                "address": "greete-liis.luik@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+	"Elections",
+	"Student union",
+	"University of Tartu",
+	"Business Pitch",
+	"Internship",
+	"Lecture",
+	"Hackathon",
+	"Scholarship",
+	"AI ethics",
+	"Cybersecurity"
+]
+!<-=->!
+[
+	{
+		"event_name": "\u00dcli\u00f5pilasesindajate \u00fcldvalimiste t\u00e4htaeg",
+		"start_date": null,
+		"end_date": "2024-04-30T23:59:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"University of Tartu",
+			"Elections",
+			"Student union"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "\u00dcli\u00f5pilasesindajate \u00fcldvalimised",
+		"start_date": "2024-04-30T00:00:00+00:00",
+		"end_date": "2024-04-30T23:59:59+00:00",
+		"country": "Estonia",
+		"city": "",
+		"address": "",
+		"room": "tags",
+		"tags": [
+			"Student union",
+			"University of Tartu",
+			"Elections"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "\u00dcli\u00f5pilasesindajate\u00f0\u00f5\u00f5p\u00f5evad",
+		"start_date": "2024-04-30T00:00:00Z",
+		"end_date": "2024-04-30T23:59:00Z",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Student union",
+			"Elections",
+			"University of Tartu",
+			"Student union"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "\u00dcli\u00f5pilasesindajate \u00fcldvalimised",
+		"start_date": "2024-04-30T00:00:00+00:00",
+		"end_date": "2024-04-30T23:59:00+00:00",
+		"country": "Estonia",
+		"city": "Tartu",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Student union",
+			"University of Tartu",
+			"Elections"
+		]
+	}
+]

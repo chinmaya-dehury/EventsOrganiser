@@ -1,0 +1,63 @@
+in Estonian;
+no events since there aren't any dates to work with
+!<-=->!
+Tag1; Tag2; Tag3
+!<-=->!
+elmo.sepp@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AABhcsp2\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AABhmfv-AAA=",
+    "createdDateTime": "2023-01-17T10:05:56Z",
+    "lastModifiedDateTime": "2023-01-17T10:06:07Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AABhcsp2",
+    "categories": [],
+    "receivedDateTime": "2023-01-17T10:05:56Z",
+    "sentDateTime": "2023-01-17T10:05:55Z",
+    "hasAttachments": false,
+    "internetMessageId": "<BD.B4.24448.30376C36@frida.it.da.ut.ee>",
+    "subject": "Kuidas see sulle oli? Sissejuhatus erialasse",
+    "bodyPreview": "Tere,\r\nma ei tea, kas sa teadsid, aga ainet Sissejuhatus erialasse arendatakse ja parendatakse igal aastal. Üks oluline sisend õppeaine paremaks tegemisel on tagasiside tudengitelt. \r\nMa tean, et pidid semestri jooksul täitma palju küsimustikke ja võib-ol",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQALkjqkD86WxGlPTyn5h8zWg=",
+    "conversationIndex": "AQHZKltKuSOqQPzpbEaU9PKfmHzNaA==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AABhmfv%2FAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Tere,\r\nma ei tea, kas sa teadsid, aga ainet Sissejuhatus erialasse arendatakse ja parendatakse igal aastal. Üks oluline sisend õppeaine paremaks tegemisel on tagasiside tudengitelt. \r\nMa tean, et pidid semestri jooksul täitma palju küsimustikke ja võib-olla oled nendest juba väsinud. Ja seetõttu hindan ma eriti kõrgelt, et leiad siiski mõned minutid ja annad ainele tagasisidet õppeinfosüsteemis. \r\n\r\nTagasisidet on vaja nii nendele asjadele aines, mis sind ei kõnetanud või lausa häirisid. Aga sama oluline on, et saad märku anda sellest, mis sind toetas ja sulle just sobis.\r\n\r\nÕppeainetele tagasiside andmiseks logi sisse https://ois2.ut.ee/ ja kohe töölaual paremal on näha Õppeaine tagasiside.\r\n\r\n\r\nAitäh\r\nNikola \r\n\r\nP.S. Ma olen kuulnud, et tagasiside andmine on ka Hingele Hea\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Nikola Kovač",
+            "address": "nikola.kovac@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Nikola Kovač",
+            "address": "nikola.kovac@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Madis Kõivopuu",
+                "address": "madis.koivopuu@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[]

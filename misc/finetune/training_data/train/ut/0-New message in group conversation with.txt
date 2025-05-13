@@ -1,0 +1,69 @@
+in English; no events
+!<-=->!
+
+!<-=->!
+karlis.karu@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAEUQYdn\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAEUmAx8AAA=",
+    "createdDateTime": "2023-10-10T15:33:05Z",
+    "lastModifiedDateTime": "2023-10-10T15:38:23Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAEUQYdn",
+    "categories": [],
+    "receivedDateTime": "2023-10-10T15:33:06Z",
+    "sentDateTime": "2023-10-10T15:32:58Z",
+    "hasAttachments": false,
+    "internetMessageId": "<0101018b1a38496d-d0db6894-f030-48df-8891-cebf4ec7a19e-000000@us-west-2.amazonses.com>",
+    "subject": "[Slack] New message in group conversation with Aleksandr Ivanovich, Sander Peterson, and others",
+    "bodyPreview": "You have a new mention in WAD 2023-2024 (slack-sbk1183.slack.com)\r\nFrom your conversation with Aleksandr Ivanovich, Sander Peterson and Markus\r\nMarkus   October 10th at 6:28 PM\r\nHi! The link to our repo is https://github.com/lazzzlo1/WAD_HW1.git Team BM. W",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAOdAPf50yB9Pqqt6-gJeIF8=",
+    "conversationIndex": "AQHZ+48Q50A9/nTIH0+qq3r+Al4gXw==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAEUmAx8AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "[slack logo]\r\nYou have a new mention in WAD 2023-2024 (slack-sbk1183.slack.com)<https://slack-sbk1183.slack.com/x-p5656355336742-5823323470423-6020161350036/>\r\nFrom your conversation with Aleksandr Ivanovich, Sander Peterson and Markus<https://slack-sbk1183.slack.com/x-p5656355336742-5823323470423-6020161350036/archives/C0616KDQ13J/p1696951680788409>\r\n[https://secure.gravatar.com/avatar/30c59b1a9ae87c430015b85d7f80f2ae.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png]<https://slack-sbk1183.slack.com/x-p5656355336742-5823323470423-6020161350036/messages/C0616KDQ13J/team/U05RYKHE86S>\r\nMarkus<https://slack-sbk1183.slack.com/x-p5656355336742-5823323470423-6020161350036/messages/C0616KDQ13J/team/U05RYKHE86S>   October 10th at 6:28 PM<https://slack-sbk1183.slack.com/x-p5656355336742-5823323470423-6020161350036/archives/C0616KDQ13J/p1696951680788409>\r\nHi! The link to our repo is https://github.com/madiskoivopuu/WAD_HW1.git Team BM. We already submitted it on moodle.\r\nOpen in Slack<https://slack-sbk1183.slack.com/x-p5656355336742-5823323470423-6020161350036/archives/C0616KDQ13J/p1696951680788409>\r\nReply<mailto:Slack%20<eb-T05KAAF9WMU-U05Q79HDUCF-abs7nd2dw4uiqeepznwyyi356q@slack-mail.com>?subject=Reply%20to%20Markus>\r\n[https://a.slack-edge.com/d51da/img/email/bell_white_background@2x.png]\r\nManage your notifications\r\n\r\nSnooze them for an hour<https://slack-sbk1183.slack.com/unsub/U05Q79HDUCF-da5496be5844375de8c12ec5d748a01124fd453051251eb87939c2826eef814d-notify-mute-1h>, eight hours<https://slack-sbk1183.slack.com/unsub/U05Q79HDUCF-352360e8b8dfe60be0256d8000702623dd89186bf8e7ac22b63ea9e0be146826-notify-mute-8h>, a day<https://slack-sbk1183.slack.com/unsub/U05Q79HDUCF-712eb589c769a072d175afabc25b8185afed1648f58c224c84d10407b56055ac-notify-mute-1d>, three days<https://slack-sbk1183.slack.com/unsub/U05Q79HDUCF-42c799f6b6fa8db9be6257c62272a2dddeed2e3f27d458431d766518daffd905-notify-mute-3d>, or the next week<https://slack-sbk1183.slack.com/unsub/U05Q79HDUCF-6ddf5ec3d3c06dc4495252aa725826c5c75c5f604d3ab338b4619a6abdb79b4b-notify-mute-7d>. Or, turn email notifications off<https://slack-sbk1183.slack.com/x-p5656355336742-5823323470423-6020161350036/unsub/U05Q79HDUCF-f66977bf624fbc27da0aac2ff9b179f2718022c8ae4d787e22385f291a60f61f-notify>. For more detailed preferences, see your account page<https://slack-sbk1183.slack.com/x-p5656355336742-5823323470423-6020161350036/account/notifications>.\r\n\r\nW<https://slack-sbk1183.slack.com/x-p5656355336742-5823323470423-6020161350036/signin>\r\nWorkspace name: WAD 2023-2024\r\nWAD 2023-2024\r\nWorkspace URL: slack-sbk1183.slack.com\r\nEmail: karlis.karu@ut.ee\r\nSign In<https://slack-sbk1183.slack.com/x-p5656355336742-5823323470423-6020161350036/signin>\r\n[slack logo]    [https://a.slack-edge.com/b8be608/marketing/img/icons/icon_colored_twitter.png] <https://twitter.com/slackhq> [https://a.slack-edge.com/b8be608/marketing/img/icons/icon_colored_facebook.png] <https://facebook.com/slackhq> [https://a.slack-edge.com/b8be608/marketing/img/icons/icon_colored_linkedin.png] <https://www.linkedin.com/company/tiny-spec-inc/>\r\nOur Blog<https://slackhq.com>   |   Policies<https://slack.com/legal>   |   Help Center<https://slack.com/help>   |   Slack Community<https://slack.com/community>\r\n\r\n©2023 Slack Technologies, LLC, a Salesforce company.\r\n415 Mission Street, San Francisco, CA 94105\r\n\r\nAll rights reserved.\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Slack",
+            "address": "notification@slack.com"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Slack",
+            "address": "notification@slack.com"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Karlis Karu",
+                "address": "karlis.karu@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "Slack",
+                "address": "eb-T05KAAF9WMU-U05Q79HDUCF-abs7nd2dw4uiqeepznwyyi356q@slack-mail.com"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[]

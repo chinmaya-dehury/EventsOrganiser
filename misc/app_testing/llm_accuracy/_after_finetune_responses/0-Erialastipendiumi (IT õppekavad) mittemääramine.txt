@@ -1,0 +1,203 @@
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJzDb8w\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJzmpq3AAA=",
+    "createdDateTime": "2025-03-25T01:30:22Z",
+    "lastModifiedDateTime": "2025-03-25T05:42:46Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJzDb8w",
+    "categories": [],
+    "receivedDateTime": "2025-03-25T01:30:26Z",
+    "sentDateTime": "2025-03-25T01:30:17Z",
+    "hasAttachments": false,
+    "internetMessageId": "<is.3121A8BF9A968ABFE0630100007F4D1B@ut.ee>",
+    "subject": "Erialastipendiumi (IT õppekavad) mittemääramine",
+    "bodyPreview": "Olete käesoleval semestril esitanud taotluse erialastipendiumi saamiseks. Teavitame, et sellel semestril teile erialastipendiumi ei määratud. Stipendiumi mitte määramise kohta saate täpsemat infot oma valdkonna dekanaadist. Taotlusvoorud on ÕISis taas ava",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAG-IuKlXkVxHrlKCE0pBolM=",
+    "conversationIndex": "AQHbnSV5b8i4qVeRXEeuUoITSkGiUw==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJzmpq3AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Olete käesoleval semestril esitanud taotluse erialastipendiumi saamiseks. Teavitame, et sellel semestril teile erialastipendiumi ei määratud. Stipendiumi mitte määramise kohta saate täpsemat infot oma valdkonna dekanaadist. Taotlusvoorud on ÕISis taas avatud iga aasta septembris ja veebruaris.\r\nTäiendav informatsioon: https://www.ut.ee/et/sisu/infotehnoloogia-oppekavade-sihttoetusest-rahastatav-erialastipendium\r\n\r\nLugupidamisega\r\nTÜ õppeosakond\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "noustaja@ut.ee",
+            "address": "noustaja@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "noustaja@ut.ee",
+            "address": "noustaja@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Mihai Ivan",
+                "address": "mihai.ivan@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+	"Conference",
+	"Workshop",
+	"Registration",
+	"Data science",
+	"Lecture",
+	"Summer school",
+	"Webinar",
+	"Internship",
+	"Physical exercise",
+	"Coding bootcamp",
+	"Psychology",
+	"Digital marketing",
+	"Walking",
+	"Cybersecurity",
+	"Birthday",
+	"Debate",
+	"Power World",
+	"Student union",
+	"Mental health",
+	"Scholarship",
+	"Business Pitch",
+	"Astronomy",
+	"Party",
+	"Volunteering",
+	"Briefing",
+	"Game night",
+	"Autonomous driving",
+	"Fundraiser",
+	"Demo day",
+	"Chemistry",
+	"Poster session",
+	"Systems science",
+	"University of Tartu",
+	"Engineering",
+	"Book club",
+	"Spring school",
+	"Abstract art",
+	"AI",
+	"Survey",
+	"Coaching",
+	"Quiz",
+	"Art exhibition",
+	"Film screening",
+	"Robotics",
+	"Student council",
+	"Elections",
+	"Urban mobility",
+	"Deadline",
+	"Gymnasium teaching",
+	"Math",
+	"Thesis defense",
+	"Technology",
+	"Painting",
+	"Dance night",
+	"Debate club",
+	"Running",
+	"Sports",
+	"Master's degree",
+	"Hackathon",
+	"Manufacturing",
+	"UI/UX workshop",
+	"Music performance",
+	"Networking",
+	"Enron",
+	"Jogging",
+	"Powerlifting",
+	"Career day",
+	"Sustainability",
+	"Philosophy",
+	"Community service",
+	"Drawing",
+	"Mentoring",
+	"Game jam",
+	"Biology",
+	"Competition",
+	"AI ethics",
+	"Application",
+	"Climate workshop",
+	"Movie",
+	"Finance",
+	"Training",
+	"Music lessons",
+	"Presentation",
+	"Habits",
+	"Olympiad",
+	"Biotech",
+	"Stipend",
+	"Convention",
+	"Tech talk",
+	"Dance club",
+	"Medicine"
+]
+!<-=->!
+[]
+!<-=->!
+[
+	{
+		"event_name": "",
+		"start_date": "",
+		"end_date": "2025-03-25T23:59:17",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": []
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "",
+		"start_date": "",
+		"end_date": "2025-03-25T23:59:17",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Training"
+		]
+	},
+	{
+		"event_name": "",
+		"start_date": "",
+		"end_date": "2025-03-25T23:59:17",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Registration"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "",
+		"start_date": null,
+		"end_date": "2025-03-25T23:59:17",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": []
+	}
+]

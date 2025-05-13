@@ -1,0 +1,84 @@
+in Estonian; has events
+
+end date is probably undefined for the LLM and might be random, I used previous year's end date
+!<-=->!
+Party; Festival; University of Tartu; Natural Sciences; Conference; Deadline; Linkedin; Marketing; Discount notification; Gaming;
+!<-=->!
+jesper.karkor@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJzDWs7\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJzmpq0AAA=",
+    "createdDateTime": "2025-03-24T14:17:01Z",
+    "lastModifiedDateTime": "2025-03-24T15:39:32Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJzDWs7",
+    "categories": [],
+    "receivedDateTime": "2025-03-24T14:17:01Z",
+    "sentDateTime": "2025-03-24T14:16:46Z",
+    "hasAttachments": false,
+    "internetMessageId": "<AS2PR02MB8839782D8AF6379BE22E418BF9A42@AS2PR02MB8839.eurprd02.prod.outlook.com>",
+    "subject": "[ltt tudengid:434] Tudengikonverents: Tehnoloogia ja loodus - harmoonia tuleviku nimel! 4. aprillil",
+    "bodyPreview": "Registreeri end siin\r\n\r\n\r\nLoodus- ja täppisteaduste valdkonna tudengikonverents tuleb taas!\r\n\r\nKonverents toimub 4. aprillil 2025 algusega 10.15 Omicumis ruumis 105.\r\n\r\nTänavuse tudengikonverentsi läbivaks teemaks on looduse ja tehnoloogia vahelise jätkus",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAD_ynzr0XUG3mUQmjoD8KN4=",
+    "conversationIndex": "AducxzgaP7KfOvRdQbeZRCaOgPwo3g==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJzmpq0AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Registreeri end siin<https://forms.gle/a89kdN78FjsJNHFD9fhdu>\r\n\r\n[LT tudengikonverents 2025]\r\n\r\nLoodus- ja täppisteaduste valdkonna tudengikonverents tuleb taas!\r\n\r\nKonverents toimub 4. aprillil 2025 algusega 10.15 Omicumis ruumis 105.\r\n\r\nTänavuse tudengikonverentsi läbivaks teemaks on looduse ja tehnoloogia vahelise jätkusuutliku tasakaalu tagamine. Aina enam liigume suunas, kus kogu elu elementaarsused sõltuvad tehnoloogiast ning looduse arvelt püüeldakse uute mugavuste poole. Samas tõuseb üha rohkem ka teadlikkus looduse hoidmise ja säilitamise osas. Seepärast oleme konverentsi fookuseks võtnud looduse ja tehnoloogia vahelise tasakaalu leidmise ja säilitamise.\r\n\r\nTudengikonverents on mõeldud kõikidele LTT valdkonna üliõpilastele ning inimestele, kes on huvitatud loodusest, tehnoloogiast ja nendevahelisest harmooniast.\r\nEsinejateks on LTT tudengid, kes jagavad enda teadustöö kirjutamise käigus omandatud teadmisi, seega ei tasu karta terminoloogilist arusaamatust või liigset keerukust.\r\n\r\nKonverentsil osalejaid ootab ka kosutav kõhutäis. Selleks, et teaksime sinuga arvestada, registreeri end siin<https://forms.gle/a89kdN78FjsJNHFD9fhdu>.\r\n\r\nNäeme juba varsti!\r\n\r\nVaata ka FB üritust<https://www.facebook.com/events/1103823758342567834>.\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "ltt.tudengid-request@lists.ut.ee",
+            "address": "ltt.tudengid-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Joonas Mäestu",
+            "address": "ltt.tudengid@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "[VAJA REGISTREERIDA]",
+        "start_date": "2025-04-04T10:15:00",
+        "end_date": "2025-04-04T16:00:00",
+        "country": "Eesti",
+        "city": "Tartu",
+        "address": "Riia tn 23b (Omicum)",
+        "room": "ruum 105",
+        "tags": [
+            "University of Tartu", "Conference", "Natural sciences"
+        ]
+    }
+]

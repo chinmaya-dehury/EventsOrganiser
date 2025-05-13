@@ -1,0 +1,154 @@
+{
+	"expected_response": [
+		{
+			"event_name": "[RESERVATION NEEDED] Enron's financial wellness workshop",
+			"start_date": "2000-10-24T11:30:00",
+			"end_date": "2000-10-24T12:30:00",
+			"country": "United States",
+			"city": "Houston",
+			"address": "400 Dallas Street",
+			"room": "LaSalle A room",
+			"tags": [
+				"Finance",
+				"Workshop",
+				"Enron"
+			]
+		}
+	],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "Financial Wellness Workshop - #5 Estate Plans",
+					"start_date": "2001-10-24T11:30:00+00:00",
+					"end_date": "2001-10-24T12:30:00+00:00",
+					"country": "United States",
+					"city": "Houston",
+					"address": "Doubletree - Allen Center (LaSalle A Room)",
+					"room": "LaSalle A",
+					"tags": [
+						"Workshop",
+						"Enron"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Financial Wellness Workshop - #5 Estate Plans",
+						"start_date": "2001-10-24T11:30:00+00:00",
+						"end_date": "2001-10-24T12:30:00+00:00",
+						"country": "United States",
+						"city": "Houston",
+						"address": "Doubletree - Allen Center (LaSalle A Room)",
+						"room": "LaSalle A",
+						"tags": [
+							"Workshop",
+							"Enron"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.8,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 0.5,
+					"room_grade": 1.0,
+					"categories_grade": 0.6666666666666666
+				}
+			],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Financial Wellness Workshop - #5 Estate Plans",
+					"start_date": "2001-10-24T11:30:00-07:00",
+					"end_date": "2001-10-24T12:30:00-07:00",
+					"country": "United States",
+					"city": "Houston",
+					"address": "Doubletree - Allen Center (LaSalle A Room)",
+					"room": "LaSalle A Room",
+					"tags": [
+						"Workshop",
+						"Enron",
+						"Enron"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Financial Wellness Workshop - #5 Estate Plans",
+						"start_date": "2001-10-24T11:30:00-07:00",
+						"end_date": "2001-10-24T12:30:00-07:00",
+						"country": "United States",
+						"city": "Houston",
+						"address": "Doubletree - Allen Center (LaSalle A Room)",
+						"room": "LaSalle A Room",
+						"tags": [
+							"Workshop",
+							"Enron",
+							"Enron"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.8,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 0.5,
+					"room_grade": 1.0,
+					"categories_grade": 0.6666666666666666
+				}
+			],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Financial Wellness Workshop - #5 Estate Plans",
+					"start_date": "2001-10-24T11:30:00",
+					"end_date": "2001-10-24T23:59:00",
+					"country": "United States",
+					"city": "Houston",
+					"address": "Doubletree - Allen Center (LaSalle A Room)",
+					"room": "LaSalle A",
+					"tags": [
+						"Workshop",
+						"Enron"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Financial Wellness Workshop - #5 Estate Plans",
+						"start_date": "2001-10-24T11:30:00",
+						"end_date": "2001-10-24T23:59:00",
+						"country": "United States",
+						"city": "Houston",
+						"address": "Doubletree - Allen Center (LaSalle A Room)",
+						"room": "LaSalle A",
+						"tags": [
+							"Workshop",
+							"Enron"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.8,
+					"start_date_grade": 1.0,
+					"end_date_grade": 0.66666666,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 0.5,
+					"room_grade": 1.0,
+					"categories_grade": 0.6666666
+				}
+			],
+			"event_finding_grade": 1.0
+		}
+	]
+}

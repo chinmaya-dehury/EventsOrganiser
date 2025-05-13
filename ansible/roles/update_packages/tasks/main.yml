@@ -1,0 +1,17 @@
+- name: Update and upgrade apt packages
+  become: true
+  apt:
+    upgrade: yes
+    update_cache: yes
+    cache_valid_time: 86400
+    autoremove: true
+
+- name: Check if reboot required
+  stat:
+    path: /var/run/reboot-required
+  register: reboot_required_file
+  ignore_errors: yes
+  failed_when: false
+  changed_when: reboot_required_file.stat.exists == true
+  notify:
+  - Reboot server

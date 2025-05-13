@@ -1,0 +1,67 @@
+{
+	"expected_response": [],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "Praktikumide esitused ja hinded",
+					"start_date": "2023-10-20T12:15:14+02:00",
+					"end_date": "2023-10-20T23:59:59+02:00",
+					"country": "Eesti",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Presentation",
+						"Habits",
+						"Deadline",
+						"Training"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Praktikumide esitused ja hinded",
+					"start_date": "2023-10-20T12:15:14",
+					"end_date": "2023-10-20T23:59:00",
+					"country": "Eesti",
+					"city": "Tartu",
+					"address": "Tartu \u00dclikool, arvutiteaduse instituut, hajuss\u00fcsteemide nooremlektor",
+					"room": "",
+					"tags": [
+						"Presentation",
+						"Presentation"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Praktikumide esitused ja hinded",
+					"start_date": "2023-10-20T12:15:14",
+					"end_date": "2023-10-20T23:59:00",
+					"country": "Eesti",
+					"city": "Tartu",
+					"address": "Tartu \u00dclikool, arvutiteaduse instituut, hajuss\u00fcsteemide nooremlektor",
+					"room": "",
+					"tags": [
+						"Presentation",
+						"Presentation",
+						"Presentation",
+						"Presentation",
+						"Presentation"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		}
+	]
+}

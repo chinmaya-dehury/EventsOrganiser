@@ -1,0 +1,69 @@
+in Estonian;
+!<-=->!
+
+!<-=->!
+elmo.sepp@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AABqpLRV\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AABqzqgqAAA=",
+    "createdDateTime": "2023-01-26T09:10:14Z",
+    "lastModifiedDateTime": "2023-01-26T09:15:31Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AABqpLRV",
+    "categories": [],
+    "receivedDateTime": "2023-01-26T09:10:15Z",
+    "sentDateTime": "2023-01-26T09:07:06Z",
+    "hasAttachments": false,
+    "internetMessageId": "<DBAPR02MB6374641477E36E4E4E41B28791CF9@DBAPR02MB6374.eurprd02.prod.outlook.com>",
+    "subject": "[ltt tudengid:300] Praktiline astronoomia kevadsemestril",
+    "bodyPreview": "Kevadsemestril toimub aine praktiline astronoomia!\r\n\r\n\r\nOsalema on oodatud kõik tudengid igast õppeastmest, kel on huvi astronoomia tehnika, vaatlusmeetodite ja astronoomiliste andmete analüüsi vastu!\r\n\r\n\r\nKursusel saate teada, millistel põhimõtetel tööta",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAPZxvnX-v_dNjZQe5tdroeE=",
+    "conversationIndex": "AQHZMV719nG+df+/502NlB7m12uh4Q==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AABqzqgqAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Kevadsemestril toimub aine praktiline astronoomia!\r\n\r\n\r\nOsalema on oodatud kõik tudengid igast õppeastmest, kel on huvi astronoomia tehnika, vaatlusmeetodite ja astronoomiliste andmete analüüsi vastu!\r\n\r\n\r\nKursusel saate teada, millistel põhimõtetel töötavad erinevat tüüpi teleskoobid, kuidas planeerida ja teostada astronoomilisi vaatlusi ning kuidas vaatlusandmetest saada kätte infot uuritava objekti füüsikaliste omaduste kohta.\r\n\r\n\r\nKursusel osalejatel on võimalik ka ise teleskoopidega vaadelda.\r\n\r\n\r\nRohkem infot ÕIS-is: https://ois2.ut.ee/#/courses/LTTO.00.012\r\n\r\nPS! Kui ÕIS-is registreerimine ununeb, siis saab kursusele registreerida ka õppejõu abil!\r\n\r\nParimat\r\nLiisbet Kiipus\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "ltt.tudengid-request@lists.ut.ee",
+            "address": "ltt.tudengid-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Liisbet Kiipus",
+            "address": "ltt.tudengid@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[]

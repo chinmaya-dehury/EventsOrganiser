@@ -1,0 +1,94 @@
+in English; student conference about 
+!<-=->!
+Tallinn University; Conference; Deadline; Application; Climate; Party; Movie night; Cultural festival; Internship; Scholarship
+!<-=->!
+tuuli.tudeng@ut.ee
+!<-=->!
+{
+            "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJQUPP8\"",
+            "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJQ2UZ-AAA=",
+            "createdDateTime": "2025-01-31T08:02:31Z",
+            "lastModifiedDateTime": "2025-01-31T08:02:34Z",
+            "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJQUPP8",
+            "categories": [],
+            "receivedDateTime": "2025-01-31T08:02:32Z",
+            "sentDateTime": "2025-01-31T08:02:07Z",
+            "hasAttachments": false,
+            "internetMessageId": "<AS2PR02MB88391F4486177E4A7C096B8DF9E82@AS2PR02MB8839.eurprd02.prod.outlook.com>",
+            "subject": "[ltt tudengid:427] The BUP Student Conference 2025",
+            "bodyPreview": "The Baltic University Programme announces the\r\n\r\n\r\n\r\nThe BUP Student Conference 2025\r\n\r\n\r\n\r\nThe BUP's biggest annual student event is back. The BUP Student Conference 2025 is entitled 'Water and the Baltic City: Building Climate Resilience'. The conferenc",
+            "importance": "normal",
+            "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+            "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAFgcTkzF8UjHi3EKQKaUjjM=",
+            "conversationIndex": "AdtztlfGWBxOTMXxSMeLcQpAppSOMw==",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": true,
+            "isDraft": false,
+            "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJQ2UZ%2FAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "text",
+                "content": "The Baltic University Programme announces the\r\n\r\n\r\n\r\nThe BUP Student Conference 2025\r\n\r\n\r\n\r\nThe BUP's biggest annual student event is back. The BUP Student Conference 2025 is entitled 'Water and the Baltic City: Building Climate Resilience'. The conference takes place on 23-26 April in Tallinn, Estonia. The event is free of charge and open to bachelor and master students studying at BUP participating universities. At least 80 students will be selected to take part in the conference.\r\n\r\n\r\n\r\nThe Baltic University Programme’s Coordinating Secretariat at Uppsala University together with Tallinn University are co-organising the event.\r\n\r\nThis year’s theme explores the role of urban water systems in adapting to climate change challenges. Through keynote speeches, workshops, and field excursions in the historic city of Tallinn, the participants will learn about how water intersects with various disciplines such as urban planning, public health, ecology and public policy.\r\n\r\nStudents accepted to the conference will automatically become members of the Students' Parliament. The parliamentary session is a chance for all the students to run as a candidate as the BUP Student Representative to the BUP's International Board. It is a chance for participants to make their voices heard by submitting proposals, that if approved will be forwarded to the BUP International Board.\r\n\r\nThe learning objectives for the conference are:\r\n\r\n  *   Develop students’ expertise in interdisciplinary and intercultural communication.\r\n  *   Introduce and expand students’ skills in different academic activities; workshopping, discussions, moderating and presenting.\r\n  *   Reflect on the role of water in building climate resilience in urban environments, with a focus on cities in the Baltic Sea Region.\r\n  *   Encourage students to become problem-solving thinkers, with a view to the future and continuing a sustainable future/rebuilding.\r\n\r\nThe application deadline is 2 March.\r\n\r\n\r\n\r\nRead more about the event, such as the preliminary program, via the BUP website<https://www.uu.se/en/collaboration-innovation/the-baltic-university-programme/events-and-announcements/bup-student-conference-2025>.\r\n[Bodies of water in front of a distant cityscape.]\r\n\r\n\r\nPhoto: Marlene Leppänen\r\n\r\n[Apply]\r\n\r\n\r\n"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "ltt.tudengid-request@lists.ut.ee",
+                    "address": "ltt.tudengid-request@lists.ut.ee"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Toomas Lepik",
+                    "address": "ltt.tudengid@lists.ut.ee"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "ltt.tudengid@lists.ut.ee",
+                        "address": "ltt.tudengid@lists.ut.ee"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [
+                {
+                    "emailAddress": {
+                        "name": "ltt.tudengid@lists.ut.ee",
+                        "address": "ltt.tudengid@lists.ut.ee"
+                    }
+                }
+            ],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        }
+!<-=->!
+[
+    {
+        "event_name": "BUP Student Conference application deadline",
+        "start_date": null,
+        "end_date": "2025-03-02T00:00:00",
+        "country": "",
+        "city": "",
+        "address":  "",
+        "room": "",
+        "tags": [
+            "Deadline", "Application", "Tallinn University"
+        ]
+    },
+    {
+        "event_name": "BUP Student Conference",
+        "start_date": "2025-04-23T00:00:00",
+        "end_date": "2025-04-26T23:59:00",
+        "country": "Estonia",
+        "city": "Tallinn",
+        "address":  "",
+        "room": "",
+        "tags": [
+            "Tallinn University", "Conference", "Climate"
+        ]
+    }
+]

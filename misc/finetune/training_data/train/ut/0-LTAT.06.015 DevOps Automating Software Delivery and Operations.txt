@@ -1,0 +1,62 @@
+in English;
+!<-=->!
+
+!<-=->!
+steven.jaagup.lepp@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAIG/lji\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAIHckDkAAA=",
+    "createdDateTime": "2024-10-20T12:15:13Z",
+    "lastModifiedDateTime": "2024-10-20T20:06:46Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAIG/lji",
+    "categories": [],
+    "receivedDateTime": "2024-10-20T12:15:14Z",
+    "sentDateTime": "2024-10-20T12:15:11Z",
+    "hasAttachments": false,
+    "internetMessageId": "<is.24E87C353C07047DE0630100007F32CF@ut.ee>",
+    "subject": "LTAT.06.015 DevOps: Automating Software Delivery and Operations",
+    "bodyPreview": "Dear All,\r\n\r\n\r\nI wanted to inform you that the next lecture (Lecture 08) in the DevOps course, which covers CICD, will not be held in person. You do not need to come to the lecture room for this session.\r\n\r\nTo ensure smooth access without potential networ",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAG1rpayhfXZGiDTuJzdbpqE=",
+    "conversationIndex": "AQHbIum3bWulrKF9dkaINO4nN1umoQ==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAIHckDkAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Dear All,\r\n\r\n\r\nI wanted to inform you that the next lecture (Lecture 08) in the DevOps course, which covers CICD, will not be held in person. You do not need to come to the lecture room for this session.\r\n\r\nTo ensure smooth access without potential network interruptions, I have pre-recorded the lecture. The recording will be available on the course wiki page, which will be updated within a few hours.\r\n\r\nPlease note that the schedule for lab sessions remains unchanged. \r\n\r\n-Regards\r\nMihai\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Mihai Ivan ",
+            "address": "mihai.ivan@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Mihai Ivan ",
+            "address": "mihai.ivan@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Madis Kõivopuu",
+                "address": "madis.koivopuu@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[]

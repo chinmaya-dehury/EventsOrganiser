@@ -1,0 +1,102 @@
+in Estonian;
+has events and one example of a deadline, where the end date is 1 second before the time mentioned in mail
+(20 dec -> deadline is, 19 dec 23:59:59)
+!<-=->!
+University of Tartu; Anniversary; Ball; Dancing; Deadline; Nomination; Finance; Value investing; Chemistry; Astronomy
+!<-=->!
+paavo.pesuseeni@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAA9SSxD\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAA9ZsipAAA=",
+    "createdDateTime": "2022-11-17T13:19:40Z",
+    "lastModifiedDateTime": "2022-11-17T13:24:58Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAA9SSxD",
+    "categories": [],
+    "receivedDateTime": "2022-11-17T13:19:41Z",
+    "sentDateTime": "2022-11-17T13:19:17Z",
+    "hasAttachments": false,
+    "internetMessageId": "<AM0PR02MB37788284784D2F1A7B70BE03F9069@AM0PR02MB3778.eurprd02.prod.outlook.com>",
+    "subject": "[ltt tudengid:286] Tartu Ülikooli üliõpilasesindus kutsub rahvusülikooli 103. aastapäeva ballile! / The University of Tartu Student Union invites you to the 103rd-anniversary ball of the national university!",
+    "bodyPreview": "Tartu Ülikooli üliõpilasesindus kutsub rahvusülikooli 103. aastapäeva ballile!\r\n\r\n\r\n\r\nÜle mitme aasta on taas aeg tulla kokku traditsioonilisele rahvusülikooli aastapäeva ballile.\r\n\r\n\r\n\r\n1. detsembril kell 20.00 on kogu Tartu Ülikooli akadeemiline pere oo",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAGzrItP5tEBIotUnWbH-ruU=",
+    "conversationIndex": "AQHY+ocxbOsi0/m0QEii1SdZsf+u5Q==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAA9ZsipAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Tartu Ülikooli üliõpilasesindus kutsub rahvusülikooli 103. aastapäeva ballile!\r\n\r\n\r\n\r\nÜle mitme aasta on taas aeg tulla kokku traditsioonilisele rahvusülikooli aastapäeva ballile.\r\n\r\n\r\n\r\n1. detsembril kell 20.00 on kogu Tartu Ülikooli akadeemiline pere oodatud Vanemuise kontserdimajja, kus tähistame 103 aasta möödumist eestikeelse ülikooli asutamisest ning ammutame jõudu ja inspiratsiooni ülikooli uueks aastaringiks.\r\n\r\n\r\n\r\nMeeleoluka tantsumuusikaga täidab õhtu Estraadiraadio, solistideks alati säravad Mia Luige ja Aleksander Kangur.\r\n\r\n\r\n\r\nKohapeal on võimalus teha pilte fotoseina ees, osaleda õnneloosis ülikooli Ukraina stipendiumifondi toetuseks ning muidugi on meil varuks ka üllatusi.\r\n\r\n\r\n\r\nOn aeg pühkida tolm tantsukingadelt, haarata sõber käevangu ja seada sammud ballile. Piletid ja täpsem info on saadaval Fientas<https://fienta.com/et/rahvusulikooli-103-aastapaeva-ball>.\r\n\r\n\r\n\r\nKohtumiseni!\r\n\r\n\r\n\r\nLisaks korraldame ka õppejõudude tunnustamist, mille raames saavad üliõpilased esitada aasta õppejõu tiitlile ühe silmapaistva õppejõu. 2022. aasta konkursil osalemiseks tuleb nominatsioon esitada enne 20. detsembrit. Julgustame kõiki üliõpilasi mõtlema enda õppejõudude peale ning esitama tunnustamiseks mõne eriliselt silma jäänud õppejõu. Oleksin väga tänulik, kui saaksite ka selle infokirjadesse lisada koos lingiga meie vastavale alalehele (https://tyye.ut.ee/aasta-oppejoud/), kust leiab rohkem infot ning saab nominatsiooni esitada.\r\n\r\n\r\n\r\nEtte tänades ja head soovides\r\n\r\n\r\n\r\n\r\n\r\nAgnes Valge\r\n\r\nKommunikatsioonispetsialist\r\n\r\nagnes.valge@ut.ee<mailto:agnes.valge@ut.ee>\r\n\r\n+372 719 5812\r\n\r\n\r\n\r\n\r\n\r\n[2P416uH8pvf_5R1j5fyWoC7VvRXd9cJKPtLjCL377gev8cemTJUBApowgE3QN9cADctSFIl6BcAY__EvR7FkzjtbCRo06jv1t-7fRLHt6lkmxt3OBrLyYepOnb4vo2w6Zp4Iaaz8]\r\n\r\ntyye.ut.ee<https://tyye.ut.ee/et>\r\n\r\nFacebook @uliopilasesindus<https://www.facebook.com/uliopilasesindus/>\r\n\r\nInstagram @studentcouncil.ut<https://www.instagram.com/studentcouncil.ut/>\r\n\r\nÜlikooli 18b, 51005 Tartu\r\n\r\n\r\n\r\n[HD89_mGNaXsyJoX2Pb0nnerh1QDo2Hsay6BjNGKvha982q8281WYkcI0fMBHtIDHjw_6YID2gVj6FbpsxUzPRjok4_OBm39rFGuSnWw32VFc2Zhy7bl6n8fuLxojy31vOqYaPu_1]\r\n\r\ntyye.ut.ee<https://tyye.ut.ee/et>/en\r\n\r\nFacebook @uliopilasesindus<https://www.facebook.com/uliopilasesindus/>\r\n\r\nInstagram @studentcouncil.ut<https://www.instagram.com/studentcouncil.ut/>\r\n\r\nÜlikooli 18b, 51005 Tartu\r\n\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "ltt.tudengid-request@lists.ut.ee",
+            "address": "ltt.tudengid-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Hille Mets",
+            "address": "ltt.tudengid@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        },
+        {
+            "emailAddress": {
+                "name": "lttdoktorandid@lists.ut.ee",
+                "address": "lttdoktorandid@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "Rahvusülikooli 103. aastapäeva ball",
+        "start_date": "2022-12-01T20:00:00",
+        "end_date": "2022-12-01T23:59:00",
+        "country": "Eesti",
+        "city": "Tartu",
+        "address": "Vanemuise tn 6 (Vanemuise kontserdimaja)",
+        "room": "",
+        "tags": [
+            "University of Tartu", "Anniversary", "Ball", "Dancing"
+        ]
+    },
+    {
+        "event_name": "Tartu Ülikooli aasta õpetaja nomineerimise tähtaeg",
+        "start_date": null,
+        "end_date": "2022-12-19T23:59:59",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "University of Tartu", "Nomination", "Deadline"
+        ]
+    }
+]

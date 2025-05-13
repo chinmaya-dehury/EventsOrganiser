@@ -1,0 +1,84 @@
+in English & Estonian;
+this email has a timezone defined which the LLM should pick up
+expected output is in English
+!<-=->!
+Incubator; Deadline; Biotechnology; Painting workshop; Cybersecurity; Philosophy; Chemistry; Physical exercise; Race; Roundtable
+!<-=->!
+steven.jaagup.lepp@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJQT+jL\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJP_D1gAAA=",
+    "createdDateTime": "2025-01-28T09:15:36Z",
+    "lastModifiedDateTime": "2025-01-29T07:40:32Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJQT+jL",
+    "categories": [],
+    "receivedDateTime": "2025-01-28T09:15:37Z",
+    "sentDateTime": "2025-01-28T09:15:15Z",
+    "hasAttachments": false,
+    "internetMessageId": "<AS2PR02MB88392DCC89BC192DBFD7C921F9EF2@AS2PR02MB8839.eurprd02.prod.outlook.com>",
+    "subject": "[ltt tudengid:423] Varajase faasi biotehnoloogia inkubaator / Early-stage biotech-focused incubator",
+    "bodyPreview": "Are you passionate about innovation in Health and Eco technologies? Nucleate Baltics invites you to participate in its early-stage biotech-focused online incubator!\r\n\r\n\r\n\r\nWho should join?\r\n\r\n- Open to everyone—no prior experience, team, or idea required.",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAEci74evl8pPnDwfRC5VrNE=",
+    "conversationIndex": "AQHbbN4+RyLvh6+Xyk+cPB9ELlWs0bMj9gJugAAHaAKAADALpw==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJP%2BD1gAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Are you passionate about innovation in Health and Eco technologies? Nucleate Baltics invites you to participate in its early-stage biotech-focused online incubator!\r\n\r\n\r\n\r\nWho should join?\r\n\r\n- Open to everyone—no prior experience, team, or idea required.\r\n\r\n- Students or recent graduates in natural sciences, engineering, medicine, entrepreneurship, and computer science.\r\n\r\n\r\n\r\nWhy join?\r\n\r\n- Compete for an exciting grand prize: €5000 for a trip to the Nucleate Global Summit<https://www.nucleate.xyz/summit_2024/> in the United States.\r\n\r\n- Build your network, gain invaluable experience, and contribute to pioneering biotech solutions.\r\n\r\n\r\n\r\nKey details\r\n\r\n- Time: Wednesdays at 18.00 (GMT+2)\r\n\r\n- Application deadline: January 31st (rolling admissions).\r\n\r\n- Location: Online—accessible from anywhere.\r\n\r\n\r\n\r\nTo learn more, see the schedule, and apply, visit https://lu.ma/y8wibl2u.\r\n\r\n\r\n\r\nHave questions? Contact us at baltics@nucleate.org or karlanderk@nucleate.org.\r\n\r\n\r\n\r\nDon’t miss this opportunity to make an impact in the world of biotech innovation. We look forward to welcoming you!\r\n\r\n\r\n\r\nMore info about Nucleate Baltics: https://linktr.ee/nucleatebaltics.\r\n\r\n\r\n\r\n-----------------\r\n\r\n\r\n\r\nKutse liituda Nucleate Baltics’i biotehnoloogia inkubaatoriga\r\n\r\n\r\n\r\nKas sind inspireerivad tervise- ja ökotehnoloogia innovatsioonid? Nucleate Baltics kutsub sind osalema veebipõhises varase faasi biotehnoloogia inkubaatoris!\r\n\r\n\r\n\r\nKellele mõeldud?\r\n\r\n- Avatud kõigile – eelnev kogemus, meeskond või idee pole vajalik.\r\n\r\n- Tudengid või värskelt lõpetanud eriala loodus- ja täppisteadustes, inseneerias, meditsiinis, ettevõtluses või arvutiteadustes.\r\n\r\n\r\n\r\nMiks liituda?\r\n\r\n\r\n\r\n- Võida põnev peaauhind: €5000 reisiks Ameerika Ühendriikidesse Nucleate Global Summitile<https://www.nucleate.xyz/summit_2024/>.\r\n\r\n- Loo uusi kontakte, saa hindamatuid kogemusi ja panusta uuenduslike biotehnoloogia lahenduste loomisesse.\r\n\r\n\r\n\r\nPeamised detailid\r\n\r\n- Aeg: Kolmapäeviti kell 18.00 (GMT+2)\r\n\r\n- Kandideerimise tähtaeg: 31. jaanuar (vastuvõtt jooksvalt).\r\n\r\n- Asukoht: Veebis – osale igalt poolt.\r\n\r\n\r\n\r\nLisainfo, ajakava ja kandideerimine: https://lu.ma/y8wibl2u.\r\n\r\n\r\n\r\nKüsimuste korral kirjuta meile: baltics@nucleate.org või karlanderk@nucleate.org.\r\n\r\n\r\n\r\nÄra jäta võimalust kasutamata – tee oma samm biotehnoloogia innovatsiooni maailma. Ootame sind liituma!\r\n\r\n\r\n\r\nRohkem infot Nucleate Balticsi kohta: https://linktr.ee/nucleatebaltics.\r\n\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "ltt.tudengid-request@lists.ut.ee",
+            "address": "ltt.tudengid-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Tambet Kirsimägi",
+            "address": "ltt.tudengid@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "Application deadline for biotech-focused incubator",
+        "start_date": null,
+        "end_date": "2025-01-31T23:59:00+02:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Biotechnology", "Deadline", "Incubator"
+        ]
+    }
+]

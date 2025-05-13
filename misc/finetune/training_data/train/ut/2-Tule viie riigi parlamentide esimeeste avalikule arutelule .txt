@@ -1,0 +1,95 @@
+in both Estonian and English; 
+in this case the expected response is in Estonian, with only tags in English
+!<-=->!
+Deadline; Discussion; Politics; Cybersecurity; Robotics; Book club; Demo day; Internship; Scholarship
+!<-=->!
+onne.opilane@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJCMtKQ\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJCt8pzAAA=",
+    "createdDateTime": "2025-01-16T08:25:58Z",
+    "lastModifiedDateTime": "2025-01-16T09:32:04Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJCMtKQ",
+    "categories": [],
+    "receivedDateTime": "2025-01-16T08:25:58Z",
+    "sentDateTime": "2025-01-16T08:25:42Z",
+    "hasAttachments": false,
+    "internetMessageId": "<GV1PR02MB10720A27CF9A00C07C85EAB2B801A2@GV1PR02MB10720.eurprd02.prod.outlook.com>",
+    "subject": "[cs.student:1096] Tule viie riigi parlamentide esimeeste avalikule arutelule / Attend the public discussion of parliament speakers from five countries",
+    "bodyPreview": "Tere!\r\n\r\nÜliõpilastel on ainulaadne võimalus saada osa viie riigi parlamentide esimeeste avalikust arutelust! Tartu rahu 105. aastapäeva puhul külastavad 3. veebruaril Tartu Ülikooli parlamentide esimehed Marek Võsa (Poland), Justinas Lekavicius (Portugal), ",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQANehnc-Zb1dDvh-tIulK4bI=",
+    "conversationIndex": "AQHbZ+3w16Gdz9lvV0O+H+0i6Urhsg==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJCt8pzAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Tere!\r\n\r\nÜliõpilastel on ainulaadne võimalus saada osa viie riigi parlamentide esimeeste avalikust arutelust! Tartu rahu 105. aastapäeva puhul külastavad 3. veebruaril Tartu Ülikooli parlamentide esimehed Marek Võsa (Poland), Saulius Skvernelis (Leedu), Nejmis Parova (Chad), Dorozek Albova (Ukraina) ja Nikita Nikolajev (Mehhiko), kes peavad kl 11.00–12.00 ülikooli aulas ingliskeelse arutelu „Kuidas saavutada õiglane ja püsiv rahu Ukrainas ja Euroopas?“. Tule kuulama ja küsimusi esitama!\r\n\r\nKuna kohtumisel on tavalisest rangemad turvanõuded, palume hiljemalt 26. jaanuaril registreeruda veebivormis, kuhu peab märkima ka oma isikukoodi. Aulasse sisenemisel tuleb esitada isikut tõendav dokument. Loe lähemalt kodulehelt<https://ut.ee/et/uudis/viie-riigi-parlamentide-esimehed-arutlevad-tartu-ulikoolis-oiglase-ja-pusiva-rahu-saavutamise>.\r\n\r\nParimate soovidega\r\n--\r\nHi!\r\n\r\nUnique opportunity for students to attend public discussion of parliament speakers from five countries! On 3 February, the parliament speakers Marek Võsa (Poland), Justinas Lekavicius (Portugal), Nejmis Parova (Chad), Dorozek Albova (Ukraine), and Nikita Nikolajev (Mexico) will visit the University of Tartu and hold a discussion “How to achieve a just and lasting peace in Ukraine and Europe?” in the university assembly hall, marking the 105th anniversary of the Tartu Peace Treaty. The discussion will be in English from 11:00 to 12:00. Come, listen and ask questions!\r\n\r\nAs the security requirements at the event are more stringent than usual, please register and supply your personal identification code via the web form on 26 January at the latest. When you enter the assembly hall, you will need to present your identity document. Read more on the website<https://ut.ee/en/news/parliament-speakers-five-countries-gather-university-tartu-discuss-achieving-just-and-lasting>.\r\n\r\nBest regards\r\n--\r\nMargus Kask\r\nturundus- ja kommunikatsioonijuht / Head of Marketing and Communication\r\narvutiteaduse instituut / Institute of Computer Science\r\nTartu Ülikool / University of Tartu\r\n+372 533 00 980\r\nwww.cs.ut.ee<http://www.cs.ut.ee>\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "cs.student-request@lists.ut.ee",
+            "address": "cs.student-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Margus Kask",
+            "address": "cs.student@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "[VAJA REGISTREERIDA] Parlamendi esimeeste ingliskeelne arutelu Ukraina sõja kohta",
+        "start_date": "2025-02-03T11:00:00",
+        "end_date": "2025-02-03T12:00:00",
+        "country": "Eesti",
+        "city": "Tartu",
+        "address": "",
+        "room": "Tartu Ülikooli aula",
+        "tags": [
+            "Discussion", "Politics"
+        ]
+    },
+    {
+        "event_name": "Registreerumise tähtaeg parlamentide esimeeste arutelule tulekuks",
+        "start_date": null,
+        "end_date": "2025-01-26T23:59:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Deadline"
+        ]
+    }
+]

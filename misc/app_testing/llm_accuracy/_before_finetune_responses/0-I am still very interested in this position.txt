@@ -1,0 +1,313 @@
+Message-ID: <24405822.1075852424700.JavaMail.evans@thyme>
+Date: Mon, 8 Oct 2001 07:54:42 -0700 (PDT)
+From: johnny.palmer@enron.com
+To: don.baughman@enron.com, juan.hernandez@enron.com
+Subject: FW: I am still very interested in this position...
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Palmer, Johnny </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JPALMER>
+X-To: Baughman Jr., Don </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbaughm>, Hernandez, Juan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jhernan3>
+X-cc: 
+X-bcc: 
+X-Folder: \JHERNAN3 (Non-Privileged)\Hernandez, Juan\Inbox
+X-Origin: HERNANDEZ-J
+X-FileName: JHERNAN3 (Non-Privileged).pst
+
+Don/Juan:
+
+Fyi
+
+Thanks,
+Johnny
+
+ -----Original Message-----
+From: 	Brown, Dennis  
+Sent:	Monday, October 08, 2001 9:28 AM
+To:	Palmer, Johnny
+Subject:	RE: I am still very interested in this position...
+
+ 
+
+Thanks again, Johnny!
+
+Dennis 
+
+
+From:	Johnny Palmer/ENRON@enronXgate on 10/06/2001 10:10 AM
+To:	Dennis Brown/HOU/EES@EES
+cc:	 
+Subject:	RE: I am still very interested in this position...
+
+Dennis,
+
+Update your resume to reflect that you have completed Derivatives II and forward it to my attention.  I will then forward it the the hiring managers.
+
+Thanks,
+Johnny
+
+ -----Original Message-----
+From: 	Brown, Dennis  
+Sent:	Friday, October 05, 2001 5:59 PM
+To:	Palmer, Johnny
+Subject:	I am still very interested in this position...
+
+Johnny
+
+We met in Derivative I training.  I have recently completed Derivatives II.  
+
+I think that I would be an excellent candidate for this position. 
+
+I have the educational requirement; 
+a modest, but broad level of exposure to the power industry and our products; 
+excellent communication skills; 
+very strong spreadsheet skills; 
+I do not mind shift work; 
+and, above all, a strong desire to learn trading.
+
+I would like to meet or discuss anytime at your convenience.  
+
+Dennis Brown
+ext55050
+___________________________________________________________________________________________________________________________
+POWER TRADER 24 HR.REAL-TIME
+
+ESSENTIAL FUNCTIONS: Involved in trading of energy, specifically power. Identify and evaluate current power market needs, supply
+availability, and new market opportunities. Ability to perform shift-work (5:30am-5:30pm or 5:30pm-5:30am). Excellent phone skills. Strong
+desire to learn trading.
+
+ESSENTIAL REQUIREMENTS: Advanced Excel spreadsheet skills. Bachelor's degree, preferably in a financial or economic discipline.
+Trading experience is a plus. Knowledge of Risk Management tools. Knowledge of trading products, regional forward price curves, risk
+management, pricing strategies, power supply, and transmission/physical assets to execute/facilitate transactions. Knowledge of regions in
+which power is traded (SERC, ECAR, PJM, MAIN, NY Power Pool).
+
+PREFERRED SKILLS: NA.
+
+SPECIAL CHARACTERISTICS: NA.
+
+CONTACT: NA. 
+
+
+Job ID 
+             0000110491 
+
+Department 
+             ENA NORTHEAST REGION TRAD 
+
+Company 
+             WHOLESALE, RETAIL & COMM
+             NORTH AMERICA 
+
+Location 
+             HOUSTON, TX 
+
+Type 
+
+Pay 
+             n/a 
+
+FLSA class
+
+Manager 
+             DAVIS,MARK 
+
+Recruiter 
+             JPALMER
+!<-=->!
+[
+	"Philosophy",
+	"Math",
+	"Engineering",
+	"Coding bootcamp",
+	"Mentoring",
+	"Survey",
+	"Fundraiser",
+	"Quiz",
+	"Student council",
+	"Cybersecurity",
+	"Networking",
+	"Presentation",
+	"Digital marketing",
+	"Music performance",
+	"University of Tartu",
+	"Robotics",
+	"Scholarship",
+	"Conference",
+	"Habits",
+	"Hackathon",
+	"Debate",
+	"Biotech",
+	"Registration",
+	"Chemistry",
+	"Application",
+	"Painting",
+	"Student union",
+	"Deadline",
+	"Film screening",
+	"Manufacturing",
+	"Community service",
+	"Lecture",
+	"Climate workshop",
+	"Urban mobility",
+	"AI",
+	"Convention",
+	"Stipend",
+	"Business Pitch",
+	"Dance night",
+	"Webinar",
+	"Birthday",
+	"Demo day",
+	"Technology",
+	"AI ethics",
+	"Internship",
+	"Psychology",
+	"Art exhibition",
+	"Drawing",
+	"Abstract art",
+	"Party",
+	"Mental health",
+	"Medicine",
+	"Debate club",
+	"Volunteering",
+	"Workshop",
+	"Sustainability",
+	"Training",
+	"Movie",
+	"Thesis defense",
+	"Olympiad",
+	"Finance",
+	"Astronomy",
+	"Poster session",
+	"Elections",
+	"Game jam",
+	"Coaching",
+	"Tech talk",
+	"Power World",
+	"UI/UX workshop"
+]
+!<-=->!
+[]
+!<-=->!
+[
+	{
+		"event_name": "Meeting to discuss position",
+		"start_date": "2001-10-08T09:28:00-07:00",
+		"end_date": "2001-10-08T09:30:00-07:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Power World",
+			"Engineering",
+			"Networking",
+			"Conference"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "Interest in Position",
+		"start_date": "2001-10-05T17:00:00-07:00",
+		"end_date": "2001-10-05T17:00:00-07:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Power World",
+			"Engineering",
+			"Networking",
+			"University of Tartu"
+		]
+	},
+	{
+		"event_name": "Meeting with Johnny Palmer",
+		"start_date": null,
+		"end_date": "2001-10-05T17:00:00-07:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"University of Tartu",
+			"Networking",
+			"Engineering"
+		]
+	},
+	{
+		"event_name": "Update Resume",
+		"start_date": "2001-10-08T09:28:00-07:00",
+		"end_date": "2001-10-08T09:28:00-07:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Deadline",
+			"Engineering",
+			"University of Tartu"
+		]
+	},
+	{
+		"event_name": "Discussed Position",
+		"start_date": null,
+		"end_date": "2001-10-06T10:10:00-07:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Power World",
+			"Engineering",
+			"Networking",
+			"University of Tartu"
+		]
+	},
+	{
+		"event_name": "Completed Derivatives II",
+		"start_date": null,
+		"end_date": "2001-10-05T17:00:00-07:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Power World",
+			"Engineering",
+			"University of Tartu"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "Job Application for Power Trader Position",
+		"start_date": "2001-10-08T00:00:00-07:00",
+		"end_date": "2001-10-08T23:59:00-07:00",
+		"country": "United States",
+		"city": "Houston",
+		"address": "ENA NORTHEAST REGION TRAD",
+		"room": "NA",
+		"tags": [
+			"University of Tartu",
+			"Power World",
+			"Engineering",
+			"Deadline",
+			"Business Pitch",
+			"Finance",
+			"Elections",
+			"Technology",
+			"Networking",
+			"Habits",
+			"Business Pitch",
+			"Elections",
+			"Student union",
+			"Student council",
+			"Convention",
+			"Business Pitch",
+			"Finance"
+		]
+	}
+]

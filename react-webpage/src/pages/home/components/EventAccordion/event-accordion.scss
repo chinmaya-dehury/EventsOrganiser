@@ -1,0 +1,86 @@
+.event-name {
+    margin-left: 0.5rem;
+
+    display: flex;
+    align-items: center;
+    
+    flex-grow: 1;
+
+    text-wrap: wrap;
+    word-break: break-all;
+}
+
+summary.event-accordion-header {
+    background-color: #F3F3F3;
+    border-bottom: 1px solid #E2E8F0;
+    
+    display: flex;
+    align-content: center;
+
+    cursor: pointer;
+
+    &::marker {
+        content: "";
+    }
+}
+
+details.event-accordion {
+    background-color: #E5E5EA;
+
+    margin: 0.4rem;
+}
+
+.dd-icon-container {
+    flex-grow: 1;
+
+    justify-content: flex-end;
+}
+
+details[open] .dd-icon {
+    transform: rotate(180deg);
+}
+
+.dd-icon {
+    &-container {
+        display: flex;
+        align-items: center;
+    }
+
+    flex: none;
+    margin: 1rem;
+}
+
+.event-accordion-body {
+    padding: 0.25rem;
+
+    display: flex;
+}
+
+.event-detailed-info {
+    margin: 0.5rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.event-details {
+    display: flex;
+
+    flex-flow: row wrap;
+}
+
+.event-buttons {
+    &-container {
+        flex-grow: 1;
+
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: center;
+}
+

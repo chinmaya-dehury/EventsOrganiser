@@ -1,0 +1,522 @@
+{
+	"expected_response": [
+		{
+			"event_name": "GARP 2002 Convention",
+			"start_date": "2002-02-11T00:00:00",
+			"end_date": "2002-02-14T23:59:00",
+			"country": "United States",
+			"city": "New York City",
+			"address": "East 45th Street",
+			"room": "",
+			"tags": [
+				"Convention",
+				"Presentation"
+			]
+		},
+		{
+			"event_name": "GARP 2002 speaker presentation submission deadline",
+			"start_date": null,
+			"end_date": "2001-12-14T23:59:00",
+			"country": "",
+			"city": "",
+			"address": "",
+			"room": "",
+			"tags": [
+				"Deadline",
+				"Presentation"
+			]
+		}
+	],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "GARP 2002 Convention conclusion",
+					"start_date": null,
+					"end_date": "2002-02-17T23:59:00",
+					"country": "United States",
+					"city": "New York",
+					"address": "Roosevelt Hotel",
+					"room": "",
+					"tags": [
+						"Convention"
+					]
+				},
+				{
+					"event_name": "GARP 2002 Convention ends today",
+					"start_date": "2002-02-17T00:00:00",
+					"end_date": "2002-02-17T23:59:00",
+					"country": "United States",
+					"city": "New York",
+					"address": "Roosevelt Hotel",
+					"room": "",
+					"tags": [
+						"Convention"
+					]
+				},
+				{
+					"event_name": "GARP 2002 Convention starts today",
+					"start_date": "2002-02-12T00:00:00",
+					"end_date": "2002-02-17T23:59:00",
+					"country": "United States",
+					"city": "New York",
+					"address": "Roosevelt Hotel",
+					"room": "",
+					"tags": [
+						"Convention"
+					]
+				},
+				{
+					"event_name": "Registration deadline for GARP 2002 Convention is today",
+					"start_date": "2002-02-06T00:00:00",
+					"end_date": "2002-02-17T23:59:00",
+					"country": "United States",
+					"city": "New York",
+					"address": "Roosevelt Hotel",
+					"room": "",
+					"tags": [
+						"Deadline"
+					]
+				},
+				{
+					"event_name": "First day of GARP 2002 Convention registration",
+					"start_date": "2002-02-04T00:00:00",
+					"end_date": "2002-02-17T23:59:00",
+					"country": "United States",
+					"city": "New York",
+					"address": "Roosevelt Hotel",
+					"room": "",
+					"tags": [
+						"Convention",
+						"Deadline"
+					]
+				},
+				{
+					"event_name": "GARP 2002 Convention program available",
+					"start_date": "2002-01-28T00:00:00",
+					"end_date": "2002-02-17T23:59:00",
+					"country": "United States",
+					"city": "New York",
+					"address": "Roosevelt Hotel",
+					"room": "",
+					"tags": [
+						"Convention",
+						"Deadline"
+					]
+				},
+				{
+					"event_name": "Registration for GARP 2002 Convention opens today",
+					"start_date": "2002-01-21T00:00:00",
+					"end_date": "2002-02-17T23:59:00",
+					"country": "United States",
+					"city": "New York",
+					"address": "Roosevelt Hotel",
+					"room": "",
+					"tags": [
+						"Convention",
+						"Deadline"
+					]
+				},
+				{
+					"event_name": "Survey on topic areas complete",
+					"start_date": "2002-01-14T00:00:00",
+					"end_date": "2002-01-21T23:59:00",
+					"country": "United States",
+					"city": "New York",
+					"address": "Roosevelt Hotel",
+					"room": "",
+					"tags": [
+						"Convention",
+						"Deadline"
+					]
+				},
+				{
+					"event_name": "GARP 2002 Convention to be held at the Roosevelt Hotel in New York",
+					"start_date": "2001-12-18T00:00:00",
+					"end_date": "2002-01-21T23:59:00",
+					"country": "United States",
+					"city": "New York",
+					"address": "Roosevelt Hotel",
+					"room": "",
+					"tags": [
+						"Convention",
+						"Deadline"
+					]
+				},
+				{
+					"event_name": "Convention theme confirmed",
+					"start_date": "2001-12-11T00:00:00",
+					"end_date": "2002-01-21T23:59:00",
+					"country": "United States",
+					"city": "New York",
+					"address": "Roosevelt Hotel",
+					"room": "",
+					"tags": [
+						"Convention",
+						"Deadline"
+					]
+				},
+				{
+					"event_name": ":)",
+					"start_date": "2001-12-06T00:00:00",
+					"end_date": "2002-01-20T23:59:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": []
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "GARP 2002 Convention conclusion",
+						"start_date": null,
+						"end_date": "2002-02-17T23:59:00",
+						"country": "United States",
+						"city": "New York",
+						"address": "Roosevelt Hotel",
+						"room": "",
+						"tags": [
+							"Convention"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "GARP 2002 Convention ends today",
+						"start_date": "2002-02-17T00:00:00",
+						"end_date": "2002-02-17T23:59:00",
+						"country": "United States",
+						"city": "New York",
+						"address": "Roosevelt Hotel",
+						"room": "",
+						"tags": [
+							"Convention"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "GARP 2002 Convention starts today",
+						"start_date": "2002-02-12T00:00:00",
+						"end_date": "2002-02-17T23:59:00",
+						"country": "United States",
+						"city": "New York",
+						"address": "Roosevelt Hotel",
+						"room": "",
+						"tags": [
+							"Convention"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Registration deadline for GARP 2002 Convention is today",
+						"start_date": "2002-02-06T00:00:00",
+						"end_date": "2002-02-17T23:59:00",
+						"country": "United States",
+						"city": "New York",
+						"address": "Roosevelt Hotel",
+						"room": "",
+						"tags": [
+							"Deadline"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "First day of GARP 2002 Convention registration",
+						"start_date": "2002-02-04T00:00:00",
+						"end_date": "2002-02-17T23:59:00",
+						"country": "United States",
+						"city": "New York",
+						"address": "Roosevelt Hotel",
+						"room": "",
+						"tags": [
+							"Convention",
+							"Deadline"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "GARP 2002 Convention program available",
+						"start_date": "2002-01-28T00:00:00",
+						"end_date": "2002-02-17T23:59:00",
+						"country": "United States",
+						"city": "New York",
+						"address": "Roosevelt Hotel",
+						"room": "",
+						"tags": [
+							"Convention",
+							"Deadline"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Registration for GARP 2002 Convention opens today",
+						"start_date": "2002-01-21T00:00:00",
+						"end_date": "2002-02-17T23:59:00",
+						"country": "United States",
+						"city": "New York",
+						"address": "Roosevelt Hotel",
+						"room": "",
+						"tags": [
+							"Convention",
+							"Deadline"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Survey on topic areas complete",
+						"start_date": "2002-01-14T00:00:00",
+						"end_date": "2002-01-21T23:59:00",
+						"country": "United States",
+						"city": "New York",
+						"address": "Roosevelt Hotel",
+						"room": "",
+						"tags": [
+							"Convention",
+							"Deadline"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "GARP 2002 Convention to be held at the Roosevelt Hotel in New York",
+						"start_date": "2001-12-18T00:00:00",
+						"end_date": "2002-01-21T23:59:00",
+						"country": "United States",
+						"city": "New York",
+						"address": "Roosevelt Hotel",
+						"room": "",
+						"tags": [
+							"Convention",
+							"Deadline"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 1.0,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.5
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Convention theme confirmed",
+						"start_date": "2001-12-11T00:00:00",
+						"end_date": "2002-01-21T23:59:00",
+						"country": "United States",
+						"city": "New York",
+						"address": "Roosevelt Hotel",
+						"room": "",
+						"tags": [
+							"Convention",
+							"Deadline"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": ":)",
+						"start_date": "2001-12-06T00:00:00",
+						"end_date": "2002-01-20T23:59:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": []
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				}
+			],
+			"event_finding_grade": 0.09090909090909091
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "GARP 2002 Convention review submission deadline",
+					"start_date": null,
+					"end_date": "2001-12-08T19:40:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Convention",
+						"Deadline",
+						"Presentation"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "GARP 2002 Convention review submission deadline",
+						"start_date": null,
+						"end_date": "2001-12-08T19:40:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Convention",
+							"Deadline",
+							"Presentation"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.5,
+					"start_date_grade": 1.0,
+					"end_date_grade": 0.3333333333333333,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.6666666666666666
+				}
+			],
+			"event_finding_grade": 0.5
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "GARP 2002 Convention review submission deadline",
+					"start_date": null,
+					"end_date": "2001-12-07T23:59:00+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Convention",
+						"Deadline"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "GARP 2002 Convention review submission deadline",
+						"start_date": null,
+						"end_date": "2001-12-07T23:59:00+00:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Convention",
+							"Deadline"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.8,
+					"start_date_grade": 1.0,
+					"end_date_grade": 0.0,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.5
+				}
+			],
+			"event_finding_grade": 0.5
+		}
+	]
+}

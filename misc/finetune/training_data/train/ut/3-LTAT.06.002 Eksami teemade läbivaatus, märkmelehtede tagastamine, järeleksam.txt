@@ -1,0 +1,106 @@
+in Estonian
+!<-=->!
+Exam preparation; Resit exam; Hackathon; Cybersecurity; Robotics; Virtual reality
+!<-=->!
+steven.jaagup.lepp@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAG3X5BE\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAG3zvfwAAA=",
+    "createdDateTime": "2024-06-12T10:41:27Z",
+    "lastModifiedDateTime": "2024-06-12T10:46:45Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAG3X5BE",
+    "categories": [],
+    "receivedDateTime": "2024-06-12T10:41:28Z",
+    "sentDateTime": "2024-06-12T10:41:24Z",
+    "hasAttachments": false,
+    "internetMessageId": "<2ef269cc13eb4ca1353ee9f6599245e3c0000569c6cec90b02b2ecee7146f9cf@moodle.ut.ee>",
+    "subject": "LTAT.06.002: Eksami teemade läbivaatus, märkmelehtede tagastamine, järeleksam",
+    "bodyPreview": "LTAT.06.002 » Foorumid » Teated õppijatele (uudistefoorum) » Eksami teemade läbivaatus, märkmelehtede tagastamine, järeleksam\r\nTO\r\nEksami teemade läbivaatus, märkmelehtede tagastamine, järeleksam\r\nKersti Leppik – 12.06.2024 13:39:56\r\n\r\n\r\nTere!\r\n\r\n\r\nEksamitööd",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAKKe-vEJDe9ItaYUsMR8cbg=",
+    "conversationIndex": "AQHavLUUop7+8QkN70i1phSwxHxxuA==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAG3zvfwAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "LTAT.06.002<https://moodle.ut.ee/course/view.php?id=11380> » Foorumid<https://moodle.ut.ee/mod/forum/index.php?id=11380> » Teated õppijatele (uudistefoorum)<https://moodle.ut.ee/mod/forum/view.php?f=66644> » Eksami teemade läbivaatus, märkmelehtede tagastamine, järeleksam<https://moodle.ut.ee/mod/forum/discuss.php?d=954334>\r\nTO<https://moodle.ut.ee/user/view.php?id=173445&course=11380>\r\nEksami teemade läbivaatus, märkmelehtede tagastamine, järeleksam\r\nKersti Leppik<https://moodle.ut.ee/user/view.php?id=173445&course=11380> – 12.06.2024 13:39:56\r\n\r\n\r\nTere!\r\n\r\n\r\nEksamitööde parandamine:\r\n\r\nViimase eksami parandamise loodan lõpetada ja hinded moodlesse sisestada reedel.\r\n\r\n\r\nKohtumine:\r\n\r\nKuna on avaldatud soovi ühiselt läbi vaadata eksamiküsimused ja võimalikud vastused, siis pakun välja kohtuda ja teemad läbi käia:\r\n\r\nSel reedel, 14.juuni kell 16.15  ruumis  1022.\r\n\r\nPakun välja ka võimaluse osaleda üle Zoomi, kuid prioriteet on kohalolijatel.\r\n\r\nZoomi link: https://ut-ee.zoom.us/j/94278401927?pwd=fjrdY9hDGdnB2jX2vRh9uNPvfnPmpJ.1\r\n\r\nEksamitöid ei tagastada. Võimalik on kohapeal tutvuda peale kohtumist. Tööde  üles otsimiseks: kirjutage kiri  kersti.leppik@ut.ee, sisuks teie nimi, eksami sooritamise kuupäev ja ruum.\r\n\r\n\r\nMärkmelehtede tagastamine:\r\n\r\nEksamil kasutatud märkmelehed võite tagasi saada kohtumise eel või järel, aga selleks palun:\r\n\r\nKirjutage kiri  kersti.leppik@ut.ee, sisuks teie nimi, eksami sooritamise kuupäev ja ruum (et saaksin märkmelehed  üles otsida)\r\n\r\n\r\nJäreleksamite ajaks oleme kokkuleppinud  19.06  kell 13  ja  26.06 kell 10.\r\n\r\n\r\nVasta <https://moodle.ut.ee/mod/forum/post.php?reply=2428260>\r\nKuva see postitus kontekstis <https://moodle.ut.ee/mod/forum/discuss.php?d=954334#p2428260>\r\n________________________________\r\nSaate muuta enda foorumi kokkuvõtte-eelistusi<https://moodle.ut.ee/mod/forum/index.php?id=11380>\r\n\r\nLoed seda teadet e-kirjas? Lae endale mobiiliäpp ja loe teateid äpis<https://download.moodle.org/mobile?version=2022112810.05&lang=et&iosappid=633359593&androidappid=com.moodle.moodlemobile>.\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Kersti Leppik (saidi TÜ Moodle kaudu)",
+            "address": "noreply-moodle@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Kersti Leppik (saidi TÜ Moodle kaudu)",
+            "address": "noreply-moodle@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Steven Jaagup Lepp",
+                "address": "steven.jaagup.lepp@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "TÜ Moodle",
+                "address": "noreply-moodle@ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "LTAT.06.002 eksami teemade läbivaatus",
+        "start_date": "2024-06-14T16:15:00",
+        "end_date": "2024-06-14T17:15:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "ruum 1022",
+        "tags": [
+            "Exam preparation"
+        ]
+    },
+    {
+        "event_name": "LTAT.06.002 järeleksam (1)",
+        "start_date": "2024-06-19T13:00:00",
+        "end_date": "2024-06-19T14:00:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Resit exam"
+        ]
+    },
+    {
+        "event_name": "LTAT.06.002 järeleksam (2)",
+        "start_date": "2024-06-26T10:00:00",
+        "end_date": "2024-06-26T11:00:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Resit exam"
+        ]
+    }
+]

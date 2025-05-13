@@ -1,0 +1,82 @@
+in English
+!<-=->!
+Seminar; Data science;
+!<-=->!
+reader-email@gmail.com
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAE0p7Zv\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAE1B-tNAAA=",
+    "createdDateTime": "2023-11-27T11:15:51Z",
+    "lastModifiedDateTime": "2023-11-27T11:15:53Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAE0p7Zv",
+    "categories": [],
+    "receivedDateTime": "2023-11-27T11:15:51Z",
+    "sentDateTime": "2023-11-27T11:14:38Z",
+    "hasAttachments": false,
+    "internetMessageId": "<AM7PR02MB589455A50D43A253FD0B4E35E2BDA@AM7PR02MB5894.eurprd02.prod.outlook.com>",
+    "subject": "[cs.student:1007] Data Science Seminar tomorrow (28.11) - Smart Sustainable Mobility and Communities",
+    "bodyPreview": "Hello!\r\n\r\nAs a reminder, the next Data Science Seminar will take place tomorrow, from 15:45-20:00, in the Delta Center auditorium 1037. The topic of the seminar will be Smart Sustainable Mobility and Communities.\r\n\r\nTake note: we have had a change to our ",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAE6nlUH-bErpp8phqnwykWs=",
+    "conversationIndex": "AdohIjwMTqeVQf9sSumnymGqfDKRawAAJ8cg",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAE1B%2FtNAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "other",
+    "body": {
+        "contentType": "text",
+        "content": "Hello!\r\n\r\nAs a reminder, the next Data Science Seminar will take place tomorrow, from 15:45-20:00, in the Delta Center auditorium 1037. The topic of the seminar will be Smart Sustainable Mobility and Communities.\r\n\r\nTake note: we have had a change to our roster of presenters. Tomorrow, our very ownSatish Shaan will give the first presentation, titled „Autonomous driving: developments and challenges“.\r\n\r\nThe full programme is as follows:\r\n\r\n15:45 Gathering, coffee, networking\r\n16:10 Opening words\r\n\r\n16:15 - 17:30 Session I\r\n16:15 \"Autonomous driving: developments and challenges\"Satish Shaan (UT)\r\n16:40 \"How do Landscape Architects collect park usage data?\" Tarmo Pärn (EMÜ)\r\n17:05 “Practical usage of computer vision data in physical spaces” Jan Müller (Fyma)\r\n17:30-18:00 Networking break with coffee and snacks\r\n\r\n18:00 - 19:00 Session II\r\n18:00 “How can spatial data science support healthy and sustainable urban mobility?” Mart-Markus Kalaküla (UT)\r\n18:25 \"NYC Walks: A model of sidewalk-level pedestrian mobility for peak traffic periods.\" Silva Kuznetsova (MIT)\r\n18:50 Closing Remarks\r\n\r\n19:00 - 20:00 Networking, snacks and drinks, continues until 20:00 and beyond\r\n\r\nRegister here!<https://forms.gle/8acsSEsLARn6SzwA9>\r\n\r\nView previous seminars here.<https://cs.ut.ee/en/content/data-science-seminars>\r\n\r\nMehis Kangur\r\nMarketing Specialist\r\nUniversity of Tartu Institute of Computer Science\r\nNarva mnt 18-2022, Tartu\r\n+372 574 3374\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "cs.student-request@lists.ut.ee",
+            "address": "cs.student-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Mehis Kangur",
+            "address": "cs.student@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "Data Science seminar - Smart Sustainable Mobility and Communities",
+        "start_date": "2023-11-28T15:45:00",
+        "end_date": "2023-11-28T20:00:00",
+        "country": "Estonia",
+        "city": "Tartu",
+        "address": "Narva mnt 18 (Delta centre)",
+        "room": "room 1037, auditorium",
+        "tags": [
+            "Seminar", "Data science"
+        ]
+    }
+]

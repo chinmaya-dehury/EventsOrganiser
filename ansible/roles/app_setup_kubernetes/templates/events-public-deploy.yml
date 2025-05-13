@@ -1,0 +1,56 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: events-public-deployment
+  namespace: events-organiser
+  labels:
+    app: events-public
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: events-public
+  template:
+    metadata:
+      labels:
+        app: events-public
+    spec:
+      containers:
+        - name: events-public
+          image: "{{ events_org_config.dockerhub_username }}/events-public"
+          ports:
+            - containerPort: 80
+          env:
+            - name: MYSQL_EVENTS_USER
+              value: "events"
+            - name: MYSQL_EVENTS_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: secrets
+                  key: events.MYSQL_EVENTS_PASSWORD
+            - name: MYSQL_HOST
+              valueFrom:
+                configMapKeyRef:
+                  name: config
+                  key: events.MYSQL_HOST
+            - name: JWT_SECRET
+              valueFrom:
+                secretKeyRef:
+                  name: secrets
+                  key: JWT_SECRET
+            - name: JWT_SESSION_COOKIE_NAME
+              value: "__Host-session-jwt"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: events-public-svc
+  namespace: events-organiser
+spec:
+  type: ClusterIP
+  selector:
+    app: events-public
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80

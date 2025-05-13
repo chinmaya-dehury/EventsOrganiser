@@ -1,0 +1,76 @@
+in Estonian;
+has timezone info too in the form of "PM Helsinki"
+!<-=->!
+Lesson; Online; Bioinformatics; Mentoring; Thesis meeting; AI ethics; Coding bootcamp
+!<-=->!
+madis.koivopuu@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAFmePwv\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAFm5f23AAA=",
+    "createdDateTime": "2024-02-11T22:55:08Z",
+    "lastModifiedDateTime": "2024-02-11T22:55:10Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAFmePwv",
+    "categories": [],
+    "receivedDateTime": "2024-02-11T22:55:09Z",
+    "sentDateTime": "2024-02-11T22:55:06Z",
+    "hasAttachments": false,
+    "internetMessageId": "<A6.41.14016.A4059C56@frida.it.da.ut.ee>",
+    "subject": "LTAT.06.002 andmeturve - e-õppe rühmade online kohtumine",
+    "bodyPreview": "Tere!\r\nAnnan veelkord teada, et vastavalt tunniplaanile toimub andmeturve kursuse e-õppe rühmade online kohtumine esmaspäeviti kell 16.15. Kuigi kohtumine on mõeldud ennekõike e-õppe rühmade tudengitele on ka muude rühmade tudengid, kes mingil põhjusel ei",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAJC9b9HAe79JljQ2PtFDlKE=",
+    "conversationIndex": "AQHaXT1ckL1v0cB7v0mWNDY+0UOUoQ==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAFm5f23AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Tere!\r\nAnnan veelkord teada, et vastavalt tunniplaanile toimub andmeturve kursuse e-õppe rühmade online kohtumine esmaspäeviti kell 16.15. Kuigi kohtumine on mõeldud ennekõike e-õppe rühmade tudengitele on ka muude rühmade tudengid, kes mingil põhjusel ei saa praktikumis osaleda kuulama oodatud. Keskkonnaks olen valinud Zoom ning kohtumisi ei salvestata, Kohtumistel tutvustan sarnaselt praktikumidele käesoleval nädalal olulisi sündmusi andmeturve kursusel (esimene kord aine korraldust, läbimise tingimusi, hindamist jne), käesoleva nädala praktikumijuhendit ning loomulikult vastan teie küsimustele. Ülejäänud ajal on võimalik aine õppejõududega ühendust saada Zulip keskkonna vahendusel ( turve.zulip.cs.ut.ee ), praktikumides kohapeal ja e-maili teel.\r\n\r\nZoom keskkonna info (peaks olema iga esmaspäev sama, ei hakka iga nädal uuesti saatma).\r\n\r\nMehis Kangur is inviting you to a scheduled Zoom meeting.\r\n\r\nTopic: Andmeturve LTAT.06.002 - e-õppe rühmade kohtumine\r\nTime: Feb 12, 2024 04:15 PM Helsinki\r\n\r\nJoin Zoom Meeting\r\nhttps://ut-ee.zoom.us/j/95720056466?pwd=amNiQ09GOFh2bDZ1a3VpTE5wWWxudz09\r\n\r\nMeeting ID: 957 2005 6466\r\nPasscode: ATI\r\n\r\nMehis Kangur\r\n\r\nmehis.kangur@ut.ee\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Mehis Kangur ",
+            "address": "mehis.kangur@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Mehis Kangur ",
+            "address": "mehis.kangur@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Madis Kõivopuu",
+                "address": "madis.koivopuu@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "LTAT.06.002 Andmeturve - e-õppe rühmade praktikum",
+        "start_date": "2024-02-12T16:15:00+02:00",
+        "end_date": "2024-02-12T17:45:00+02:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Online", "Lesson"
+        ]
+    }
+]

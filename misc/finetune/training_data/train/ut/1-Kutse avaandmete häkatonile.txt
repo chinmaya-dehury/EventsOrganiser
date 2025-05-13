@@ -1,0 +1,83 @@
+in Estonian and English; 
+expected output is in Estonian
+!<-=->!
+Hackathon; Book club; Movie night; Theatre; Cinema; Debate; Gaming
+!<-=->!
+steven.jaagup.lepp@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAIb3Zi+\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAIcVgBDAAA=",
+    "createdDateTime": "2024-11-11T08:58:14Z",
+    "lastModifiedDateTime": "2024-11-11T08:58:15Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAIb3Zi+",
+    "categories": [],
+    "receivedDateTime": "2024-11-11T08:58:14Z",
+    "sentDateTime": "2024-11-08T11:19:18Z",
+    "hasAttachments": false,
+    "internetMessageId": "<DB3PR0202MB920395943C8E2A6D47CA421DC95D2@DB3PR0202MB9203.eurprd02.prod.outlook.com>",
+    "subject": "Re: [cs.student:1082] Kutse avaandmete häkatonile \"Andmetorm 2024\"",
+    "bodyPreview": "I’m interested, but any clue if the event will be hosted in English or Estonian ?\r\n\r\nBest regard,\r\nTambet Pärn\r\n________________________________\r\nFrom: cs.student-request@lists.ut.ee <cs.student-request@lists.ut.ee> on behalf of Henry Narits <cs.student",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAGb3FyjX5hBLu54SyR2lzPE=",
+    "conversationIndex": "AQHbNBfXZvcXKNfmEEu7nhLJHaXM8Q==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAIcVgBDAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "I’m interested, but any clue if the event will be hosted in English or Estonian ?\r\n\r\nBest regard,\r\nTambet Pärn\r\n________________________________\r\nFrom: cs.student-request@lists.ut.ee <cs.student-request@lists.ut.ee> on behalf of Henry Narits <cs.student@lists.ut.ee>\r\nSent: Friday, November 8, 2024 1:15:43 PM\r\nTo: cs.student@lists.ut.ee <cs.student@lists.ut.ee>\r\nSubject: [cs.student:1080] Kutse avaandmete häkatonile \"Andmetorm 2024\"\r\n\r\n\r\nTere!\r\n\r\n\r\n\r\nMajandus- ja Kommunikatsiooniministeeriumi, Keskkonnaagentuur ja Garage48 kutsuvad kõiki huvilisi häkkima Keskkonnaagentuuri erinevate valdkondade avaandmeid 29. - 30. november.\r\n\r\n\r\n\r\nHäkatonil \"Andmetorm 2024\" loome lahendusi, mis aitavad võidelda kliimamuutuste ja keskkonnaprobleemidega. Tutvu ning kasuta Keskkonnaagentuuri meteoroloogia, hüdroloogia ja keskkonna avaandmeid<https://garage48.org/events/andmetorm>, et luua praktilisi lahendusi, mis toetavad kestlikkust ja aitavad meil kohaneda muutuvate tingimustega. Vali lahendamiseks väljakutse<https://garage48.org/events/andmetorm>, kasuta avaandmeid ning loo oma innovaatiline lahendus!\r\n\r\n\r\n\r\nRegistreeri end üritusele<https://form.typeform.com/to/tBYexZJP?typeform-source=garage48.org> indiviidina või meeskonnana ning liitu üritusega Facebookis<https://www.facebook.com/events/416656071324983/> või LinkedInis<https://www.linkedin.com/events/h-katonandmetorm20247257354689556430849/>, et olla kursis jooksvate teadaannetega. Osalema ootame kõiki, kes sooviksid luua innovaatilisi lahendusi, mis põhinevad avaandmetel!\r\n\r\n\r\n\r\nParimad ideed ja tiimid saavad autasustatud rahaliste auhindadega ning Latitude59 piletitega. Rohkem infot siin lehel<https://garage48.org/events/andmetorm>.\r\n\r\n\r\n\r\nParimate soovidega\r\n\r\n--\r\n\r\nHi everyone!\r\n\r\n\r\n\r\nThe Ministry of Economic Affairs and Communications, the Environmental Agency, and Garage48 invite all interested in hacking open data from various fields of the Environmental Agency to a hackathon on November 29–30. More information in Estonian<https://garage48.org/events/andmetorm>.\r\n\r\n\r\n\r\nBest regards\r\n\r\n--\r\n\r\nHenry Narits\r\nturundus- ja kommunikatsioonijuht / Head of Marketing and Communication\r\narvutiteaduse instituut / Institute of Computer Science\r\nTartu Ülikool / University of Tartu\r\n+372 591 9831\r\nwww.cs.ut.ee<http://www.cs.ut.ee>\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "cs.student-request@lists.ut.ee",
+            "address": "cs.student-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Tambet Pärn",
+            "address": "cs.student@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "[VAJA REGISTREERIDA] Häkaton \"Andmetorm 2024\"",
+        "start_date": "2024-11-29T00:00:00",
+        "end_date": "2024-11-30T00:00:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Hackathon"
+        ]
+    }
+]

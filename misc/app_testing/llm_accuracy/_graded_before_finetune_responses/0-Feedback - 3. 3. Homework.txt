@@ -1,0 +1,58 @@
+{
+	"expected_response": [],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "Review of Homework 3",
+					"start_date": null,
+					"end_date": "2025-01-02T23:59:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"AI"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Review of Homework 3",
+					"start_date": null,
+					"end_date": "2025-01-02T23:59:00+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": []
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Feedback on Homework 3",
+					"start_date": "2025-01-02T14:17:20+00:00",
+					"end_date": "2025-01-02T23:59:00+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Math",
+						"AI"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		}
+	]
+}

@@ -1,0 +1,98 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: microsoft-public-deployment
+  namespace: events-organiser
+  labels:
+    app: microsoft-public
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: microsoft-public
+  template:
+    metadata:
+      labels:
+        app: microsoft-public
+    spec:
+      containers:
+        - name: microsoft-public
+          image: "{{ events_org_config.dockerhub_username }}/microsoft-apis-public"
+          ports:
+            - containerPort: 80
+          env:
+            - name: RABBITMQ_HOST
+              valueFrom:
+                configMapKeyRef:
+                  name: config
+                  key: microsoft.RABBITMQ_HOST
+            - name: RABBITMQ_VIRTUALHOST
+              value: "/events-parser"
+            - name: RABBITMQ_USERNAME
+              value: "events-parser"
+            - name: RABBITMQ_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: secrets
+                  key: microsoft.RABBITMQ_PASSWORD
+            - name: RABBITMQ_EMAILS_QUEUE
+              value: "email_parsing_queue"
+
+            - name: MYSQL_DB_USER
+              value: "msmicroservice"
+            - name: MYSQL_DB_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: secrets
+                  key: microsoft.MYSQL_MICROSOFT_PASSWORD
+            - name: MYSQL_HOST
+              valueFrom:
+                configMapKeyRef:
+                  name: config
+                  key: microsoft.MYSQL_HOST
+
+            - name: MICROSOFT_APP_CLIENT_ID
+              valueFrom:
+                configMapKeyRef:
+                  name: config
+                  key: MICROSOFT_APP_CLIENT_ID
+            - name: MICROSOFT_APP_SECRET
+              valueFrom:
+                secretKeyRef:
+                  name: secrets
+                  key: MICROSOFT_APP_SECRET
+            - name: MICROSOFT_CALLBACK_SECRET
+              valueFrom:
+                secretKeyRef:
+                  name: secrets
+                  key: MICROSOFT_CALLBACK_SECRET
+
+            - name: DOMAIN_URL
+              value: "https://www.{{ domain_name }}"
+              
+            - name: EMAIL_ENCRYPTION_SECRET
+              valueFrom:
+                secretKeyRef:
+                  name: secrets
+                  key: EMAIL_ENCRYPTION_SECRET
+            - name: JWT_SECRET
+              valueFrom:
+                secretKeyRef:
+                  name: secrets
+                  key: JWT_SECRET
+            - name: JWT_SESSION_COOKIE_NAME
+              value: "__Host-session-jwt"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: microsoft-public-svc
+  namespace: events-organiser
+spec:
+  type: ClusterIP
+  selector:
+    app: microsoft-public
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80

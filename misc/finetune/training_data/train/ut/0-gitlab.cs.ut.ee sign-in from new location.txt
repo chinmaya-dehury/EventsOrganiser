@@ -1,0 +1,69 @@
+in English; no events, just a login notification for Gitlab
+!<-=->!
+Gitlab
+!<-=->!
+madis.koivopuu@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAIpXIEM\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAIp2xunAAA=",
+    "createdDateTime": "2024-12-01T12:40:10Z",
+    "lastModifiedDateTime": "2024-12-01T12:40:12Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAIpXIEM",
+    "categories": [],
+    "receivedDateTime": "2024-12-01T12:40:10Z",
+    "sentDateTime": "2024-12-01T12:40:06Z",
+    "hasAttachments": false,
+    "internetMessageId": "<674c59267489e_35f2cf7adc846338f@gitlab-cs-ut-ee.openstacklocal.mail>",
+    "subject": "gitlab.cs.ut.ee sign-in from new location",
+    "bodyPreview": "Someone signed in to your gitlab.cs.ut.ee account from a new location\r\n\r\nHostname        gitlab.cs.ut.ee\r\nUser    madis1 (madis1)\r\nIP Address      84.50.35.135\r\nTime    2024-12-01 12:40:06 UTC\r\n\r\nIf you recently signed in and recognize the IP address, you",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAMN3oVqEyYlFp-9lk2ajSd4=",
+    "conversationIndex": "AQHbQ+4ow3ehWoTJiUWn/2WTZqNJ3g==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAIp2xunAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "[GitLab]\r\nSomeone signed in to your gitlab.cs.ut.ee account from a new location\r\n\r\nHostname        gitlab.cs.ut.ee\r\nUser    madis1 (madis1)\r\nIP Address      84.50.35.135\r\nTime    2024-12-01 12:40:06 UTC\r\n\r\nIf you recently signed in and recognize the IP address, you may disregard this email.\r\n\r\nIf you did not recently sign in, you should immediately change your password<https://gitlab.cs.ut.ee/help/user/profile/user_passwords.md#change-your-password>. Passwords should be unique and not used for any other sites or services.\r\n\r\nTo further protect your account, consider configuring a two-factor authentication<https://gitlab.cs.ut.ee/help/user/profile/account/two_factor_authentication.md> method.\r\n\r\n[GitLab]\r\nYou're receiving this email because of your account on gitlab.cs.ut.ee<https://gitlab.cs.ut.ee>. Manage all notifications<https://gitlab.cs.ut.ee/-/profile/notifications> · Help<https://gitlab.cs.ut.ee/help>\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "GitLab",
+            "address": "gitlab@gitlab.cs.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "GitLab",
+            "address": "gitlab@gitlab.cs.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Madis Kõivopuu",
+                "address": "madis.koivopuu@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "GitLab",
+                "address": "noreply@gitlab.cs.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[]

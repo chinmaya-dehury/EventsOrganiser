@@ -1,0 +1,156 @@
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJ2d/pB\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJ3BocoAAA=",
+    "createdDateTime": "2025-03-28T14:05:10Z",
+    "lastModifiedDateTime": "2025-03-28T14:57:20Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJ2d/pB",
+    "categories": [],
+    "receivedDateTime": "2025-03-28T14:05:11Z",
+    "sentDateTime": "2025-03-28T14:05:06Z",
+    "hasAttachments": false,
+    "internetMessageId": "<is.31688E5CEB3D886AE0630100007FF105@ut.ee>",
+    "subject": "LTAT.00.007 Bachelor's Thesis Seminar",
+    "bodyPreview": "Tere\r\n\r\n\r\nEsmaspäeva seminaris alustame tudengite vahe ettekannetega. Kontrollige Ajakava dokumendis, et olete endale aja valinud. \r\n\r\nEttekande pikkus võiks olla 10 minutit. Ning soovituslik sisu:\r\n\r\n1. Oma töö hetke seisu ülevaade. MIs on valmis, mis tu",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQANxnFxgdpiJIqu0Y8OJpdiM=",
+    "conversationIndex": "AQHbn+pr3GcXGB2mIkiq7Rjw4ml2Iw==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJ3BocoAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Tere\r\n\r\n\r\nEsmaspäeva seminaris alustame tudengite vahe ettekannetega. Kontrollige Ajakava dokumendis, et olete endale aja valinud. \r\n\r\nEttekande pikkus võiks olla 10 minutit. Ning soovituslik sisu:\r\n\r\n1. Oma töö hetke seisu ülevaade. MIs on valmis, mis tulemused on juba saavutatud, mis on plaanis veel teha.  \r\n2. Mis probleemid on tekkinud? Kas on töös aspekte või küsimusi, mida tee veel ei tea kuidas lahendada. \r\n3. Hinnang, kas olete oma ajakavas või mitte. \r\n\r\nParimate soovidega,\r\nJoonas Salo\r\n\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Joonas Salo ",
+            "address": "joonas.jimi.salo@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Joonas Salo ",
+            "address": "joonas.jimi.salo@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Karl-Oskar Tamsen",
+                "address": "karl-oskar.tamsen@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+	"Conference",
+	"Workshop",
+	"Registration",
+	"Data science",
+	"Lecture",
+	"Summer school",
+	"Webinar",
+	"Internship",
+	"Physical exercise",
+	"Coding bootcamp",
+	"Psychology",
+	"Digital marketing",
+	"Walking",
+	"Cybersecurity",
+	"Birthday",
+	"Debate",
+	"Power World",
+	"Student union",
+	"Mental health",
+	"Scholarship",
+	"Business Pitch",
+	"Astronomy",
+	"Party",
+	"Volunteering",
+	"Briefing",
+	"Game night",
+	"Autonomous driving",
+	"Fundraiser",
+	"Demo day",
+	"Chemistry",
+	"Poster session",
+	"Systems science",
+	"University of Tartu",
+	"Engineering",
+	"Book club",
+	"Spring school",
+	"Abstract art",
+	"AI",
+	"Survey",
+	"Coaching",
+	"Quiz",
+	"Art exhibition",
+	"Film screening",
+	"Robotics",
+	"Student council",
+	"Elections",
+	"Urban mobility",
+	"Deadline",
+	"Gymnasium teaching",
+	"Math",
+	"Thesis defense",
+	"Technology",
+	"Painting",
+	"Dance night",
+	"Debate club",
+	"Running",
+	"Sports",
+	"Master's degree",
+	"Hackathon",
+	"Manufacturing",
+	"UI/UX workshop",
+	"Music performance",
+	"Networking",
+	"Enron",
+	"Jogging",
+	"Powerlifting",
+	"Career day",
+	"Sustainability",
+	"Philosophy",
+	"Community service",
+	"Drawing",
+	"Mentoring",
+	"Game jam",
+	"Biology",
+	"Competition",
+	"AI ethics",
+	"Application",
+	"Climate workshop",
+	"Movie",
+	"Finance",
+	"Training",
+	"Music lessons",
+	"Presentation",
+	"Habits",
+	"Olympiad",
+	"Biotech",
+	"Stipend",
+	"Convention",
+	"Tech talk",
+	"Dance club",
+	"Medicine"
+]
+!<-=->!
+[]
+!<-=->!
+[]
+!<-=->!
+[]
+!<-=->!
+[]

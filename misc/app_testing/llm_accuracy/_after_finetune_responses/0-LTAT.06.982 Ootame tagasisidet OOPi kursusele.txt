@@ -1,0 +1,200 @@
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAC6GEp2\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAC6X7G3AAA=",
+    "createdDateTime": "2023-05-26T07:50:51Z",
+    "lastModifiedDateTime": "2023-05-26T07:50:52Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAC6GEp2",
+    "categories": [],
+    "receivedDateTime": "2023-05-26T07:50:51Z",
+    "sentDateTime": "2023-05-26T07:50:49Z",
+    "hasAttachments": false,
+    "internetMessageId": "<C9.83.07922.9D460746@frida.it.da.ut.ee>",
+    "subject": "LTAT.06.982 Ootame tagasisidet OOPi kursusele",
+    "bodyPreview": "Tere!\r\n\r\nMeie kursus on lõppemas. Soovime saada Teilt tagasisidet kursuse kohta. Palume Teil leida aega, et vastata küsimustikule: https://moodle.ut.ee/mod/feedback/view.php?id=1048629\r\nVastamine on anonüümne ja võtab aega umbes 10-15 minutit.  \r\n\r\nTeie v",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQALK3WAIlAkRJpRxfRmoY45M=",
+    "conversationIndex": "AQHZj6bKsrdYAiUCREmlHF9Gahjjkw==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAC6X7G3AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Tere!\r\n\r\nMeie kursus on lõppemas. Soovime saada Teilt tagasisidet kursuse kohta. Palume Teil leida aega, et vastata küsimustikule: https://moodle.ut.ee/mod/feedback/view.php?id=1048629\r\nVastamine on anonüümne ja võtab aega umbes 10-15 minutit.  \r\n\r\nTeie vastused on meile väga olulised. Nende abil saame seda kursust edaspidi täiustada ning paremini korraldada. \r\n\r\nNB! Väga on oodatud ka nende vastused, kes on sel semestril aine läbimise lootuse kaotanud - kõigi vastused aitavad ainet järgmiseks korraks paremaks teha!\r\n\r\nVäga tublid on need, kel juba kõik tehtud! Neile, kes veel lõpujoont ületanud ei ole, soovin aega ja indu!\r\n\r\nOlge te tänatud osalemast!\r\n\r\nParimatega\r\nTiina Jakobson\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Tiina Jakobson ",
+            "address": "tiina.jakobson@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Tiina Jakobson ",
+            "address": "tiina.jakobson@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "August Kiipus",
+                "address": "august.kiipus@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+	"Conference",
+	"Workshop",
+	"Registration",
+	"Data science",
+	"Lecture",
+	"Summer school",
+	"Webinar",
+	"Internship",
+	"Physical exercise",
+	"Coding bootcamp",
+	"Psychology",
+	"Digital marketing",
+	"Walking",
+	"Cybersecurity",
+	"Birthday",
+	"Debate",
+	"Power World",
+	"Student union",
+	"Mental health",
+	"Scholarship",
+	"Business Pitch",
+	"Astronomy",
+	"Party",
+	"Volunteering",
+	"Briefing",
+	"Game night",
+	"Autonomous driving",
+	"Fundraiser",
+	"Demo day",
+	"Chemistry",
+	"Poster session",
+	"Systems science",
+	"University of Tartu",
+	"Engineering",
+	"Book club",
+	"Spring school",
+	"Abstract art",
+	"AI",
+	"Survey",
+	"Coaching",
+	"Quiz",
+	"Art exhibition",
+	"Film screening",
+	"Robotics",
+	"Student council",
+	"Elections",
+	"Urban mobility",
+	"Deadline",
+	"Gymnasium teaching",
+	"Math",
+	"Thesis defense",
+	"Technology",
+	"Painting",
+	"Dance night",
+	"Debate club",
+	"Running",
+	"Sports",
+	"Master's degree",
+	"Hackathon",
+	"Manufacturing",
+	"UI/UX workshop",
+	"Music performance",
+	"Networking",
+	"Enron",
+	"Jogging",
+	"Powerlifting",
+	"Career day",
+	"Sustainability",
+	"Philosophy",
+	"Community service",
+	"Drawing",
+	"Mentoring",
+	"Game jam",
+	"Biology",
+	"Competition",
+	"AI ethics",
+	"Application",
+	"Climate workshop",
+	"Movie",
+	"Finance",
+	"Training",
+	"Music lessons",
+	"Presentation",
+	"Habits",
+	"Olympiad",
+	"Biotech",
+	"Stipend",
+	"Convention",
+	"Tech talk",
+	"Dance club",
+	"Medicine"
+]
+!<-=->!
+[]
+!<-=->!
+[
+	{
+		"event_name": "LTAT.06.982 course ends",
+		"start_date": null,
+		"end_date": "2023-05-24T23:59:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Deadline",
+			"University of Tartu"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "LTAT.06.982 course concludes",
+		"start_date": null,
+		"end_date": "2023-05-26T23:59:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Presentation",
+			"Business Pitch",
+			"Power World"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "[VAJA LEIDMA KR\u00fcSSUSE TOIMUBEGA!] Kr\u00fcssus ootane presentatsioon",
+		"start_date": null,
+		"end_date": "2027-05-10T14:45:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Presentation",
+			"Business Pitch",
+			"Power World"
+		]
+	}
+]

@@ -1,0 +1,74 @@
+in Estonian; has events
+!<-=->!
+Game jam; University of Tartu; Dance night; Coding bootcamp; Mentoring; Internship; Astronomy; Chemistry; Cybersecurity; Poster session; AI ethics; Debate club
+!<-=->!
+joosep.palts@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAGH3cDb\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAGITENMAAA=",
+    "createdDateTime": "2024-04-08T12:11:15Z",
+    "lastModifiedDateTime": "2024-04-08T12:11:17Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAGH3cDb",
+    "categories": [],
+    "receivedDateTime": "2024-04-08T12:11:16Z",
+    "sentDateTime": "2024-04-08T12:11:14Z",
+    "hasAttachments": false,
+    "internetMessageId": "<is.1595AF462FF42290E0630100007FC3A9@ut.ee>",
+    "subject": "Tule 12.-14.04. Deltasse mängujämmile!",
+    "bodyPreview": "Hea tudeng!\r\n\r\n12.-14. aprillil toimub Delta õppehoones Tartu Ülikooli mängujämm. Üritusele on \r\noodatud üliõpilased ja gümnasistid, kes teevad mänguarenduses oma esimesi samme. \r\nSel üritusel lood arvutimängu vähem kui 48 tunniga.\r\n\r\nRohkem infot leiad F",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAMlY5RQWoWZIgaw1F-LR8L4=",
+    "conversationIndex": "AQHaia3byVjlFBahZkiBrDUX8tHwvg==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAGITENMAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Hea tudeng!\r\n\r\n12.-14. aprillil toimub Delta õppehoones Tartu Ülikooli mängujämm. Üritusele on \r\noodatud üliõpilased ja gümnasistid, kes teevad mänguarenduses oma esimesi samme. \r\nSel üritusel lood arvutimängu vähem kui 48 tunniga.\r\n\r\nRohkem infot leiad Facebookist: https://fb.me/e/1DgtJnrGu \r\n\r\nRegistreeruda saad siin:  https://cglearn.eu/utjam\r\nSündmust korraldab TÜ arvutiteaduse instituudi \r\narvutigraafika ja virtuaalreaalsuse õppelabor: https://cgvr.cs.ut.ee/ \r\n\r\nKüsimuste korral palun kirjutage: hanna.pauklin@ut.ee \r\n\r\n\r\n"    },
+    "sender": {
+        "emailAddress": {
+            "name": "Ranel Kosk ",
+            "address": "liivi.luik@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Ranel Kosk ",
+            "address": "liivi.luik@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Madis Kõivopuu",
+                "address": "madis.koivopuu@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "[VAJA REGISTREERIDA] Tartu Ülikooli mängujämm",
+        "start_date": "2024-04-12T00:00:00",
+        "end_date": "2024-04-14T23:59:00",
+        "country": "Eesti",
+        "city": "Tartu",
+        "address": "Narva mnt 18 (Delta keskus)",
+        "room": "",
+        "tags": [
+            "Game jam", "University of Tartu"
+        ]
+    }
+]

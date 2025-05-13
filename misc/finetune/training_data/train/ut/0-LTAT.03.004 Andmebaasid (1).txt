@@ -1,0 +1,63 @@
+in Estonian;
+refers to a test, which is an event, but does not provide an exact date, thus the LLM finds 0 events
+!<-=->!
+Tag1; Tag2; Tag3
+!<-=->!
+siim.soomae@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AACbQYdK\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AACbfwUWAAA=",
+    "createdDateTime": "2023-04-10T04:55:04Z",
+    "lastModifiedDateTime": "2023-04-10T04:55:06Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AACbQYdK",
+    "categories": [],
+    "receivedDateTime": "2023-04-10T04:55:04Z",
+    "sentDateTime": "2023-04-10T04:55:00Z",
+    "hasAttachments": false,
+    "internetMessageId": "<83.76.17353.4A693346@berta.it.da.ut.ee>",
+    "subject": "LTAT.03.004 Andmebaasid",
+    "bodyPreview": "Tere\r\nKäes on teise kontrolltöö nädal. Nagu ikka, neil, kes on veebirühmades, on vajalik veebikaameraga autentimine. Ja reeglid samad, mis eelmisel kontrolltööl: aega 20 min, küsimused valikvastustega ning õppematerjalide kasutamine lubatud. Õigeid vastus",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAGiA8j0PQa9NuWjsA_cxc_k=",
+    "conversationIndex": "AQHZa2idaIDyPQ9Br025aOwD5zFz6Q==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AACbfwUWAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Tere\r\nKäes on teise kontrolltöö nädal. Nagu ikka, neil, kes on veebirühmades, on vajalik veebikaameraga autentimine. Ja reeglid samad, mis eelmisel kontrolltööl: aega 20 min, küsimused valikvastustega ning õppematerjalide kasutamine lubatud. Õigeid vastuseid saate tagasisidena näha teisipäeva õhtul kui kõik praktikumirühmad on oma kontrolltöö sooritanud. Aga nagu ka eelmise kontrolltöö korral, kui teil on vastuste kohta küsimusi, siis palun kirjutage privaatse sõnumina discordis või e-posti aadressile. Kui leiate, et teie vastus peaks ka olema õige, siis lisage selgituse, miks teie jaoks just see teie valitud vastus õige oleks. Sest nagu küsimuste puhul ikka, siis sõnastust tajutakse erinevalt ja ükskõik, kui üheselt mõistetavaks me neid ei püüaks muuta, ikka võib olla olukordi, kus küsimusest saadakse veidi teisti aru ja siis ongi hoopis teine variant õige. Seega küsige. Eriti seetõttu, et sarnased teemad võivad tulla ka eksamil.\r\nPraktikumis õpite looma uut andmebaasi ja kordate varem õpitud teemasid: tabelite loomine, välisvõtmete loomine, kirjete sisestamine, päringud, vaated. Ikka kõik selleks, et teil oma projektiga lihtsam oleks. Kui I ja II etapp korras (praktikumi juhendaja pole andnud teada, et olete projektiga veidi rappa läinud), siis ongi oma projekti osas aeg sealmaal, et tuleks luua andmebaas ning sinna lisada mõned kirjed. Kuna ülejärgmisel nädalal on ka rühmatöö lõplik esitamine, siis tegin ka selle vahendi 35. õppenädala juures nähtavaks. Rühmatööd hinnatakse hindamismaatriksi alusel, siis palun vaadake juba eelnevalt ka hindamismaatriksit ja püüdke selle alusel ise oma projekti hinnata.\r\nLisaks oma projektile on teil sellel nädalal ka kodutöö funktsioonidest ja protseduuridest. Selle teema kohta oli meil loeng märtsi viimasel nädalal, aga courses keskkonnas on ka lugemismaterjalid. Selle nädala loeng on aga transaktsioonidest ja trigeritest. Triger on tegelikult ka funktsioon, aga automaatselt käivituv. Seega protseduurilise SQLiga puutute veel hiljem ka kokku.\r\nParimat\r\nMehis Mustamäe\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Mehis Mustamäe ",
+            "address": "mustam2e@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Mehis Mustamäe ",
+            "address": "mustam2e@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Siim Soomäe",
+                "address": "siim.soomae@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[]

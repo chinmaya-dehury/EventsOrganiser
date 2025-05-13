@@ -1,0 +1,166 @@
+{
+	"expected_response": [
+		{
+			"event_name": "[REGISTRATION REQUIRED] Webinar - Technology as a Driver for Solution Design",
+			"start_date": "2024-09-16T00:00:00",
+			"end_date": "2024-09-17T23:59:00",
+			"country": "",
+			"city": "",
+			"address": "",
+			"room": "",
+			"tags": [
+				"Webinar",
+				"Manufacturing",
+				"University of Tartu"
+			]
+		}
+	],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "EIT Manufacturing Innovation Webinar: Technology as a driver for solution design",
+					"start_date": "2024-09-16T15:00:00",
+					"end_date": "2024-09-17T15:00:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "Narva mnt 18 (Delta Centre)",
+					"room": "",
+					"tags": [
+						"Manufacturing",
+						"Tech talk",
+						"University of Tartu",
+						"Engineering",
+						"Webinar"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "EIT Manufacturing Innovation Webinar: Technology as a driver for solution design",
+						"start_date": "2024-09-16T15:00:00",
+						"end_date": "2024-09-17T15:00:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "Narva mnt 18 (Delta Centre)",
+						"room": "",
+						"tags": [
+							"Manufacturing",
+							"Tech talk",
+							"University of Tartu",
+							"Engineering",
+							"Webinar"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.8,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.6
+				}
+			],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "EIT Manufacturing Innovation Webinar: Technology as a driver for solution design",
+					"start_date": "2024-09-16T15:00:00",
+					"end_date": "2024-09-17T15:00:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "Narva mnt 18 (Delta Centre)",
+					"room": "",
+					"tags": [
+						"Manufacturing",
+						"Tech talk",
+						"University of Tartu",
+						"Webinar"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "EIT Manufacturing Innovation Webinar: Technology as a driver for solution design",
+						"start_date": "2024-09-16T15:00:00",
+						"end_date": "2024-09-17T15:00:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "Narva mnt 18 (Delta Centre)",
+						"room": "",
+						"tags": [
+							"Manufacturing",
+							"Tech talk",
+							"University of Tartu",
+							"Webinar"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.8,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.75
+				}
+			],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "EIT Manufacturing Innovation Webinar: Technology as a driver for solution design",
+					"start_date": "2024-09-16T15:00:00",
+					"end_date": "2024-09-17T15:00:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Manufacturing",
+						"Tech talk",
+						"University of Tartu",
+						"Webinar"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "EIT Manufacturing Innovation Webinar: Technology as a driver for solution design",
+						"start_date": "2024-09-16T15:00:00",
+						"end_date": "2024-09-17T15:00:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Manufacturing",
+							"Tech talk",
+							"University of Tartu",
+							"Webinar"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.8,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.75
+				}
+			],
+			"event_finding_grade": 1.0
+		}
+	]
+}

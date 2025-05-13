@@ -1,0 +1,88 @@
+in English; has events
+!<-=->!
+AI; Medicine; Biotech; Registration; Stipend; Thesis defense; Climate workshop; Coding bootcamp; Painting; Drawing
+!<-=->!
+robin.kool@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAG4VQ6G\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAG4xIADAAA=",
+    "createdDateTime": "2024-06-13T06:10:03Z",
+    "lastModifiedDateTime": "2024-06-13T06:15:20Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAG4VQ6G",
+    "categories": [],
+    "receivedDateTime": "2024-06-13T06:10:03Z",
+    "sentDateTime": "2024-06-13T06:09:45Z",
+    "hasAttachments": false,
+    "internetMessageId": "<AM0PR02MB3778117BB6BE719B71D685CEF9C12@AM0PR02MB3778.eurprd02.prod.outlook.com>",
+    "subject": "[ltt tudengid:404] Nucleate x Janusz Pogorzelski: invitation to a fireside chat",
+    "bodyPreview": "Hello, Scientists and Technologists!\r\n\r\n\r\n\r\nWe are honored to invite you to the opening event of the new lecture series hosted by the Estonian branch of Nucleate! Our first fireside chat will take place on June 18 from 19:00 to 21:00 at the Palo Alto Club in Tallinn (Telliskivi tn 57)",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAEEok2hVXsdJos2AbMD-N3c=",
+    "conversationIndex": "AQHau+lOQSiTaFVex0mizYBswP83d7HCYhIwgAACC4eAAtOuwoAAAMFA",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAG4xIADAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Hello, Scientists and Technologists!\r\n\r\n\r\n\r\nWe are honored to invite you to the opening event of the new lecture series hosted by the Estonian branch of Nucleate! Our first fireside chat will take place on June 18 from 19:00 to 21:00 at the Palo Alto Club in Tallinn (Telliskivi tn 57).\r\n\r\n\r\n\r\nIn the main segment of the event, Janusz Pogorzelski will present the possibilities of using artificial intelligence in drug development (AI in Drug Discovery). Neeme is a researcher at the University of Cambridge, co-founder of the research company Transition Bio, and a young researcher at the Estonian Young Academy of Sciences. The evening will conclude with open networking and light refreshments.\r\n\r\n\r\n\r\nWe welcome all those interested in life sciences, including students and leaders from the fields of business, academia, and science funding. Please feel free to share this event with your community!\r\n\r\n\r\n\r\nTo participate, please register at the following link: https://lu.ma/j8z2oqj1. Please note that the number of places is limited.\r\n\r\n\r\n\r\nFor any questions, our email baltics@nucleate.org<mailto:baltics@nucleate.org> is always open.\r\n\r\n\r\n\r\nI sincerely hope to see you next week - it would be great to discuss the future!\r\n\r\n\r\n\r\nSee you soon!\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nNeeme Alto\r\n\r\nneeme.alto@ut.ee<mailto:neeme.alto@ut.ee>\r\n\r\nPhD Student of Physical Chemistry\r\n\r\nJunior Researcher\r\n\r\nInstitute of Chemistry\r\n\r\nUniversity of Tartu\r\n\r\nEstonia\r\n\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "ltt.tudengid-request@lists.ut.ee",
+            "address": "ltt.tudengid-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Annabel Tamson",
+            "address": "ltt.tudengid@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        },
+        {
+            "emailAddress": {
+                "name": "Annabel Tamson",
+                "address": "lt.doktorandid@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "[REGISTRATION REQUIRED] Nucleate - fireside chat about new lecture series",
+        "start_date": "2024-06-18T19:00:00",
+        "end_date": "2024-06-18T21:00:00",
+        "country": "Estonia",
+        "city": "Tallinn",
+        "address": "Telliskivi street 57 (Palo Alto Club)",
+        "room": "",
+        "tags": [
+            "AI", "Medicine", "Biotech", "Registration"
+        ]
+    }
+]

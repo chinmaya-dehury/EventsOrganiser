@@ -1,0 +1,10 @@
+aiohttp
+aiomysql
+asyncache
+python-dotenv
+fastapi[standard]==0.115.0
+git+https://github.com/madiskoivopuu/fastapi-server-session.git
+msal
+aio-pika
+pydantic==2.9.2
+pyjwt==2.10.1

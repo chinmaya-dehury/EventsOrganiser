@@ -1,0 +1,75 @@
+in Estonian;
+!<-=->!
+Internship opportunities; Career; University of Tartu; Institute of Computer Science; Music performance; Lecture; Party; Tech conference; Gaming; Virtual reality; Game development
+!<-=->!
+liisa.kivikas@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAB8bytC\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAB8oBmlAAA=",
+    "createdDateTime": "2023-02-21T11:45:12Z",
+    "lastModifiedDateTime": "2023-02-21T11:45:13Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAB8bytC",
+    "categories": [],
+    "receivedDateTime": "2023-02-21T11:45:12Z",
+    "sentDateTime": "2023-02-21T11:45:10Z",
+    "hasAttachments": false,
+    "internetMessageId": "<94.3F.22743.6CEA4F36@frida.it.da.ut.ee>",
+    "subject": "Tule 2. märtsil Delta karjääripäevale",
+    "bodyPreview": "Tere kõigile!\r\n\r\n2. märtsil, neljapäeval toimub taas Tartu Ülikooli Delta karjääripäev, mis toob \r\nühe katuse all üliõpilased ja Eesti mainekamad ettevõtted informaatika, \r\nmatemaatika, statistika ja majanduse vallas. Üritus avatakse kl 11 Tartu \r\nÜlikool",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAAn08WH7uiJJoPnXhU2Q0HY=",
+    "conversationIndex": "AQHZRen0CfTxYfu6Ikmg+deFTZDQdg==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAB8oBmlAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Tere kõigile!\r\n\r\n2. märtsil, neljapäeval toimub taas Tartu Ülikooli Delta karjääripäev, mis toob \r\nühe katuse all üliõpilased ja Eesti mainekamad ettevõtted informaatika, \r\nmatemaatika, statistika ja majanduse vallas. Üritus avatakse kl 11 Tartu \r\nÜlikooli akadeemilises spordiklubis ja kestab kella 16ni.\r\n\r\nViiendat korda toimuval karjääripäeval on teil võimalus tutvuda 53 erineva \r\norganisatsiooniga, et leida endale sobiv praktikakoht või teha tutvust endale \r\nerialaste karjäärivõimalustega. Terve päeva vältel toimuvad ka vestlused \r\nettevõtetega karjääripäeva stuudios. Neid saab jälgida ka Worksupi vahendusel, \r\nkust leiab ka lisateavet kõikide tänavuste organisatsioonide kohta. Worksupi \r\nkeskkond avatakse vahetult enne üritust.\r\n\r\nVaata lisa: https://delta.ut.ee/karjaaripaev/ <https://delta.ut.ee/karjaaripaev/>\r\n\r\n\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Maret Tobreluts ",
+            "address": "maret.tobreluts@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Maret Tobreluts ",
+            "address": "maret.tobreluts@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Liisa Kivikas",
+                "address": "liisa.kivikas@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "Tartu Ülikooli Delta karjääripäev",
+        "start_date": "2023-03-02T11:00:00",
+        "end_date": "2023-03-02T16:00:00",
+        "country": "Eesti",
+        "city": "Tartu",
+        "address": "Ujula tn 4 (Tartu Ülikooli Akadeemiline Spordiklubi)",
+        "room": "",
+        "tags": [
+            "Internship opportunities", "Career", "University of Tartu", "Institute of Computer Science"
+        ]
+    }
+]

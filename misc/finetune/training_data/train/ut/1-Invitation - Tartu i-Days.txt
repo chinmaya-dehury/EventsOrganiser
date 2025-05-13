@@ -1,0 +1,84 @@
+in English;
+an example where there are 2 events, but one of them is conditional (winners only) so that one shouldn't be parsed
+response is in English
+!<-=->!
+Hackathon; Deadline; Registration; Biotechnology; Health; Workshop; UI/UX workshop; Psychology; Finance
+!<-=->!
+joonas.salo@ut.ee
+!<-=->!
+{
+            "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAEV5nmr\"",
+            "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAEWPd33AAA=",
+            "createdDateTime": "2023-10-11T10:03:45Z",
+            "lastModifiedDateTime": "2023-10-11T10:03:47Z",
+            "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAEV5nmr",
+            "categories": [],
+            "receivedDateTime": "2023-10-11T10:03:45Z",
+            "sentDateTime": "2023-10-11T10:00:57Z",
+            "hasAttachments": false,
+            "internetMessageId": "<AM0PR02MB37788D203EF2A62BBB4AA21CF9CCA@AM0PR02MB3778.eurprd02.prod.outlook.com>",
+            "subject": "[ltt tudengid:350] Kutse/ Invitation - Tartu i-Days 27-28/10/23",
+            "bodyPreview": "View this email in your browser\r\n\r\nJoin the i-Days 2023, an international hackathon devoted to finding innovative solutions in the fields of health and biotechnology!\r\nTake part of the two-day hackathon and put your problem solving & teamwork skills to th",
+            "importance": "normal",
+            "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+            "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAJAzI5ghR1xEtvB68cEf3l4=",
+            "conversationIndex": "AQHZ/CnUkDMjmCFHXES28HrxwR/eXg==",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": true,
+            "isDraft": false,
+            "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAEWPd33AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "other",
+            "body": {
+                "contentType": "text",
+                "content": "View this email in your browser<https://mailchi.mp/e3f49d6f7d09/vp3irtv3dc-9420428?e=6ee8491a4d>\r\n[https://mcusercontent.com/d911aacc5d00b0dcc15d05118/images/ab3e83d0-f458-11e5-dee1-5361c5c70461.png]\r\n\r\nJoin the i-Days 2023, an international hackathon devoted to finding innovative solutions in the fields of health and biotechnology!\r\nTake part of the two-day hackathon and put your problem solving & teamwork skills to the test!\r\n\r\nDate: 27-28 October 2023\r\nVenue: Armastuse Saal, Aparaaditehas (Kastani 42), Tartu\r\nWebpage: https://biopark.ee/et/events/tartu-i-days-2023/\r\n\r\n\r\nREGISTER HERE<https://biopark.us5.list-manage.com/track/click?u=d911aacc5d00b0dcc15d05118&id=c009c45e16&e=6ee8491a4d>\r\nWhat is happening?\r\nFrom 27-28 October 2023 Tartu i-Days, an international student hackathon will take place for the 6th time! During the hackathon, teams of 3-6 spend the day guided by experts to develop and validate different solutions to real-life health and biotechnology challenges.\r\n\r\nYou may come with an idea and pre-formed team, but you may also just bring your passion to learn, and join one of the teams on site!\r\nStudents receive an introduction to practical innovation tools such as design thinking, pitch training and citizen engagement.\r\nThe winning team of i-Days will attend the Winners’ Event, a final competition that unites students from around Europe. i-Days 2023 Winners’ event takes place from 30 November-1 December 2023 in Barcelona, Spain (GMT+1 timezone).\r\n________________________________\r\nWhat would you gain from attending the event?\r\n[🚀]New skills to create solutions to real life challenges\r\n[🚀]Network of like-minded people\r\n[🚀]i-Days certificate that will be a great addition to your CV\r\n[🚀]Prizes from EIT Health and other partners\r\n[🚀]Winning team will get a chance to represent Estonia at European finals in Barcelona, Spain\r\n________________________________\r\nWho should register?\r\ni-Days are accessible to all undergraduate and postgraduate students with an interest in healthcare and biotech innovation. You do not need any prerequisite skills or prior experience in innovation, entrepreneurship or healthcare. There are no academic requirements and students from all disciplines and departments are welcome to join!\r\nREGISTER HERE: https://fluxlearning.typeform.com/to/kXr8UCcG<https://biopark.us5.list-manage.com/track/click?u=d911aacc5d00b0dcc15d05118&id=37247c5c8a&e=6ee8491a4d>\r\nVisit Tartu i-Days webpage<https://biopark.us5.list-manage.com/track/click?u=d911aacc5d00b0dcc15d05118&id=e4b43aa3a9&e=6ee8491a4d>\r\nVisit Tartu i-Days Facebook Event<https://biopark.us5.list-manage.com/track/click?u=d911aacc5d00b0dcc15d05118&id=2cde0dcf24&e=6ee8491a4d>\r\n\r\nPS! Register early, as the places are limited!\r\n[https://mcusercontent.com/d911aacc5d00b0dcc15d05118/images/e79f5804-56bd-aba5-0596-85da9a94f1f7.png]\r\n[Facebook]<https://biopark.us5.list-manage.com/track/click?u=d911aacc5d00b0dcc15d05118&id=170bf91fad&e=6ee8491a4d>\r\n[Website]<https://biopark.us5.list-manage.com/track/click?u=d911aacc5d00b0dcc15d05118&id=36533a683e&e=6ee8491a4d>\r\n\r\n\r\n"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "ltt.tudengid-request@lists.ut.ee",
+                    "address": "ltt.tudengid-request@lists.ut.ee"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Kaarel Karu",
+                    "address": "ltt.tudengid@lists.ut.ee"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "ltt.tudengid@lists.ut.ee",
+                        "address": "ltt.tudengid@lists.ut.ee"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [
+                {
+                    "emailAddress": {
+                        "name": "ltt.tudengid@lists.ut.ee",
+                        "address": "ltt.tudengid@lists.ut.ee"
+                    }
+                }
+            ],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        }
+!<-=->!
+[
+    {
+        "event_name": "Tartu i-Days",
+        "start_date": "2023-10-27T00:00:00",
+        "end_date": "2023-10-28T23:59:00",
+        "country": "Estonia",
+        "city": "Tartu",
+        "address": "Kastani 42",
+        "room": "",
+        "tags": [
+            "Hackathon", "Deadline", "Registration", "Biotechnology", "Health"
+        ]
+    }
+]

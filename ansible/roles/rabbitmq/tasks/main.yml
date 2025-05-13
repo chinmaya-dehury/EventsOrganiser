@@ -1,0 +1,111 @@
+# Implements the tutorial for RedHat distros: https://www.rabbitmq.com/docs/install-debian
+
+- name: Add Erlang/OTP repository to sources
+  ansible.builtin.deb822_repository:
+    name: erlang
+    uris: https://ppa1.rabbitmq.com/rabbitmq/rabbitmq-erlang/deb/ubuntu
+    signed_by: https://github.com/rabbitmq/signing-keys/releases/download/3.0/cloudsmith.rabbitmq-erlang.E495BB49CC4BBE5B.key
+    types: 
+      - deb
+      - deb-src
+    components:
+      - main
+    architectures: amd64
+    suites:
+      - "{{ ansible_distribution_release }}"
+    state: present
+
+- name: Add RabbitMQ repository to sources
+  ansible.builtin.deb822_repository:
+    name: rabbitmq
+    uris: https://ppa1.rabbitmq.com/rabbitmq/rabbitmq-server/deb/ubuntu
+    signed_by: https://github.com/rabbitmq/signing-keys/releases/download/3.0/cloudsmith.rabbitmq-server.9F4587F226208342.key
+    types: 
+      - deb
+      - deb-src
+    components:
+      - main
+    architectures: amd64
+    suites:
+      - "{{ ansible_distribution_release }}"
+    state: present
+
+- name: Update apt cache
+  ansible.builtin.apt:
+    update_cache: true
+
+- name: Install RabbitMQ and erlang
+  ansible.builtin.apt:
+    state: present
+    name: "{{ item }}"
+  with_items:
+    - erlang-base
+    - erlang-asn1 
+    - erlang-crypto 
+    - erlang-eldap 
+    - erlang-ftp 
+    - erlang-inets
+    - erlang-mnesia 
+    - erlang-os-mon 
+    - erlang-parsetools 
+    - erlang-public-key
+    - erlang-runtime-tools 
+    - erlang-snmp 
+    - erlang-ssl
+    - erlang-syntax-tools 
+    - erlang-tftp 
+    - erlang-tools 
+    - erlang-xmerl
+    - rabbitmq-server
+
+- name: Create env file for RabbitMQ (required to fix startup problems)
+  ansible.builtin.copy:
+    content: HOSTNAME=localhost
+    dest: /etc/rabbitmq/rabbitmq-env.conf
+    owner: root
+    group: root
+    mode: "0644"
+
+- name: Start rabbitmq-server
+  ansible.builtin.systemd:
+    name: rabbitmq-server
+    state: started
+    enabled: true
+
+#- name: Open RabbitMQ related ports
+#  community.general.ufw:
+#    state: enabled
+#    rule: allow
+#    port: "{{ item }}"
+#    proto: tcp
+#  with_items:
+#    - "4369"
+#    - "5551:5552"
+#    - "5671:5672"
+#    - "6000:6500"
+#    - "15672"
+#    - "25672"
+
+- name: Enable RabbitMQ Plugins
+  community.rabbitmq.rabbitmq_plugin:
+    name: "{{ item }}"
+    state: enabled
+  with_items:
+     - rabbitmq_management
+
+- name: Ensure that the vhost /events-parser exists.
+  community.rabbitmq.rabbitmq_vhost:
+    name: /events-parser
+    state: present
+
+- name: Add a new user to RabbitMQ for emails/events parsing
+  community.rabbitmq.rabbitmq_user:
+    user: "events-parser"
+    password: "{{ events_org_secret.events_parser_rabbitmq_password | mandatory }}"
+    tags: management
+    permissions:
+      - vhost: /events-parser
+        read_priv: .*
+        write_priv: .*
+        configure_priv: .*
+    state: present

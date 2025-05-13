@@ -1,0 +1,141 @@
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAGf4bCA\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAGgUAonAAA=",
+    "createdDateTime": "2024-05-07T13:10:11Z",
+    "lastModifiedDateTime": "2024-05-07T13:10:13Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAGf4bCA",
+    "categories": [],
+    "receivedDateTime": "2024-05-07T13:10:12Z",
+    "sentDateTime": "2024-05-07T12:24:51Z",
+    "hasAttachments": false,
+    "internetMessageId": "<PAWPR02MB10449880D8B08BAEB1F22BF69F6E42@PAWPR02MB10449.eurprd02.prod.outlook.com>",
+    "subject": "[ltt tudengid:394] matemaatikaolümpiaad 17. mail",
+    "bodyPreview": "Tere!\n\nReedel, 17. mail kell 14.00-19.00 toimub TÜ matemaatikaolümpiaad Delta ruumis 2048.\nLahendama on oodatud kõik huvilised.\n\nVõistlusel antakse lahendamiseks ülesandeid ülikoolimatemaatikast\n(tavaliselt esinevad teemade seas algebra, analüüs, diskreet",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAAnnCgqUDPlFm-j_YheXnI4=",
+    "conversationIndex": "AQHaoHjPCecKCpQM+UWb+P5iF5ecjg==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAGgUAonAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "other",
+    "body": {
+        "contentType": "text",
+        "content": "Tere!\n\nReedel, 17. mail kell 14.00-19.00 toimub TÜ matemaatikaolümpiaad Delta ruumis 2048.\nLahendama on oodatud kõik huvilised.\n\nVõistlusel antakse lahendamiseks ülesandeid ülikoolimatemaatikast\n(tavaliselt esinevad teemade seas algebra, analüüs, diskreetne\nmatemaatika, tõenäosusteooria).\nVarasemate taoliste võistluste materjale: https://sisu.ut.ee/imc\n\nRegistreerumiseks võiks vastata sellele meilile (aadressil\nindrek.zolk@ut.ee) või märkida end Facebookis\nhttps://www.facebook.com/events/338391372233495\nosalejaks.\n\nJõudu!\nAndrus Kivirähk"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "ltt.tudengid-request@lists.ut.ee",
+            "address": "ltt.tudengid-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Andrus Kivirähk",
+            "address": "ltt.tudengid@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+	"Math",
+	"University of Tartu",
+	"Olympiad",
+	"Volunteering",
+	"Workshop",
+	"Presentation",
+	"Conference",
+	"Mentoring",
+	"Coaching",
+	"Fundraiser",
+	"Sustainability"
+]
+!<-=->!
+[
+	{
+		"event_name": "[VAJA REGISTREERIDA] Tartu \u00dclikooli matemaatikaol\u00fcmpiaad",
+		"start_date": "2024-05-17T14:00:00",
+		"end_date": "2024-05-17T19:00:00",
+		"country": "Eesti",
+		"city": "Tartu",
+		"address": "Narva mnt 18 (Delta keskus)",
+		"room": "ruum 2048",
+		"tags": [
+			"Olympiad",
+			"Math",
+			"University of Tartu"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "T\u00dc Matemaatikaol\u00fcmpiaad 17",
+		"start_date": "2024-05-17T14:00:00+02:00",
+		"end_date": "2024-05-17T19:00:00+02:00",
+		"country": "Estonia",
+		"city": "Tartu",
+		"address": "Delta ruumis 2048",
+		"room": "2048",
+		"tags": [
+			"Math",
+			"Olympiad",
+			"Workshop"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "T\u00dc Matemaatikaol\u00fcmpiaad 17",
+		"start_date": "2024-05-17T14:00:00+00:00",
+		"end_date": "2024-05-17T19:00:00+00:00",
+		"country": "Eesti",
+		"city": "Tartu",
+		"address": "Delta ruumis 2048, Tartu \u00dclikool",
+		"room": "",
+		"tags": [
+			"Math",
+			"Olympiad"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "matemaatikaol\u00f4mpiaad 17.",
+		"start_date": "2024-05-17T14:00:00+02:00",
+		"end_date": "2024-05-17T19:00:00+02:00",
+		"country": "Eesti",
+		"city": "T\u00f4rnu",
+		"address": "Delta ruumis 2048",
+		"room": "",
+		"tags": [
+			"Math",
+			"Olympiad"
+		]
+	}
+]

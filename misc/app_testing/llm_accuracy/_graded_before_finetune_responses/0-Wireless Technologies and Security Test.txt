@@ -1,0 +1,65 @@
+{
+	"expected_response": [],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "Wireless Technologies and Security Test Submission Deadline",
+					"start_date": "2024-12-16T14:50:00+02:00",
+					"end_date": "2024-12-16T14:59:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Student council",
+						"Tech talk",
+						"University of Tartu",
+						"Deadline"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Wireless Technologies and Security Test Submission Deadline",
+					"start_date": "2024-12-16T14:50:00+02:00",
+					"end_date": "2024-12-16T14:59:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Student union"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Wireless Technologies and Security Test",
+					"start_date": "2024-12-16T14:50:00+00:00",
+					"end_date": "2024-12-16T14:50:00+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Quiz"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		}
+	]
+}

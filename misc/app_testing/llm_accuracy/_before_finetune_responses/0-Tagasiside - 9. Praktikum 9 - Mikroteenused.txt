@@ -1,0 +1,208 @@
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAGeNhkD\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAGepIn0AAA=",
+    "createdDateTime": "2024-05-05T10:12:37Z",
+    "lastModifiedDateTime": "2024-05-05T10:12:39Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAGeNhkD",
+    "categories": [],
+    "receivedDateTime": "2024-05-05T10:12:38Z",
+    "sentDateTime": "2024-05-05T10:12:32Z",
+    "hasAttachments": false,
+    "internetMessageId": "<2xpGukgEXSfP4KnuAbYtJF85Z9dMUAuVTtbfnZCBMSE@courses.cs.ut.ee>",
+    "subject": "Feedback - 9. Praktikum 9 - Mikroteenused (Development of web services and distributed systems LTAT.06.018)",
+    "bodyPreview": "Tere\r\n\r\nMikroteenuste kood on ok.  \r\nEkraanipildid ülesandest 9.3 näitavad korrektset olukorda.\r\n\r\nVastus küsimusele ei ole täiesti piisav.\r\nLoengu 5 slaid 26 tabeli põhjal, tegelikult ei tohiks teha POST päringut konkreetse ressursi peal (/raamatu_otsing",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQACu05p4HWg5Or5TuYEZIycU=",
+    "conversationIndex": "AQHantTBK7TmngdaDk6vlO5gRkjJxQ==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAGepIn0AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Tere\r\n\r\nMikroteenuste kood on ok.  \r\nEkraanipildid ülesandest 9.3 näitavad korrektset olukorda.\r\n\r\nVastus küsimusele ei ole täiesti piisav.\r\nLoengu 5 slaid 26 tabeli põhjal, tegelikult ei tohiks teha POST päringut konkreetse ressursi peal (/raamatu_otsing/raamatu_id).  \r\nSamuti need meetodid ei muuda infot andmebaasis, seega eksivad natukene POST meetodi eesmärgi vastu. \r\nÜks võimalus oleks need teha GET meetoditena ja panna argumendid (otsingu sõna) URL parameetritena \"kaasa\" \r\n\r\n\r\nBonus ülesanne on lahendatud korrektselt. \r\n\r\nTulemus 110/100 punkti. \r\n\r\nParimate soovidega,\r\nPeeter Raudsepp\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Peeter Raudsepp",
+            "address": "peeter.raudsepp@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Peeter Raudsepp",
+            "address": "peeter.raudsepp@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Signe Kangur",
+                "address": "signe.kangur@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "Peeter Raudsepp",
+                "address": "peeter.raudsepp@ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+	"Philosophy",
+	"Math",
+	"Engineering",
+	"Coding bootcamp",
+	"Mentoring",
+	"Survey",
+	"Fundraiser",
+	"Quiz",
+	"Student council",
+	"Cybersecurity",
+	"Networking",
+	"Presentation",
+	"Digital marketing",
+	"Music performance",
+	"University of Tartu",
+	"Robotics",
+	"Scholarship",
+	"Conference",
+	"Habits",
+	"Hackathon",
+	"Debate",
+	"Biotech",
+	"Registration",
+	"Chemistry",
+	"Application",
+	"Painting",
+	"Student union",
+	"Deadline",
+	"Film screening",
+	"Manufacturing",
+	"Community service",
+	"Lecture",
+	"Climate workshop",
+	"Urban mobility",
+	"AI",
+	"Convention",
+	"Stipend",
+	"Business Pitch",
+	"Dance night",
+	"Webinar",
+	"Birthday",
+	"Demo day",
+	"Technology",
+	"AI ethics",
+	"Internship",
+	"Psychology",
+	"Art exhibition",
+	"Drawing",
+	"Abstract art",
+	"Party",
+	"Mental health",
+	"Medicine",
+	"Debate club",
+	"Volunteering",
+	"Workshop",
+	"Sustainability",
+	"Training",
+	"Movie",
+	"Thesis defense",
+	"Olympiad",
+	"Finance",
+	"Astronomy",
+	"Poster session",
+	"Elections",
+	"Game jam",
+	"Coaching",
+	"Tech talk",
+	"Power World",
+	"UI/UX workshop"
+]
+!<-=->!
+[]
+!<-=->!
+[
+	{
+		"event_name": "Feedback on Praktikum 9 - Mikroteenused",
+		"start_date": "2024-05-05T10:12:32",
+		"end_date": "2024-05-05T10:12:32",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Presentation",
+			"Deadline",
+			"Mentoring"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "Feedback - Development of web services and distributed systems LTAT.06.018",
+		"start_date": null,
+		"end_date": "2024-05-05T23:59:00+02:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": []
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "Feedback - 9. Praktikum 9 - Mikroteenused",
+		"start_date": "2024-05-05T10:12:32",
+		"end_date": "2024-05-05T23:59:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Deadline",
+			"Presentation",
+			"Presentation",
+			"Mentoring",
+			"Presentation",
+			"Workshop",
+			"Presentation",
+			"Presentation",
+			"Presentation"
+		]
+	},
+	{
+		"event_name": "Bonus \u00dclesanne",
+		"start_date": "2024-05-05T10:12:32",
+		"end_date": "2024-05-05T23:59:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Deadline",
+			"Presentation",
+			"Presentation",
+			"Mentoring",
+			"Presentation",
+			"Workshop",
+			"Presentation",
+			"Presentation",
+			"Presentation"
+		]
+	}
+]

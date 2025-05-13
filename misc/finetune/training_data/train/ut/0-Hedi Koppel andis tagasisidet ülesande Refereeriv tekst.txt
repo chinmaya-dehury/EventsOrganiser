@@ -1,0 +1,71 @@
+in Estonian;
+good example since LLM has to identify that the date mentioned in e-mail isnt really an event
+since its feedback for something that has already been submitted
+!<-=->!
+
+!<-=->!
+kaur.soomets@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAIvL6Y4\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAIvJu32AAA=",
+    "createdDateTime": "2024-12-09T15:54:07Z",
+    "lastModifiedDateTime": "2024-12-10T09:30:52Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAIvL6Y4",
+    "categories": [],
+    "receivedDateTime": "2024-12-09T15:54:07Z",
+    "sentDateTime": "2024-12-09T15:54:03Z",
+    "hasAttachments": false,
+    "internetMessageId": "<6757129b5a0fd9.39598744@moodle.ut.ee>",
+    "subject": "Hedi Koppel andis tagasisidet ülesande Refereeriv tekst (lõputöö osa / vikiartikkel), mustand (tähtaeg 8. detsember) kohta",
+    "bodyPreview": "LTAT.01.004 ->Ülesanne ->Refereeriv tekst (lõputöö osa / vikiartikkel), mustand (tähtaeg 8. detsember)\r\n\r\n________________________________\r\n\r\nHedi Koppel on postitanud tagasisidet teie ülesandega 'Refereeriv tekst (lõputöö osa / vikiartikkel), mustand (täh",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAHvnLL8gWvtKq1F8LtnlBbc=",
+    "conversationIndex": "AQHbSlKUe+csvyBa+0qrUXwu2eUFtw==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAIvJu32AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "LTAT.01.004<https://moodle.ut.ee/course/view.php?id=8925> ->Ülesanne<https://moodle.ut.ee/mod/assign/index.php?id=8925> ->Refereeriv tekst (lõputöö osa / vikiartikkel), mustand (tähtaeg 8. detsember)<https://moodle.ut.ee/mod/assign/view.php?id=620336>\r\n\r\n________________________________\r\n\r\nHedi Koppel on postitanud tagasisidet teie ülesandega 'Refereeriv tekst (lõputöö osa / vikiartikkel), mustand (tähtaeg 8. detsember)' seotud esitatud töö kohta.\r\n\r\nTagasiside on lisatud esitatud tööle<https://moodle.ut.ee/mod/assign/view.php?id=620336>.\r\n\r\n________________________________\r\n\r\nLoed seda teadet e-kirjas? Lae endale mobiiliäpp ja loe teateid äpis<https://download.moodle.org/mobile?version=2022112814.05&lang=et&iosappid=633359593&androidappid=com.moodle.moodlemobile>.\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Hedi Koppel (saidi TÜ Moodle kaudu)",
+            "address": "noreply-moodle@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Hedi Koppel (saidi TÜ Moodle kaudu)",
+            "address": "noreply-moodle@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Kaur Soomets",
+                "address": "kaur.soomets@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "TÜ Moodle",
+                "address": "noreply-moodle@ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[]

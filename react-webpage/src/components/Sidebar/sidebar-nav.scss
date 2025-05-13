@@ -1,0 +1,42 @@
+a.sidebar-link {
+    display: flex;
+    align-items: center;
+
+    text-decoration: inherit;
+    color: inherit;
+
+    padding: 1rem;
+    padding-left: 2.5rem;
+
+    font-size: 24px;
+    font-weight: 600;
+    color: #475569;
+
+    &:hover {
+        background-color: #F6F6F6;
+    }
+
+    &.active {
+        background-color: #E4E4E4;
+    }
+}
+
+.sidebar-btn-icon {
+    color: #000;
+    margin-right: 0.5rem;
+    flex: none;
+}
+
+a.logout-btn {
+    text-decoration: inherit;
+    color: inherit;
+
+    color: #D92828;
+
+    display: inline-flex;
+    align-items: center;
+
+    &:hover {
+        color: #880000;
+    }
+}

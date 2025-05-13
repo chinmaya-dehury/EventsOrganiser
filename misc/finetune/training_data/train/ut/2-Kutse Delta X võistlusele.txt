@@ -1,0 +1,95 @@
+in Estonian;
+another multi-day event that should be split into multiple 1 day events, due to location differences
+!<-=->!
+University of Tartu; Competition; Exhibit; Robotics; Workshop; Finance; Psychology; Exercise
+!<-=->!
+onne.opilane@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAIwb1ix\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAIw8C3mAAA=",
+    "createdDateTime": "2024-12-12T10:08:25Z",
+    "lastModifiedDateTime": "2024-12-12T10:08:27Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAIwb1ix",
+    "categories": [],
+    "receivedDateTime": "2024-12-12T10:08:25Z",
+    "sentDateTime": "2024-12-12T10:08:01Z",
+    "hasAttachments": false,
+    "internetMessageId": "<AS2PR02MB88392EEE30D4CD4AFC94BA28F93F2@AS2PR02MB8839.eurprd02.prod.outlook.com>",
+    "subject": "[ltt tudengid:418] Kutse Delta X võistlusele 13.-14.12.2024",
+    "bodyPreview": "Head loodus-ja täppisteadute valdkonna tudengid!\r\n\r\n\r\n13.–14. detsembril 2024 tähistab õpilaste ja tudengite võistlus Delta X oma viiendat sünnipäeva ning kutsume sind kaasa lööma suurejoonelisel üritusel! Tule ela kaasa parimatele meeskondadele, osale tö",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQADJ7K5YW1AJKi1qsLkLVvpo=",
+    "conversationIndex": "AQHbTHG3MnsrlhbUAkqLWqwuQtW+mrLiSpU9gAAFG3GAAAmYaoAACMuC",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAIw8C3mAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Head loodus-ja täppisteadute valdkonna tudengid!\r\n\r\n\r\n13.–14. detsembril 2024 tähistab õpilaste ja tudengite võistlus Delta X oma viiendat sünnipäeva ning kutsume sind kaasa lööma suurejoonelisel üritusel! Tule ela kaasa parimatele meeskondadele, osale töötubades ning avasta uusi põnevaid võimalusi inseneerias, robootikas ja rahatarkuses.\r\n\r\n\r\n🔹 13. detsember – TÜ Delta keskuses kell 10.00-17.00:\r\n\r\ntoimuvad digilahenduste, ärimudelite ja kaasahaarava matemaatika võistlused.\r\n\r\nLisaks võistlustele korraldame koostöös Swedbankiga töötoad ning paar vaba kohta on veel järgmisesse töötuppa:\r\n\r\nkell 11.00-12.00 \"Kuidas alustada investeerimisega?\" - on suunatud kõigile huvilistele ja registreeruda on võimalik siin:<https://forms.office.com/e/zzyzBWw7PE> <https://forms.office.com/e/zzyzBWw7PE>\r\n\r\n\r\n\r\n🔹 14. detsember – Eesti Maaülikooli spordihoones kell 12.00-18.00:\r\n\r\n•        Inseneeria ja robootika päev: õpilaste ja tudengite robootikavõistlused – robotijalgpall, robotikorvpall ja World Robotics Olympiad!\r\n\r\n•        Avatud messiala, kus saab tutvuda uusimate tehnoloogiliste lahendustega. Kohal on kindlasti vesiniku pannkoogimasin, Kuukpulgur, Tudengisatelliit ja palju muid põnevaid eksponaate!\r\n\r\n•        Põnevad töötoad kõikidele huvilistele! Registreerumine kohapeal!\r\n\r\n•        Üllatused külastajatele.\r\n\r\n👉 Haara pilet (5 eurot) inseneeria ja robootika päevale juba täna. Peaesineja Clicherik & Mäx! Fienta: Delta X robootika ja inseneeria päev<https://fienta.com/et/delta-x-robootika-ja-inseneeria-paev>\r\n\r\n👉Liituge sündmusega, et olla kursis esimesena põneva infoga: https://fb.me/e/2jBwUhyvn\r\n\r\n\r\n\r\nKohtume Delta X-il!\r\n\r\nSigne Vaher, Delta X peakorraldaja\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "ltt.tudengid-request@lists.ut.ee",
+            "address": "ltt.tudengid-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Silver Johanson",
+            "address": "ltt.tudengid@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "Delta X võistlus (1. päev)",
+        "start_date": "2024-12-13T10:00:00",
+        "end_date": "2024-12-13T17:00:00",
+        "country": "Eesti",
+        "city": "Tartu",
+        "address": "Narva mnt 18 (Delta keskus)",
+        "room": "",
+        "tags": [
+            "University of Tartu", "Competition", "Workshop"
+        ]
+    },
+    {
+        "event_name": "Delta X võistlus (2. päev)",
+        "start_date": "2024-12-14T12:00:00",
+        "end_date": "2024-12-14T18:00:00",
+        "country": "Eesti",
+        "city": "Tartu",
+        "address": "F. R. Kreutzwaldi tn 3 (Eesti Maaülikooli spordihoone)",
+        "room": "",
+        "tags": [
+            "University of Tartu", "Competition", "Exhibit", "Robotics", "Workshop"
+        ]
+    }
+]

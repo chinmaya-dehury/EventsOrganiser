@@ -1,0 +1,64 @@
+{
+	"expected_response": [],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "LTAT.06.982 course ends",
+					"start_date": null,
+					"end_date": "2023-05-24T23:59:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"University of Tartu"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "LTAT.06.982 course concludes",
+					"start_date": null,
+					"end_date": "2023-05-26T23:59:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Presentation",
+						"Business Pitch",
+						"Power World"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "[VAJA LEIDMA KR\u00fcSSUSE TOIMUBEGA!] Kr\u00fcssus ootane presentatsioon",
+					"start_date": null,
+					"end_date": "2027-05-10T14:45:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Presentation",
+						"Business Pitch",
+						"Power World"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		}
+	]
+}

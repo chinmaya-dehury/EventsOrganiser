@@ -1,0 +1,167 @@
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAKB4lWb\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAKCcarlAAA=",
+    "createdDateTime": "2025-04-16T07:50:45Z",
+    "lastModifiedDateTime": "2025-04-16T07:50:49Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAKB4lWb",
+    "categories": [],
+    "receivedDateTime": "2025-04-16T07:50:45Z",
+    "sentDateTime": "2025-04-16T07:50:22Z",
+    "hasAttachments": false,
+    "internetMessageId": "<AS2PR02MB8839B51EB514A56F3FFEBE83F9BD2@AS2PR02MB8839.eurprd02.prod.outlook.com>",
+    "subject": "[ltt tudengid:448] Tulekul kaks magistriõppe infotundi, mis sobivad kõikidela LT erialadele / Estonian only",
+    "bodyPreview": "Andmeteaduse magistriõppekava infotund\r\n\r\nAndmeteadus on IT eriala, kus omandatakse oskused töötada andmetega – andmebaasidest analüüsini, andmete visualiseerimisest tehisintellekti rakenduste loomiseni.\r\nAndmeteaduse magistriõppesse on oodatud IT, statis",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAJstz4KXBUboj2Ft7CY79Ag=",
+    "conversationIndex": "AduupBk2my3PgpcFRuiPYW3sJjv0CA==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAKCcarlAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Andmeteaduse magistriõppekava infotund\r\n\r\nAndmeteadus on IT eriala, kus omandatakse oskused töötada andmetega – andmebaasidest analüüsini, andmete visualiseerimisest tehisintellekti rakenduste loomiseni.\r\nAndmeteaduse magistriõppesse<https://ut.ee/et/oppekavad/andmeteadus> on oodatud IT, statistika aga ka kõikide teiste erialade taustaga üliõpilased, kes soovivad omandada IT hariduse ja aitavad ka ise rikastada õppekava oma kogemusega.\r\nKui sa soovid magistrikavast rohkem teada saada, siis oled oodatud infotunnile, kus õppekava juht Jaak Vilo ja magistrant tutvustavad õppekava, vastavad küsimustele ja jagavad soovitusi kandideerimiseks.\r\nInfotund toimub 24. aprillil algusega kl 16 Zoomis. Zoomi lingi edastame registreerunud osalejatele enne ürituse algust.\r\n\r\nPane ennast kirja siin: https://docs.google.com/forms/d/e/1FAIpQLSdrEvR4h4SdJqrULBRqQwncPiN7NEZUXlSp6GizWUUY6ZeACw/viewform\r\n\r\nGümnaasiumi loodusteaduste õpetaja õppekava infotund\r\n\r\nÕppides loodusainete õpetajaks, on sul võimalus anda panus õpilaste kujundamisse vastutustundlikeks maailmakodanikeks. Magistriõppe käigus mõtestad sa pedagoogilistes õppeainetes õpetamise ja õppimise olemust, samuti avastad enda potentsiaali õpilaste ja õppeprotsessi juhtimisel ning soovitud muutuste ellukutsumisel, lähtudes omandatud erialastest teadmistest ja oskustest. Sa saad õpetajakutse, et asuda tööle bioloogia-, keemia-, geograafia- ja/või füüsikaõpetajana põhikoolis ja gümnaasiumis, ning oled väga oodatud kolleeg üle Eesti.\r\n\r\nKui sa soovid magistrikavast rohkem teada saada, siis oled oodatud infotunnile 6. mail kell 15-16 Zoomis.\r\n\r\nRegistreeri ennast infotundi: https://forms.office.com/e/GW8wK6iefe\r\n\r\n\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "ltt.tudengid-request@lists.ut.ee",
+            "address": "ltt.tudengid-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Aleksi Virolainen",
+            "address": "ltt.tudengid@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+	"Briefing",
+	"Master's degree",
+	"Data science",
+	"Gymnasium teaching",
+	"Cybersecurity",
+	"Chemistry",
+	"Psychology",
+	"Book club",
+	"Workshop"
+]
+!<-=->!
+[
+	{
+		"event_name": "Andmeteaduse magistri\u00f5ppekava infotund",
+		"start_date": "2025-04-24T16:00:00",
+		"end_date": "2025-04-24T17:00:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "veebis (Zoom)",
+		"tags": [
+			"Master's degree",
+			"Briefing",
+			"Data science"
+		]
+	},
+	{
+		"event_name": "G\u00fcmnaasiumi loodusteaduste \u00f5petaja \u00f5ppekava infotund",
+		"start_date": "2025-05-06T15:00:00",
+		"end_date": "2025-05-06T16:00:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "veebis (Zoom)",
+		"tags": [
+			"Master's degree",
+			"Briefing",
+			"Gymnasium teaching"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "infotund andmeteaduse magistri\u00f5ppe \u00f5ppekavast",
+		"start_date": "2025-04-06T15:00:00",
+		"end_date": "2025-04-06T16:00:00",
+		"country": "Eesti",
+		"city": "Tartu",
+		"address": "Narva mnt 18 (Delta keskus)",
+		"room": "",
+		"tags": [
+			"Data science",
+			"Master's degree",
+			"Briefing"
+		]
+	},
+	{
+		"event_name": "infotund andmeteaduse magistri\u00f5ppe \u00f5ppekavast (2)",
+		"start_date": "2025-04-06T15:00:00",
+		"end_date": "2025-04-06T16:00:00",
+		"country": "Eesti",
+		"city": "Tartu",
+		"address": "Narva mnt 18 (Delta keskus)",
+		"room": "",
+		"tags": [
+			"Master's degree",
+			"Briefing"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "[VAJA REGISTREERIDA]",
+		"start_date": "2025-04-18T16:00:00",
+		"end_date": "2025-04-18T17:00:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Workshop",
+			"Data science"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "[VAJA REGISTREERIDA]",
+		"start_date": "2025-04-18T15:00:00",
+		"end_date": "2025-04-18T16:00:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Workshop",
+			"Briefing",
+			"Master's degree"
+		]
+	}
+]

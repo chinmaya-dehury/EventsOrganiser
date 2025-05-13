@@ -1,0 +1,275 @@
+{
+	"expected_response": [
+		{
+			"event_name": "Power World training (1/2)",
+			"start_date": "2001-06-27T11:00:00",
+			"end_date": "2001-06-27T18:00:00",
+			"country": "",
+			"city": "",
+			"address": "",
+			"room": "",
+			"tags": [
+				"Training",
+				"Power World"
+			]
+		},
+		{
+			"event_name": "Power World training (2/2)",
+			"start_date": "2001-06-28T11:00:00",
+			"end_date": "2001-06-28T16:00:00",
+			"country": "",
+			"city": "",
+			"address": "",
+			"room": "",
+			"tags": [
+				"Training",
+				"Power World"
+			]
+		}
+	],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "Power World training 1",
+					"start_date": "2001-06-27T11:00:00",
+					"end_date": "2001-06-27T18:00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Training",
+						"Networking"
+					]
+				},
+				{
+					"event_name": "Power World training 2",
+					"start_date": "2001-06-28T11:00:00",
+					"end_date": "2001-06-28T16:00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Training",
+						"Networking"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Power World training 1",
+						"start_date": "2001-06-27T11:00:00",
+						"end_date": "2001-06-27T18:00:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Training",
+							"Networking"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 1.0,
+					"start_date_grade": 1.0,
+					"end_date_grade": 1.0,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.5
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Power World training 2",
+						"start_date": "2001-06-28T11:00:00",
+						"end_date": "2001-06-28T16:00:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Training",
+							"Networking"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 1.0,
+					"start_date_grade": 1.0,
+					"end_date_grade": 1.0,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.5
+				}
+			],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Power World training 1 (06/27 - 18:00)",
+					"start_date": "2001-06-27T11:00:00",
+					"end_date": "2001-06-27T18:00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Training",
+						"Networking"
+					]
+				},
+				{
+					"event_name": "Power World training 2 (06/28 - 12:00)",
+					"start_date": "2001-06-28T11:00:00",
+					"end_date": "2001-06-28T16:00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Training",
+						"Networking"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Power World training 1 (06/27 - 18:00)",
+						"start_date": "2001-06-27T11:00:00",
+						"end_date": "2001-06-27T18:00:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Training",
+							"Networking"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 1.0,
+					"start_date_grade": 1.0,
+					"end_date_grade": 1.0,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.5
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Power World training 2 (06/28 - 12:00)",
+						"start_date": "2001-06-28T11:00:00",
+						"end_date": "2001-06-28T16:00:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Training",
+							"Networking"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 1.0,
+					"start_date_grade": 1.0,
+					"end_date_grade": 1.0,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.5
+				}
+			],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Power World training 1",
+					"start_date": "2001-06-27T11:00:00",
+					"end_date": "2001-06-27T18:00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Training",
+						"Networking"
+					]
+				},
+				{
+					"event_name": "Power World training 2",
+					"start_date": "2001-06-28T11:00:00",
+					"end_date": "2001-06-28T16:00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Training",
+						"Networking"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Power World training 1",
+						"start_date": "2001-06-27T11:00:00",
+						"end_date": "2001-06-27T18:00:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Training",
+							"Networking"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 1.0,
+					"start_date_grade": 1.0,
+					"end_date_grade": 1.0,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 0.5,
+					"categories_grade": 1.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Power World training 2",
+						"start_date": "2001-06-28T11:00:00",
+						"end_date": "2001-06-28T16:00:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Training",
+							"Networking"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 1.0,
+					"start_date_grade": 1.0,
+					"end_date_grade": 1.0,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.5
+				}
+			],
+			"event_finding_grade": 1.0
+		}
+	]
+}

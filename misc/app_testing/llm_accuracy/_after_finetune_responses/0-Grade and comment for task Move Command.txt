@@ -1,0 +1,163 @@
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJrd9M/\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJsBowtAAA=",
+    "createdDateTime": "2025-03-11T11:45:59Z",
+    "lastModifiedDateTime": "2025-03-11T12:21:38Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJrd9M/",
+    "categories": [],
+    "receivedDateTime": "2025-03-11T11:45:59Z",
+    "sentDateTime": "2025-03-11T11:45:54Z",
+    "hasAttachments": false,
+    "internetMessageId": "<8d2c91690578c7f72c23a9843320dc49@cglearn.eu>",
+    "subject": "[CGLearn] Grade and comment for task Move Command",
+    "bodyPreview": "Grade and comment for task Move Command\r\n\r\nThomas Denver graded and commented your solution.\r\n\r\n2 / 2\r\n\r\nWell done\r\n\r\nhttps://cglearn.eu/student/tasks/move-command-7\r\n\r\nRegards,\r\nCGLearn",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAL6QnyaebtFArG-_9ZqWFTc=",
+    "conversationIndex": "AQHbknsovpCfJp5u0UCsb/71mpYVNw==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJsBowtAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Grade and comment for task Move Command\r\n\r\nThomas Denver graded and commented your solution.\r\n\r\n2 / 2\r\n\r\nWell done\r\n\r\nhttps://cglearn.eu/student/tasks/move-command-7\r\n\r\nRegards,\r\nCGLearn\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "CGLearn",
+            "address": "cglearn@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "CGLearn",
+            "address": "cglearn@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Markus Mihkelson",
+                "address": "markus.mihkelson@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "Thomas Denver",
+                "address": "thomas.denver@ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+	"Conference",
+	"Workshop",
+	"Registration",
+	"Data science",
+	"Lecture",
+	"Summer school",
+	"Webinar",
+	"Internship",
+	"Physical exercise",
+	"Coding bootcamp",
+	"Psychology",
+	"Digital marketing",
+	"Walking",
+	"Cybersecurity",
+	"Birthday",
+	"Debate",
+	"Power World",
+	"Student union",
+	"Mental health",
+	"Scholarship",
+	"Business Pitch",
+	"Astronomy",
+	"Party",
+	"Volunteering",
+	"Briefing",
+	"Game night",
+	"Autonomous driving",
+	"Fundraiser",
+	"Demo day",
+	"Chemistry",
+	"Poster session",
+	"Systems science",
+	"University of Tartu",
+	"Engineering",
+	"Book club",
+	"Spring school",
+	"Abstract art",
+	"AI",
+	"Survey",
+	"Coaching",
+	"Quiz",
+	"Art exhibition",
+	"Film screening",
+	"Robotics",
+	"Student council",
+	"Elections",
+	"Urban mobility",
+	"Deadline",
+	"Gymnasium teaching",
+	"Math",
+	"Thesis defense",
+	"Technology",
+	"Painting",
+	"Dance night",
+	"Debate club",
+	"Running",
+	"Sports",
+	"Master's degree",
+	"Hackathon",
+	"Manufacturing",
+	"UI/UX workshop",
+	"Music performance",
+	"Networking",
+	"Enron",
+	"Jogging",
+	"Powerlifting",
+	"Career day",
+	"Sustainability",
+	"Philosophy",
+	"Community service",
+	"Drawing",
+	"Mentoring",
+	"Game jam",
+	"Biology",
+	"Competition",
+	"AI ethics",
+	"Application",
+	"Climate workshop",
+	"Movie",
+	"Finance",
+	"Training",
+	"Music lessons",
+	"Presentation",
+	"Habits",
+	"Olympiad",
+	"Biotech",
+	"Stipend",
+	"Convention",
+	"Tech talk",
+	"Dance club",
+	"Medicine"
+]
+!<-=->!
+[]
+!<-=->!
+[]
+!<-=->!
+[]
+!<-=->!
+[]

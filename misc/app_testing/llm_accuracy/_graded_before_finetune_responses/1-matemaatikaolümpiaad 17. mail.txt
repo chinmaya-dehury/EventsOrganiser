@@ -1,0 +1,154 @@
+{
+	"expected_response": [
+		{
+			"event_name": "[VAJA REGISTREERIDA] Tartu \u00dclikooli matemaatikaol\u00fcmpiaad",
+			"start_date": "2024-05-17T14:00:00",
+			"end_date": "2024-05-17T19:00:00",
+			"country": "Eesti",
+			"city": "Tartu",
+			"address": "Narva mnt 18 (Delta keskus)",
+			"room": "ruum 2048",
+			"tags": [
+				"Olympiad",
+				"Math",
+				"University of Tartu"
+			]
+		}
+	],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "T\u00dc Matemaatikaol\u00fcmpiaad 17",
+					"start_date": "2024-05-17T14:00:00+02:00",
+					"end_date": "2024-05-17T19:00:00+02:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "Delta ruumis 2048",
+					"room": "2048",
+					"tags": [
+						"Math",
+						"Olympiad",
+						"Workshop"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "T\u00dc Matemaatikaol\u00fcmpiaad 17",
+						"start_date": "2024-05-17T14:00:00+02:00",
+						"end_date": "2024-05-17T19:00:00+02:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "Delta ruumis 2048",
+						"room": "2048",
+						"tags": [
+							"Math",
+							"Olympiad",
+							"Workshop"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.7,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 0.5,
+					"room_grade": 1.0,
+					"categories_grade": 0.6666666666666666
+				}
+			],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "T\u00dc Matemaatikaol\u00fcmpiaad 17",
+					"start_date": "2024-05-17T14:00:00+00:00",
+					"end_date": "2024-05-17T19:00:00+00:00",
+					"country": "Eesti",
+					"city": "Tartu",
+					"address": "Delta ruumis 2048, Tartu \u00dclikool",
+					"room": "",
+					"tags": [
+						"Math",
+						"Olympiad"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "T\u00dc Matemaatikaol\u00fcmpiaad 17",
+						"start_date": "2024-05-17T14:00:00+00:00",
+						"end_date": "2024-05-17T19:00:00+00:00",
+						"country": "Eesti",
+						"city": "Tartu",
+						"address": "Delta ruumis 2048, Tartu \u00dclikool",
+						"room": "",
+						"tags": [
+							"Math",
+							"Olympiad"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.7,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 0.5,
+					"room_grade": 0.0,
+					"categories_grade": 0.6666666666666666
+				}
+			],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "matemaatikaol\u00f4mpiaad 17.",
+					"start_date": "2024-05-17T14:00:00+02:00",
+					"end_date": "2024-05-17T19:00:00+02:00",
+					"country": "Eesti",
+					"city": "T\u00f4rnu",
+					"address": "Delta ruumis 2048",
+					"room": "",
+					"tags": [
+						"Math",
+						"Olympiad"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "matemaatikaol\u00f4mpiaad 17.",
+						"start_date": "2024-05-17T14:00:00+02:00",
+						"end_date": "2024-05-17T19:00:00+02:00",
+						"country": "Eesti",
+						"city": "T\u00f4rnu",
+						"address": "Delta ruumis 2048",
+						"room": "",
+						"tags": [
+							"Math",
+							"Olympiad"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.7,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 0.0,
+					"address_grade": 0.5,
+					"room_grade": 0.0,
+					"categories_grade": 0.6666666666666666
+				}
+			],
+			"event_finding_grade": 1.0
+		}
+	]
+}

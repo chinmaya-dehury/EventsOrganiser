@@ -1,0 +1,180 @@
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AACoBkfO\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AACoR0e3AAA=",
+    "createdDateTime": "2023-04-28T15:31:05Z",
+    "lastModifiedDateTime": "2023-04-28T15:31:07Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AACoBkfO",
+    "categories": [],
+    "receivedDateTime": "2023-04-28T15:31:05Z",
+    "sentDateTime": "2023-04-28T15:31:02Z",
+    "hasAttachments": false,
+    "internetMessageId": "<168269586201.127983.16608163570525790076@zulip>",
+    "subject": "PMs with Oskar Murel",
+    "bodyPreview": "niii, vaatasin üle, keerasin korra ka 70 seki peale aga ei andnud midagi\r\n\r\npmst siin on edetabeli \"esmased\" mõõtmised\r\n\r\nimage.png\r\n\r\nvasakul n ja paremal aeg\r\n\r\nselle järgi ta siis leiab üles, et kus umbes see piir on ja hakakb rangemalt mõõtma, kordust",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQABMJtBde9ypOsC5-GRO8NXA=",
+    "conversationIndex": "AQHZeeZyEwm0F173Kk6wLn8ZE7w1cA==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AACoR0e3AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "other",
+    "body": {
+        "contentType": "text",
+        "content": "niii, vaatasin üle, keerasin korra ka 70 seki peale aga ei andnud midagi\r\n\r\npmst siin on edetabeli \"esmased\" mõõtmised\r\n\r\nimage.png<https://cprog.zulip.cs.ut.ee/user_uploads/1/c3/k9Z1uPiA_9sk/image.png>\r\n\r\nvasakul n ja paremal aeg\r\n\r\nselle järgi ta siis leiab üles, et kus umbes see piir on ja hakakb rangemalt mõõtma, kordustega\r\n\r\nehk siis praegu alustab u 400-450 pealt\r\n\r\nja siis ilmselt tuleb mingi edge case sisend, tolle pikkusega, kus läheb kauem\r\n\r\nmis sisend konkreetselt aga ei saa öelda sest esiteks oleks ebaaus ja teiseks need on random gen, tho seediga et kõigil sama\r\n\r\n—\r\nReply in Zulip<https://programmeerimine2.zulip.cs.ut.ee/#narrow/pm-with/891-user891>, or manage email preferences<https://cprog.zulip.cs.ut.ee/#settings/notifications>.\r\n\r\nDo not reply to this email. This Zulip server is not configured to accept incoming emails (help<https://zulip.readthedocs.io/en/latest/production/email-gateway.html>).\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Zulip notifications",
+            "address": "noreply@zulip.cs.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Zulip notifications",
+            "address": "noreply@zulip.cs.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Madis Kõivopuu",
+                "address": "madis.koivopuu@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "noreply@zulip.cs.ut.ee",
+                "address": "noreply@zulip.cs.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+	"Philosophy",
+	"Math",
+	"Engineering",
+	"Coding bootcamp",
+	"Mentoring",
+	"Survey",
+	"Fundraiser",
+	"Quiz",
+	"Student council",
+	"Cybersecurity",
+	"Networking",
+	"Presentation",
+	"Digital marketing",
+	"Music performance",
+	"University of Tartu",
+	"Robotics",
+	"Scholarship",
+	"Conference",
+	"Habits",
+	"Hackathon",
+	"Debate",
+	"Biotech",
+	"Registration",
+	"Chemistry",
+	"Application",
+	"Painting",
+	"Student union",
+	"Deadline",
+	"Film screening",
+	"Manufacturing",
+	"Community service",
+	"Lecture",
+	"Climate workshop",
+	"Urban mobility",
+	"AI",
+	"Convention",
+	"Stipend",
+	"Business Pitch",
+	"Dance night",
+	"Webinar",
+	"Birthday",
+	"Demo day",
+	"Technology",
+	"AI ethics",
+	"Internship",
+	"Psychology",
+	"Art exhibition",
+	"Drawing",
+	"Abstract art",
+	"Party",
+	"Mental health",
+	"Medicine",
+	"Debate club",
+	"Volunteering",
+	"Workshop",
+	"Sustainability",
+	"Training",
+	"Movie",
+	"Thesis defense",
+	"Olympiad",
+	"Finance",
+	"Astronomy",
+	"Poster session",
+	"Elections",
+	"Game jam",
+	"Coaching",
+	"Tech talk",
+	"Power World",
+	"UI/UX workshop"
+]
+!<-=->!
+[]
+!<-=->!
+[
+	{
+		"event_name": "PMs with Oskar Murel",
+		"start_date": null,
+		"end_date": "2023-04-28T23:59:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Training",
+			"Coding bootcamp"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "PMs with Oskar Murel",
+		"start_date": "2023-04-28T15:31:02",
+		"end_date": "2023-04-28T23:59:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Coding bootcamp",
+			"Training"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "PMs with Oskar Murel",
+		"start_date": null,
+		"end_date": "2023-04-28T23:59:59+02:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "tags",
+		"tags": []
+	}
+]

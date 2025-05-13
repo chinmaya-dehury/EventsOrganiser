@@ -1,0 +1,158 @@
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAKB4Yh+\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAKCcardAAA=",
+    "createdDateTime": "2025-04-14T07:28:48Z",
+    "lastModifiedDateTime": "2025-04-14T07:29:06Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAKB4Yh+",
+    "categories": [],
+    "receivedDateTime": "2025-04-14T07:28:49Z",
+    "sentDateTime": "2025-04-14T06:41:45Z",
+    "hasAttachments": true,
+    "internetMessageId": "<VI1PR0202MB3456FD051C8A60957F0B545491B32@VI1PR0202MB3456.eurprd02.prod.outlook.com>",
+    "subject": "[ltt tudengid:447] 51. teoreetilise bioloogia kevadkool ootab osalema",
+    "bodyPreview": "Head tudengid!\r\n\r\nAprilli viimasel nädalavahetusel toimuvas teoreetilise bioloogia kevadkoolis, mis sel aastal kannab pealkirja \"Tervikute teooria\", saab kuulda nii tervikute käsitlemise teooriast ja ajaloost, organismi käsitlemise erinevatest tasemetest ",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQACXZdDZFk8dIuGuzboYfmCU=",
+    "conversationIndex": "AQHbrQcCJdl0NkWTx0i4a7Nuhh+YJQ==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": false,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAKCcardAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Head tudengid!\r\n\r\nAprilli viimasel nädalavahetusel toimuvas teoreetilise bioloogia kevadkoolis<https://kevadkool.elus.ee/>, mis sel aastal kannab pealkirja \"Tervikute teooria\", saab kuulda nii tervikute käsitlemise teooriast ja ajaloost, organismi käsitlemise erinevatest tasemetest kui ka terviklikest ja mitteterviklikest ökosüsteemidest ning determinismist. Juttu teevad Silver Rattasepp, Mario Plaas, Toivo Maimets, Ülo Maiväli ja paljud teised. Iga registreerunud osaleja saab mahuka Schola Biotheoretica kogumiku, kus leidub algupäraseid tekste tervikutest, aga ka tõlkeid Walter Elsasserilt ja Stephen Jay Gouldilt.\r\nSelle aasta teoreetilise bioloogia kevadkoolis kõneldakse tervikutest ja terviklikkusest elussüsteemides alates molekulaar-, raku-, arengu- ja neurobioloogiast kuni eri tasandite ökosüsteemide süsteemibioloogiani. Samuti tuleb esitlusele ettekannete kogumik Schola Biotheoretica, millest leiab nii algupäraseid tekste kui ka väärt tõlkeid.\r\nSel aastal toimub kevadkool 25.–27. aprillil Mokko maahotellis<http://www.mokko.ee/kontakt> Jõgevamaal. Lisaks uutele ja põnevatele teadmistele saab seal oma vaimu kosutada looduses või õhtusel koosviibimisel saunas.\r\nOsalustasu on tudengitele ja doktorantidele 20 eurot, kõigile teistele 40 eurot. Osalustasus sisaldub transport Tartust toimumiskohta ja tagasi, ööbimine, toitlustus ning kevadkooli kogumik.\r\nRegistreeruda paluvad korraldajad enne 17. aprilli siin.<https://docs.google.com/forms/d/e/1FAIpQLScwDXCueaWHB2g7i30pZbimdbDDj2wq7fgH8RR_E_G9LR-hJQ/viewform?usp=header> Loe kevadkoolist ka siit<https://trakyllmaolenjubaj2llekonvekal.blogspot.com/2025/03/argitigu-24-marts-2025-51-teorbio.html?fbclid=IwY2xjawJORAlleHRuA2FlbQIxMQABHXKja_LUhhZhR4Ydy_d_2CFj-5LgWmk91j2YGUL36Y5XqF9jf1lhr7SmWQ_aem_ZF550iczFyeJ5ECqgCME8Q> ja siit<https://landscape.ut.ee/51-teoreetilise-bioloogia-kevadkool-ootab-osa-saama/>. Varasemate kevadkoolidega saab tutvuda siin<https://kevadkool.elus.ee/>.\r\nKorraldusmeeskonda kuuluvad Richard Tamme, Hans Vellama, Lauri Laanisto ja Kalevi Kull. Kevadkooli korraldab Eesti Looduseuurijate Seltsi teoreetilise bioloogia sektsioon<https://www.elus.ee/index.php/teoreetilise-bioloogia-sektsioon/> koos Tartu Ülikooli ja Eesti Maaülikooliga. Kevadkooli toimumist toetab loodusteaduste ja põllumajandusteaduste doktorikool<https://www.doktorikool.ee/et/>.\r\nKevadkooli kava leiate kirja lisast.\r\n\r\nParimate soovidega\r\nSigrid Ots\r\n\r\n\r\n- - -\r\nSigrid Ots\r\nTeadusprojektide peaspetsialist\r\nÖkoloogia ja maateaduste instituut\r\nTartu Ülikool\r\n5563 8082\r\nsigrid.ots@ut.ee\r\n\r\n[University of Tartu Landscape Biodiversity Group]\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "ltt.tudengid-request@lists.ut.ee",
+            "address": "ltt.tudengid-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Kaarel Kull",
+            "address": "ltt.tudengid@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        },
+        {
+            "emailAddress": {
+                "name": "elurikkuse tudengid",
+                "address": "elurikkuse.tudengid@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+	"Deadline",
+	"Registration",
+	"Spring school",
+	"Biology"
+]
+!<-=->!
+[
+	{
+		"event_name": "[VAJA REGISTREERIDA] Teoreetilise bioloogia kevadkool",
+		"start_date": "2025-04-25T00:00:00",
+		"end_date": "2025-04-27T23:59:00",
+		"country": "Eesti",
+		"city": "\u00c4nkk\u00fcla",
+		"address": "Mokko talu",
+		"room": "",
+		"tags": [
+			"Spring school",
+			"Biology"
+		]
+	},
+	{
+		"event_name": "Teoreetilise bioloogia kevadkooli registreerimise t\u00e4htaeg",
+		"start_date": null,
+		"end_date": "2025-04-17T23:59:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Spring school",
+			"Biology",
+			"Deadline",
+			"Registration"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "Application period for the 51. Theoretical Biology Spring School",
+		"start_date": "2025-04-15T00:00:00",
+		"end_date": "2025-04-23T23:59:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Deadline",
+			"Biology",
+			"Registration"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "Application period for the 51. Theoretical Biology Spring School closes",
+		"start_date": "2025-03-22T23:59:00",
+		"end_date": "2025-03-23T23:59:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Deadline",
+			"Registration",
+			"Spring school",
+			"Biology"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "Application period for the 51. Theoretical Biology Spring School closes",
+		"start_date": "2025-03-23T23:59:00",
+		"end_date": "2025-03-30T23:59:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Deadline",
+			"Registration",
+			"Spring school",
+			"Biology"
+		]
+	}
+]

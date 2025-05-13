@@ -1,0 +1,82 @@
+in English
+!<-=->!
+Conference; Volunteering; Fundraiser; Robotics; Cybersecurity; Health; Debate
+!<-=->!
+kalle.kull@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAHlLET8\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAHhlxdJAAA=",
+    "createdDateTime": "2024-08-16T11:43:51Z",
+    "lastModifiedDateTime": "2024-08-21T12:00:37Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAHlLET8",
+    "categories": [],
+    "receivedDateTime": "2024-08-16T11:43:51Z",
+    "sentDateTime": "2024-08-16T11:42:44Z",
+    "hasAttachments": true,
+    "internetMessageId": "<AS8PR02MB68219E22B70551F34685E6F483812@AS8PR02MB6821.eurprd02.prod.outlook.com>",
+    "subject": "[cs.student:1060] Software conference Digit is looking for volunteers!",
+    "bodyPreview": "Hello!\r\n\r\nThe Institute of Computer Science is taking part in Digit, Estonia's leading software conference, taking place in Tartu on October 4th. They are currently looking for volunteers for the event.\r\n\r\nDigit is a place where people who dig IT come tog",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAHWUx-ot9Ejljk-z1SDenEc=",
+    "conversationIndex": "Adrv0Av7dZTH+i30SOWOT/PVIN6cRw==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAHhlxdJAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Hello!\r\n\r\nThe Institute of Computer Science is taking part in Digit, Estonia's leading software conference, taking place in Tartu on October 4th. They are currently looking for volunteers for the event.\r\n\r\nDigit is a place where people who dig IT come together to enjoy technical talks, handy workshops, and networking. The program balances technical talks, dev-team managerial discussions, and personal experiences from renowned international and local peers.\r\n\r\nJoin the Digit volunteer team and help ensure the event runs smoothly. You'll also get the chance to network with influential people in the field and gain new knowledge!\r\nAreas where help is needed:\r\n\r\n  *   registration,\r\n  *   wardrobe,\r\n  *   afterparty,\r\n  *   stages,\r\n  *   seminars,\r\nand many others.\r\n\r\nMore information about Digit and volunteering: https://digit.dev/volunteers/\r\nNB! The application deadline is August 23, 2024.\r\n\r\nIf you are not interested in volunteering but would like to visit the conference, we invite you to use our promo code (dig-it-with-ATI) for 20% off the ticket price.\r\n\r\n\r\nAll the best!\r\n\r\nAndres Kivi\r\nTurundus- ja kommunikatsioonispetsialist / Marketing and Communications Specialist\r\nArvutiteaduse instituut / Institute of Computer Science\r\nTartu Ülikool / University of Tartu\r\n+372 5819 9123\r\n\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "cs.student-request@lists.ut.ee",
+            "address": "cs.student-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Andres Kivi",
+            "address": "cs.student@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "Voluntary work applications - Digit Conference 2025",
+        "start_date": null,
+        "end_date": "2024-08-23T23:59:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Conference", "Volunteering"
+        ]
+    }
+]

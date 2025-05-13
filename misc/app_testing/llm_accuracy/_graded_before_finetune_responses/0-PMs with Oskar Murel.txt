@@ -1,0 +1,59 @@
+{
+	"expected_response": [],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "PMs with Oskar Murel",
+					"start_date": null,
+					"end_date": "2023-04-28T23:59:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Training",
+						"Coding bootcamp"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "PMs with Oskar Murel",
+					"start_date": "2023-04-28T15:31:02",
+					"end_date": "2023-04-28T23:59:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Coding bootcamp",
+						"Training"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "PMs with Oskar Murel",
+					"start_date": null,
+					"end_date": "2023-04-28T23:59:59+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "tags",
+					"tags": []
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		}
+	]
+}

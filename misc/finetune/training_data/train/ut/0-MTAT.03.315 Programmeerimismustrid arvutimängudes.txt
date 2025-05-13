@@ -1,0 +1,62 @@
+in English; technically no events, discord link doesn't expire
+!<-=->!
+
+!<-=->!
+madis.koivopuu@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJb6nKx\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJcdIjKAAA=",
+    "createdDateTime": "2025-02-18T15:50:08Z",
+    "lastModifiedDateTime": "2025-02-19T05:27:55Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJb6nKx",
+    "categories": [],
+    "receivedDateTime": "2025-02-18T15:50:09Z",
+    "sentDateTime": "2025-02-18T15:50:05Z",
+    "hasAttachments": false,
+    "internetMessageId": "<is.2E6D97E6D580C94BE0630100007F7EE5@ut.ee>",
+    "subject": "MTAT.03.315 Programmeerimismustrid arvutimängudes",
+    "bodyPreview": "Hey students,\r\n\r\nI will add new Discord invitation to our server for those who haven't still joined: https://discord.gg/Ts3rWtFrwd\r\n\r\nBest regards,\r\nJarek",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAHv4JOikK0tJg8iugF29cfE=",
+    "conversationIndex": "AQHbghzJe/gk6KQrS0mDyK6AXb1x8Q==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJcdIjKAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Hey students,\r\n\r\nI will add new Discord invitation to our server for those who haven't still joined: https://discord.gg/aaBBccDDee\r\n\r\nBest regards,\r\nJarek\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Jarek Uibo ",
+            "address": "jarek.uibo@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Jarek Uibo ",
+            "address": "jarek.uibo@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Madis Kõivopuu",
+                "address": "madis.koivopuu@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[]

@@ -1,0 +1,195 @@
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAEbtOp+\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAEcDwnYAAA=",
+    "createdDateTime": "2023-10-20T09:44:23Z",
+    "lastModifiedDateTime": "2023-10-20T09:44:25Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAEbtOp+",
+    "categories": [],
+    "receivedDateTime": "2023-10-20T09:44:23Z",
+    "sentDateTime": "2023-10-20T09:44:19Z",
+    "hasAttachments": false,
+    "internetMessageId": "<fb16df84c2712abc87520f0cc84c6d58d2af77cb9506f02641489ef386a998a4@moodle.ut.ee>",
+    "subject": "LTAT.01.511: Praktikumide esitused ja hinded",
+    "bodyPreview": "LTAT.01.511 » Foorumid » Teated õppijatele (uudistefoorum) » Praktikumide esitused ja hinded\r\n\r\nPraktikumide esitused ja hinded\r\nRanel Kosk – 20.10.2023 12:15:14\r\n\r\n\r\nTere!\r\nTuletan meelde, et aine LTAT.01.511 operatsioonisüsteemid on teil vaja iganädalase",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQANkWk5GG88JOuq_4ME12HZU=",
+    "conversationIndex": "AQHaAzoB2RaTkYbzwk66r7gwTXYdlQ==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAEcDwnYAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "other",
+    "body": {
+        "contentType": "text",
+        "content": "LTAT.01.511<https://moodle.ut.ee/course/view.php?id=5719421> » Foorumid<https://moodle.ut.ee/mod/forum/index.php?id=5719421> » Teated õppijatele (uudistefoorum)<https://moodle.ut.ee/mod/forum/view.php?f=19437> » Praktikumide esitused ja hinded<https://moodle.ut.ee/mod/forum/discuss.php?d=5719421>\r\n[Ranel Kosk pilt]<https://moodle.ut.ee/user/view.php?id=5719421&course=5719421>\r\nPraktikumide esitused ja hinded\r\nRanel Kosk<https://moodle.ut.ee/user/view.php?id=5719421&course=5719421> – 20.10.2023 12:15:14\r\n\r\n\r\nTere!\r\nTuletan meelde, et aine LTAT.01.511 operatsioonisüsteemid on teil vaja iganädalaselt esitada praktikumide lahendusi (dokumentatsiooni) ja lahendada moodle teste loenguteemade kohta. Praktikumide juhendid asuvad endiselt courses keskkonnas https://courses.cs.ut.ee/2023/os/fall/Main/Praktikumid ning iga praktikumi lõpus on vaja esitada link dokumentatsioonile ka moodle keskkonnas. Kui teil moodle keskkonnas linki esitatud ei ole, siis ei oska me teie tööd hindamiseks otsida ehk me ei saa teid hinnata. Kontrollige enda hindeid moodle keskkonnas https://moodle.ut.ee/course/view.php?id=5719421 (Hinded), et vältida hilisemaid vaidlusi ja probleeme hinnetega. Hetkeseisuga on hinnatud kõik meile laekunud praktikumid 1 - 3 ja tagasisidet näete enda esituse juures või personaalses hindetabelis. Praktikumide hindeid oodake enamasti 2 nädala jooksul pärast esitamise tähtaega.\r\n\r\nHetkeseisuga on ka kõikides praktikumirühmades piisavalt vabu kohti, et kõik huvilised saaksid soovi korral endale sobival ajal praktikumis kohapeal osaleda või probleemide korral tulla abi küsima praktikumijuhendajatelt.\r\n\r\nPraktikumidega ja nende hindamisega seoses probleemide ja küsimuste korral  kirjutage ranel.kosk@ut.ee\r\n\r\nRanel Kosk\r\nTartu Ülikool\r\narvutiteaduse instituut\r\nhajussüsteemide nooremlektor\r\nranel.kosk@ut.ee\r\n\r\n\r\nVasta <https://moodle.ut.ee/mod/forum/post.php?reply=19381>\r\nKuva see postitus kontekstis <https://moodle.ut.ee/mod/forum/discuss.php?d=5719421#p2918595>\r\n________________________________\r\nSaate muuta enda foorumi kokkuvõtte-eelistusi<https://moodle.ut.ee/mod/forum/index.php?id=5719421>\r\n\r\nLoed seda teadet e-kirjas? Lae endale mobiiliäpp ja loe teateid äpis<https://download.moodle.org/mobile?version=2022112806&lang=et&iosappid=5719421&androidappid=com.moodle.moodlemobile>.\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Ranel Kosk (saidi TÜ Moodle kaudu)",
+            "address": "noreply-moodle@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Ranel Kosk (saidi TÜ Moodle kaudu)",
+            "address": "noreply-moodle@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Kristjan Nigul",
+                "address": "kristjan.nigul@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "TÜ Moodle",
+                "address": "noreply-moodle@ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+	"Conference",
+	"Workshop",
+	"Registration",
+	"Data science",
+	"Lecture",
+	"Summer school",
+	"Webinar",
+	"Internship",
+	"Physical exercise",
+	"Coding bootcamp",
+	"Psychology",
+	"Digital marketing",
+	"Walking",
+	"Cybersecurity",
+	"Birthday",
+	"Debate",
+	"Power World",
+	"Student union",
+	"Mental health",
+	"Scholarship",
+	"Business Pitch",
+	"Astronomy",
+	"Party",
+	"Volunteering",
+	"Briefing",
+	"Game night",
+	"Autonomous driving",
+	"Fundraiser",
+	"Demo day",
+	"Chemistry",
+	"Poster session",
+	"Systems science",
+	"University of Tartu",
+	"Engineering",
+	"Book club",
+	"Spring school",
+	"Abstract art",
+	"AI",
+	"Survey",
+	"Coaching",
+	"Quiz",
+	"Art exhibition",
+	"Film screening",
+	"Robotics",
+	"Student council",
+	"Elections",
+	"Urban mobility",
+	"Deadline",
+	"Gymnasium teaching",
+	"Math",
+	"Thesis defense",
+	"Technology",
+	"Painting",
+	"Dance night",
+	"Debate club",
+	"Running",
+	"Sports",
+	"Master's degree",
+	"Hackathon",
+	"Manufacturing",
+	"UI/UX workshop",
+	"Music performance",
+	"Networking",
+	"Enron",
+	"Jogging",
+	"Powerlifting",
+	"Career day",
+	"Sustainability",
+	"Philosophy",
+	"Community service",
+	"Drawing",
+	"Mentoring",
+	"Game jam",
+	"Biology",
+	"Competition",
+	"AI ethics",
+	"Application",
+	"Climate workshop",
+	"Movie",
+	"Finance",
+	"Training",
+	"Music lessons",
+	"Presentation",
+	"Habits",
+	"Olympiad",
+	"Biotech",
+	"Stipend",
+	"Convention",
+	"Tech talk",
+	"Dance club",
+	"Medicine"
+]
+!<-=->!
+[]
+!<-=->!
+[]
+!<-=->!
+[]
+!<-=->!
+[
+	{
+		"event_name": "LTAT.01.511 praktikumi docment lahenduse esitamine - hinded",
+		"start_date": null,
+		"end_date": "2023-10-27T23:59:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Deadline",
+			"University of Tartu",
+			"Application",
+			"Math",
+			"Career day"
+		]
+	},
+	{
+		"event_name": "LTAT.01.511 praktikumi test lahenduse loomine - vaja",
+		"start_date": null,
+		"end_date": "2023-10-28T23:59:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"University of Tartu",
+			"Application",
+			"Math",
+			"Career day"
+		]
+	}
+]

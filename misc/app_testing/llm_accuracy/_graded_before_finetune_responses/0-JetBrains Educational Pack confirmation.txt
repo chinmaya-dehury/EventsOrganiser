@@ -1,0 +1,60 @@
+{
+	"expected_response": [],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "Registration for JetBrains Educational Pack",
+					"start_date": "2024-03-05T14:06:10+00:00",
+					"end_date": "2024-03-05T23:59:00+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Registration",
+						"Jogging"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Registration confirmation for JetBrains Educational Pack",
+					"start_date": null,
+					"end_date": "2024-03-05T23:59:00+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "tags",
+					"tags": []
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Registration for JetBrains Educational Pack",
+					"start_date": "2024-03-05T14:06:10+00:00",
+					"end_date": "2024-03-05T23:59:59+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Registration",
+						"Deadline",
+						"Jogging"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		}
+	]
+}

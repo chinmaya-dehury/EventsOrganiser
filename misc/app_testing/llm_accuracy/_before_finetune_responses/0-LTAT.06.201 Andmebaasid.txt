@@ -1,0 +1,212 @@
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AADJ/veC\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AADKSahuAAA=",
+    "createdDateTime": "2023-06-18T12:35:15Z",
+    "lastModifiedDateTime": "2023-06-18T12:35:17Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AADJ/veC",
+    "categories": [],
+    "receivedDateTime": "2023-06-18T12:35:15Z",
+    "sentDateTime": "2023-06-18T12:35:12Z",
+    "hasAttachments": false,
+    "internetMessageId": "<19.76.07922.00AFE846@frida.it.da.ut.ee>",
+    "subject": "LTAT.06.201 Andmebaasid",
+    "bodyPreview": "Tere\r\nEnamuse jaoks teist on aine lõppenud. Aitäh teile kõigile sel teekonnal osalemast ja eriliselt suur tänu neile, kes täitsid ankeete, kirjutasid kas ülesannete või eksami kohta. Selle alusel saame ainet edasi arendada, sest sellisel kujul on see aine",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAOCLmYL-9LdLvfRGfynLLrM=",
+    "conversationIndex": "AQHZoeFV4IuZgv/0t0u99EZ/Kcsusw==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AADKSahuAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Tere\r\nEnamuse jaoks teist on aine lõppenud. Aitäh teile kõigile sel teekonnal osalemast ja eriliselt suur tänu neile, kes täitsid ankeete, kirjutasid kas ülesannete või eksami kohta. Selle alusel saame ainet edasi arendada, sest sellisel kujul on see aine alles teist aastat ning PostgreSQL’ga lausa esimest aastat. Ehk siis arenemisruumi on küllaga.\r\nEelmisel nädalal oli kolmas eksamiaeg ning eksami sooritajaid oli sel korral kõige vähem – 58. Eksami keskmised punktid liiguvad aga tõusvas tempos. Sel korral on keskmine punktisumma 20,51. Aga sarnaselt kahe esimese korraga ikka olid kõige paremini lahendatud mudeli koostamise ülesanne ja relatsioonalgebra ning kõige vähem saadi punkte teisenduse eest relatsiooniliseks mudeliks ja normaalkujude määramise eest.  \r\nÕISi andmetel on teist 65 lõpetanud aine suurepäraselt ja 99 väga hästi ehk siis umbes pooled ainel osalenutest. Aga ka kiitust väärivad ka kõik teised, sest õppimine ei lõpe ju eksamiga ning usun, et kui praegu eksamit teeksite, siis saaksite juba paremaid punkte. Neil, kel eksam totaalselt ebaõnnestus või kes ei saanud mingil põhjusel korralisel ajal eksamit sooritada, on homme korduseksami võimalus. Kõigil, kes on end registreerinud  korduseksamile, palun tulla ruumi 1008 sõltumata sellest, millisesse ruumi registreerusite.\r\nKõigile teistele mõnusat suveilmade nautimist\r\nOskar Katt       \r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Oskar Katt ",
+            "address": "oskar.katt@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Oskar Katt ",
+            "address": "oskar.katt@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Jaagup Tamson",
+                "address": "jaagup.tamson@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+	"Philosophy",
+	"Math",
+	"Engineering",
+	"Coding bootcamp",
+	"Mentoring",
+	"Survey",
+	"Fundraiser",
+	"Quiz",
+	"Student council",
+	"Cybersecurity",
+	"Networking",
+	"Presentation",
+	"Digital marketing",
+	"Music performance",
+	"University of Tartu",
+	"Robotics",
+	"Scholarship",
+	"Conference",
+	"Habits",
+	"Hackathon",
+	"Debate",
+	"Biotech",
+	"Registration",
+	"Chemistry",
+	"Application",
+	"Painting",
+	"Student union",
+	"Deadline",
+	"Film screening",
+	"Manufacturing",
+	"Community service",
+	"Lecture",
+	"Climate workshop",
+	"Urban mobility",
+	"AI",
+	"Convention",
+	"Stipend",
+	"Business Pitch",
+	"Dance night",
+	"Webinar",
+	"Birthday",
+	"Demo day",
+	"Technology",
+	"AI ethics",
+	"Internship",
+	"Psychology",
+	"Art exhibition",
+	"Drawing",
+	"Abstract art",
+	"Party",
+	"Mental health",
+	"Medicine",
+	"Debate club",
+	"Volunteering",
+	"Workshop",
+	"Sustainability",
+	"Training",
+	"Movie",
+	"Thesis defense",
+	"Olympiad",
+	"Finance",
+	"Astronomy",
+	"Poster session",
+	"Elections",
+	"Game jam",
+	"Coaching",
+	"Tech talk",
+	"Power World",
+	"UI/UX workshop"
+]
+!<-=->!
+[]
+!<-=->!
+[
+	{
+		"event_name": "LTAT.06.201 Andmebaaside l\u00f5ppemise teatamine",
+		"start_date": "2023-06-18T12:35:12",
+		"end_date": "2023-06-18T12:35:12",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": []
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "Registration deadline for Kordusekamis",
+		"start_date": "2023-06-25T00:00:00",
+		"end_date": "2023-07-01T23:59:59",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Registration",
+			"Deadline"
+		]
+	},
+	{
+		"event_name": "Summer break",
+		"start_date": "2023-06-19T00:00:00",
+		"end_date": "2023-08-21T23:59:59",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Survey"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "LTAT.06.201 Andmebaasid",
+		"start_date": "2023-06-19T00:00:00+00:00",
+		"end_date": "2023-06-19T23:59:00+00:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Workshop",
+			"Registration",
+			"Deadline"
+		]
+	},
+	{
+		"event_name": "Kordusekamid",
+		"start_date": "2023-06-19T00:00:00+00:00",
+		"end_date": "2023-06-19T23:59:00+00:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "1008",
+		"tags": [
+			"Registration",
+			"Deadline"
+		]
+	},
+	{
+		"event_name": "Suvetamise nautimine",
+		"start_date": "2023-06-19T00:00:00+00:00",
+		"end_date": "2023-06-19T23:59:00+00:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Networking",
+			"Community service"
+		]
+	}
+]

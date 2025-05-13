@@ -1,0 +1,444 @@
+{
+	"expected_response": [
+		{
+			"event_name": "GARP 2002 Convention",
+			"start_date": "2002-02-11T00:00:00",
+			"end_date": "2002-02-14T23:59:00",
+			"country": "United States",
+			"city": "New York City",
+			"address": "East 45th Street",
+			"room": "",
+			"tags": [
+				"Convention",
+				"Presentation"
+			]
+		},
+		{
+			"event_name": "GARP 2002 speaker presentation submission deadline",
+			"start_date": null,
+			"end_date": "2001-12-14T23:59:00",
+			"country": "",
+			"city": "",
+			"address": "",
+			"room": "",
+			"tags": [
+				"Deadline",
+				"Presentation"
+			]
+		}
+	],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "GARP 2002 Convention",
+					"start_date": "2002-02-11T00:00:00+00:00",
+					"end_date": "2002-02-14T23:59:00+00:00",
+					"country": "United States",
+					"city": "New York",
+					"address": "Roosevelt Hotel",
+					"room": "",
+					"tags": [
+						"Convention"
+					]
+				},
+				{
+					"event_name": "Deadline for speaker presentations",
+					"start_date": "2001-12-14T00:00:00-08:00",
+					"end_date": "2001-12-14T23:59:00-08:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "GARP 2002 Convention",
+						"start_date": "2002-02-11T00:00:00+00:00",
+						"end_date": "2002-02-14T23:59:00+00:00",
+						"country": "United States",
+						"city": "New York",
+						"address": "Roosevelt Hotel",
+						"room": "",
+						"tags": [
+							"Convention"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 1.0,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 0.8,
+					"address_grade": 0.5,
+					"room_grade": 1.0,
+					"categories_grade": 0.5
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Deadline for speaker presentations",
+						"start_date": "2001-12-14T00:00:00-08:00",
+						"end_date": "2001-12-14T23:59:00-08:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Deadline"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.8,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.5
+				}
+			],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "GARP 2002 Convention",
+					"start_date": "2002-02-11T00:00:00+00:00",
+					"end_date": "2002-02-14T23:59:59+00:00",
+					"country": "New York",
+					"city": "New York",
+					"address": "Roosevelt Hotel",
+					"room": "",
+					"tags": [
+						"Convention"
+					]
+				},
+				{
+					"event_name": "Speaker Presentation Reminder",
+					"start_date": "2001-12-14T00:00:00+00:00",
+					"end_date": "2001-12-14T23:59:59+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline"
+					]
+				},
+				{
+					"event_name": "Speaker Checklist Reminder",
+					"start_date": "2001-12-14T00:00:00+00:00",
+					"end_date": "2001-12-14T23:59:59+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline"
+					]
+				},
+				{
+					"event_name": "Hotel Form Request",
+					"start_date": "2001-12-14T00:00:00+00:00",
+					"end_date": "2001-12-14T23:59:59+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "GARP 2002 Convention",
+						"start_date": "2002-02-11T00:00:00+00:00",
+						"end_date": "2002-02-14T23:59:59+00:00",
+						"country": "New York",
+						"city": "New York",
+						"address": "Roosevelt Hotel",
+						"room": "",
+						"tags": [
+							"Convention"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 1.0,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 0.0,
+					"city_grade": 0.8,
+					"address_grade": 0.5,
+					"room_grade": 1.0,
+					"categories_grade": 0.5
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Speaker Presentation Reminder",
+						"start_date": "2001-12-14T00:00:00+00:00",
+						"end_date": "2001-12-14T23:59:59+00:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Deadline"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.8,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.5
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Speaker Checklist Reminder",
+						"start_date": "2001-12-14T00:00:00+00:00",
+						"end_date": "2001-12-14T23:59:59+00:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Deadline"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Hotel Form Request",
+						"start_date": "2001-12-14T00:00:00+00:00",
+						"end_date": "2001-12-14T23:59:59+00:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Deadline"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				}
+			],
+			"event_finding_grade": 0.5
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "GARP 2002 Convention: Speaker Presentation Deadline",
+					"start_date": "2002-02-14T00:00:00-08:00",
+					"end_date": "2002-02-14T23:59:00-08:00",
+					"country": "United States",
+					"city": "New York",
+					"address": "Roosevelt Hotel",
+					"room": "",
+					"tags": [
+						"Convention",
+						"Deadline"
+					]
+				},
+				{
+					"event_name": "GARP 2002 Convention: Speaker Presentation Deadline",
+					"start_date": "2002-02-15T00:00:00-08:00",
+					"end_date": "2002-02-15T23:59:00-08:00",
+					"country": "United States",
+					"city": "New York",
+					"address": "Roosevelt Hotel",
+					"room": "",
+					"tags": [
+						"Convention",
+						"Deadline"
+					]
+				},
+				{
+					"event_name": "GARP 2002 Convention: Speaker Check-in",
+					"start_date": "2002-02-14T00:00:00-08:00",
+					"end_date": "2002-02-14T23:59:00-08:00",
+					"country": "United States",
+					"city": "New York",
+					"address": "Roosevelt Hotel",
+					"room": "",
+					"tags": [
+						"Convention",
+						"Deadline"
+					]
+				},
+				{
+					"event_name": "GARP 2002 Convention: Hotel Form",
+					"start_date": "2002-02-14T00:00:00-08:00",
+					"end_date": "2002-02-14T23:59:00-08:00",
+					"country": "United States",
+					"city": "New York",
+					"address": "Roosevelt Hotel",
+					"room": "",
+					"tags": [
+						"Convention"
+					]
+				},
+				{
+					"event_name": "GARP 2002 Convention: Brochure Distribution",
+					"start_date": "2001-12-14T00:00:00-08:00",
+					"end_date": "2002-02-14T23:59:00-08:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Convention"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "GARP 2002 Convention: Speaker Presentation Deadline",
+						"start_date": "2002-02-14T00:00:00-08:00",
+						"end_date": "2002-02-14T23:59:00-08:00",
+						"country": "United States",
+						"city": "New York",
+						"address": "Roosevelt Hotel",
+						"room": "",
+						"tags": [
+							"Convention",
+							"Deadline"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 1.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 0.8,
+					"address_grade": 0.5,
+					"room_grade": 1.0,
+					"categories_grade": 0.5
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "GARP 2002 Convention: Speaker Presentation Deadline",
+						"start_date": "2002-02-15T00:00:00-08:00",
+						"end_date": "2002-02-15T23:59:00-08:00",
+						"country": "United States",
+						"city": "New York",
+						"address": "Roosevelt Hotel",
+						"room": "",
+						"tags": [
+							"Convention",
+							"Deadline"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 1.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 0.8,
+					"address_grade": 0.5,
+					"room_grade": 0.5,
+					"categories_grade": 0.5
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "GARP 2002 Convention: Speaker Check-in",
+						"start_date": "2002-02-14T00:00:00-08:00",
+						"end_date": "2002-02-14T23:59:00-08:00",
+						"country": "United States",
+						"city": "New York",
+						"address": "Roosevelt Hotel",
+						"room": "",
+						"tags": [
+							"Convention",
+							"Deadline"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "GARP 2002 Convention: Hotel Form",
+						"start_date": "2002-02-14T00:00:00-08:00",
+						"end_date": "2002-02-14T23:59:00-08:00",
+						"country": "United States",
+						"city": "New York",
+						"address": "Roosevelt Hotel",
+						"room": "",
+						"tags": [
+							"Convention"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "GARP 2002 Convention: Brochure Distribution",
+						"start_date": "2001-12-14T00:00:00-08:00",
+						"end_date": "2002-02-14T23:59:00-08:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Convention"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				}
+			],
+			"event_finding_grade": 0.2
+		}
+	]
+}

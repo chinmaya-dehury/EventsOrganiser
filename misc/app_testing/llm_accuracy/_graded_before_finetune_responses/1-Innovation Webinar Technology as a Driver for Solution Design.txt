@@ -1,0 +1,168 @@
+{
+	"expected_response": [
+		{
+			"event_name": "Webinar - Technology as a Driver for Solution Design",
+			"start_date": "2024-09-16T00:00:00",
+			"end_date": "2024-09-17T23:59:00",
+			"country": "",
+			"city": "",
+			"address": "",
+			"room": "",
+			"tags": [
+				"Webinar",
+				"Manufacturing",
+				"University of Tartu"
+			]
+		}
+	],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "Innovation Webinar: Technology as a Driver for Solution Design",
+					"start_date": "2024-09-16T00:00:00+00:00",
+					"end_date": "2024-09-17T23:59:59+00:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "University of Tartu, Institute of Technology",
+					"room": "",
+					"tags": [
+						"Webinar",
+						"Manufacturing",
+						"University of Tartu",
+						"Engineering",
+						"Tech talk"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Innovation Webinar: Technology as a Driver for Solution Design",
+						"start_date": "2024-09-16T00:00:00+00:00",
+						"end_date": "2024-09-17T23:59:59+00:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "University of Tartu, Institute of Technology",
+						"room": "",
+						"tags": [
+							"Webinar",
+							"Manufacturing",
+							"University of Tartu",
+							"Engineering",
+							"Tech talk"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.8,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.6
+				}
+			],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Innovation Webinar: Technology as a Driver for Solution Design",
+					"start_date": "2024-09-16T00:00:00+00:00",
+					"end_date": "2024-09-17T23:59:59+00:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "University of Tartu, Institute of Technology",
+					"room": "",
+					"tags": [
+						"Webinar",
+						"Manufacturing",
+						"Tech talk",
+						"University of Tartu",
+						"Engineering"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Innovation Webinar: Technology as a Driver for Solution Design",
+						"start_date": "2024-09-16T00:00:00+00:00",
+						"end_date": "2024-09-17T23:59:59+00:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "University of Tartu, Institute of Technology",
+						"room": "",
+						"tags": [
+							"Webinar",
+							"Manufacturing",
+							"Tech talk",
+							"University of Tartu",
+							"Engineering"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.8,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.6
+				}
+			],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Innovation Webinar: Technology as a Driver for Solution Design",
+					"start_date": "2024-09-16T00:00:00+02:00",
+					"end_date": "2024-09-17T23:59:59+02:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "University of Tartu, Institute of Technology",
+					"room": "Not specified",
+					"tags": [
+						"Webinar",
+						"Manufacturing",
+						"Tech talk",
+						"University of Tartu"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Innovation Webinar: Technology as a Driver for Solution Design",
+						"start_date": "2024-09-16T00:00:00+02:00",
+						"end_date": "2024-09-17T23:59:59+02:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "University of Tartu, Institute of Technology",
+						"room": "Not specified",
+						"tags": [
+							"Webinar",
+							"Manufacturing",
+							"Tech talk",
+							"University of Tartu"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.8,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.8
+				}
+			],
+			"event_finding_grade": 1.0
+		}
+	]
+}

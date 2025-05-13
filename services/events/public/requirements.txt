@@ -1,0 +1,9 @@
+aiomysql
+fastapi[standard]==0.115.0
+fastapi-pagination==0.12.29
+icalendar
+python-dotenv
+pydantic==2.9.2
+pyjwt
+aiomysql==0.2.0
+sqlalchemy==2.0.36

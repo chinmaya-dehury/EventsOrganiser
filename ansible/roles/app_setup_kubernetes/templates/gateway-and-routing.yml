@@ -1,0 +1,47 @@
+apiVersion: gateway.networking.k8s.io/v1
+kind: Gateway
+metadata:
+  name: http-gateway
+  namespace: events-organiser
+spec:
+  gatewayClassName: nginx
+  listeners:
+  - name: http
+    protocol: HTTP
+    port: 80
+---
+apiVersion: gateway.networking.k8s.io/v1
+kind: HTTPRoute
+metadata:
+  name: http-router
+  namespace: events-organiser
+spec:
+  parentRefs:
+  - name: http-gateway
+    namespace: events-organiser
+  hostnames:
+  - "localhost"
+  - "{{ domain_name }}"
+  - "www.{{ domain_name }}"
+  rules:
+  - matches:
+    - path:
+        type: PathPrefix
+        value: /api/events
+    backendRefs:
+    - name: events-public-svc
+      port: 80
+  - matches:
+    - path:
+        type: PathPrefix
+        value: /api/auth
+    backendRefs:
+    - name: auth-public-svc
+      port: 80
+  - matches:
+    - path:
+        type: PathPrefix
+        value: /api/microsoft
+    backendRefs:
+    - name: microsoft-public-svc
+      port: 80

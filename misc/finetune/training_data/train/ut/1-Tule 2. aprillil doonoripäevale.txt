@@ -1,0 +1,90 @@
+in Estonian; has events
+
+include some unrelated tags so that the LLM doesn't just pick everything u give it
+!<-=->!
+University of Tartu; Tartu University Hospital; Hackathon; Environment; Registration; Festival; Birthday
+!<-=->!
+krista.puusepp@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJzDeJK\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJzmpq4AAA=",
+    "createdDateTime": "2025-03-25T12:46:12Z",
+    "lastModifiedDateTime": "2025-03-25T12:46:14Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJzDeJK",
+    "categories": [],
+    "receivedDateTime": "2025-03-25T12:46:13Z",
+    "sentDateTime": "2025-03-25T12:45:58Z",
+    "hasAttachments": false,
+    "internetMessageId": "<GV1PR02MB10720304D4FF1643EDB477E1680A72@GV1PR02MB10720.eurprd02.prod.outlook.com>",
+    "subject": "[cs.student:1117] Tule 2. aprillil doonoripäevale!",
+    "bodyPreview": "Tere kõigile!\r\n\r\nTartu Ülikool ja TÜ kliinikumi verekeskus kutsuvad ülikooliperet kolmapäeval, 2. aprillil kella 10.30–14.30 Delta keskusesse doonoripäevale. Vestlus vereandjaga toimub ruumis 1024 ja vere loovutamine ruumis 1030.\r\n\r\nTule ",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAOMNdB0baOFHrKcpExKMfto=",
+    "conversationIndex": "AQHbnYNp4w10HRto4UespykTEox+2g==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJzmpq4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "\r\nTere kõigile!\r\n\r\nTartu Ülikool ja TÜ kliinikumi verekeskus kutsuvad ülikooliperet kolmapäeval, 2. aprillil kella 10.30–14.30 Delta keskusesse doonoripäevale. Vestlus vereandjaga toimub ruumis 1024 ja vere loovutamine ruumis 1030.\r\n\r\nTule üksi või sõpradega ja teeme koos head! Täpsem info ülikooli kodulehel<https://ut.ee/et/uudis/tule-2-aprillil-doonoripaevale>.\r\n\r\nParimate soovidega\r\nAleksandr Narovaja\r\nturundus- ja kommunikatsioonijuht\r\narvutiteaduse instituut\r\nTartu Ülikool\r\n+372 737 5918<tel:+3727375918>\r\nwww.cs.ut.ee<http://www.cs.ut.ee>\r\n\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "cs.student-request@lists.ut.ee",
+            "address": "cs.student-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Aleksandr Narovaja",
+            "address": "cs.student@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "csd@lists.ut.ee",
+                "address": "csd@lists.ut.ee"
+            }
+        },
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "Tartu Ülikooli doonoripäev",
+        "start_date": "2025-04-02T10:30:00",
+        "end_date": "2025-04-02T14:30:00",
+        "country": "Eesti",
+        "city": "Tartu",
+        "address": "Narva mnt 18 (Delta keskus)",
+        "room": "ruum 1030",
+        "tags": [
+            "University of Tartu", "Tartu University Hospital"
+        ]
+    }
+]

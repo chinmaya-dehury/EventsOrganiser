@@ -1,0 +1,69 @@
+comment
+!<-=->!
+Tag1; Tag2; Tag3
+!<-=->!
+liisa.kivikas@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAB5Juat\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAB5VV8KAAA=",
+    "createdDateTime": "2023-02-16T07:04:12Z",
+    "lastModifiedDateTime": "2023-02-16T07:04:14Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAB5Juat",
+    "categories": [],
+    "receivedDateTime": "2023-02-16T07:04:12Z",
+    "sentDateTime": "2023-02-16T07:04:10Z",
+    "hasAttachments": false,
+    "internetMessageId": "<1c23941283c6f430b70c4f4752f795f7572550ac0bce954b77147b214480ff85@moodle.ut.ee>",
+    "subject": "LTMS.00.019: Vastus: Küsimus - Loengukonspekt lk20 / 2. loeng @33min",
+    "bodyPreview": "LTMS.00.019 » Foorumid » Üldfoorum » Küsimus - Loengukonspekt lk20 / 2. loeng @33min\r\n\r\nVastus: Küsimus - Loengukonspekt lk20 / 2. loeng @33min\r\nMarta Hansen – 16.02.2023 08:33:15\r\n\r\n\r\nLühiduse huvides on tõepoolest kirjutatud \\(P(x_1, ..., x_{i-1}, x_i, x_{i",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAEd5Deqs1nJFrhaWByHZS8c=",
+    "conversationIndex": "AQHZQVV+R3kN6qzWckWuFpYHIdlLx67QfNiAgACqOQA=",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAB5VV8KAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "other",
+    "body": {
+        "contentType": "text",
+        "content": "LTMS.00.019<https://moodle.ut.ee/course/view.php?id=2931> » Foorumid<https://moodle.ut.ee/mod/forum/index.php?id=2931> » Üldfoorum<https://moodle.ut.ee/mod/forum/view.php?f=30000> » Küsimus - Loengukonspekt lk20 / 2. loeng @33min<https://moodle.ut.ee/mod/forum/discuss.php?d=800002>\r\n[Marta Hansen pilt]<https://moodle.ut.ee/user/view.php?id=14079&course=5834>\r\nVastus: Küsimus - Loengukonspekt lk20 / 2. loeng @33min\r\nMarta Hansen<https://moodle.ut.ee/user/view.php?id=81238&course=2931> – 16.02.2023 08:33:15\r\n\r\n\r\nLühiduse huvides on tõepoolest kirjutatud \\(P(x_1, ..., x_{i-1}, x_i, x_{i+1}, ... , x_n)\\) ja \\(P(x_1, ..., x_{i-1}, m, x_{i+1}, ... , x_n)\\) asemel vastavalt \\(P(x_1, ..., x_i, ... , x_n)\\) ja \\(P(x_1, ..., m, ... , x_n)\\). Seda, et \\(m\\) on seotud indeksiga \\(i\\) näete sellest, et kirjutis \\(P(x_1, ..., x_i, ... , x_n)\\) erineb kirjutisest \\(P(x_1, ..., m, ... , x_n)\\) ainult selle poolest, et \\(x_i\\) asemel on \\(m\\), kõik muu on sama.\r\n\r\nSelleks, et muutujatele väärtuste omistamine oleks üheselt mõistetav, on parem kasutada muutuja ja selle väärtuse tähistamiseks erinevat sümbolit. Seega on predikaat \\(\\forall x_3 P(x_1, x_2, x_3, x_4, x_5)\\) muutujate \\(x_1, x_2, x_4, x_5\\) väärtuste \\(m_1, m_2, m_4, m_5\\) korral tõene parajasti siis, kui predikaat \\(P(m_1, m_2, m, m_4, m_5)\\) on tõene iga \\(m \\in M \\) korral. Predikaat \\(P(m_1, m_2, m, m_4, m_5)\\) ei pea olema tõene iga \\((m_1, m_2,m, m_4, m_5)\\in M^5\\) korral.\r\n\r\nVaatame näiteks naturaalarvude hulgal kahekohalist predikaati \\(V(x_1, x_2)=\" x_1\\leq x_2\"\\). Siis predikaat \\( \\forall x_2 \\, V(x_1, x_2)= \\forall x_2 \\, (x_1\\leq x_2)\\) on tõene, kui vabale muutujale \\(x_1\\) anda  väärtuseks 0. Kui \\(x_1\\) väärtuseks on midagi muud, on predikaat väär.\r\n\r\nPredikaadi ja hulkade otsekorrutise definitsioonidest ning varasemast kogemusest on selge, et predikaadi muutujad on järjestatud ja predikaadis muutujatele väärtuste andmisel tuleb selle järjestusega arvestada.\r\n\r\nKuva ülatasemeüksus <https://moodle.ut.ee/mod/forum/discuss.php?d=825002&parent=2121250> | Vasta <https://moodle.ut.ee/mod/forum/post.php?reply=1947824>\r\nKuva see postitus kontekstis <https://moodle.ut.ee/mod/forum/discuss.php?d=38193#p98472013>"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Marta Hansen (saidi TÜ Moodle kaudu)",
+            "address": "noreply-moodle@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Marta Hansen (saidi TÜ Moodle kaudu)",
+            "address": "noreply-moodle@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Liisa Kivikas",
+                "address": "liisa.kivikas@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "TÜ Moodle",
+                "address": "noreply-moodle@ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+    }
+!<-=->!
+[]

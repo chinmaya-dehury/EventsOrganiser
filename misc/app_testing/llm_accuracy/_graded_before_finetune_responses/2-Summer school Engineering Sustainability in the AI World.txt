@@ -1,0 +1,213 @@
+{
+	"expected_response": [
+		{
+			"event_name": "[REGISTRATION REQUIRED] Summer school - Engineering Sustainability in the AI World",
+			"start_date": "2025-07-21T00:00:00",
+			"end_date": "2025-07-30T23:59:00",
+			"country": "Germany",
+			"city": "L\u00fcbeck",
+			"address": "",
+			"room": "",
+			"tags": [
+				"Summer school",
+				"AI"
+			]
+		},
+		{
+			"event_name": "Summer school registration deadline - Engineering Sustainability in the AI World",
+			"start_date": null,
+			"end_date": "2025-05-06T23:59:00",
+			"country": "",
+			"city": "",
+			"address": "",
+			"room": "",
+			"tags": [
+				"Summer school",
+				"AI",
+				"Deadline",
+				"Registration"
+			]
+		}
+	],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "Summer school \"Engineering Sustainability in the AI World\"",
+					"start_date": "2025-07-21T00:00:00+00:00",
+					"end_date": "2025-07-30T23:59:00+00:00",
+					"country": "Germany",
+					"city": "L\u00fcbeck",
+					"address": "Technische Hochschule L\u00fcbeck",
+					"room": "",
+					"tags": [
+						"Summer school",
+						"AI",
+						"Summer school"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Summer school \"Engineering Sustainability in the AI World\"",
+						"start_date": "2025-07-21T00:00:00+00:00",
+						"end_date": "2025-07-30T23:59:00+00:00",
+						"country": "Germany",
+						"city": "L\u00fcbeck",
+						"address": "Technische Hochschule L\u00fcbeck",
+						"room": "",
+						"tags": [
+							"Summer school",
+							"AI",
+							"Summer school"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 1.0,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 0.0,
+					"room_grade": 1.0,
+					"categories_grade": 1.0
+				}
+			],
+			"event_finding_grade": 0.5
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Summer school \"Engineering Sustainability in the AI World\"",
+					"start_date": "2025-07-21T00:00:00Z",
+					"end_date": "2025-07-30T23:59:00Z",
+					"country": "Germany",
+					"city": "L\u00fcbeck",
+					"address": "A large brick building with two tall towers.",
+					"room": "",
+					"tags": [
+						"Summer school",
+						"AI",
+						"Summer school"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Summer school \"Engineering Sustainability in the AI World\"",
+						"start_date": "2025-07-21T00:00:00Z",
+						"end_date": "2025-07-30T23:59:00Z",
+						"country": "Germany",
+						"city": "L\u00fcbeck",
+						"address": "A large brick building with two tall towers.",
+						"room": "",
+						"tags": [
+							"Summer school",
+							"AI",
+							"Summer school"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 1.0,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 0.0,
+					"room_grade": 1.0,
+					"categories_grade": 1.0
+				}
+			],
+			"event_finding_grade": 0.5
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Summer school \"Engineering Sustainability in the AI World\"",
+					"start_date": "2025-07-21T00:00:00",
+					"end_date": "2025-07-30T23:59:00",
+					"country": "Germany",
+					"city": "L\u00fcbeck",
+					"address": "Technische Hochschule L\u00fcbeck",
+					"room": "",
+					"tags": [
+						"Summer school",
+						"AI",
+						"Summer school",
+						"Summer school",
+						"Summer school"
+					]
+				},
+				{
+					"event_name": "Application deadline",
+					"start_date": "2025-05-06T00:00:00",
+					"end_date": "2025-05-06T23:59:00",
+					"country": "Germany",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Registration"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Summer school \"Engineering Sustainability in the AI World\"",
+						"start_date": "2025-07-21T00:00:00",
+						"end_date": "2025-07-30T23:59:00",
+						"country": "Germany",
+						"city": "L\u00fcbeck",
+						"address": "Technische Hochschule L\u00fcbeck",
+						"room": "",
+						"tags": [
+							"Summer school",
+							"AI",
+							"Summer school",
+							"Summer school",
+							"Summer school"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 1.0,
+					"start_date_grade": 1.0,
+					"end_date_grade": 1.0,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 0.3,
+					"room_grade": 1.0,
+					"categories_grade": 1.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Application deadline",
+						"start_date": "2025-05-06T00:00:00",
+						"end_date": "2025-05-06T23:59:00",
+						"country": "Germany",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Deadline",
+							"Registration"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.2,
+					"start_date_grade": 0.0,
+					"end_date_grade": 1.0,
+					"country_grade": 0.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.5
+				}
+			],
+			"event_finding_grade": 1.0
+		}
+	]
+}

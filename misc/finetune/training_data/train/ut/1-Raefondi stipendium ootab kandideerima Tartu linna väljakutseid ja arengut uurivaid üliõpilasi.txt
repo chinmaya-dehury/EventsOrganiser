@@ -1,0 +1,82 @@
+in Estonian; has events
+!<-=->!
+Training; Stipend; Deadline; Invitation; Programming; Competition; Olympiad; Real estate; Investing; Mathematics
+!<-=->!
+siim.lebedev@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJu/gvm\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJviyRFAAA=",
+    "createdDateTime": "2025-03-19T14:38:08Z",
+    "lastModifiedDateTime": "2025-03-19T14:38:12Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJu/gvm",
+    "categories": [],
+    "receivedDateTime": "2025-03-19T14:38:10Z",
+    "sentDateTime": "2025-03-19T14:37:50Z",
+    "hasAttachments": false,
+    "internetMessageId": "<AS2PR02MB8839BD44EE6D9D0F44DAF578F9D92@AS2PR02MB8839.eurprd02.prod.outlook.com>",
+    "subject": "[ltt tudengid:431] Raefondi stipendium ootab kandideerima Tartu linna väljakutseid ja arengut uurivaid üliõpilasi",
+    "bodyPreview": "Kas oled Tartu Ülikooli üliõpilane, kes plaanib teha uurimus- või lõputöö, mis käsitleb Tartu linna väljakutseid või arenguid seoses:\r\n\r\n  *   Vaesuse kaotamisega\r\n\r\n  *   Nälja kaotamisega\r\n\r\n  *   Hea tervise ja heaoluga\r\n\r\n  *   Kvaliteetse haridusega",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAIKAwJL9Q5VNoODggD3bIxg=",
+    "conversationIndex": "AQHbmNjLgoDAkv1DlU2g4OCAPdsjGLN6hweA",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJviyRFAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Kas oled Tartu Ülikooli üliõpilane, kes plaanib teha uurimus- või lõputöö, mis käsitleb Tartu linna väljakutseid või arenguid seoses:\r\n\r\n  *   Vaesuse kaotamisega\r\n\r\n  *   Nälja kaotamisega\r\n\r\n  *   Hea tervise ja heaoluga\r\n\r\n  *   Kvaliteetse haridusega\r\n\r\n  *   Soolise võrdõiguslikkusega\r\n\r\n  *   Puhta vee ja sanitaartingimustega\r\n\r\n  *   Taskukohase ja puhta energiaga\r\n\r\n  *   Inimväärse töö ja majanduskasvuga\r\n\r\n  *   Tööstuse, innovatsiooni ja taristuga\r\n\r\n  *   Ebavõrdsuse vähendamisega\r\n\r\n  *   Kestlikute linnade ja kogukondadega\r\n\r\n  *   Vastutustundliku tarbimise ja tootmisega\r\n\r\n  *   Kliimameetmetega\r\n\r\n  *   Ookeani- ja mereökosüsteemidega\r\n\r\n  *   Elurikkuse ja maismaaökosüsteemidega\r\n\r\n  *   Rahu, õiguskaitse ja tugevate institutsioonidega\r\n\r\n  *   Üleilmse koostööga eesmärkide saavutamiseks\r\n\r\n  *   Kultuuriga\r\n\r\nKui nii, siis oled oodatud kandideerima Tartu Raefondi stipendiumile<https://sihtasutus.ut.ee/stipendiumid/tartu-raefondi-stipendium-kevad2025>, mis on suunatud Tartu Ülikooli bakalaureuse- ja magistriõppe üliõpilastele.\r\nStipendiumi suurus on 1500 eurot. Kokku antakse välja kuni 10 stipendiumi.\r\n\r\nKandideerimiseks tuleb esitada:\r\n\r\n  *   lühike motivatsioonikiri\r\n\r\n  *   õppejõu soovituskiri\r\n\r\n  *   õppetulemuste tõend\r\n\r\n  *   uurimus- või lõputöö plaani kirjeldav essee.\r\nKandideeri enne 1. aprilli Tartu Ülikooli sihtasutuse kodulehel<https://sihtasutus.ut.ee/stipendiumid/tartu-raefondi-stipendium-kevad2025>!\r\nErinevate nimetatud teemade täpsema fookusega tutvumiseks, loe lähemalt Riigikantselei kodulehelt<https://www.riigikantselei.ee/valitsuse-too-planeerimine-ja-korraldamine/valitsuse-too-toetamine/saastev-areng>.\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "ltt.tudengid-request@lists.ut.ee",
+            "address": "ltt.tudengid-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Toomas Vassiljev",
+            "address": "ltt.tudengid@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "Raefondi stipendiumi kandideerimise tähtaeg",
+        "start_date": null,
+        "end_date": "2025-04-01T23:59:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Stipend", "Deadline"
+        ]
+    }
+]

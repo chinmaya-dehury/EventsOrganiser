@@ -1,0 +1,80 @@
+comment
+!<-=->!
+Tag1; Tag2; Tag3
+!<-=->!
+reader-email@gmail.com
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAAyxxfU\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtN    IA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAAy36AfAAA=",
+    "createdDateTime": "2022-11-01T11:12:45Z",
+    "lastModifiedDateTime": "2022-11-01T11:18:03Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAAyxxfU",
+    "categories": [],
+    "receivedDateTime": "2022-11-01T11:12:45Z",
+    "sentDateTime": "2022-11-01T11:12:22Z",
+    "hasAttachments": false,
+    "internetMessageId": "<AM0PR02MB3778A5BA234DF1B17182C21AF9369@AM0PR02MB3778.eurprd02.prod.outlook.com>",
+    "subject": "",
+    "bodyPreview": "",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQACVm3e9H-INLk-hqT1ysM38=",
+    "conversationIndex": "AQHY7eKhJWbd70f8g0uT+GpPXKwzf64p6bMA",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAAy36AfAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": ""
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "ltt.tudengid-request@lists.ut.ee",
+            "address": "ltt.tudengid-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Imbi Rauk",
+            "address": "ltt.tudengid@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "",
+        "start_date": "",
+        "end_date": "",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": []
+    }
+]

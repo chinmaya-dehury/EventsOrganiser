@@ -1,0 +1,572 @@
+{
+	"expected_response": [],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "User List Verification",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Book club"
+					]
+				},
+				{
+					"event_name": "RisktRAC Operations",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance"
+					]
+				},
+				{
+					"event_name": "Migrate Users to Netco",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Cybersecurity"
+					]
+				},
+				{
+					"event_name": "Security Access",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Cybersecurity"
+					]
+				},
+				{
+					"event_name": "RisktRAC Training",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance"
+					]
+				},
+				{
+					"event_name": "Website Connectivity",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance"
+					]
+				},
+				{
+					"event_name": "Disable Spreadsheet Position Loading",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance"
+					]
+				},
+				{
+					"event_name": "Day1 Portfolio Hierarchy",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance"
+					]
+				},
+				{
+					"event_name": "Day1 Book-setup Spreadsheet",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance"
+					]
+				},
+				{
+					"event_name": "Control RisktRAC Screen-access",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance"
+					]
+				},
+				{
+					"event_name": "Book-creation/Portfolio audit",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance"
+					]
+				},
+				{
+					"event_name": "Financial checks and balances",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance"
+					]
+				},
+				{
+					"event_name": "Desktop RisktRAC portfolio security",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance"
+					]
+				},
+				{
+					"event_name": "Benchmark Server",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Review RisktRAC operations",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance",
+						"Cybersecurity"
+					]
+				},
+				{
+					"event_name": "User List verification",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance",
+						"Cybersecurity"
+					]
+				},
+				{
+					"event_name": "Migrate users to Netco",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance",
+						"Cybersecurity"
+					]
+				},
+				{
+					"event_name": "Work with Security on RisktRAC approval",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance",
+						"Cybersecurity"
+					]
+				},
+				{
+					"event_name": "RisktRAC Training",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance",
+						"Cybersecurity"
+					]
+				},
+				{
+					"event_name": "Distribute RAC website URL",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance",
+						"Cybersecurity"
+					]
+				},
+				{
+					"event_name": "Disable Spreadsheet Position loading",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance",
+						"Cybersecurity"
+					]
+				},
+				{
+					"event_name": "Review portfolio hierarchy",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance",
+						"Cybersecurity"
+					]
+				},
+				{
+					"event_name": "Day1 Book-setup Spreadsheet",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance",
+						"Cybersecurity"
+					]
+				},
+				{
+					"event_name": "Control RisktRAC screen-access",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance",
+						"Cybersecurity"
+					]
+				},
+				{
+					"event_name": "Book-creation/Portfolio audit",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance",
+						"Cybersecurity"
+					]
+				},
+				{
+					"event_name": "Financial checks and balances",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance",
+						"Cybersecurity"
+					]
+				},
+				{
+					"event_name": "Review Benchmark Server",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T11:14:56+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance",
+						"Cybersecurity"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Summary of meeting items on Day1 Netco RisktRAC preparations",
+					"start_date": "2002-01-29T11:14:56+00:00",
+					"end_date": "2002-01-29T00:00:00+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance",
+						"Workshop",
+						"Cybersecurity",
+						"Running"
+					]
+				},
+				{
+					"event_name": "User List",
+					"start_date": null,
+					"end_date": "2002-01-29T00:00:00+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Book club"
+					]
+				},
+				{
+					"event_name": "Migrate users to Netco",
+					"start_date": null,
+					"end_date": "2002-01-29T00:00:00+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance"
+					]
+				},
+				{
+					"event_name": "Security Access",
+					"start_date": null,
+					"end_date": "2002-01-29T00:00:00+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Cybersecurity"
+					]
+				},
+				{
+					"event_name": "RisktRAC Training",
+					"start_date": null,
+					"end_date": "2002-01-29T00:00:00+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Workshop",
+						"Running"
+					]
+				},
+				{
+					"event_name": "Website connectivity",
+					"start_date": null,
+					"end_date": "2002-01-29T00:00:00+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance"
+					]
+				},
+				{
+					"event_name": "Disable Spreadsheet Position loading",
+					"start_date": null,
+					"end_date": "2002-01-29T00:00:00+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance"
+					]
+				},
+				{
+					"event_name": "Day1 Portfolio Hierarchy",
+					"start_date": null,
+					"end_date": "2002-01-29T00:00:00+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance"
+					]
+				},
+				{
+					"event_name": "Day1 Book-setup Spreadsheet",
+					"start_date": null,
+					"end_date": "2002-01-29T00:00:00+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance"
+					]
+				},
+				{
+					"event_name": "Control RisktRAC screen-access",
+					"start_date": null,
+					"end_date": "2002-01-29T00:00:00+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance"
+					]
+				},
+				{
+					"event_name": "Book-creation/Portfolio audit",
+					"start_date": null,
+					"end_date": "2002-01-29T00:00:00+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance"
+					]
+				},
+				{
+					"event_name": "Financial checks and balances",
+					"start_date": null,
+					"end_date": "2002-01-29T00:00:00+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance"
+					]
+				},
+				{
+					"event_name": "Desktop RisktRAC portfolio security",
+					"start_date": null,
+					"end_date": "2002-01-29T00:00:00+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Cybersecurity"
+					]
+				},
+				{
+					"event_name": "Benchmark Server",
+					"start_date": null,
+					"end_date": "2002-01-29T00:00:00+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Finance"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		}
+	]
+}

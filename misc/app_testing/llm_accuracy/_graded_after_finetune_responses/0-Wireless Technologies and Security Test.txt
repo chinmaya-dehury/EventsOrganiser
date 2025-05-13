@@ -1,0 +1,50 @@
+{
+	"expected_response": [],
+	"exemplars": [
+		{
+			"llm_response": [],
+			"grades_for_each_event": [],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Wireless Technologies and Security test submission deadline",
+					"start_date": null,
+					"end_date": "2024-12-16T19:20:05",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Technology",
+						"Deadline",
+						"University of Tartu"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Wireless Technologies and Security test submission deadline",
+					"start_date": null,
+					"end_date": "2024-12-16T19:15:08",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Technology",
+						"Deadline",
+						"University of Tartu"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		}
+	]
+}

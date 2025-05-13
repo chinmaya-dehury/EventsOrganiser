@@ -1,0 +1,83 @@
+in Estonian & English;
+expected response is in Estonian
+!<-=->!
+Cybersecurity; Presentation; University of Tartu; Institute of Computer Science; Poster session; Thesis defense; Community service; Innovation day; Mentoring; Science fair; Party; Birthday; Volunteer day; Bioinformatics
+!<-=->!
+sander.peterson@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAEV5nXM\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAEWPd32AAA=",
+    "createdDateTime": "2023-10-11T07:02:08Z",
+    "lastModifiedDateTime": "2023-10-11T07:07:30Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAEV5nXM",
+    "categories": [],
+    "receivedDateTime": "2023-10-11T07:02:13Z",
+    "sentDateTime": "2023-10-11T07:00:08Z",
+    "hasAttachments": false,
+    "internetMessageId": "<VI1PR0201MB21422DC9068044E08ECA34A580CCA@VI1PR0201MB2142.eurprd02.prod.outlook.com>",
+    "subject": "[cs.student:988] Küberruumi petlik turvalisus, 11.10 | The deceptive security of cyberspace, 11.10",
+    "bodyPreview": "/English below/\r\nTere kõigile!\r\n\r\nOktoober on Euroopa küberturvalisuse kuu ja õige aeg pöörata erilist tähelepanu küberruumis varitsevatele ohtudele ning kuidas end nende vastu kaitsta. Meie järgmisel üritusel räägime ja jagame kasulikke nippe küberhügiee",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAKLRtEoJ8HlNodIrBDoobZU=",
+    "conversationIndex": "AQHZ/BBGotG0SgnweU2h0isEOihtlQ==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAEWPd32AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "other",
+    "body": {
+        "contentType": "text",
+        "content": "/English below/\r\nTere kõigile!\r\n\r\nOktoober on Euroopa küberturvalisuse kuu ja õige aeg pöörata erilist tähelepanu küberruumis varitsevatele ohtudele ning kuidas end nende vastu kaitsta. Meie järgmisel üritusel räägime ja jagame kasulikke nippe küberhügieenist, ID-kaardi turvalisest kasutamisest, privaatsuse tagamisest internetis ja andmekaitsest. Osalema on oodatud kõik, kelle jaoks küberturvalisus on oluline ning soovib neid teadmisi ja oskusi ka oma lähedastele jagada, sest hoidke meeles: mida haritumad on meie riigi inimesed küberturbest, seda ohutum on Eesti oma küberruum! Üritust toetab Tartu Ülikooli arvutiteaduse instituut.\r\n\r\nKui üritus pakub sulle huvi, siis palun pane ennast osalejana kirja:\r\nhttps://forms.gle/2FdFiMs3iE33JsJEA\r\n\r\nLisaks pakume tervislikku süüa, juua, head muusikat ja võimalust leida uusi kasulikke tutvusi meie küberkogukonnast.\r\n\r\nKuupäev: kolmapäev, 11 oktoober\r\nKellaaeg: 18:00\r\nAsukoht: TÜ Delta keskuse ruum 2020, Narva mnt 18 Tartu.\r\nLisa sündmus oma kalendrisse: https://shorturl.at/GPS04\r\n\r\nÜritust korraldavad ja toetavad:\r\n\r\nMTÜ Häkkerikoda\r\nTÜ arvutiteaduse instituut\r\nStartup Estonia\r\n\r\n--\r\n\r\nDear all,\r\n\r\nOctober is European Cyber Security Month and the right time to pay special attention to the threats lurking in cyberspace and how to protect yourself against them. At our next event, we will talk and share useful tips about cyber hygiene, safe use of an ID card, ensuring privacy on the internet and data protection. Anyone for whom cyber security is important and who wants to share this knowledge and skills with their loved ones is invited to participate, because remember: the more educated people in our country are about cyber security, the safer Estonia's cyberspace is! The University of Tartu Institute of Computer Science supports the event.\r\n\r\nIf you are interested in the event, please register yourself as a participant:\r\nhttps://forms.gle/2FdFiMs3iE33JsJEA\r\n\r\nIn addition, we offer healthy food, drinks, good music and the opportunity to find new useful acquaintances in our cyber community.\r\n\r\nDate: Wednesday, 11 October\r\nTime: 18:00\r\nLocation: UT Delta Centre room 2020, Narva mnt 18 Tartu.\r\nAdd event to your calendar: https://shorturl.at/GPS04\r\n\r\nThe event is organized and supported by:\r\n\r\nMTÜ Häkkerikoda (Hackerspace)\r\nUT Institute of Computer Science\r\nStartup Estonia\r\n--\r\nSamantha Kaljulaid\r\nturundus- ja kommunikatsioonijuht / Head of Marketing and Communication\r\narvutiteaduse instituut / Institute of Computer Science\r\nTartu Ülikool / University of Tartu\r\n+372 533 00 980\r\nwww.cs.ut.ee<http://www.cs.ut.ee>\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "cs.student-request@lists.ut.ee",
+            "address": "cs.student-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Samantha Kaljulaid",
+            "address": "cs.student@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "Küberruumi petlik turvalisus",
+        "start_date": "2023-10-11T18:00:00",
+        "end_date": "2023-10-11T19:00:00",
+        "country": "Eesti",
+        "city": "Tartu",
+        "address": "Narva mnt 18 (Delta keskus)",
+        "room": "ruum 2020",
+        "tags": [
+            "Cybersecurity", "Presentation", "University of Tartu", "Institute of Computer Science"
+        ]
+    }
+]

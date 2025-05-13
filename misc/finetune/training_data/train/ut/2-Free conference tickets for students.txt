@@ -1,0 +1,94 @@
+in English
+!<-=->!
+Conference; Cybersecurity; Python; Machine Learning; Fundraiser; Lecture; Cultural festival
+!<-=->!
+kalle.kull@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAHopWZF\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAHpE07jAAA=",
+    "createdDateTime": "2024-08-26T07:21:10Z",
+    "lastModifiedDateTime": "2024-08-26T08:58:06Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAHopWZF",
+    "categories": [],
+    "receivedDateTime": "2024-08-26T07:21:11Z",
+    "sentDateTime": "2024-08-26T07:20:54Z",
+    "hasAttachments": false,
+    "internetMessageId": "<VI0PR02MB10572DC368C8882D6253F192BF28B2@VI0PR02MB10572.eurprd02.prod.outlook.com>",
+    "subject": "[cs.student:1062] Free conference tickets for students",
+    "bodyPreview": "Dear students!\r\n\r\n\r\n\r\nConference PyCon Estonia (5-6 Sept, Tallinn) offers 10 free tickets for the students of Tartu University who are directly working on projects related to AI or Machine learning or taking Python programming language-related courses. Py",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAIsWoDLV10N9gGsCEPRiOtw=",
+    "conversationIndex": "Adr3h1kGixagMtXXQ32AawIQ9GI63A==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAHpE07jAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Dear students!\r\n\r\n\r\n\r\nConference PyCon Estonia (5-6 Sept, Tallinn) offers 10 free tickets for the students of Tartu University who are directly working on projects related to AI or Machine learning or taking Python programming language-related courses. PyCon is the biggest Python/ML conference in the Nordics. To get a free ticket, please write directly to Amna Ahsan amna@pythonestonia.ee<mailto:amna@pythonestonia.ee>. 10 first UT students will get the free tickets.\r\n\r\nMore info: https://pycon.ee<https://thorgate-dot-yamm-track.appspot.com/2PLD5xxMPaAdtEjdluM2voHz05Z1XvFC8yvORG0_9EHUF7qh5kQFx_Xx5C5ZlMezQNwadWVs4iFyLLNWsth9rWflkpGYh2QvYxpNi0OTxnt-VdfAQshI0Y-mBbiP7LbZghxHqqGulFRKdgoud9bDeNcYD8_InzGbNy5JtbgxM>\r\n\r\nThere is also a student discount tickets for 99 eur available here: https://gateme.com/event/98762/\r\n\r\n\r\n\r\nCybersecurity conference BSidesTallinn (19 Sept, Tallinn) offers 30 free tickets to university students studying information security, cybersecurity or some related field. To apply for the ticket, please fill out in the registration form<https://docs.google.com/forms/d/e/1FAIpQLSd2Zi8CzzyZ6kjNyBRAWt17QR2s0VzLuEuM0kCYfIpQVWkU3Q/viewform>.\r\n\r\nMore info: https://tallinn.bsides.ee/\r\n\r\n\r\n\r\nWith best regards\r\n\r\nAndres Kivi\r\nturundus- ja kommunikatsioonispetsialist / Marketing and Communication Specialist\r\narvutiteaduse instituut / Institute of Computer Science\r\nTartu Ülikool / University of Tartu\r\n+372 511 4995<tel:+3725114995>\r\nwww.cs.ut.ee<http://www.cs.ut.ee/>\r\n#unitartucs\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "cs.student-request@lists.ut.ee",
+            "address": "cs.student-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Andres Kivi",
+            "address": "cs.student@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "Conference PyCon Estonia (10 free tickets)",
+        "start_date": "2024-09-05T00:00:00",
+        "end_date": "2024-09-06T23:59:00",
+        "country": "Estonia",
+        "city": "Tallinn",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Conference", "Python", "Machine learning"
+        ]
+    },
+    {
+        "event_name": "Cybersecurity conference BSidesTallinn",
+        "start_date": "2024-09-19T00:00:00",
+        "end_date": "2024-09-19T23:59:00",
+        "country": "Estonia",
+        "city": "Tallinn",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Conference", "Cybersecurity"
+        ]
+    }
+]

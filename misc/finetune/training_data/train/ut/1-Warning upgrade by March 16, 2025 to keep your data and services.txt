@@ -1,0 +1,75 @@
+in English; only one event notifying of data deletion deadline (probably something worth considering an event)
+!<-=->!
+Deadline; Notification; Microsoft Azure; Finance; Psychology; AI ethics; Mentorship; Hackathon; Robotics; Cybersecurity; Lecture; Internship; Demo day; Coding challenge; Movie; Exhibition; Debate
+!<-=->!
+madis.koivopuu@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJa3Tb9\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJbaFCUAAA=",
+    "createdDateTime": "2025-02-14T16:26:19Z",
+    "lastModifiedDateTime": "2025-02-14T18:36:12Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJa3Tb9",
+    "categories": [],
+    "receivedDateTime": "2025-02-14T16:26:20Z",
+    "sentDateTime": "2025-02-14T16:26:15Z",
+    "hasAttachments": false,
+    "internetMessageId": "<a5e9c566-4c05-40de-be76-5ecfb7b9e637@az.westcentralus.microsoft.com>",
+    "subject": "Warning: upgrade by March 16, 2025 to keep your data and services",
+    "bodyPreview": "Resume services and continue building by upgrading to a pay-as-you-go subscription.\r\n\r\nUpgrade by March 16, 2025 to save your data and keep building in Azure\r\n\r\nYour data and services will be deleted on March 16, 2025. But it’s not too late—just upgrade t",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAMI2e_GSNfVKqFMmYbltYM8=",
+    "conversationIndex": "AQHbfv0twjZ74ZI19UqoUyZhuW1gzw==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJbaFCUAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Resume services and continue building by upgrading to a pay-as-you-go subscription.\r\n[Microsoft Azure]\r\nUpgrade by March 16, 2025 to save your data and keep building in Azure\r\n\r\nYour data and services will be deleted on March 16, 2025. But it’s not too late—just upgrade to a pay-as-you-go subscription to keep using your account and restore all your configured services and data. You get:\r\n\r\n  *   12 months of popular products for free<https://nam.safelink.emails.azure.net/redirect/?destination=https%3A%2F%2Fazure.microsoft.com%2Fen-us%2Ffree%2F%2312-months-free&p=bT1hNWU5YzU2Ni00YzA1LTQwZGUtYmU3Ni01ZWNmYjdiOWU2Mzcmcz1kODg3OWY4Zi1jYzVlLTQ4MzgtYjNjNS02YWYzMmEyZGIzNDQmdT1hZW8mbD0xMi1tb250aHMtZnJlZQ%3D%3D>.\r\n  *   More than 25 products that are always free<https://nam.safelink.emails.azure.net/redirect/?destination=https%3A%2F%2Fazure.microsoft.com%2Fen-us%2Ffree%2F%23always-free&p=bT1hNWU5YzU2Ni00YzA1LTQwZGUtYmU3Ni01ZWNmYjdiOWU2Mzcmcz1kODg3OWY4Zi1jYzVlLTQ4MzgtYjNjNS02YWYzMmEyZGIzNDQmdT1hZW8mbD1hbHdheXMtZnJlZQ%3D%3D>.\r\n\r\nFor everything else, only pay for what you use each month. It’s easy to cancel, any time.\r\n\r\nUpgrade now > <https://nam.safelink.emails.azure.net/redirect/?destination=https%3A%2F%2Faccount.azure.com%2FSubscriptions&p=bT1hNWU5YzU2Ni00YzA1LTQwZGUtYmU3Ni01ZWNmYjdiOWU2Mzcmcz1kODg3OWY4Zi1jYzVlLTQ4MzgtYjNjNS02YWYzMmEyZGIzNDQmdT1hZW8mbD1TdWJzY3JpcHRpb25z>\r\n\r\nWe'll permanently delete your subscription data on March 16, 2025. Please log in<https://nam.safelink.emails.azure.net/redirect/?destination=https%3A%2F%2Fportal.azure.com%2F&p=bT1hNWU5YzU2Ni00YzA1LTQwZGUtYmU3Ni01ZWNmYjdiOWU2Mzcmcz1kODg3OWY4Zi1jYzVlLTQ4MzgtYjNjNS02YWYzMmEyZGIzNDQmdT1hZW8mbD1wb3J0YWwuYXp1cmUuY29t> and save any important data before then. Resume using your services with minimal interruption if you upgrade before March 16, 2025.\r\n\r\nSubmit a support ticket<https://nam.safelink.emails.azure.net/redirect/?destination=https%3A%2F%2Fportal.azure.com%2F%23blade%2FMicrosoft_Azure_Support%2FHelpAndSupportBlade%2Fnewsupportrequest%2F&p=bT1hNWU5YzU2Ni00YzA1LTQwZGUtYmU3Ni01ZWNmYjdiOWU2Mzcmcz1kODg3OWY4Zi1jYzVlLTQ4MzgtYjNjNS02YWYzMmEyZGIzNDQmdT1hZW8mbD1wb3J0YWwlM0FuZXctc3VwcG9ydC1yZXF1ZXN0> if you need more help.\r\n\r\nThank you,\r\nYour Azure team\r\n\r\nAccount information\r\n\r\nSubscription ID: d8879f8f-cc5e-4838-b3c5-6af32a2db344\r\n\r\nSubscription name: Azure for Students\r\n\r\n[Facebook]<https://nam.safelink.emails.azure.net/redirect/?destination=https%3A%2F%2Fwww.facebook.com%2Fmicrosoftazure&p=bT1hNWU5YzU2Ni00YzA1LTQwZGUtYmU3Ni01ZWNmYjdiOWU2Mzcmcz1kODg3OWY4Zi1jYzVlLTQ4MzgtYjNjNS02YWYzMmEyZGIzNDQmdT1hZW8mbD1mb290ZXIlM0FmYWNlYm9vaw%3D%3D>      [Twitter] <https://nam.safelink.emails.azure.net/redirect/?destination=https%3A%2F%2Ftwitter.com%2Fazure&p=bT1hNWU5YzU2Ni00YzA1LTQwZGUtYmU3Ni01ZWNmYjdiOWU2Mzcmcz1kODg3OWY4Zi1jYzVlLTQ4MzgtYjNjNS02YWYzMmEyZGIzNDQmdT1hZW8mbD1mb290ZXIlM0F0d2l0dGVy>    [YouTube] <https://nam.safelink.emails.azure.net/redirect/?destination=https%3A%2F%2Fwww.youtube.com%2F%40MicrosoftAzure&p=bT1hNWU5YzU2Ni00YzA1LTQwZGUtYmU3Ni01ZWNmYjdiOWU2Mzcmcz1kODg3OWY4Zi1jYzVlLTQ4MzgtYjNjNS02YWYzMmEyZGIzNDQmdT1hZW8mbD1mb290ZXIlM0F5b3V0dWJl>    [LinkedIn] <https://nam.safelink.emails.azure.net/redirect/?destination=https%3A%2F%2Fwww.linkedin.com%2Fshowcase%2Fmicrosoft-developers&p=bT1hNWU5YzU2Ni00YzA1LTQwZGUtYmU3Ni01ZWNmYjdiOWU2Mzcmcz1kODg3OWY4Zi1jYzVlLTQ4MzgtYjNjNS02YWYzMmEyZGIzNDQmdT1hZW8mbD1mb290ZXIlM0FsaW5rZWRpbg%3D%3D>\r\n\r\nPrivacy Statement<https://nam.safelink.emails.azure.net/redirect/?destination=https%3A%2F%2Fgo.microsoft.com%2Ffwlink%2F%3FLinkId%3D521839&p=bT1hNWU5YzU2Ni00YzA1LTQwZGUtYmU3Ni01ZWNmYjdiOWU2Mzcmcz1kODg3OWY4Zi1jYzVlLTQ4MzgtYjNjNS02YWYzMmEyZGIzNDQmdT1hZW8mbD1wcml2YWN5LXN0YXRlbWVudA%3D%3D>\r\n\r\nMicrosoft Corporation, One Microsoft Way, ​Redmond, WA 98052​\r\n\r\n[Microsoft]\r\n[https://nam.safelink.emails.azure.net/trackingpixel/?p=bT1hNWU5YzU2Ni00YzA1LTQwZGUtYmU3Ni01ZWNmYjdiOWU2Mzcmcz1kODg3OWY4Zi1jYzVlLTQ4MzgtYjNjNS02YWYzMmEyZGIzNDQmdT1hZW8%3D]\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Microsoft Azure",
+            "address": "azure-noreply@microsoft.com"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Microsoft Azure",
+            "address": "azure-noreply@microsoft.com"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Madis Kõivopuu",
+                "address": "madis.koivopuu@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "Automatic Azure data deletion",
+        "start_date": null,
+        "end_date": "2025-03-16T23:59:00",
+        "country": "",
+        "city": "",
+        "address":  "",
+        "room": "",
+        "tags": [
+            "Deadline", "Notification", "Microsoft Azure"
+        ]
+    }
+]

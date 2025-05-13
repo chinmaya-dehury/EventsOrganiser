@@ -1,0 +1,84 @@
+in Estonian; has events
+
+LLM has to guess the end date, so that one might be undefined; real date was used in training data
+!<-=->!
+University of Tartu; Internship; Discount; Running; Newsletter; Guide; Sports; Gaming; Programming; Presentation; Deadline; Moodle
+!<-=->!
+kaur.soomets@ut.ee
+!<-=->!
+{
+            "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJzDV99\"",
+            "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJzmpqzAAA=",
+            "createdDateTime": "2025-03-24T12:54:13Z",
+            "lastModifiedDateTime": "2025-03-24T13:10:58Z",
+            "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJzDV99",
+            "categories": [],
+            "receivedDateTime": "2025-03-24T12:54:13Z",
+            "sentDateTime": "2025-03-24T12:53:57Z",
+            "hasAttachments": false,
+            "internetMessageId": "<AS2PR02MB88395C9A79E8642F0B67D250F9A42@AS2PR02MB8839.eurprd02.prod.outlook.com>",
+            "subject": "[ltt tudengid:433] Kutse kevadjooksule",
+            "bodyPreview": "Tartu Ülikooli kevadjooks toimub juba 16. aprillil kell 19. 6-eurost sooduspiletit on võimalik soetada kuni 6. aprillini, pärast seda maksab pilet 18 eurot.\r\n\r\nViiekilomeetrine rada algab TÜ akadeemilise spordiklubi kõrvalt. Rajal saad valida endale sobiv",
+            "importance": "normal",
+            "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+            "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAPZo25TY7U31oiUzDozryY0=",
+            "conversationIndex": "Aducu83L9mjblNjtTfWiJTMOjOvJjQ==",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": true,
+            "isDraft": false,
+            "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJzmpqzAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "text",
+                "content": "Tartu Ülikooli kevadjooks toimub juba 16. aprillil kell 19. 6-eurost sooduspiletit on võimalik soetada kuni 6. aprillini, pärast seda maksab pilet 18 eurot.\r\n\r\nViiekilomeetrine rada algab TÜ akadeemilise spordiklubi kõrvalt. Rajal saad valida endale sobiva tempo – võid nii kõndida kui ka joosta, peaasi, et saaksid nautida kevadises Tartus liikumist. Kevadjooksul selgitatakse välja ka aktiivseim valdkond.\r\n\r\nÄra jäta registreerumist viimasele hetkele! Pane end kirja: www.tyspordiesindus.com/kevadjooks<https://www.tyspordiesindus.com/kevadjooks>.\r\n\r\nTule ja liigu koos ülikooliperega kevadele vastu!\r\n\r\n"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "ltt.tudengid-request@lists.ut.ee",
+                    "address": "ltt.tudengid-request@lists.ut.ee"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Imbi Rauk",
+                    "address": "ltt.tudengid@lists.ut.ee"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "ltt.tudengid@lists.ut.ee",
+                        "address": "ltt.tudengid@lists.ut.ee"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [
+                {
+                    "emailAddress": {
+                        "name": "ltt.tudengid@lists.ut.ee",
+                        "address": "ltt.tudengid@lists.ut.ee"
+                    }
+                }
+            ],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        }
+!<-=->!
+[
+    {
+        "event_name": "[TASULINE] Kevadjooks",
+        "start_date": "2025-04-16T19:30:00",
+        "end_date": "2025-04-16T20:30:00",
+        "country": "Eesti",
+        "city": "Tartu",
+        "address": "Ujula 4 (TÜ spordihoone)",
+        "room": "hoone kõrval",
+        "tags": [
+            "Sports", "University of Tartu", "Running"
+        ]
+    }
+]

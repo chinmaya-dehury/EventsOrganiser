@@ -1,0 +1,186 @@
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAIzNhqe\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAIzuIc2AAA=",
+    "createdDateTime": "2024-12-16T14:05:07Z",
+    "lastModifiedDateTime": "2024-12-16T16:11:31Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAIzNhqe",
+    "categories": [],
+    "receivedDateTime": "2024-12-16T14:05:07Z",
+    "sentDateTime": "2024-12-16T14:05:04Z",
+    "hasAttachments": false,
+    "internetMessageId": "<is.2964AA8D1A4FCDC6E0630100007FB944@ut.ee>",
+    "subject": "Wireless Technologies and Security Test - 15 minute countdown",
+    "bodyPreview": "Hi,\r\n\r\nIt's the final countdown.\r\n\r\nYou now have less than 15 minutes to submit your test.\r\n\r\nGood luck!\r\nJaanus Plank",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAB7ibwJEgC5FhiWxWUjIWBU=",
+    "conversationIndex": "AQHbT8OCHuJvAkSALkWGJbFZSMhYFQ==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAIzuIc2AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Hi,\r\n\r\nIt's the final countdown.\r\n\r\nYou now have less than 15 minutes to submit your test.\r\n\r\nGood luck!\r\nJaanus Plank\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Jaanus Plank ",
+            "address": "danielle.morgan@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Jaanus Plank ",
+            "address": "danielle.morgan@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Jaanika Kirsimägi",
+                "address": "jaanika.kirsimagi@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+	"Conference",
+	"Workshop",
+	"Registration",
+	"Data science",
+	"Lecture",
+	"Summer school",
+	"Webinar",
+	"Internship",
+	"Physical exercise",
+	"Coding bootcamp",
+	"Psychology",
+	"Digital marketing",
+	"Walking",
+	"Cybersecurity",
+	"Birthday",
+	"Debate",
+	"Power World",
+	"Student union",
+	"Mental health",
+	"Scholarship",
+	"Business Pitch",
+	"Astronomy",
+	"Party",
+	"Volunteering",
+	"Briefing",
+	"Game night",
+	"Autonomous driving",
+	"Fundraiser",
+	"Demo day",
+	"Chemistry",
+	"Poster session",
+	"Systems science",
+	"University of Tartu",
+	"Engineering",
+	"Book club",
+	"Spring school",
+	"Abstract art",
+	"AI",
+	"Survey",
+	"Coaching",
+	"Quiz",
+	"Art exhibition",
+	"Film screening",
+	"Robotics",
+	"Student council",
+	"Elections",
+	"Urban mobility",
+	"Deadline",
+	"Gymnasium teaching",
+	"Math",
+	"Thesis defense",
+	"Technology",
+	"Painting",
+	"Dance night",
+	"Debate club",
+	"Running",
+	"Sports",
+	"Master's degree",
+	"Hackathon",
+	"Manufacturing",
+	"UI/UX workshop",
+	"Music performance",
+	"Networking",
+	"Enron",
+	"Jogging",
+	"Powerlifting",
+	"Career day",
+	"Sustainability",
+	"Philosophy",
+	"Community service",
+	"Drawing",
+	"Mentoring",
+	"Game jam",
+	"Biology",
+	"Competition",
+	"AI ethics",
+	"Application",
+	"Climate workshop",
+	"Movie",
+	"Finance",
+	"Training",
+	"Music lessons",
+	"Presentation",
+	"Habits",
+	"Olympiad",
+	"Biotech",
+	"Stipend",
+	"Convention",
+	"Tech talk",
+	"Dance club",
+	"Medicine"
+]
+!<-=->!
+[]
+!<-=->!
+[]
+!<-=->!
+[
+	{
+		"event_name": "Wireless Technologies and Security test submission deadline",
+		"start_date": null,
+		"end_date": "2024-12-16T19:20:05",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Technology",
+			"Deadline",
+			"University of Tartu"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "Wireless Technologies and Security test submission deadline",
+		"start_date": null,
+		"end_date": "2024-12-16T19:15:08",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Technology",
+			"Deadline",
+			"University of Tartu"
+		]
+	}
+]

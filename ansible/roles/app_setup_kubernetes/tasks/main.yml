@@ -1,0 +1,12 @@
+- name: Create namespace events-organiser
+  kubernetes.core.k8s:
+    state: present
+    definition:
+      apiVersion: v1
+      kind: Namespace
+      metadata:
+        name: events-organiser
+
+- include_tasks: nginx-proxy-and-gateway-kube.yml
+
+- include_tasks: app.yml

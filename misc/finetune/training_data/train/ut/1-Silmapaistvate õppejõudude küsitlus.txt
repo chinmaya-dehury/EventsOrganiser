@@ -1,0 +1,83 @@
+in Estonian & English
+expected response is in Estonian
+!<-=->!
+Survey; Deadline; Institute of Computer Science; University of Tartu; Lecture; Internship; Networking; Workshop
+!<-=->!
+kalle.kull@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAGuOi+Q\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAGuqar2AAA=",
+    "createdDateTime": "2024-05-29T07:25:38Z",
+    "lastModifiedDateTime": "2024-05-29T07:30:57Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAGuOi+Q",
+    "categories": [],
+    "receivedDateTime": "2024-05-29T07:25:39Z",
+    "sentDateTime": "2024-05-29T05:00:00Z",
+    "hasAttachments": false,
+    "internetMessageId": "<AM6PR02MB5494A6FD54CA7F9B15473AFD8FF12@AM6PR02MB5494.eurprd02.prod.outlook.com>",
+    "subject": "[ltt tudengid:400] Silmapaistvate õppejõudude küsitlus/ The survey of outstanding lecturers",
+    "bodyPreview": "Hei üliõpilane, käes on tunnustamise aeg! Loodus- ja täppisteaduste valdkonnas on kujunenud tavaks iga õppeaasta lõpus tunnustada iga instituudi silmapaistvamaid õppejõude. Igal valdkonna tudengil on võimalik hääletada oma lemmikute õppejõudude poolt ning",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAI6H8foH9qdLt8dfIHii-eo=",
+    "conversationIndex": "AQHasSbyjofx+gf2p0u3x18geKL96g==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAGuqar2AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "other",
+    "body": {
+        "contentType": "text",
+        "content": "Hei üliõpilane, käes on tunnustamise aeg! Loodus- ja täppisteaduste valdkonnas on kujunenud tavaks iga õppeaasta lõpus tunnustada iga instituudi silmapaistvamaid õppejõude. Igal valdkonna tudengil on võimalik hääletada oma lemmikute õppejõudude poolt ning seeläbi anda neile tunnustust mida nad väärivad.\r\n\r\nTÄIDA küsitlus 31. maiks!!!   LINK: Silmapaistvate õppejõudude küsitlus<https://forms.office.com/pages/responsepage.aspx?id=F2M1bQQNvEq2toyXc4hbsBl9mBzuGEJLpZhwbsAtkDtUOFYyRk4zUU4wS1Y0R0dHQUhPTjVRNk9LRC4u&fbclid=IwZXh0bgNhZW0CMTAAAR39OMoiYbKii0l3nO1Z5fJzTFXcLyBHXZOQusiUFwlwbqXJzU3Pt1IKkd4_aem_AYt73R7Arw3ZPd3PTtANkmne_BzgY4toPIKavP381cKQuedVnuUyu5ZkcILvyM7RFBjUo_aCKFbWLT3lRyrhcwJJ>\r\n\r\n(Küsitlus nõuab TÜ kontoga sisse logimist, et kõik vastajad saaksid esitada oma lemmikut vaid ühe korra, kuid mitte muretseda anonüümsus on siiski säilitatud!)\r\n//ENG\r\n\r\nIn the faculty of science and technology, it has become customary to recognize the most outstanding lecturers of each institute at the end of each academic year. Every student of the faculty has the opportunity to vote for their favorite lecturers and give them the recognition they deserve.\r\n\r\nCOMPLETE the survey by May 31st!!!\r\nLINK: Outstanding lecturers forms<https://forms.office.com/pages/responsepage.aspx?id=F2M1bQQNvEq2toyXc4hbsBl9mBzuGEJLpZhwbsAtkDtUOFYyRk4zUU4wS1Y0R0dHQUhPTjVRNk9LRC4u&fbclid=IwZXh0bgNhZW0CMTAAAR39OMoiYbKii0l3nO1Z5fJzTFXcLyBHXZOQusiUFwlwbqXJzU3Pt1IKkd4_aem_AYt73R7Arw3ZPd3PTtANkmne_BzgY4toPIKavP381cKQuedVnuUyu5ZkcILvyM7RFBjUo_aCKFbWLT3lRyrhcwJJ>\r\n\r\n(The survey requires logging in with a UT account, so that all respondents can submit their favorite only once, but don't worry, anonymity is still preserved!)\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "ltt.tudengid-request@lists.ut.ee",
+            "address": "ltt.tudengid-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "LT valdkonna üliõpilaskogu",
+            "address": "ltt.tudengid@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "Silmapaistvate õppejõudude küsitluse tähtaeg",
+        "start_date": null,
+        "end_date": "2024-05-31T23:59:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Survey", "Deadline", "Institute of Computer Science", "University of Tartu"
+        ]
+    }
+]

@@ -1,0 +1,146 @@
+[data-theme="light"] {
+    --color-input-placeholder: #475569;
+    --color-input-border-hovered: #94a3b8;
+    --color-input-border-focused: #A5B4FC;
+    --color-input-outline-focused: #d3d0f8;
+    --color-input-border-invalid: #f43d58;
+
+    --color-text: #1E293B;
+
+    --color-border: #E2E8F0;
+
+    --color-icons: #475569;
+}
+
+html * {
+    font-family: "Plus Jakarta Sans", serif !important;
+}
+
+body {
+    height: 100%;
+
+    margin: 0px;
+    background-color: #EDEDED;
+}
+
+#root {
+    display: grid;
+    grid-template-columns: auto 1fr; /* sidebar | rest of the content on PC */
+
+    height: 100%;
+}
+
+@media (max-width: 1024px) {
+    #root {
+        grid-template-columns: 1fr;
+    }
+}
+
+input {
+    border-style: solid;
+    border-color: var(--color-border);
+    border-width: 1px;
+    border-radius: 1rem;
+
+    font-size: 1rem;
+
+    margin: 0.5rem;
+    line-height: 1.25rem;
+    padding: 0.5rem;
+}
+
+input:hover {
+    border-color: var(--color-input-border-hovered);
+}
+
+input:focus {
+    border-color: var(--color-input-border-focused);
+
+    outline: 0.25rem solid var(--color-input-outline-focused);
+}
+
+input:invalid {
+    border-color: var(--color-input-border-invalid);
+}
+
+input::placeholder {
+    color: var(--color-input-placeholder);
+}
+
+input.search-bar {
+    border-radius: 10rem;
+    font-size: 1rem;
+}
+
+button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border: none;
+    border-radius: 20px;
+
+    color: white;
+    background-color: #007AFF;
+    cursor: pointer;
+
+    padding: 0.5rem;
+    margin: 0.1rem;
+
+    font-weight: 600;
+    font-size: 0.8rem;
+}
+
+button:disabled {
+    opacity: 50%;
+    cursor: default;
+}
+
+button.warning {
+    background-color: #E11D48;
+}
+
+button.plain {
+    color: #475569;
+    background-color: white;
+    border: 1px solid #CBD5E1;
+}
+
+dialog {
+    border: 0;
+    border-radius: 15px;
+}
+
+ul.tabs {
+    padding: 0;
+}
+
+li.tab-item {
+    display: inline;
+    color: #475569;
+    border-bottom: 2px solid #CBD5E1;
+
+    font-weight: 600;
+    padding: 0.5rem;
+
+    cursor: pointer;
+}
+
+li.tab-item.active {
+    border-color: #4F46E5;
+}
+
+.container {
+    padding-right: var(--bs-gutter-x, .75rem);
+    padding-left: var(--bs-gutter-x, .75rem);
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.card {
+    border: 1px solid #e2e8f0;
+    border-radius: 20px;
+    background-color: white;
+
+    padding: 1rem;
+}

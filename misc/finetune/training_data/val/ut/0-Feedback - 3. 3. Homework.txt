@@ -1,0 +1,69 @@
+in English; no events
+!<-=->!
+
+!<-=->!
+daniel.kase@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJS9uY4\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAI_R5KAAAA=",
+    "createdDateTime": "2025-01-02T14:17:24Z",
+    "lastModifiedDateTime": "2025-02-03T12:11:01Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJS9uY4",
+    "categories": [],
+    "receivedDateTime": "2025-01-02T14:17:24Z",
+    "sentDateTime": "2025-01-02T14:17:20Z",
+    "hasAttachments": false,
+    "internetMessageId": "<5vMJHKllFrcRqopLm5ow3SyxDxIXK4RDFkkHu1homG4@courses.cs.ut.ee>",
+    "subject": "Feedback - 3. 3. Homework (16.12.) (LTAT.06.022)",
+    "bodyPreview": "Dear Daniel,\r\n\r\nThank you for submitting Homework 3 on Prefix Min on GPU. After reviewing your work for the second round, your current work is sufficient to pass.\r\n\r\nIn prefixMin2_part1 Kernel, the kernel logic is mostly correct but has potential issues wi",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQADEQMEVBECZDsJEr53Se5lA=",
+    "conversationIndex": "AQHbXSELMRAwRUEQJkOwkSvndJ7mUA==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAI%2BR5KAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Dear Daniel,\r\n\r\nThank you for submitting Homework 3 on Prefix Min on GPU. After reviewing your work for the second round, your current work is sufficient to pass.\r\n\r\nIn prefixMin2_part1 Kernel, the kernel logic is mostly correct but has potential issues with out-of-bounds access and array indexing. These issues need to be fixed to prevent runtime errors and to ensure correct behavior.\r\n\r\n\r\nResult: Pass\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Russel Van Dulken",
+            "address": "russel.dulken@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Russel Van Dulken",
+            "address": "russel.dulken@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Daniel Kase",
+                "address": "daniel.kase@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "Russel Van Dulken",
+                "address": "russel.dulken@ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[]

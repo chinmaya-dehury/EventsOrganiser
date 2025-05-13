@@ -1,0 +1,107 @@
+in English;
+has a timezone specifically mentioned, which the LLM needs to put into start and end date
+!<-=->!
+Deadline; Application; Webinar; UI/UX workshop; AI ethics; Bioinformatics; Coding bootcamp; Thesis defense; Coaching; Mentorship
+!<-=->!
+andres.adamson@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAA6z1Q3\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAA661XAAAA=",
+    "createdDateTime": "2022-11-14T09:07:56Z",
+    "lastModifiedDateTime": "2022-11-14T09:13:12Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAA6z1Q3",
+    "categories": [],
+    "receivedDateTime": "2022-11-14T09:07:56Z",
+    "sentDateTime": "2022-11-14T09:07:39Z",
+    "hasAttachments": false,
+    "internetMessageId": "<VI1PR0201MB21421A68B5BB5F9206CCEF4480059@VI1PR0201MB2142.eurprd02.prod.outlook.com>",
+    "subject": "[cs.student:868] Apply to SECCLO, 23 November 2022 – 4 January 2023",
+    "bodyPreview": "Dear all!\r\n\r\nWe are glad to announce that soon you will have the chance to apply to SECCLO (Security and Cloud Computing) Erasmus Mundus Joint Curriculum Master's. The next application period will be 23 November 2022 – 4 January 2023 at 3 pm (GMT +2).",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAMnUaAQqeghOq-Axq4Nv7P8=",
+    "conversationIndex": "AQHY+AfCydRoBCp6CE6r8DGrg2/s/w==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAA661XAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Dear all!\r\n\r\nWe are glad to announce that soon you will have the chance to apply to SECCLO (Security and Cloud Computing)<https://www.secclo.eu/> Erasmus Mundus Joint Curriculum Master's. The next application period will be 23 November 2022 – 4 January 2023 at 3 pm (GMT +2).\r\n\r\nSECCLO is an Erasmus Mundus Joint Master Degree (EMJMD) programme in information security and cloud computing offered by a consortium of six highly ranked technical universities in Finland, Sweden, Norway, Denmark, Estonia, and France. During the two-year MSc studies, students will study at two consortium universities and graduate from both.\r\n\r\nIf you are interested in the programme, you are welcome to participate in two webinars in Zoom in November. Those take place on 15 and 22 November. More info here<https://www.secclo.eu/admission/admission-webinars/>.\r\n\r\nIf you have additional questions, you can book a consultation at maret.kaljulaid@ut.ee.\r\n\r\nBest regards\r\n---\r\nSigne Soosalu\r\nturundus- ja kommunikatsioonispetsialist / Marketing and Communication Specialist\r\narvutiteaduse instituut / Institute of Computer Science\r\nTartu Ülikool / University of Tartu\r\n+372 5114 9231\r\nwww.cs.ut.ee<http://www.cs.ut.ee>\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "cs.student-request@lists.ut.ee",
+            "address": "cs.student-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Signe Soosalu",
+            "address": "cs.student@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "SECCLO programme introduction webinar (1)",
+        "start_date": "2022-11-15T00:00:00+02:00",
+        "end_date": "2022-11-15T23:59:00+02:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Webinar"
+        ]
+    },
+    {
+        "event_name": "SECCLO programme introduction webinar (2)",
+        "start_date": "2022-11-22T00:00:00+02:00",
+        "end_date": "2022-11-22T23:59:00+02:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Webinar"
+        ]
+    },
+    {
+        "event_name": "SECCLO programme application period",
+        "start_date": "2022-11-23T00:00:00+02:00",
+        "end_date": "2023-01-04T23:59:00+02:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Deadline", "Application"
+        ]
+    }
+]

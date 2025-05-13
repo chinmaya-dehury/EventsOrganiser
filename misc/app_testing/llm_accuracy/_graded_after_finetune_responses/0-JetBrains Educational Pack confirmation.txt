@@ -1,0 +1,20 @@
+{
+	"expected_response": [],
+	"exemplars": [
+		{
+			"llm_response": [],
+			"grades_for_each_event": [],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [],
+			"grades_for_each_event": [],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [],
+			"grades_for_each_event": [],
+			"event_finding_grade": 1.0
+		}
+	]
+}

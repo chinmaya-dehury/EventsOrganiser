@@ -1,1 +1,0 @@
-A fragment in the project related to finetuning Gemma 2 to give more accurate event information, given the event parser propmts.

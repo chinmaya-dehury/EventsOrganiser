@@ -1,0 +1,149 @@
+{
+	"expected_response": [
+		{
+			"event_name": "[REGISTRATION REQUIRED] Nucleate - fireside chat about new lecture series",
+			"start_date": "2024-06-18T19:00:00",
+			"end_date": "2024-06-18T21:00:00",
+			"country": "Estonia",
+			"city": "Tallinn",
+			"address": "Telliskivi street 57 (Palo Alto Club)",
+			"room": "",
+			"tags": [
+				"AI",
+				"Medicine",
+				"Biotech",
+				"Registration"
+			]
+		}
+	],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "Climate workshop",
+					"start_date": "2024-07-13T14:00:00",
+					"end_date": "2024-07-13T16:00:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "Narva mnt 28 (Tame Sambretsus keskus)",
+					"room": "",
+					"tags": [
+						"Climate workshop"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Climate workshop",
+						"start_date": "2024-07-13T14:00:00",
+						"end_date": "2024-07-13T16:00:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "Narva mnt 28 (Tame Sambretsus keskus)",
+						"room": "",
+						"tags": [
+							"Climate workshop"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				}
+			],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "[REGISTRATION REQUIRED] Nucleate & Janusz Pogorzelski: AI in Drug Discovery",
+					"start_date": "2024-06-18T19:00:00",
+					"end_date": "2024-06-18T21:00:00",
+					"country": "Estonia",
+					"city": "Tallinn",
+					"address": "Telliskivi tn 57 (Palo Alto Club)",
+					"room": "",
+					"tags": [
+						"Biotech",
+						"Medicine"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "[REGISTRATION REQUIRED] Nucleate & Janusz Pogorzelski: AI in Drug Discovery",
+						"start_date": "2024-06-18T19:00:00",
+						"end_date": "2024-06-18T21:00:00",
+						"country": "Estonia",
+						"city": "Tallinn",
+						"address": "Telliskivi tn 57 (Palo Alto Club)",
+						"room": "",
+						"tags": [
+							"Biotech",
+							"Medicine"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.9,
+					"start_date_grade": 1.0,
+					"end_date_grade": 1.0,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.5
+				}
+			],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Climate workshop",
+					"start_date": "2024-07-13T14:00:00",
+					"end_date": "2024-07-13T16:00:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "Narva mnt 27 (Delta Centre)",
+					"room": "",
+					"tags": [
+						"Climate workshop"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Climate workshop",
+						"start_date": "2024-07-13T14:00:00",
+						"end_date": "2024-07-13T16:00:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "Narva mnt 27 (Delta Centre)",
+						"room": "",
+						"tags": [
+							"Climate workshop"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				}
+			],
+			"event_finding_grade": 0.0
+		}
+	]
+}

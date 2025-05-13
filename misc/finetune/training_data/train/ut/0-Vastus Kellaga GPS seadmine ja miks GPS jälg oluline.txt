@@ -1,0 +1,69 @@
+in Estonian; no events
+!<-=->!
+
+!<-=->!
+kalle.sepp@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJb6aOp\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJcdIi_AAA=",
+    "createdDateTime": "2025-02-16T17:56:15Z",
+    "lastModifiedDateTime": "2025-02-17T05:32:06Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJb6aOp",
+    "categories": [],
+    "receivedDateTime": "2025-02-16T17:56:15Z",
+    "sentDateTime": "2025-02-16T17:56:12Z",
+    "hasAttachments": false,
+    "internetMessageId": "<3708e18fa2c0cdc590c016dc42e47e8808264ea6cf998f79b90325af82304a34@moodle.ut.ee>",
+    "subject": "LTAT.01.173: Vastus: Kellaga GPS seadmine ja miks GPS jälg oluline?",
+    "bodyPreview": "LTAT.01.173 » Foorumid » Küsimused ja vastused - kursuse sisu, treeningute planeerimine jt treeningutega seotud küsimused » Kellaga GPS seadmine ja miks GPS jälg oluline?\r\nJM\r\nVastus: Kellaga GPS seadmine ja miks GPS jälg oluline?\r\nMarten Kivisikk – 16.02.20",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAGptwE2UOWVEpReLR6I53_A=",
+    "conversationIndex": "AQHbgHZham3ATZQ5ZUSlF4tHojnf4LNKM9uAgAADWQA=",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJcdIi%2BAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "LTAT.01.173<https://moodle.ut.ee/course/view.php?id=1231> » Foorumid<https://moodle.ut.ee/mod/forum/index.php?id=1231> » Küsimused ja vastused - kursuse sisu, treeningute planeerimine jt treeningutega seotud küsimused<https://moodle.ut.ee/mod/forum/view.php?f=23513> » Kellaga GPS seadmine ja miks GPS jälg oluline?<https://moodle.ut.ee/mod/forum/discuss.php?d=832142>\r\nMK<https://moodle.ut.ee/user/view.php?id=51273&course=1291>\r\nVastus: Kellaga GPS seadmine ja miks GPS jälg oluline?\r\nMarten Kivisikk<https://moodle.ut.ee/user/view.php?id=12312&course=1291> – 16.02.2025 19:24:03\r\n\r\n\r\nSiiski! Vaatasin hetkel Polar Flow lehelt ja nad on natuke oma plaane seal kärpinud ja jätnud niiöelda jooksuvõistluse plaanid. Siiski, saab neid natuke kasutada. Valige nt 5 km võistlus kuskile kursuse lõppu ja täitne nõutud küsimused. Siis tekib teile \"plaan\", mis küll keerleb jooksu ümber, aga selle võite ju asendada ükskõik mis muu vastupidavusega. samuti on kavas ka jõuharjutused. Aga te ei pea seda plaani täpselt jälgima vaid teha vastavalt soovitatule väikeseid muudatusi, võttes seda plaani , kui kondikava esmasteks treeninguteks ja harjutusteks, mida võiks teha.\r\n\r\nEdu soovides!\r\n\r\nMarten Kivisikk\r\n\r\nKuva ülatasemeüksus <https://moodle.ut.ee/mod/forum/discuss.php?d=1008730&parent=2555546> | Vasta <https://moodle.ut.ee/mod/forum/post.php?reply=2555556>\r\nKuva see postitus kontekstis <https://moodle.ut.ee/mod/forum/discuss.php?d=>\r\n________________________________\r\nSaate muuta enda foorumi kokkuvõtte-eelistusi<https://moodle.ut.ee/mod/forum/index.php?id=1291>\r\n\r\nLoed seda teadet e-kirjas? Lae endale mobiiliäpp ja loe teateid äpis<https://download.moodle.org/mobile?version=2022112815.03&lang=et&iosappid=633359593&androidappid=com.moodle.moodlemobile>.\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Marten Kivisikk (saidi TÜ Moodle kaudu)",
+            "address": "noreply-moodle@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Marten Kivisikk (saidi TÜ Moodle kaudu)",
+            "address": "noreply-moodle@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Madis Kõivopuu",
+                "address": "madis.koivopuu@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "TÜ Moodle",
+                "address": "noreply-moodle@ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[]

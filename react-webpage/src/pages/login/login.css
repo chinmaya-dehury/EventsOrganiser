@@ -1,0 +1,48 @@
+button.ms {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    border: 0;
+    padding: 15px;
+    box-shadow: 0 0 20px rgba(52, 52, 53, 0.3);
+    font-size: medium;
+    cursor: pointer;
+
+    transition: 0.4s;
+}
+
+button.ms:hover {
+    color: white;
+    box-shadow: 0 0 20px rgba(104, 85, 224, 0.6);
+    background-color: #6855e0;
+}
+
+button.ms:active {
+    background-color: #3a307a;
+}
+
+.login-flexbox {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-header {
+    text-align: center;
+}
+
+.login-btns {
+    display: flex;
+    flex-direction: column;
+}
+
+.ms {
+    color: rgba(255,255,255,255);
+    background-color: rgba(47,47,47,255);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,87 @@
+{
+	"expected_response": [],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "Feedback on Praktikum 9 - Mikroteenused",
+					"start_date": "2024-05-05T10:12:32",
+					"end_date": "2024-05-05T10:12:32",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Presentation",
+						"Deadline",
+						"Mentoring"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Feedback - Development of web services and distributed systems LTAT.06.018",
+					"start_date": null,
+					"end_date": "2024-05-05T23:59:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": []
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Feedback - 9. Praktikum 9 - Mikroteenused",
+					"start_date": "2024-05-05T10:12:32",
+					"end_date": "2024-05-05T23:59:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Presentation",
+						"Presentation",
+						"Mentoring",
+						"Presentation",
+						"Workshop",
+						"Presentation",
+						"Presentation",
+						"Presentation"
+					]
+				},
+				{
+					"event_name": "Bonus \u00dclesanne",
+					"start_date": "2024-05-05T10:12:32",
+					"end_date": "2024-05-05T23:59:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Presentation",
+						"Presentation",
+						"Mentoring",
+						"Presentation",
+						"Workshop",
+						"Presentation",
+						"Presentation",
+						"Presentation"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		}
+	]
+}

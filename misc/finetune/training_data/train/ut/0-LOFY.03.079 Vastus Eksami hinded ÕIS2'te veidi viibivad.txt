@@ -1,0 +1,69 @@
+in Estonian;
+!<-=->!
+
+!<-=->!
+signe.soosalu@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AABwqKNW\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AABw1EG7AAA=",
+    "createdDateTime": "2023-02-03T16:09:28Z",
+    "lastModifiedDateTime": "2023-02-03T16:09:30Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AABwqKNW",
+    "categories": [],
+    "receivedDateTime": "2023-02-03T16:09:28Z",
+    "sentDateTime": "2023-02-03T16:09:23Z",
+    "hasAttachments": false,
+    "internetMessageId": "<c5ad69209ab6fa0561d98c2e3289c67613126df0be8591dcdc1484c0efb472b9@moodle.ut.ee>",
+    "subject": "LOFY.03.079: Vastus: Eksami hinded ÕIS2'te veidi viibivad",
+    "bodyPreview": "LOFY.03.079 » Foorumid » Küsimused, loengute täiendused ja muu arutelu. » Eksami hinded ÕIS2'te veidi viibivad\r\n\r\nVastus: Eksami hinded ÕIS2'te veidi viibivad\r\nMattias Kangur – 3.02.2023 18:06:55\r\n\r\n\r\nTere!\r\n\r\nAnnan teada, et nüüd tegid ÕIS2 arendajad süste",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAHWJ0F62XGBOnvcYiv0_jxI=",
+    "conversationIndex": "AQHZN+nkdYnQXrZcYE6e9xiK/T6PEg==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AABw1EG7AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "other",
+    "body": {
+        "contentType": "text",
+        "content": "LOFY.03.079<https://moodle.ut.ee/course/view.php?id=2893> » Foorumid<https://moodle.ut.ee/mod/forum/index.php?id=2893> » Küsimused, loengute täiendused ja muu arutelu.<https://moodle.ut.ee/mod/forum/view.php?f=2893> » Eksami hinded ÕIS2'te veidi viibivad<https://moodle.ut.ee/mod/forum/discuss.php?d=2893>\r\n[Mattias Kangur pilt]<https://moodle.ut.ee/user/view.php?d=192&course=1755>\r\nVastus: Eksami hinded ÕIS2'te veidi viibivad\r\nMattias Kangur<https://moodle.ut.ee/user/view.php?d=192&course=1755> – 3.02.2023 18:06:55\r\n\r\n\r\nTere!\r\n\r\nAnnan teada, et nüüd tegid ÕIS2 arendajad süsteemi korda ja Teie väljateenitud hinded on ÕIS2s.\r\n\r\nPraegu siis tänase kuupäevaga. Kui kellelgi on vaja kindlasti eksami toimumise kuupäeva seal näha, siis andke teada!\r\n\r\nJa igaks juhuks palun kõigil korduseksamil käinutel üle kontrollida, kas teil ikka on õige hinne ÕISis, sest, paraku korduseksami hinded automaatselt olemasolevast tulemusest üle ei lähe. See tuleb muuta käsitsi...\r\n\r\nTervitades,\r\nMattias Kangur\r\n\r\nKuva ülatasemeüksus <https://moodle.ut.ee/mod/forum/discuss.php?d=2893&parent=1143907> | Vasta <https://moodle.ut.ee/mod/forum/post.php?reply=2114688>\r\nKuva see postitus kontekstis <https://moodle.ut.ee/mod/forum/discuss.php?d=2893#p2114688>\r\n________________________________\r\nTühista liitumine selle foorumiga<https://moodle.ut.ee/mod/forum/subscribe.php?id=9125>  Tühista liitumine selle aruteluga<https://moodle.ut.ee/mod/forum/subscribe.php?id=9125&d=2893>  Saate muuta enda foorumi kokkuvõtte-eelistusi<https://moodle.ut.ee/mod/forum/index.php?id=2893>\r\n\r\nLoed seda teadet e-kirjas? Lae endale mobiiliäpp ja loe teateid äpis<https://download.moodle.org/mobile?version=2020061519&lang=et&iosappid=633359593&androidappid=com.moodle.moodlemobile>.\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Mattias Kangur (saidi TÜ Moodle kaudu)",
+            "address": "noreply-moodle@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Mattias Kangur (saidi TÜ Moodle kaudu)",
+            "address": "noreply-moodle@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Signe Soosalu",
+                "address": "signe.soosalu@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "TÜ Moodle",
+                "address": "noreply-moodle@ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[]

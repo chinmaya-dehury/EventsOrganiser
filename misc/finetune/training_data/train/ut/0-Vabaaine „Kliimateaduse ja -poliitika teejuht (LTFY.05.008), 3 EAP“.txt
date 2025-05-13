@@ -1,0 +1,69 @@
+in Estonian; registration to a course, which could technically be an event but there's no time mentioned
+!<-=->!
+
+!<-=->!
+kaur.soomets@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJOcB5p\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJO_LqoAAA=",
+    "createdDateTime": "2025-01-27T12:09:22Z",
+    "lastModifiedDateTime": "2025-01-27T12:09:40Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJOcB5p",
+    "categories": [],
+    "receivedDateTime": "2025-01-27T12:09:24Z",
+    "sentDateTime": "2025-01-27T12:09:01Z",
+    "hasAttachments": true,
+    "internetMessageId": "<AS2PR02MB88396782AF84C2B368592FC5F9EC2@AS2PR02MB8839.eurprd02.prod.outlook.com>",
+    "subject": "[ltt tudengid:421] Vabaaine „Kliimateaduse ja -poliitika teejuht (LTFY.05.008), 3 EAP“",
+    "bodyPreview": "Head tudengid, mul on siiralt hea meel teid kutsuda osalema kliimateaduse kursusel!\r\n\r\nKursusel saate uusi teadmisi kliimamuutuste põhjustest ja mõjudest ning õpite, kuidas nendega päriselt toime tulla nii globaalsel kui ka kohalikul tasandil. Usun, et ",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAI_wt3wXE2xDqoBwnaBQbIo=",
+    "conversationIndex": "AQHbcLRAj7C3fBcTbEOqgHCdoFBsig==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJO%2BLqoAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "\r\nHead tudengid, mul on siiralt hea meel teid kutsuda osalema kliimateaduse kursusel!\r\n\r\nKursusel saate uusi teadmisi kliimamuutuste põhjustest ja mõjudest ning õpite, kuidas nendega päriselt toime tulla nii globaalsel kui ka kohalikul tasandil. Usun, et see kursus kujundab teist kliimateadlikud ja keskkonda hoidvad tuleviku asjatundjad, kes on valmis vastutustundlikult tegutsema nii oma erialal kui ka laiemalt ühiskonnas.\r\nÕppima ootame tudengeid üle ülikooli kõikidest valdkondadest ja erialadelt!\r\n\r\nKliimateaduste professor Karoliina Sepp\r\nTÜ kliimauuringute keskuse juhataja\r\n\r\n[A qr code on a white background  Description automatically generated]KURSUSELE SAAD REGISTREERUDA SIIN\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "ltt.tudengid-request@lists.ut.ee",
+            "address": "ltt.tudengid-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Tanel Nõmm",
+            "address": "ltt.tudengid@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[]

@@ -1,0 +1,76 @@
+in Estonian;
+ has some events related to viewing your exam
+!<-=->!
+Exam paper review; 
+!<-=->!
+elmo.sepp@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AABmFwo9\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AABmP3LAAAA=",
+    "createdDateTime": "2023-01-20T15:05:10Z",
+    "lastModifiedDateTime": "2023-01-20T15:05:13Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AABmFwo9",
+    "categories": [],
+    "receivedDateTime": "2023-01-20T15:05:10Z",
+    "sentDateTime": "2023-01-20T15:05:09Z",
+    "hasAttachments": false,
+    "internetMessageId": "<A3.B1.24448.5ADAAC36@frida.it.da.ut.ee>",
+    "subject": "KMI eksami 18.01 tulemused",
+    "bodyPreview": "Tere,\r\n\r\nannan teada, et INF1 ja INF2 rühma KM I eksamitöö 18.01 tulemused on Moodle'i tabelisse kantud ja kogupunktidele vastavad hinded ÕISi sisestatud. Palun kontrollige üle punktid Moodle'i tabelis ja hinne ÕISis ning kui märkate mittevastavust või po",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQADxERaQo8olAoylTHHj3uZY=",
+    "conversationIndex": "AQHZLOCXPERFpCjyiUCjKVMcePe5lg==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AABmP3LAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Tere,\r\n\r\nannan teada, et INF1 ja INF2 rühma KM I eksamitöö 18.01 tulemused on Moodle'i tabelisse kantud ja kogupunktidele vastavad hinded ÕISi sisestatud. Palun kontrollige üle punktid Moodle'i tabelis ja hinne ÕISis ning kui märkate mittevastavust või pole eksamitulemust kirjas, siis andke sellest mulle palun võimalikult kiiresti teada.\r\n\r\nEksamitööd on soovi korral võimalik vaatama tulla E, 23.01 kell 12.00-13.00, r. 4059 või kokkuleppeliselt mõnel teisel ajal.\r\n\r\nParimate soovidega,\r\nHannaly Kirsimägi\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Hannaly Kirsimägi",
+            "address": "hannaly.kirsimagi@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Hannaly Kirsimägi",
+            "address": "hannaly.kirsimagi@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Elmo Sepp",
+                "address": "elmo.sepp@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "KMi eksamitöö üle vaatamine",
+        "start_date": "2023-01-23T12:00:00",
+        "end_date": "2023-01-23T13:00:00",
+        "country": "Eesti",
+        "city": "Tartu",
+        "address": "Narva mnt 18 (Delta keskus)",
+        "room": "ruum 4059",
+        "tags": [
+            "Exam paper review"
+        ]
+    }
+]

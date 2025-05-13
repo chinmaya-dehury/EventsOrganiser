@@ -1,9 +1,0 @@
-asyncmy
-fastapi[standard]==0.115.0
-fastapi-pagination==0.12.29
-git+https://github.com/madiskoivopuu/fastapi-server-session.git
-identity==0.9.2
-pymongo==4.10.1
-pydantic==2.9.2
-pytz
-sqlalchemy==2.0.36

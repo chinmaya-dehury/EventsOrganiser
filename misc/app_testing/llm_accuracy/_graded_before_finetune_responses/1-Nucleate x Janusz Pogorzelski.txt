@@ -1,0 +1,165 @@
+{
+	"expected_response": [
+		{
+			"event_name": "[REGISTRATION REQUIRED] Nucleate - fireside chat about new lecture series",
+			"start_date": "2024-06-18T19:00:00",
+			"end_date": "2024-06-18T21:00:00",
+			"country": "Estonia",
+			"city": "Tallinn",
+			"address": "Telliskivi street 57 (Palo Alto Club)",
+			"room": "",
+			"tags": [
+				"AI",
+				"Medicine",
+				"Biotech",
+				"Registration"
+			]
+		}
+	],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "Fireside Chat: AI in Drug Discovery",
+					"start_date": "2024-06-18T19:00:00+02:00",
+					"end_date": "2024-06-18T21:00:00+02:00",
+					"country": "Estonia",
+					"city": "Tallinn",
+					"address": "Telliskivi tn 57, Palo Alto Club",
+					"room": "",
+					"tags": [
+						"AI",
+						"Biotech"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Fireside Chat: AI in Drug Discovery",
+						"start_date": "2024-06-18T19:00:00+02:00",
+						"end_date": "2024-06-18T21:00:00+02:00",
+						"country": "Estonia",
+						"city": "Tallinn",
+						"address": "Telliskivi tn 57, Palo Alto Club",
+						"room": "",
+						"tags": [
+							"AI",
+							"Biotech"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.6,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.5
+				}
+			],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Fireside Chat: AI in Drug Discovery",
+					"start_date": "2024-06-18T19:00:00+00:00",
+					"end_date": "2024-06-18T21:00:00+00:00",
+					"country": "Estonia",
+					"city": "Tallinn",
+					"address": "Palo Alto Club, Telliskivi tn 57",
+					"room": "",
+					"tags": [
+						"AI",
+						"Medicine",
+						"Biotech",
+						"Stipend",
+						"Registration"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Fireside Chat: AI in Drug Discovery",
+						"start_date": "2024-06-18T19:00:00+00:00",
+						"end_date": "2024-06-18T21:00:00+00:00",
+						"country": "Estonia",
+						"city": "Tallinn",
+						"address": "Palo Alto Club, Telliskivi tn 57",
+						"room": "",
+						"tags": [
+							"AI",
+							"Medicine",
+							"Biotech",
+							"Stipend",
+							"Registration"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.6,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.8
+				}
+			],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Fireside Chat: AI in Drug Discovery",
+					"start_date": "2024-06-18T19:00:00+02:00",
+					"end_date": "2024-06-18T21:00:00+02:00",
+					"country": "Estonia",
+					"city": "Tallinn",
+					"address": "Palo Alto Club, Telliskivi tn 57",
+					"room": "",
+					"tags": [
+						"AI",
+						"Biotech",
+						"Medicine",
+						"Coding bootcamp",
+						"Stipend"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Fireside Chat: AI in Drug Discovery",
+						"start_date": "2024-06-18T19:00:00+02:00",
+						"end_date": "2024-06-18T21:00:00+02:00",
+						"country": "Estonia",
+						"city": "Tallinn",
+						"address": "Palo Alto Club, Telliskivi tn 57",
+						"room": "",
+						"tags": [
+							"AI",
+							"Biotech",
+							"Medicine",
+							"Coding bootcamp",
+							"Stipend"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.6,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.6
+				}
+			],
+			"event_finding_grade": 1.0
+		}
+	]
+}

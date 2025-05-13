@@ -1,0 +1,62 @@
+in Estonian; no events
+!<-=->!
+
+!<-=->!
+magnus.karlsen@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJa3RIg\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJawG5SAAA=",
+    "createdDateTime": "2025-02-13T13:40:31Z",
+    "lastModifiedDateTime": "2025-02-14T11:00:02Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJa3RIg",
+    "categories": [],
+    "receivedDateTime": "2025-02-13T13:40:32Z",
+    "sentDateTime": "2025-02-13T13:40:29Z",
+    "hasAttachments": false,
+    "internetMessageId": "<is.2E0731C8087001EDE0630100007F8C65@ut.ee>",
+    "subject": "LTAT.01.421 Lõputöö seminar",
+    "bodyPreview": "Tere!\r\nJagan teiega faili \"Lõputöö seminar 2025\", mida hakkame kasutama seminarides.\r\nhttps://docs.google.com/spreadsheets/d/1SgGOi9kaLPkiN1qo7UPw-5KMA9KD9ASDFY/edit?usp=sharing&ouid=015109&rtpof=true&sd=true\r\n\r\nKohtumiseni seminaris\r\nVambola",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQADdb6SGd-e9DhbMXuM9G8sI=",
+    "conversationIndex": "AQHbfhzZN1vpIZ3970OFsxe4z0bywg==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJawG5SAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Tere!\r\nJagan teiega faili \"Lõputöö seminar 2025\", mida hakkame kasutama seminarides.\r\nhttps://docs.google.com/spreadsheets/d/1SgGOi9kaLPkiN1qo7UPw-5KMA9KD9ASDFY/edit?usp=sharing&ouid=015109&rtpof=true&sd=true\r\n\r\nKohtumiseni seminaris\r\nNeeme Mäesoo\r\n\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Neeme Mäesoo ",
+            "address": "neeme.maesoo@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Neeme Mäesoo ",
+            "address": "neeme.maesoo@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Magnus Karlsen",
+                "address": "magnus.karlsen@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[]

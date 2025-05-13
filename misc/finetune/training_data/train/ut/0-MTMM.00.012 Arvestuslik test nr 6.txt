@@ -1,0 +1,80 @@
+comment
+!<-=->!
+Tag1; Tag2; Tag3
+!<-=->!
+reader-email@gmail.com
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAAx7bFH\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAAyBbZVAAA=",
+    "createdDateTime": "2022-10-31T13:22:46Z",
+    "lastModifiedDateTime": "2022-10-31T13:22:48Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAAx7bFH",
+    "categories": [],
+    "receivedDateTime": "2022-10-31T13:22:46Z",
+    "sentDateTime": "2022-10-31T13:22:44Z",
+    "hasAttachments": false,
+    "internetMessageId": "<895b6e40b0abd5cd66a5887493917a5dc8893b5e07128a269c701b31b9b5ef2a@moodle.ut.ee>",
+    "subject": "MTMM.00.012: Arvestuslik test nr 6",
+    "bodyPreview": "MTMM.00.012 » Foorumid » Arutelu foorum » Arvestuslik test nr 6\r\n\r\nArvestuslik test nr 6\r\nSigne Suvi – 31.10.2022 14:48:18\r\n\r\n\r\nTere!\r\n\r\nKuuenda arvestusliku testi 3. ülesandes kirjutasin lihtsustatud võrrandi nii:\r\n\r\n\r\nkuid õigeks oleks loetud va",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAFMRo5F2QN9DnPbd2bCMN_E=",
+    "conversationIndex": "AQHY7SvdUxGjkXZA30Oc9t3ZsIw34Q==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAAyBbZVAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "other",
+    "body": {
+        "contentType": "text",
+        "content": "MTMM.00.012<https://moodle.ut.ee/course/view.php?id=8321> » Foorumid<https://moodle.ut.ee/mod/forum/index.php?id=8321> » Arutelu foorum<https://moodle.ut.ee/mod/forum/view.php?f=20797> » Arvestuslik test nr 6<https://moodle.ut.ee/mod/forum/discuss.php?d=8321>\r\n[Signe Suvi pilt]<https://moodle.ut.ee/user/view.php?id=8321&course=8321>\r\nArvestuslik test nr 6\r\nSigne Suvi<https://moodle.ut.ee/user/view.php?id=8321&course=8321> – 31.10.2022 14:48:18\r\n\r\n\r\nTere!\r\n\r\nKuuenda arvestusliku testi 3. ülesandes kirjutasin lihtsustatud võrrandi nii:\r\n\r\n[https://moodle.ut.ee/tokenpluginfile.php/63f75c4afe257d9582243b389b849fe9/311016/mod_forum/post/2051960/image%20%281%29.png]\r\n\r\nkuid õigeks oleks loetud vastus sellisel kujul:\r\n\r\n[https://moodle.ut.ee/tokenpluginfile.php/63f75c4afe257d9582243b389b849fe9/311016/mod_forum/post/2051960/image.png]\r\n\r\nMiks minu kirjutatud kuju vale on?\r\n\r\n\r\nLugupidamisega\r\n\r\nSigne Suvi\r\n\r\nVasta <https://moodle.ut.ee/mod/forum/post.php?reply=8321>\r\nKuva see postitus kontekstis <https://moodle.ut.ee/mod/forum/discuss.php?d=8321#p2051960>\r\n________________________________\r\nTühista liitumine selle foorumiga<https://moodle.ut.ee/mod/forum/subscribe.php?id=8321>  Tühista liitumine selle aruteluga<https://moodle.ut.ee/mod/forum/subscribe.php?id=8321&d=8321>  Saate muuta enda foorumi kokkuvõtte-eelistusi<https://moodle.ut.ee/mod/forum/index.php?id=8321>\r\n\r\nLoed seda teadet e-kirjas? Lae endale mobiiliäpp ja loe teateid äpis<https://download.moodle.org/mobile?version=2020061517&lang=et&iosappid=8321&androidappid=com.moodle.moodlemobile>.\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Signe Suvi (saidi TÜ Moodle kaudu)",
+            "address": "noreply-moodle@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Signe Suvi (saidi TÜ Moodle kaudu)",
+            "address": "noreply-moodle@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Madis Kõivopuu",
+                "address": "madis.koivopuu@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "TÜ Moodle",
+                "address": "noreply-moodle@ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "",
+        "start_date": "",
+        "end_date": "",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": []
+    }
+]

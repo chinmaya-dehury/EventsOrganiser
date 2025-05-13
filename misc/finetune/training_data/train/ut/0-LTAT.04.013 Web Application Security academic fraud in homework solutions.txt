@@ -1,0 +1,62 @@
+in English
+!<-=->!
+
+!<-=->!
+steven.jaagup.lepp@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAH3IiSd\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAH3l8t7AAA=",
+    "createdDateTime": "2024-09-16T06:35:07Z",
+    "lastModifiedDateTime": "2024-09-16T07:29:36Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAH3IiSd",
+    "categories": [],
+    "receivedDateTime": "2024-09-16T06:35:08Z",
+    "sentDateTime": "2024-09-16T06:35:04Z",
+    "hasAttachments": false,
+    "internetMessageId": "<is.2237C5AA931F129DE0630100007FA343@ut.ee>",
+    "subject": "LTAT.04.013 Web Application Security: academic fraud in homework solutions",
+    "bodyPreview": "Dear students,\r\n\r\nBased on the homework 01 and 02 submissions,\r\nwe have noticed that quite a few students have\r\nsubmitted ChatGPT reponses as a homework solution.\r\n\r\nIf we see anything like this in the future homework submissions,\r\nthe corresponding stude",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAB5i6OiF9jlOhkYU9CInWJw=",
+    "conversationIndex": "AQHbCAKSHmLo6IX2OU6GRhT0IidYnA==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAH3l8t7AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Dear students,\r\n\r\nBased on the homework 01 and 02 submissions,\r\nwe have noticed that quite a few students have\r\nsubmitted ChatGPT reponses as a homework solution.\r\n\r\nIf we see anything like this in the future homework submissions,\r\nthe corresponding students will receive an official plagiarism notice\r\nwithout any further warning.\r\n\r\nIf you are not able to solve the homework on your own,\r\nplease deregister from the course now.\r\n\r\nBest regards,\r\nAndrus Sild\r\n(course instructor)\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Arnis Paršovs ",
+            "address": "arnis.parsovs@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Arnis Paršovs ",
+            "address": "arnis.parsovs@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Madis Kõivopuu",
+                "address": "madis.koivopuu@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[]

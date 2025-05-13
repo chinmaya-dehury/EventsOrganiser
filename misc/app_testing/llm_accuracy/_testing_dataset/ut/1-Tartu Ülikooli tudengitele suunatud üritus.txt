@@ -1,0 +1,84 @@
+in Estonian;
+has events, but the LLM must guess the end date, the event ended in 20:30 in reality
+but the LLM should by default make events with only a start date defined 1h long
+!<-=->!
+Habits; Cybersecurity; Technology; Philosophy; Art exhibition; Abstract art; Painting; Fundraiser
+!<-=->!
+andrus.kivirahk@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAGObLB8\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAGO3KPSAAA=",
+    "createdDateTime": "2024-04-11T17:58:13Z",
+    "lastModifiedDateTime": "2024-04-11T18:03:29Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAGObLB8",
+    "categories": [],
+    "receivedDateTime": "2024-04-11T17:58:13Z",
+    "sentDateTime": "2024-04-11T09:31:43Z",
+    "hasAttachments": false,
+    "internetMessageId": "<GVXPR02MB10518FA004E0D8418E5FCBA1791052@GVXPR02MB10518.eurprd02.prod.outlook.com>",
+    "subject": "[ltt tudengid:385] Tartu Ülikooli tudengitele suunatud üritus",
+    "bodyPreview": "Tere!\r\n\r\n\r\n\r\nOleksime väga tänulikud, kui jagaksite LTT meililistis edasi Tartu Ülikooli tudengitele suunatud üritust.\r\n\r\n\r\n\r\nNimelt toimub 18. aprillil algusega 18:00 Delta keskuses ruumis 1006 üritus, mille põhifookuses on harjumused ja nende kujundamin",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQANHN7lfgjXFOvXT1E2uZ6Bg=",
+    "conversationIndex": "AQHai/Lw0c3uV+CNcU69dPUTa5noGA==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAGO3KPSAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "other",
+    "body": {
+        "contentType": "text",
+        "content": "Tere!\r\n\r\n\r\n\r\nOleksime väga tänulikud, kui jagaksite LTT meililistis edasi Tartu Ülikooli tudengitele suunatud üritust.\r\n\r\n\r\n\r\nNimelt toimub 18. aprillil algusega 18:00 Delta keskuses ruumis 1006 üritus, mille põhifookuses on harjumused ja nende kujundamine ning enda kasuks tööle panemine eesmärkide saavutamisel.\r\n\r\nKogemust tulevad jagama Master WILDFIT Coach Kaur Soomets ja praktilist töötuba läbi viima harjumuste kõneleja Maret Kiho.\r\n\r\n\r\n\r\nLink ürituse eventile: https://facebook.com/events/s/11649817234557174/\r\n\r\n\r\nIlusat kevadet\r\n\r\nJoosep Kasenurm\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "ltt.tudengid-request@lists.ut.ee",
+            "address": "ltt.tudengid-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Joosep Kasenurm",
+            "address": "ltt.tudengid@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "Huviloeng - harjumused ja nende kujundamine",
+        "start_date": "2024-04-18T18:00:00",
+        "end_date": "2024-04-18T20:30:00",
+        "country": "Eesti",
+        "city": "Tartu",
+        "address": "Narva mnt 18 (Delta keskus)",
+        "room": "ruum 1006",
+        "tags": [
+            "Habits"
+        ]
+    }
+]

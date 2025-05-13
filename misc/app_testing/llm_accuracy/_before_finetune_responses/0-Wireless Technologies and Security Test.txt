@@ -1,0 +1,179 @@
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAIzNhqe\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAIzuIc2AAA=",
+    "createdDateTime": "2024-12-16T14:05:07Z",
+    "lastModifiedDateTime": "2024-12-16T16:11:31Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAIzNhqe",
+    "categories": [],
+    "receivedDateTime": "2024-12-16T14:05:07Z",
+    "sentDateTime": "2024-12-16T14:05:04Z",
+    "hasAttachments": false,
+    "internetMessageId": "<is.2964AA8D1A4FCDC6E0630100007FB944@ut.ee>",
+    "subject": "Wireless Technologies and Security Test - 15 minute countdown",
+    "bodyPreview": "Hi,\r\n\r\nIt's the final countdown.\r\n\r\nYou now have less than 15 minutes to submit your test.\r\n\r\nGood luck!\r\nJaanus Plank",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAB7ibwJEgC5FhiWxWUjIWBU=",
+    "conversationIndex": "AQHbT8OCHuJvAkSALkWGJbFZSMhYFQ==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAIzuIc2AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Hi,\r\n\r\nIt's the final countdown.\r\n\r\nYou now have less than 15 minutes to submit your test.\r\n\r\nGood luck!\r\nJaanus Plank\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Jaanus Plank ",
+            "address": "danielle.morgan@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Jaanus Plank ",
+            "address": "danielle.morgan@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Jaanika Kirsimägi",
+                "address": "jaanika.kirsimagi@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+	"Philosophy",
+	"Math",
+	"Engineering",
+	"Coding bootcamp",
+	"Mentoring",
+	"Survey",
+	"Fundraiser",
+	"Quiz",
+	"Student council",
+	"Cybersecurity",
+	"Networking",
+	"Presentation",
+	"Digital marketing",
+	"Music performance",
+	"University of Tartu",
+	"Robotics",
+	"Scholarship",
+	"Conference",
+	"Habits",
+	"Hackathon",
+	"Debate",
+	"Biotech",
+	"Registration",
+	"Chemistry",
+	"Application",
+	"Painting",
+	"Student union",
+	"Deadline",
+	"Film screening",
+	"Manufacturing",
+	"Community service",
+	"Lecture",
+	"Climate workshop",
+	"Urban mobility",
+	"AI",
+	"Convention",
+	"Stipend",
+	"Business Pitch",
+	"Dance night",
+	"Webinar",
+	"Birthday",
+	"Demo day",
+	"Technology",
+	"AI ethics",
+	"Internship",
+	"Psychology",
+	"Art exhibition",
+	"Drawing",
+	"Abstract art",
+	"Party",
+	"Mental health",
+	"Medicine",
+	"Debate club",
+	"Volunteering",
+	"Workshop",
+	"Sustainability",
+	"Training",
+	"Movie",
+	"Thesis defense",
+	"Olympiad",
+	"Finance",
+	"Astronomy",
+	"Poster session",
+	"Elections",
+	"Game jam",
+	"Coaching",
+	"Tech talk",
+	"Power World",
+	"UI/UX workshop"
+]
+!<-=->!
+[]
+!<-=->!
+[
+	{
+		"event_name": "Wireless Technologies and Security Test Submission Deadline",
+		"start_date": "2024-12-16T14:50:00+02:00",
+		"end_date": "2024-12-16T14:59:00+02:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Deadline",
+			"Student council",
+			"Tech talk",
+			"University of Tartu",
+			"Deadline"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "Wireless Technologies and Security Test Submission Deadline",
+		"start_date": "2024-12-16T14:50:00+02:00",
+		"end_date": "2024-12-16T14:59:00+02:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Deadline",
+			"Student union"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "Wireless Technologies and Security Test",
+		"start_date": "2024-12-16T14:50:00+00:00",
+		"end_date": "2024-12-16T14:50:00+00:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Deadline",
+			"Quiz"
+		]
+	}
+]

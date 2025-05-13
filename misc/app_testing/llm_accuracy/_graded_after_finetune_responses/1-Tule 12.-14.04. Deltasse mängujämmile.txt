@@ -1,0 +1,147 @@
+{
+	"expected_response": [
+		{
+			"event_name": "[VAJA REGISTREERIDA] Tartu \u00dclikooli m\u00e4nguj\u00e4mm",
+			"start_date": "2024-04-12T00:00:00",
+			"end_date": "2024-04-14T23:59:00",
+			"country": "Eesti",
+			"city": "Tartu",
+			"address": "Narva mnt 18 (Delta keskus)",
+			"room": "",
+			"tags": [
+				"Game jam",
+				"University of Tartu"
+			]
+		}
+	],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "M\u00e4guj\u00e4m j\u00e4amm",
+					"start_date": "2024-04-12T00:00:00",
+					"end_date": "2024-04-14T23:59:00",
+					"country": "Eesti",
+					"city": "Tartu",
+					"address": "Narva mnt 18 (Delta keskus)",
+					"room": "",
+					"tags": [
+						"Game jam"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "M\u00e4guj\u00e4m j\u00e4amm",
+						"start_date": "2024-04-12T00:00:00",
+						"end_date": "2024-04-14T23:59:00",
+						"country": "Eesti",
+						"city": "Tartu",
+						"address": "Narva mnt 18 (Delta keskus)",
+						"room": "",
+						"tags": [
+							"Game jam"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.5,
+					"start_date_grade": 1.0,
+					"end_date_grade": 1.0,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.5
+				}
+			],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "M\u00e4guj\u00e4m j\u00e4amm",
+					"start_date": "2024-04-12T00:00:00",
+					"end_date": "2024-04-14T23:59:00",
+					"country": "Eesti",
+					"city": "Tartu",
+					"address": "Narva mnt 18 (Delta keskus)",
+					"room": "",
+					"tags": [
+						"Game jam"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "M\u00e4guj\u00e4m j\u00e4amm",
+						"start_date": "2024-04-12T00:00:00",
+						"end_date": "2024-04-14T23:59:00",
+						"country": "Eesti",
+						"city": "Tartu",
+						"address": "Narva mnt 18 (Delta keskus)",
+						"room": "",
+						"tags": [
+							"Game jam"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.5,
+					"start_date_grade": 1.0,
+					"end_date_grade": 1.0,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.5
+				}
+			],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "M\u00e4nguj\u00e4m j\u00e4m Tartu \u00dclikooli dltsles",
+					"start_date": "2024-04-12T00:00:00",
+					"end_date": "2024-04-14T23:59:00",
+					"country": "Eesti",
+					"city": "Tartu",
+					"address": "Ujula tn 4 (Delta \u00f5ppehoone)",
+					"room": "room 103",
+					"tags": [
+						"Debate club",
+						"University of Tartu"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "M\u00e4nguj\u00e4m j\u00e4m Tartu \u00dclikooli dltsles",
+						"start_date": "2024-04-12T00:00:00",
+						"end_date": "2024-04-14T23:59:00",
+						"country": "Eesti",
+						"city": "Tartu",
+						"address": "Ujula tn 4 (Delta \u00f5ppehoone)",
+						"room": "room 103",
+						"tags": [
+							"Debate club",
+							"University of Tartu"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.5,
+					"start_date_grade": 1.0,
+					"end_date_grade": 1.0,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.5
+				}
+			],
+			"event_finding_grade": 1.0
+		}
+	]
+}

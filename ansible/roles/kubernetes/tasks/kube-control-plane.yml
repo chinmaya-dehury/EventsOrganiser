@@ -1,0 +1,47 @@
+- name: Create kubeconfig directory for root and regular user 'ubuntu'
+  ansible.builtin.file:
+    path: "{{ item['home_path'] }}/.kube" 
+    owner: "{{ item['user'] }}"
+    group: "{{ item['user'] }}"
+    mode: "0755"
+    state: directory
+  with_items:
+    - user: root
+      home_path: /root
+    - user: ubuntu
+      home_path: "/home/ubuntu"
+
+- name: Copy over kubeconfig
+  ansible.builtin.copy:
+    remote_src: true
+    src: /etc/kubernetes/admin.conf
+    dest: "{{ item['home_path'] }}/.kube/config" 
+    owner: "{{ item['user'] }}"
+    group: "{{ item['user'] }}"
+    mode: "0600"
+  with_items:
+  - user: root
+    home_path: /root
+  - user: ubuntu
+    home_path: "/home/ubuntu"
+
+- name: Create Cilium download folder
+  file:
+    path: /tmp/cilium/
+    state: directory
+
+- name: Download Cilium CLI
+  ansible.builtin.get_url:
+    url: https://github.com/cilium/cilium-cli/releases/download/v0.17.0/cilium-linux-amd64.tar.gz # x64 arch, for arm this needs to be changed
+    dest: /tmp/cilium/cilium-linux-amd64.tar.gz
+    checksum: sha256:https://github.com/cilium/cilium-cli/releases/download/v0.17.0/cilium-linux-amd64.tar.gz.sha256sum
+
+- name: Unzip and move the CLI tool into /usr/local/bin
+  ansible.builtin.unarchive:
+    remote_src: yes
+    src: /tmp/cilium/cilium-linux-amd64.tar.gz
+    dest: /usr/local/bin
+
+- name: "PAUSED | Manually install cilium"
+  ansible.builtin.pause:
+    prompt: "Use 'sudo cilium install --version 1.17.1' to install CNI"

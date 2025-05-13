@@ -1,0 +1,67 @@
+{
+	"expected_response": [],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "",
+					"start_date": "",
+					"end_date": "2025-03-25T23:59:17",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": []
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "",
+					"start_date": "",
+					"end_date": "2025-03-25T23:59:17",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Training"
+					]
+				},
+				{
+					"event_name": "",
+					"start_date": "",
+					"end_date": "2025-03-25T23:59:17",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Registration"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "",
+					"start_date": null,
+					"end_date": "2025-03-25T23:59:17",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": []
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		}
+	]
+}

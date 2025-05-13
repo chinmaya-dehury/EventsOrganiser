@@ -1,0 +1,95 @@
+in Estonian & English
+expected responses are in Estonian
+!<-=->!
+Competition; University of Tartu; Institute of Computer Science; Poster session; Mentoring; Movie
+!<-=->!
+kalle.kala@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAGo8zHY\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAGpYmYiAAA=",
+    "createdDateTime": "2024-05-21T06:51:36Z",
+    "lastModifiedDateTime": "2024-05-21T06:56:53Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAGo8zHY",
+    "categories": [],
+    "receivedDateTime": "2024-05-21T06:51:36Z",
+    "sentDateTime": "2024-05-21T06:51:22Z",
+    "hasAttachments": false,
+    "internetMessageId": "<DB7PR02MB4585F71B13D85BABB84ECE58F2EA2@DB7PR02MB4585.eurprd02.prod.outlook.com>",
+    "subject": "[cs.student:1052] Tudengiprojektide võistluse tähtaeg on täna! / The deadline for the Institute of Computer Science Student Project Contest is today!",
+    "bodyPreview": "(English below)\r\n\r\nTere!\r\n\r\nArvutiteaduse instituudi tudengiprojektide võistluse tähtaeg on täna. Võistlusel osalemiseks tuleb oma projekt ära esitada tänase kuupäeva sees. Ootame võistlema teoreetilisi või praktilisi IT-projekte. Projekt võib olla se",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAEOMyEivLU_-nLIG4Ey5dtE=",
+    "conversationIndex": "AdqrSuTcQ4zISK8tT7+csgbgTLl20Q==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAGpYmYiAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "other",
+    "body": {
+        "contentType": "text",
+        "content": "\r\n\r\n(English below)\r\n\r\nTere!\r\n\r\nArvutiteaduse instituudi tudengiprojektide võistluse tähtaeg on täna. Võistlusel osalemiseks tuleb oma projekt ära esitada tänase kuupäeva sees. Ootame võistlema teoreetilisi või praktilisi IT-projekte. Projekt võib olla seotud mõne õppeaine kohustusliku osaga või mõne muu isikliku initsiatiiviga. Too oma projekt välja ja võida auhindu!\r\n\r\nTäpsem info: https://cs.ut.ee/et/sisu/tudengiprojektide-voistlus\r\nMaterjalide esitamine:  https://courses.cs.ut.ee/student_projects<%20https:/courses.cs.ut.ee/student_projects>:\r\n\r\n3. juunil algusega kl 14 toimub Deltas võistluse lõpuüritus koos postrisessiooniga ja kuulutatakse välja võitjad. Igas võistluskategoorias on välja pandud 1000 eurot I, 800 eurot II ja 600 eurot III koha eest kogu meeskonnale. Sel aastal anname välja ka eriauhinnad publikulemmikule ja parimale demole ning neid võistkondi premeeritakse 500 euroga. Publikulemmiku valimises saavad kõik kaasa lüüa. Postrid on üleval Delta õppehoone II korruse koridoris ja hääletus on avatud 27. maist kuni 3. juunini.\r\n\r\nKohtume võistlusel!\r\n\r\n-----------------------------\r\n\r\nDear students,\r\n\r\nThe deadline for the Institute of Computer Science Student Project Contest is today. To take part in the competition, you must submit your project by today’s date. The project has to be in the field of IT. It can be practical or theoretical research or implementation project. It may be associated with any course or be a completely new and personal initiative. Bring your project to the contest and win prizes!\r\n\r\nMore info:  https://cs.ut.ee/en/content/student-project-contest\r\nPlease submit materials here: https://courses.cs.ut.ee/student_projects< https:/courses.cs.ut.ee/student_projects>\r\n\r\nOn 3 June, starting at 14:00, the final event of the contest will take place in the Delta. There will be a poster sessioon, and the winners will be announced. In each competition category, €1,000 will be awarded for first place, €800 for second place and €600 for third place for the whole team. This year, special prizes will also be awarded to the public favourite and the best demo, with a €500 prize for these teams. Anyone can cast their vote for the public's favourite project. The posters will be on display in the corridor on the second floor of the Delta building and voting will be open from 27 May to 3 June.\r\n\r\nSee you at the contest!\r\nLisette Kasenurm\r\nturundus- ja kommunikatsioonispetsialist / Marketing and Communication Specialist\r\narvutiteaduse instituut / Institute of Computer Science\r\nTartu Ülikool / University of Tartu\r\n+372 514 4995<tel:+3725144995>\r\nwww.cs.ut.ee<http://www.cs.ut.ee/>\r\n#unitartucs\r\n\r\n\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "cs.student-request@lists.ut.ee",
+            "address": "cs.student-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Lisette Kasenurm",
+            "address": "cs.student@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "Tudengiprojektide võistlus - projekti esitamise tähtaeg",
+        "start_date": null,
+        "end_date": "2024-05-21T23:59:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Competition", "University of Tartu", "Institute of Computer Science"
+        ]
+    },
+    {
+        "event_name": "Tudengiprojektide võistlus - võitjate kuulutamise üritus",
+        "start_date": "2024-06-03T14:00:00",
+        "end_date": "2024-05-21T23:59:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Competition", "University of Tartu", "Institute of Computer Science"
+        ]
+    }
+]

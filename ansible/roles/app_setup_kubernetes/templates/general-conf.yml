@@ -1,0 +1,37 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: config
+  namespace: events-organiser
+data:
+  MICROSOFT_APP_CLIENT_ID: "{{ events_org_config.microsoft_app_client_id | mandatory }}"
+
+  events.MYSQL_HOST: "{{ events_org_config.mysql_host | mandatory }}"
+  events.RABBITMQ_HOST: "{{ events_org_config.rabbitmq_host | mandatory }}"
+
+  microsoft.MYSQL_HOST: "{{ events_org_config.mysql_host | mandatory }}"
+  microsoft.RABBITMQ_HOST: "{{ events_org_config.rabbitmq_host | mandatory }}"
+
+  auth.MYSQL_HOST: "{{ events_org_config.mysql_host | mandatory }}"
+  auth.RABBITMQ_HOST: "{{ events_org_config.rabbitmq_host | mandatory }}"
+---
+apiVersion: v1
+kind: Secret
+metadata:
+  name: secrets
+  namespace: events-organiser
+stringData:
+  MICROSOFT_APP_SECRET: "{{ events_org_secret.microsoft_app_secret | mandatory }}"
+  MICROSOFT_CALLBACK_SECRET: "{{ events_org_secret.microsoft_callback_secret | mandatory }}"
+  RABBITMQ_PASSWORD: "{{ events_org_secret.events_parser_rabbitmq_password | mandatory }}"
+  JWT_SECRET: "{{ events_org_secret.jwt_secret | mandatory }}"
+  EMAIL_ENCRYPTION_SECRET: "{{ events_org_secret.email_encryption_secret | mandatory }}"
+
+  events.MYSQL_EVENTS_PASSWORD: "{{ events_org_secret.mysql_user_events_password | mandatory }}"
+  events.RABBITMQ_PASSWORD: "{{ events_org_secret.events_parser_rabbitmq_password | mandatory }}"
+
+  microsoft.MYSQL_MICROSOFT_PASSWORD: "{{ events_org_secret.mysql_user_microsoft_password | mandatory }}"
+  microsoft.RABBITMQ_PASSWORD: "{{ events_org_secret.events_parser_rabbitmq_password | mandatory }}"
+
+  auth.MYSQL_AUTH_PASSWORD: "{{ events_org_secret.mysql_user_auth_password | mandatory }}"
+  auth.RABBITMQ_PASSWORD: "{{ events_org_secret.events_parser_rabbitmq_password | mandatory }}"

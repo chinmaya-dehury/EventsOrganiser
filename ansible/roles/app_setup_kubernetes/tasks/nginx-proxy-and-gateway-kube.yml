@@ -1,0 +1,42 @@
+# Necessary so that port 80 and 443 get proxied directly
+# to the Kubernetes gateway controller, which in this app
+# by default is another NGINX instance in a pod
+- name: Install NGINX directly on VM
+  ansible.builtin.apt:
+    name: nginx
+    state: present
+
+- name: Remove default configuration for NGINX
+  ansible.builtin.file:
+    path: /etc/nginx/sites-enabled/default
+    state: absent
+
+- name: Copy NGINX configuration to VM 
+  ansible.builtin.template:
+    src: main-site.conf
+    dest: /etc/nginx/sites-enabled/main-site.conf
+    owner: root
+    group: root
+    mode: "0755"
+
+- name: Reload service NGINX
+  ansible.builtin.service:
+    name: nginx
+    state: reloaded
+
+# Sets up the NGINX pod for Kubernetes Gateway API
+- name: Download the Gateway API resources with kubectl kustomize
+  ansible.builtin.command: kubectl kustomize -o /tmp/nginx-gateway-fabric-crds.yml https://github.com/nginx/nginx-gateway-fabric/config/crd/gateway-api/standard?ref=v1.6.1 
+
+- name: Install the Gateway API resources
+  kubernetes.core.k8s:
+    src: "/tmp/nginx-gateway-fabric-crds.yml"
+
+- name: Deploy the NGINX Gateway Fabric CRDs
+  kubernetes.core.k8s:
+    src: https://raw.githubusercontent.com/nginx/nginx-gateway-fabric/v1.6.1/deploy/crds.yaml
+
+- name: Deploy the NGINX Gateway
+  kubernetes.core.k8s:
+    state: present
+    definition: "{{ lookup('ansible.builtin.file', 'nginx-gateway-controller.yml') | from_yaml_all }}"

@@ -1,0 +1,69 @@
+in English
+!<-=->!
+
+!<-=->!
+steven.jaagup.lepp@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAITzA0d\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAIUQuUFAAA=",
+    "createdDateTime": "2024-10-29T14:16:07Z",
+    "lastModifiedDateTime": "2024-10-29T15:42:15Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAITzA0d",
+    "categories": [],
+    "receivedDateTime": "2024-10-29T14:16:08Z",
+    "sentDateTime": "2024-10-29T14:15:04Z",
+    "hasAttachments": false,
+    "internetMessageId": "<ce8a4f35b58f6d5c36e4566a2171dde7cde0b820c9bee574a36ffec1e797f9a2@moodle.ut.ee>",
+    "subject": "LTAT.05.005_ENG: Re: Intermediate Demo Day",
+    "bodyPreview": "LTAT.05.005_ENG » Foorumid » Announcements » Intermediate Demo Day\r\nMS\r\nRe: Intermediate Demo Day\r\nJustinas Lekavicius – 29.10.2024 15:43:32\r\n\r\n\r\nDear/Hi Kaarel,\r\n\r\n\r\nFirstly, I would like to clarify that all teams will present their demos via Zoom. In response t",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQANAbuRW8ia1Fu10LtjAqJmQ=",
+    "conversationIndex": "AQHbKfAl0Bu5FbyJrUW7XQu2MComZLKdxgUA",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAIUQuUFAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "LTAT.05.005_ENG<https://moodle.ut.ee/course/view.php?id=12139> » Foorumid<https://moodle.ut.ee/mod/forum/index.php?id=12139> » Announcements<https://moodle.ut.ee/mod/forum/view.php?f=73236> » Intermediate Demo Day<https://moodle.ut.ee/mod/forum/discuss.php?d=976593>\r\nMS<https://moodle.ut.ee/user/view.php?id=226253&course=12139>\r\nRe: Intermediate Demo Day\r\nJustinas Lekavicius<https://moodle.ut.ee/user/view.php?id=226253&course=12139> – 29.10.2024 15:43:32\r\n\r\n\r\nDear/Hi Kaarel,\r\n\r\n\r\nFirstly, I would like to clarify that all teams will present their demos via Zoom. In response to your question, since a few students wanted added assurance with internet reliability, I’ve provided them the option to participate in their Zoom presentations from classroom 2049. If you or anyone else would like to join in person, please let me know in advance.\r\n\r\n\r\nRegards,\r\n\r\nJustinas Lekavicius\r\n\r\nKuva ülatasemeüksus <https://moodle.ut.ee/mod/forum/discuss.php?d=976593&parent=2479871> | Vasta <https://moodle.ut.ee/mod/forum/post.php?reply=2480173>\r\nKuva see postitus kontekstis <https://moodle.ut.ee/mod/forum/discuss.php?d=976593#p2480173>\r\n________________________________\r\nSaate muuta enda foorumi kokkuvõtte-eelistusi<https://moodle.ut.ee/mod/forum/index.php?id=12139>\r\n\r\nLoed seda teadet e-kirjas? Lae endale mobiiliäpp ja loe teateid äpis<https://download.moodle.org/mobile?version=2022112813.02&lang=et&iosappid=633359593&androidappid=com.moodle.moodlemobile>.\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Justinas Lekavicius (saidi TÜ Moodle kaudu)",
+            "address": "noreply-moodle@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Justinas Lekavicius (saidi TÜ Moodle kaudu)",
+            "address": "noreply-moodle@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Steven Jaagup Lepp",
+                "address": "steven.jaagup.lepp@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "TÜ Moodle",
+                "address": "noreply-moodle@ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[]

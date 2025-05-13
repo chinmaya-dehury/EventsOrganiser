@@ -1,0 +1,206 @@
+{
+	"expected_response": [
+		{
+			"event_name": "Sammude kogumise v\u00f5istlus \"Kevadsammud 2025 \"",
+			"start_date": "2025-04-01T00:00:00",
+			"end_date": "2025-04-30T23:59:00",
+			"country": "",
+			"city": "",
+			"address": "",
+			"room": "",
+			"tags": [
+				"Competition",
+				"Sports"
+			]
+		},
+		{
+			"event_name": "Tartu \u00dclikooli kevadjooks",
+			"start_date": "2025-04-16T19:00:00",
+			"end_date": "2025-04-16T20:30:00",
+			"country": "Eesti",
+			"city": "Tartu",
+			"address": "Ujula 4 (T\u00dc spordihoone)",
+			"room": "hoone k\u00f5rval",
+			"tags": [
+				"Competition",
+				"Sports",
+				"Running"
+			]
+		}
+	],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "Sammude kogumuse v\u00f5istlus Tartu \u00dclikooli \u00fcli\u00f5\u00f5nid",
+					"start_date": "2029-04-01T14:00:00",
+					"end_date": "2029-04-01T16:00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Career day",
+						"Competition",
+						"Robotics"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Sammude kogumuse v\u00f5istlus Tartu \u00dclikooli \u00fcli\u00f5\u00f5nid",
+						"start_date": "2029-04-01T14:00:00",
+						"end_date": "2029-04-01T16:00:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Career day",
+							"Competition",
+							"Robotics"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.6,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.3333333333333333,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.3333333333333333
+				}
+			],
+			"event_finding_grade": 0.5
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Sammude \u00f5vestlus ja \u00f5vastul",
+					"start_date": "2025-04-01T00:00:00",
+					"end_date": "2025-04-30T23:59:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Career day",
+						"Competition"
+					]
+				},
+				{
+					"event_name": "Sammud \u00f5htaotete\u00f5os",
+					"start_date": "2025-04-01T12:21:00",
+					"end_date": "2025-04-30T23:59:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Competition",
+						"Robotics"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Sammude \u00f5vestlus ja \u00f5vastul",
+						"start_date": "2025-04-01T00:00:00",
+						"end_date": "2025-04-30T23:59:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Career day",
+							"Competition"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.3,
+					"start_date_grade": 1.0,
+					"end_date_grade": 1.0,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.5
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Sammud \u00f5htaotete\u00f5os",
+						"start_date": "2025-04-01T12:21:00",
+						"end_date": "2025-04-30T23:59:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Competition",
+							"Robotics"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.3,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 1.0,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.5
+				}
+			],
+			"event_finding_grade": 0.5
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Sammude v\u00f5istlus (2. aprillist 2024-16. aprillilt 2024)",
+					"start_date": "2024-04-02T14:00:00",
+					"end_date": "2024-04-16T23:59:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Competition",
+						"Career day",
+						"Sports"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Sammude v\u00f5istlus (2. aprillist 2024-16. aprillilt 2024)",
+						"start_date": "2024-04-02T14:00:00",
+						"end_date": "2024-04-16T23:59:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Competition",
+							"Career day",
+							"Sports"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.7,
+					"start_date_grade": 0.3333333333333333,
+					"end_date_grade": 0.3333333333333333,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.6666666666666666
+				}
+			],
+			"event_finding_grade": 0.5
+		}
+	]
+}

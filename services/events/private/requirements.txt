@@ -1,0 +1,8 @@
+cryptography
+openai
+instructor
+python-dotenv
+pika==1.3.2
+pydantic==2.10.6
+pymysql==1.1.1
+sqlalchemy==2.0.36

@@ -1,0 +1,271 @@
+{
+	"expected_response": [
+		{
+			"event_name": "Power World training (1/2)",
+			"start_date": "2001-06-27T11:00:00",
+			"end_date": "2001-06-27T18:00:00",
+			"country": "",
+			"city": "",
+			"address": "",
+			"room": "",
+			"tags": [
+				"Training",
+				"Power World"
+			]
+		},
+		{
+			"event_name": "Power World training (2/2)",
+			"start_date": "2001-06-28T11:00:00",
+			"end_date": "2001-06-28T16:00:00",
+			"country": "",
+			"city": "",
+			"address": "",
+			"room": "",
+			"tags": [
+				"Training",
+				"Power World"
+			]
+		}
+	],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "Power World Training",
+					"start_date": "2001-06-27T11:00:00-07:00",
+					"end_date": "2001-06-27T18:00:00-07:00",
+					"country": "United States",
+					"city": "Houston",
+					"address": "1400 Smith Street",
+					"room": "",
+					"tags": [
+						"Training",
+						"Power World"
+					]
+				},
+				{
+					"event_name": "Power World Training",
+					"start_date": "2001-06-28T11:00:00-07:00",
+					"end_date": "2001-06-28T16:00:00-07:00",
+					"country": "United States",
+					"city": "Houston",
+					"address": "1400 Smith Street",
+					"room": "",
+					"tags": [
+						"Training",
+						"Power World"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Power World Training",
+						"start_date": "2001-06-27T11:00:00-07:00",
+						"end_date": "2001-06-27T18:00:00-07:00",
+						"country": "United States",
+						"city": "Houston",
+						"address": "1400 Smith Street",
+						"room": "",
+						"tags": [
+							"Training",
+							"Power World"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.8,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 1.0,
+					"categories_grade": 1.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Power World Training",
+						"start_date": "2001-06-28T11:00:00-07:00",
+						"end_date": "2001-06-28T16:00:00-07:00",
+						"country": "United States",
+						"city": "Houston",
+						"address": "1400 Smith Street",
+						"room": "",
+						"tags": [
+							"Training",
+							"Power World"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.8,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.66666666666666,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 1.0,
+					"categories_grade": 1.0
+				}
+			],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Power World Training",
+					"start_date": "2001-06-27T11:00:00-07:00",
+					"end_date": "2001-06-27T18:00:00-07:00",
+					"country": "United States",
+					"city": "Houston",
+					"address": "1400 Smith Street",
+					"room": "To be confirmed",
+					"tags": [
+						"Training"
+					]
+				},
+				{
+					"event_name": "Power World Training",
+					"start_date": "2001-06-28T11:00:00-07:00",
+					"end_date": "2001-06-28T16:00:00-07:00",
+					"country": "United States",
+					"city": "Houston",
+					"address": "1400 Smith Street",
+					"room": "To be confirmed",
+					"tags": [
+						"Training"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Power World Training",
+						"start_date": "2001-06-27T11:00:00-07:00",
+						"end_date": "2001-06-27T18:00:00-07:00",
+						"country": "United States",
+						"city": "Houston",
+						"address": "1400 Smith Street",
+						"room": "To be confirmed",
+						"tags": [
+							"Training"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.8,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.5
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Power World Training",
+						"start_date": "2001-06-28T11:00:00-07:00",
+						"end_date": "2001-06-28T16:00:00-07:00",
+						"country": "United States",
+						"city": "Houston",
+						"address": "1400 Smith Street",
+						"room": "To be confirmed",
+						"tags": [
+							"Training"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.8,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.5
+				}
+			],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Power World Training",
+					"start_date": "2001-06-27T11:00:00-07:00",
+					"end_date": "2001-06-27T18:00:00-07:00",
+					"country": "United States",
+					"city": "Houston",
+					"address": "1400 Smith Street",
+					"room": "Room number not specified",
+					"tags": [
+						"Training",
+						"Power World"
+					]
+				},
+				{
+					"event_name": "Power World Training",
+					"start_date": "2001-06-28T11:00:00-07:00",
+					"end_date": "2001-06-28T16:00:00-07:00",
+					"country": "United States",
+					"city": "Houston",
+					"address": "1400 Smith Street",
+					"room": "Room number not specified",
+					"tags": [
+						"Training",
+						"Power World"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Power World Training",
+						"start_date": "2001-06-27T11:00:00-07:00",
+						"end_date": "2001-06-27T18:00:00-07:00",
+						"country": "United States",
+						"city": "Houston",
+						"address": "1400 Smith Street",
+						"room": "Room number not specified",
+						"tags": [
+							"Training",
+							"Power World"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.8,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 1.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Power World Training",
+						"start_date": "2001-06-28T11:00:00-07:00",
+						"end_date": "2001-06-28T16:00:00-07:00",
+						"country": "United States",
+						"city": "Houston",
+						"address": "1400 Smith Street",
+						"room": "Room number not specified",
+						"tags": [
+							"Training",
+							"Power World"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.8,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 1.0
+				}
+			],
+			"event_finding_grade": 1.0
+		}
+	]
+}

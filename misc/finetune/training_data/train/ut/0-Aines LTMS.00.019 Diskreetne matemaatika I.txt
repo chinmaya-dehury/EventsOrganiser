@@ -1,0 +1,62 @@
+in Estonian;
+!<-=->!
+
+!<-=->!
+aavo.kruus@outlook.com
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AABoJiak\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AABoTzNxAAA=",
+    "createdDateTime": "2023-01-21T01:15:06Z",
+    "lastModifiedDateTime": "2023-01-21T01:15:07Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AABoJiak",
+    "categories": [],
+    "receivedDateTime": "2023-01-21T01:15:06Z",
+    "sentDateTime": "2023-01-21T01:15:02Z",
+    "hasAttachments": false,
+    "internetMessageId": "<EF.56.24448.69C3BC36@frida.it.da.ut.ee>",
+    "subject": "Aines LTMS.00.019 Diskreetne matemaatika I (6 EAP) 2022/2023 kevad, PÕ, LT vabanes koht",
+    "bodyPreview": "Soovisite registreeruda õppeainele \"LTMS.00.019 Diskreetne matemaatika I (6 EAP) 2022/2023 kevad, PÕ, LT\".\r\n\r\nÕppeaines on vabanenud koht. Kui soovite õppeainele registreeruda, siis sisenege õppeinfosüsteemi, valige \"Registreeringud\" ja registreeruge järj",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQABDtjrbfKjdBoOsgBTWaAkg=",
+    "conversationIndex": "AQHZLTXLEO2Ott8qN0Gg6yAFNZoCSA==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AABoTzNxAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Soovisite registreeruda õppeainele \"LTMS.00.019 Diskreetne matemaatika I (6 EAP) 2022/2023 kevad, PÕ, LT\".\r\n\r\nÕppeaines on vabanenud koht. Kui soovite õppeainele registreeruda, siis sisenege õppeinfosüsteemi, valige \"Registreeringud\" ja registreeruge järjekorrast ainele. Vt täpsemalt https://wiki.ut.ee/x/fQrCB.\r\n\r\nKui soovite loobuda, siis sisenege õppeinfosüsteemi, valige \"Registreeringud\", valige antud aine ja vajutage nupule \"Eemalda järjekorrast\". Vt täpsemalt https://wiki.ut.ee/x/egrCB.\r\n\r\nTeade kehtib kolm päeva. Kui Te kolme päeva jooksul ei ole ainele registreerunud, tehakse pakkumine järjekorras järgmisele õppijale.\r\n\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "ois@ut.ee",
+            "address": "ois@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "ois@ut.ee",
+            "address": "ois@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Aavo Kruus",
+                "address": "aavo.kruus@outlook.com"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[]

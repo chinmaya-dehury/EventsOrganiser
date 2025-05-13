@@ -1,0 +1,28 @@
+.settings-page-header {
+    background-color: #f8fafc;
+
+    padding: 1.5em;
+}
+
+div.setting-row {
+    display: grid;
+
+    grid-template-columns: 2fr 5fr; /* PC */
+
+    & > div {
+        padding: 1em;
+    }
+
+    & > div.col2 {
+        display: inline-grid;
+        align-items: center;
+    }
+}
+
+h3.setting-type {
+    font-weight: 700;
+}
+
+span.setting-description {
+    color: #475569;
+}

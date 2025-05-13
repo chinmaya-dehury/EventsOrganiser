@@ -1,0 +1,317 @@
+{
+	"expected_response": [],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "NERC Security Call",
+					"start_date": "2001-10-16T00:00:00-07:00",
+					"end_date": "2001-10-16T23:59:59-07:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Conference",
+						"Deadline",
+						"Networking",
+						"Training",
+						"Registration"
+					]
+				},
+				{
+					"event_name": "Suspicious substance received at Mid-Atlantic Electric Utility",
+					"start_date": "2001-10-16T00:00:00-07:00",
+					"end_date": "2001-10-16T00:00:00-07:00",
+					"country": "United States",
+					"city": "Mid-Atlantic",
+					"address": "Mid-Atlantic Electric Utility",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Sustainability",
+						"Chemistry",
+						"Power World"
+					]
+				},
+				{
+					"event_name": "Two unidentified individuals tried to gain access to a Midwest EHV station",
+					"start_date": "2001-10-16T00:00:00-07:00",
+					"end_date": "2001-10-16T00:00:00-07:00",
+					"country": "United States",
+					"city": "Midwest",
+					"address": "Midwest EHV station",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Cybersecurity",
+						"Elections",
+						"Training"
+					]
+				},
+				{
+					"event_name": "Phone call received at a Power Plant in the Southwest",
+					"start_date": "2001-10-16T00:00:00-07:00",
+					"end_date": "2001-10-16T00:00:00-07:00",
+					"country": "United States",
+					"city": "Southwest",
+					"address": "Power Plant",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"AI ethics",
+						"Business Pitch",
+						"Demo day"
+					]
+				},
+				{
+					"event_name": "Suspicious individuals showed up at a Power Plant in the Southwest",
+					"start_date": "2001-10-16T00:00:00-07:00",
+					"end_date": "2001-10-16T00:00:00-07:00",
+					"country": "United States",
+					"city": "Southwest",
+					"address": "Power Plant",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Cybersecurity",
+						"Elections",
+						"Training"
+					]
+				},
+				{
+					"event_name": "ECAR/MET Security Coordinator's reminder",
+					"start_date": "2001-10-16T00:00:00-07:00",
+					"end_date": "2001-10-16T23:59:59-07:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Conference",
+						"Networking",
+						"Training"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "NERC Security Call",
+					"start_date": "2001-10-16T00:00:00-07:00",
+					"end_date": "2001-10-16T00:00:00-07:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Conference",
+						"Networking",
+						"Training",
+						"Deadline"
+					]
+				},
+				{
+					"event_name": "Possible Bomb Threat at Nuclear Plant in ERCOT",
+					"start_date": "2001-10-16T00:00:00-07:00",
+					"end_date": "2001-10-16T00:00:00-07:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Conference",
+						"Networking",
+						"Training",
+						"Deadline"
+					]
+				},
+				{
+					"event_name": "SECON Level 3 Modified",
+					"start_date": "2001-10-16T00:00:00-07:00",
+					"end_date": "2001-10-16T00:00:00-07:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Conference",
+						"Networking",
+						"Training",
+						"Deadline"
+					]
+				},
+				{
+					"event_name": "Suspicious Substance at Mid-Atlantic Electric Utility",
+					"start_date": "2001-10-16T00:00:00-07:00",
+					"end_date": "2001-10-16T00:00:00-07:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Conference",
+						"Networking",
+						"Training",
+						"Deadline"
+					]
+				},
+				{
+					"event_name": "Unidentified Individuals at Midwest EHV Station",
+					"start_date": "2001-10-16T00:00:00-07:00",
+					"end_date": "2001-10-16T00:00:00-07:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Conference",
+						"Networking",
+						"Training",
+						"Deadline"
+					]
+				},
+				{
+					"event_name": "Phone Call at Power Plant in Southwest",
+					"start_date": "2001-10-16T00:00:00-07:00",
+					"end_date": "2001-10-16T00:00:00-07:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Conference",
+						"Networking",
+						"Training",
+						"Deadline"
+					]
+				},
+				{
+					"event_name": "Suspicious People at Power Plant in Southwest",
+					"start_date": "2001-10-16T00:00:00-07:00",
+					"end_date": "2001-10-16T00:00:00-07:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Conference",
+						"Networking",
+						"Training",
+						"Deadline"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "NERC Security Call",
+					"start_date": "2001-10-16T00:00:00-07:00",
+					"end_date": "2001-10-16T17:00:00-07:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Conference",
+						"Networking"
+					]
+				},
+				{
+					"event_name": "Bomb threat at Nuclear Plant in ERCOT",
+					"start_date": "2001-10-16T00:00:00-07:00",
+					"end_date": "2001-10-16T00:00:00-07:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Networking"
+					]
+				},
+				{
+					"event_name": "Suspicious substance received at Mid-Atlantic Electric Utility",
+					"start_date": "2001-10-16T00:00:00-07:00",
+					"end_date": "2001-10-16T00:00:00-07:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Networking"
+					]
+				},
+				{
+					"event_name": "Two unidentified individuals tried to gain access to Midwest EHV station",
+					"start_date": "2001-10-16T00:00:00-07:00",
+					"end_date": "2001-10-16T00:00:00-07:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Networking"
+					]
+				},
+				{
+					"event_name": "Phone call at Southwest Power Plant",
+					"start_date": "2001-10-16T00:00:00-07:00",
+					"end_date": "2001-10-16T00:00:00-07:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Networking"
+					]
+				},
+				{
+					"event_name": "Suspicious people at Southwest Power Plant",
+					"start_date": "2001-10-16T00:00:00-07:00",
+					"end_date": "2001-10-16T17:00:00-07:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Networking"
+					]
+				},
+				{
+					"event_name": "Security Coordinator Conference Call",
+					"start_date": "2001-10-16T10:00:00-07:00",
+					"end_date": "2001-10-16T17:00:00-07:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Conference",
+						"Networking"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		}
+	]
+}

@@ -1,0 +1,43 @@
+- hosts: controller
+  user: ubuntu
+  become_user: root
+  become: yes
+
+  vars:
+    mysql_conf_file: "/etc/mysql/mysql.conf.d/mysqld.cnf"
+    domain_name: "11072100.xyz"
+    is_kube_master_node: true
+
+    events_org_config: # NOTE: set DEFAULT_HASH_BEHAVIOUR to merge
+      microsoft_app_client_id: e7531514-8913-47a8-8cd2-b80dcef955b7
+      mysql_host: 192.168.42.26
+      rabbitmq_host: 192.168.42.26
+      llm_gguf_url: "https://filebin.net/8to16e0982ddjtsf/llama3.2-3b-it-finetuned.gguf"
+      dockerhub_username: "madiskoivopuu"
+
+  vars_files:
+    - vault.yml
+
+  roles:
+    - update_packages
+    - setup
+    - rabbitmq
+    - kubernetes
+    - mysql
+    - app_setup_kubernetes
+
+- hosts: workers
+  user: ubuntu
+  become_user: root
+  become: yes
+
+  vars_files:
+    - vault.yml
+
+  vars:
+    is_kube_master_node: false
+
+  roles:
+    - update_packages
+    - setup
+    - kubernetes

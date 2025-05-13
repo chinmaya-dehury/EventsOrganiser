@@ -1,0 +1,69 @@
+in Estonian; no events
+!<-=->!
+Party; Festival; University of Tartu; Natural Sciences; Conference; Deadline; Linkedin; Marketing; Discount notification; Gaming; Internship; Alert; Albion Online; Delivery; Shipment; Invoice; Sports; Exercising; Questionnaire; Quiz
+!<-=->!
+madis.koivopuu@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJzDVIe\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJzmpqyAAA=",
+    "createdDateTime": "2025-03-24T07:04:17Z",
+    "lastModifiedDateTime": "2025-03-24T10:40:21Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJzDVIe",
+    "categories": [],
+    "receivedDateTime": "2025-03-24T07:04:17Z",
+    "sentDateTime": "2025-03-24T07:04:13Z",
+    "hasAttachments": false,
+    "internetMessageId": "<80ec6334d894555a7ad871d153edc8cb5c670e1ca9053ae69360c06dc5cc2ebe@moodle.ut.ee>",
+    "subject": "LTAT.01.943: Arutelu 1",
+    "bodyPreview": "LTAT.01.943 » Foorumid » 3. Ülesanne: Arutelu 1: 24-30 märts » Arutelu 1\r\nLK\r\nArutelu 1\r\nLiisa Kiipus – 24.03.2025 08:33:33\r\n\r\n\r\nMillised on teie peamised takistused olemaks kehaliselt aktiivne ning mismoodi te üritate neid takistusi lahendada/ületada?",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAMookcqF9P1NhqtnfIXNXoE=",
+    "conversationIndex": "AQHbnIr1yiiRyoX0/U2Gq2d8hc1egQ==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJzmpqyAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "LTAT.01.943<https://moodle.ut.ee/course/view.php?id=824112> » Foorumid<https://moodle.ut.ee/mod/forum/index.php?id=824112> » 3. Ülesanne: Arutelu 1: 24-30 märts<https://moodle.ut.ee/mod/forum/view.php?f=824112> » Arutelu 1<https://moodle.ut.ee/mod/forum/discuss.php?d=824112>\r\nLK<https://moodle.ut.ee/user/view.php?id=824112&course=3003>\r\nArutelu 1\r\nLiisa Kiipus<https://moodle.ut.ee/user/view.php?id=824112&course=3003> – 24.03.2025 08:33:33\r\n\r\n\r\nMillised on teie peamised takistused olemaks kehaliselt aktiivne ning mismoodi te üritate neid takistusi lahendada/ületada?\r\n\r\nVasta <https://moodle.ut.ee/mod/forum/post.php?reply=824112>\r\nKuva see postitus kontekstis <https://moodle.ut.ee/mod/forum/discuss.php?d=824112#p2412476>\r\n________________________________\r\nSaate muuta enda foorumi kokkuvõtte-eelistusi<https://moodle.ut.ee/mod/forum/index.php?id=824112>\r\n\r\nLoed seda teadet e-kirjas? Lae endale mobiiliäpp ja loe teateid äpis<https://download.moodle.org/mobile?version=2022112816.05&lang=et&iosappid=824112&androidappid=com.moodle.moodlemobile>.\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Liisa Kiipus (saidi TÜ Moodle kaudu)",
+            "address": "noreply-moodle@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Liisa Kiipus (saidi TÜ Moodle kaudu)",
+            "address": "noreply-moodle@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Madis Kõivopuu",
+                "address": "madis.koivopuu@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "TÜ Moodle",
+                "address": "noreply-moodle@ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[]

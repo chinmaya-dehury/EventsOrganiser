@@ -1,0 +1,69 @@
+in English
+!<-=->!
+
+!<-=->!
+joonas.salo@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAEUQUpf\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAEUmAxWAAA=",
+    "createdDateTime": "2023-10-09T16:22:28Z",
+    "lastModifiedDateTime": "2023-10-09T16:27:49Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAEUQUpf",
+    "categories": [],
+    "receivedDateTime": "2023-10-09T16:22:28Z",
+    "sentDateTime": "2023-10-09T16:22:20Z",
+    "hasAttachments": false,
+    "internetMessageId": "<issues-9915a82b02914f27d306606e423b34ec/updated/2f1ff38f18fe41cabdec58c1343ba341@bitbucket.org>",
+    "subject": "Re: [Bitbucket] Issue #40: (TEST) <REQ17> Point-of-sale tab - Removing an item from cart [0.5h] (lg7-team10/lg7-team10)",
+    "bodyPreview": "Kertu Pärtelpoeg updated issue #40:\r\n(TEST) <REQ17> Point-of-sale tab - Removing an item from cart [0.5h]\r\nAssignee:       Joonas Salo\r\nView this issue or add a comment by replying to this email.\r\nUnwatch this issue to stop receiving email updates.\r\nAre ",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAMtXeip5POlJtXVO8OgErEQ=",
+    "conversationIndex": "AQHZ+szLy1d6Knk86Um1dU7w6ASsRA==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAEUmAxWAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "[Kertu Pärtelpoeg]\r\nKertu Pärtelpoeg updated issue #40:\r\n(TEST) <REQ17> Point-of-sale tab - Removing an item from cart [0.5h]<https://bitbucket.org/lg7-team10/lg7-team10/issues/40/test-point-of-sale-tab-removing-an-item>\r\nAssignee:       Joonas Salo\r\nView this issue<https://bitbucket.org/lg7-team10/lg7-team10/issues/40/test-point-of-sale-tab-removing-an-item> or add a comment by replying to this email.\r\nUnwatch this issue<https://bitbucket.org/api/internal/repositories/lg7-team10/lg7-team10/issue/40/unwatch/madiskoivopuu/a513321acfe0d891c241caa12cdb8475407167317ca49e4b0da1a5895390fc4e/> to stop receiving email updates.     [Bitbucket]  <https://bitbucket.org>\r\nAre you making the most of Bitbucket? Learn more about our premium plans.<https://bitbucket.org/account/admin/plans?utm_source=bbctrns&utm_medium=email&utm_campaign=fv2&utm_content=t1>\r\nBlog<https://bitbucket.org/blog?utm_source=bbctrns&utm_medium=email&utm_campaign=fv1&utm_content=t1>  |  Git Tutorials<https://www.atlassian.com/git/tutorials?utm_source=bbctrns&utm_medium=email&utm_campaign=fv1&utm_content=t1>  |  Bitbucket Community<https://community.atlassian.com/t5/Bitbucket/ct-p/bitbucket?utm_source=bbctrns&utm_medium=email&utm_campaign=fv1&utm_content=t1>  |  Privacy Policy<https://www.atlassian.com/legal/privacy-policy?utm_source=bbctrns&utm_medium=email&utm_campaign=fv1&utm_content=t1>\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Kertu Pärtelpoeg",
+            "address": "issues-reply@bitbucket.org"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Kertu Pärtelpoeg",
+            "address": "issues-reply@bitbucket.org"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Joonas Jimi Salo",
+                "address": "joonas.salo@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "Kertu Pärtelpoeg",
+                "address": "issues-reply@bitbucket.org"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[]

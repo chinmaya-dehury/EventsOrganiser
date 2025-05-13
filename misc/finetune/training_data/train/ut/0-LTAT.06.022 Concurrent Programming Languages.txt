@@ -1,0 +1,62 @@
+in English; no events
+!<-=->!
+
+!<-=->!
+onne.opilane@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJS9uRw\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJCt8pwAAA=",
+    "createdDateTime": "2025-01-14T15:35:08Z",
+    "lastModifiedDateTime": "2025-02-03T12:10:18Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJS9uRw",
+    "categories": [],
+    "receivedDateTime": "2025-01-14T15:35:09Z",
+    "sentDateTime": "2025-01-14T15:35:02Z",
+    "hasAttachments": false,
+    "internetMessageId": "<is.2BAD4DCFF71C7B3FE0630100007F3195@ut.ee>",
+    "subject": "LTAT.06.022 Concurrent Programming Languages",
+    "bodyPreview": "Dear students,\r\nwe have finished the marking of the exams. Marks should be in ÕIS. If you do not yet see a final mark for the module, it means that something is outstanding. If you are in doubt about your situation, please email me.\r\nThanks,\r\nTanel",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQANgfcC75bY1AsBWg1hT8kh8=",
+    "conversationIndex": "AQHbZpnk2B9wLvltjUCwFaDWFPySHw==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJCt8pwAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Dear students,\r\nwe have finished the marking of the exams. Marks should be in ÕIS. If you do not yet see a final mark for the module, it means that something is outstanding. If you are in doubt about your situation, please email me.\r\nThanks,\r\nTanel\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Tanel-Madis Kukk ",
+            "address": "tanel.madis.kukk@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Tanel-Madis Kukk ",
+            "address": "tanel.madis.kukk@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Õnne Õpilane",
+                "address": "onne.opilane@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[]

@@ -1,0 +1,104 @@
+- name: Install Python package "kubernetes" necessary for Ansible role 
+  ansible.builtin.apt:
+    name: python3-kubernetes
+    state: latest
+
+- name: Add Kubernetes repository to sources
+  ansible.builtin.deb822_repository:
+    name: kubernetes
+    uris: https://pkgs.k8s.io/core:/stable:/v1.32/deb/
+    signed_by: https://pkgs.k8s.io/core:/stable:/v1.32/deb/Release.key
+    types: 
+      - deb
+      - deb-src
+    architectures: amd64
+    suites:
+      - "/"
+    state: present
+
+- name: Install kubernetes and containerd
+  ansible.builtin.apt:
+    update_cache: true
+    name: "{{ item }}"
+    state: present
+  with_items:
+    - "kubectl"
+    - "kubeadm"
+    - "kubelet"
+    - "containerd"
+
+#- name: Open kubernetes default ports and HTTP(s) ports
+#  community.general.ufw:
+#    state: enabled
+#    rule: allow
+#    port: "{{ item }}"
+#    proto: tcp
+#  with_items:
+#    - "5473"
+#    - "6443"
+#    - "2379:2380"
+#    - "10250"
+#    - "10251"
+#    - "10252"
+#    - "10255"
+
+# This enables IP forwarding and allows iptables to see bridged traffic
+- name: Enable IP forwarding in sysctl
+  ansible.posix.sysctl:
+    name: net.ipv4.ip_forward
+    value: '1'
+    state: present
+
+- name: Create /etc/containerd
+  ansible.builtin.file:
+    path: /etc/containerd
+    state: directory
+
+- name: Copy containerd config
+  ansible.builtin.copy:
+    src: containerd_config.toml
+    dest: /etc/containerd/config.toml
+
+- name: Enable overlay and br_netfilter
+  community.general.modprobe: 
+    name: "{{ item }}"
+    state: present
+    persistent: present
+  with_items:
+    - "overlay"
+    - "br_netfilter"
+
+# https://www.reddit.com/r/linuxadmin/comments/flzx5r/ansible_how_to_disable_swap/
+- name: Disable swap for current session
+  command: swapoff -a
+  become: true
+
+- name: Disable swap from /etc/fstab
+  replace:
+    path: /etc/fstab
+    regexp: '^(\s*)([^#\n]+\s+)(\w+\s+)swap(\s+.*)$'
+    replace: '#\1\2\3swap\4'
+    backup: yes
+
+- name: Enable kubelet
+  ansible.builtin.systemd:
+    name: kubelet
+    state: started
+    enabled: true
+
+- name: Enable containerd
+  ansible.builtin.systemd:
+    name: containerd
+    state: started
+    enabled: true
+
+- name: "PAUSED | Set up kubernetes cluster"
+  ansible.builtin.pause:
+    prompt: "Use 'sudo kubeadm init' to create a cluster on the main VM, or 'sudo kubeadm join ...' command worker nodes. Follow the instructions that command gives you. After that is done, press ENTER"
+
+- include_tasks: kube-control-plane.yml
+  when: is_kube_master_node
+
+- name: Reboot server
+  ansible.builtin.reboot:
+    post_reboot_delay: 75

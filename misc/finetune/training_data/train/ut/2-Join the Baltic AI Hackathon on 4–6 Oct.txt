@@ -1,0 +1,95 @@
+in English;
+good example for LLM since dates should have timezone attached, even though times aren't mentioned in the mail
+!<-=->!
+Hackathon; AI; Machine Learning; Deadline; Registration; Coding bootcamp; Mentorship; UI/UX workshop; Poster session; Scholarship; Book club; Fundraiser
+!<-=->!
+joonas.salo@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAHy32Dg\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAHzU8vLAAA=",
+    "createdDateTime": "2024-09-10T12:43:16Z",
+    "lastModifiedDateTime": "2024-09-10T12:46:22Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAHy32Dg",
+    "categories": [],
+    "receivedDateTime": "2024-09-10T12:43:16Z",
+    "sentDateTime": "2024-09-10T12:43:03Z",
+    "hasAttachments": false,
+    "internetMessageId": "<GV1PR02MB10720AC6B0C23886E6E64DA1480992@GV1PR02MB10720.eurprd02.prod.outlook.com>",
+    "subject": "[cs.student:1067] Join the Baltic AI Hackathon on 4–6 Oct",
+    "bodyPreview": "Hi everyone!\r\n\r\nReady to shape the future of AI? Join the Baltic AI Hackathon and collaborate with some of the brightest minds to create cutting-edge solutions in education, sustainability, social inclusion, and public services! Whether you're a developer",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAHlgY80KmXpMnIX-Zr4JUiY=",
+    "conversationIndex": "AQHbArV4eWBjzQqZekychf9mvglSJg==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAHzU8vLAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Hi everyone!\r\n\r\nReady to shape the future of AI? Join the Baltic AI Hackathon<https://balticaihack.com> and collaborate with some of the brightest minds to create cutting-edge solutions in education, sustainability, social inclusion, and public services! Whether you're a developer, designer, or innovator, this is your chance to make an impact. This hackathon is focused on Generative AI (Gen AI)! Teams will have the opportunity to work on their own projects or choose from a variety of exciting partner challenges.\r\n\r\nEvent Details:\r\n\r\n  *   Dates: 4–6 October 2024\r\n  *   Location: Riga Technical University, Kīpsalas iela 6, Riga, Latvia\r\n  *   Language: English\r\n  *   Format: On-site\r\n  *   Registration Deadline: 1 October 2024\r\n  *   Register Now: <https://balticaihack.com> https://balticaihack.com\r\n  *   NB! We will compensate 10 UT Institute of Computer Science students for their travel expenses after the registration. For that, write to piret.orav@ut.ee<mailto:piret.orav@ut.ee>.\r\n\r\nWho Can Participate?\r\nYou should be part of a team consisting of students from universities and/or colleges in the Baltic states. Don’t have a team yet? No worries! You can apply, submit your own idea, and either form a new team or join an existing one before the hackathon begins. Before the hackathon there will also be a team formation session during our pre-event online workshops!\r\n\r\nWhat’s in it for you?\r\n\r\n  *   Practical Experience: Work on real-world AI challenges using cutting-edge technologies.\r\n  *   Exciting Prizes: Win fantastic rewards and gain recognition for your work.\r\n  *   Mentorship: Receive guidance from experienced mentors who are leaders in AI, technology, and innovation.\r\n  *   Networking Opportunities: Connect with industry leaders, tech experts, and like-minded innovators from across the Baltics and beyond.\r\n\r\nRegistration deadline: 1 October 2024\r\n\r\nRegister now > <https://balticaihack.com> https://balticaihack.com\r\n\r\nThis is your chance to learn, innovate, and get recognized for your work while shaping the future with AI! Don’t miss out—register now.\r\n\r\nBest regards\r\n--\r\nAndrei Zevakin\r\nturundus- ja kommunikatsioonijuht / Head of Marketing and Communication\r\narvutiteaduse instituut / Institute of Computer Science\r\nTartu Ülikool / University of Tartu\r\n+372 511 7738\r\nwww.cs.ut.ee<http://www.cs.ut.ee>\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "cs.student-request@lists.ut.ee",
+            "address": "cs.student-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Andrei Zevakin",
+            "address": "cs.student@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "Baltic AI Hackathon registration deadline",
+        "start_date": null,
+        "end_date": "2024-10-01T23:59:00+02:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Hackathon", "Registration", "Deadline"
+        ]
+    },
+    {
+        "event_name": "Baltic AI Hackathon",
+        "start_date": "2024-10-04T00:00:00+02:00",
+        "end_date": "2024-10-06T23:59:00+02:00",
+        "country": "Latvia",
+        "city": "Riga",
+        "address": "Kipsalas iela 6 (Riga Technical University)",
+        "room": "",
+        "tags": [
+            "Hackathon", "Registration", "Deadline"
+        ]
+    }
+]

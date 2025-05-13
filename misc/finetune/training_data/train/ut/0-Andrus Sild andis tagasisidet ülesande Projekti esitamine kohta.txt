@@ -1,0 +1,69 @@
+in Estonian
+!<-=->!
+
+!<-=->!
+onne.opilane@ut.ee
+!<-=->!
+{
+        "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAI7Mbrw\"",
+        "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAI7t18sAAA=",
+        "createdDateTime": "2024-12-29T11:36:30Z",
+        "lastModifiedDateTime": "2024-12-29T12:44:39Z",
+        "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAI7Mbrw",
+        "categories": [],
+        "receivedDateTime": "2024-12-29T11:36:31Z",
+        "sentDateTime": "2024-12-29T11:36:26Z",
+        "hasAttachments": false,
+        "internetMessageId": "<6771343aba9b53.07450615@moodle.ut.ee>",
+        "subject": "Andrus Sild andis tagasisidet ülesande Projekti esitamine kohta",
+        "bodyPreview": "MTAT.03.219 ->Ülesanne ->Projekti esitamine\r\n\r\n________________________________\r\n\r\nAndrus Sild on postitanud tagasisidet teie ülesandega 'Projekti esitamine' seotud esitatud töö kohta.\r\n\r\nTagasiside on lisatud esitatud tööle.\r\n\r\n___________________________",
+        "importance": "normal",
+        "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+        "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAKIZeAyX6-RJtv1jrys7w4o=",
+        "conversationIndex": "AQHbWeXnohl4DJfr9Em2/WOvKzvDig==",
+        "isDeliveryReceiptRequested": null,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAI7t18sAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "text",
+            "content": "MTAT.03.219<https://moodle.ut.ee/course/view.php?id=9572> ->Ülesanne<https://moodle.ut.ee/mod/assign/index.php?id=9572> ->Projekti esitamine<https://moodle.ut.ee/mod/assign/view.php?id=1343661>\r\n\r\n________________________________\r\n\r\nAndrus Sild on postitanud tagasisidet teie ülesandega 'Projekti esitamine' seotud esitatud töö kohta.\r\n\r\nTagasiside on lisatud esitatud tööle<https://moodle.ut.ee/mod/assign/view.php?id=1343661>.\r\n\r\n________________________________\r\n\r\nLoed seda teadet e-kirjas? Lae endale mobiiliäpp ja loe teateid äpis<https://download.moodle.org/mobile?version=2022112814.05&lang=et&iosappid=633359593&androidappid=com.moodle.moodlemobile>.\r\n"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Andrus Sild (saidi TÜ Moodle kaudu)",
+                "address": "noreply-moodle@ut.ee"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Andrus Sild (saidi TÜ Moodle kaudu)",
+                "address": "noreply-moodle@ut.ee"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Õnne Õpilane",
+                    "address": "onne.opilane@ut.ee"
+                }
+            }
+        ],
+        "ccRecipients": [],
+        "bccRecipients": [],
+        "replyTo": [
+            {
+                "emailAddress": {
+                    "name": "TÜ Moodle",
+                    "address": "noreply-moodle@ut.ee"
+                }
+            }
+        ],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    }
+!<-=->!
+[]

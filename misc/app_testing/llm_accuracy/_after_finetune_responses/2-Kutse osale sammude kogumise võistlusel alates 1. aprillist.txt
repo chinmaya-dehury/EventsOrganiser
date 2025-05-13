@@ -1,0 +1,165 @@
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJ4iK3J\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJ5FxAsAAA=",
+    "createdDateTime": "2025-03-31T07:06:09Z",
+    "lastModifiedDateTime": "2025-03-31T10:29:59Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJ4iK3J",
+    "categories": [],
+    "receivedDateTime": "2025-03-31T07:06:10Z",
+    "sentDateTime": "2025-03-31T07:05:46Z",
+    "hasAttachments": false,
+    "internetMessageId": "<AS2PR02MB8839B797BD9A6B29AA246D1AF9AD2@AS2PR02MB8839.eurprd02.prod.outlook.com>",
+    "subject": "[ltt tudengid:436] Kutse: osale sammude kogumise võistlusel alates 1. aprillist, kas LT tudengid võidavad teisi valdkondi ja kõik koos teisi ülikoole?",
+    "bodyPreview": "FitSphere kutsub Tartu Ülikooli üliõpilasi osalema kampaanias „Kevadsammud 2025“, mis kestab 1.–30. aprillini ja see on kõigile tasuta.\r\nVäljakutse eesmärk on edendada korrapärast liikumisharjumust, samuti selgitatakse välja Eesti aktiivseim kõrgkool.",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAFMDh6X80V9CtwUGygFnJ6E=",
+    "conversationIndex": "AQHbogqEUwOHpfzRX0K3BQbKAWcnoQ==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJ5FxAsAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "FitSphere kutsub Tartu Ülikooli üliõpilasi osalema kampaanias „Kevadsammud 2025“, mis kestab 1.–30. aprillini ja see on kõigile tasuta.\r\nVäljakutse eesmärk on edendada korrapärast liikumisharjumust, samuti selgitatakse välja Eesti aktiivseim kõrgkool.\r\nTartu Ülikoolis saavad igas kategoorias esimese kuni kolmanda koha saavutanud üliõpilased auhindu. Lisaks loositakse kõigi osalenute vahel välja kolm auhinnakomplekti.\r\nVäljakutsega liitumiseks:\r\n\r\n  *   Kampaanias osalemiseks ja sammude fikseerimiseks tuleb nutiseadmesse alla laadida FitSphere’i rakendus ja registreerida seal end kasutajaks. Kui telefonis on olemas Google Fiti või Apple Healthi rakendus, ühendatakse FitSphere sellega automaatselt.\r\n  *   Liitu võistlusega ehk leia äpi avalehelt „privaatsed võistlused“ ja sisesta liitumiskood. Tartu Ülikooli pere saab liitumiseks valida vastava liitumiskoodi.\r\n     *   Üliõpilased\r\n\r\n        *   Loodus- ja täppisteaduste valdkonna üliõpilased: KEVADE435\r\n     *\r\nVajuta nuppu „kinnita“.\r\n  *   Seejärel tuleb hakata samme koguma ja vajutada kord ööpäevas (24 tunni jooksul) rakenduses nuppu „Registreeri sammud“.\r\n\r\nKasutusjuhendi ja teabe väljakutse kohta leiab FitShpere’i kodulehelt<https://thefitsphere.com/wp-content/uploads/2024/08/FitSphere-kasutusjuhend-2024.docx.pdf>. Vaata ka korduma kippuvaid küsimusi<https://thefitsphere.com/korduma-kippuvad-kusimused/>.\r\n\r\n\r\n\r\n________________________________\r\nOsale ka ülikooli kevadjooksul<https://ut.ee/et/uudis/kevadjooksule-oodatud-koik-liikumis-ja-spordisobrad> 16. aprillil kell 19.00. Viie kilomeetri pikkune rada algab TÜ spordihoone kõrvalt ning kulgeb mööda Emajõe äärt Raekoja platsini ja tagasi. Distantsi on võimalik läbida endale sobivas tempos kas joostes või kõndides.\r\nPeale üldarvestuse selgitatakse välja kõige kiiremad üliõpilased, kõige kiirem kõrgkool ja aktiivseim Tartu Ülikooli valdkond, mis selgub võistlusel osalenute arvu põhjal. 6. aprillini on ülikooliperel, teiste kõrgkoolide üliõpilastel, alla 18- ja üle 60-aastastel võimalus osta pilet soodushinnaga 6 eurot (7.–13. aprillini kehtib kõigile tavahind 18 eurot ja võistluspäeval 25 eurot).\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "ltt.tudengid-request@lists.ut.ee",
+            "address": "ltt.tudengid-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Kaur Kangur",
+            "address": "ltt.tudengid@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+	"Sports",
+	"Competition",
+	"Running",
+	"Painting",
+	"Music lessons",
+	"Workshop",
+	"Career day",
+	"Robotics"
+]
+!<-=->!
+[
+	{
+		"event_name": "Sammude kogumise v\u00f5istlus \"Kevadsammud 2025 \"",
+		"start_date": "2025-04-01T00:00:00",
+		"end_date": "2025-04-30T23:59:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Competition",
+			"Sports"
+		]
+	},
+	{
+		"event_name": "Tartu \u00dclikooli kevadjooks",
+		"start_date": "2025-04-16T19:00:00",
+		"end_date": "2025-04-16T20:30:00",
+		"country": "Eesti",
+		"city": "Tartu",
+		"address": "Ujula 4 (T\u00dc spordihoone)",
+		"room": "hoone k\u00f5rval",
+		"tags": [
+			"Competition",
+			"Sports",
+			"Running"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "Sammude kogumuse v\u00f5istlus Tartu \u00dclikooli \u00fcli\u00f5\u00f5nid",
+		"start_date": "2029-04-01T14:00:00",
+		"end_date": "2029-04-01T16:00:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Career day",
+			"Competition",
+			"Robotics"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "Sammude \u00f5vestlus ja \u00f5vastul",
+		"start_date": "2025-04-01T00:00:00",
+		"end_date": "2025-04-30T23:59:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Career day",
+			"Competition"
+		]
+	},
+	{
+		"event_name": "Sammud \u00f5htaotete\u00f5os",
+		"start_date": "2025-04-01T12:21:00",
+		"end_date": "2025-04-30T23:59:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Competition",
+			"Robotics"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "Sammude v\u00f5istlus (2. aprillist 2024-16. aprillilt 2024)",
+		"start_date": "2024-04-02T14:00:00",
+		"end_date": "2024-04-16T23:59:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Competition",
+			"Career day",
+			"Sports"
+		]
+	}
+]

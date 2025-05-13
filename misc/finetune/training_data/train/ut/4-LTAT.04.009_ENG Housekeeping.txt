@@ -1,0 +1,119 @@
+in English;
+
+!<-=->!
+Deadline; Exhibition; Hackathon; Lecture; Exam; Quiz; Dancing lessons; Exam preparation; Homework; Survey
+!<-=->!
+madis.koivopuu@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAIpzy1Z\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAIqTh5VAAA=",
+    "createdDateTime": "2024-12-02T14:41:24Z",
+    "lastModifiedDateTime": "2024-12-02T14:46:44Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAIpzy1Z",
+    "categories": [],
+    "receivedDateTime": "2024-12-02T14:41:24Z",
+    "sentDateTime": "2024-12-02T14:41:19Z",
+    "hasAttachments": false,
+    "internetMessageId": "<8ac9b15ff9563607fa80cfba115578592187ceb5b147b654d828a87563c49720@moodle.ut.ee>",
+    "subject": "LTAT.04.009_ENG: Housekeeping",
+    "bodyPreview": "LTAT.04.009_ENG » Foorumid » Announcements » Housekeeping\r\nDM\r\nHousekeeping\r\nViktor-Vassiljev Bogdanov – 2.12.2024 16:15:52\r\n\r\n\r\nDear Students,\r\n\r\nHere are some reminders as we approach the end of the semester.\r\n\r\nHomework\r\n\r\nHomework 14 and 15 are now avai",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAN0ySFQJ2XNDoOoyl5BhDMs=",
+    "conversationIndex": "AQHbRMhC3TJIVAnZc0Og6jKXkGEMyw==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAIqTh5VAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "LTAT.04.009_ENG<https://moodle.ut.ee/course/view.php?id=10877> » Foorumid<https://moodle.ut.ee/mod/forum/index.php?id=10877> » Announcements<https://moodle.ut.ee/mod/forum/view.php?f=62527> » Housekeeping<https://moodle.ut.ee/mod/forum/discuss.php?d=993576>\r\nDM<https://moodle.ut.ee/user/view.php?id=136214&course=10877>\r\nHousekeeping\r\nViktor-Vassiljev Bogdanov<https://moodle.ut.ee/user/view.php?id=136214&course=10877> – 2.12.2024 16:15:52\r\n\r\n\r\nDear Students,\r\n\r\nHere are some reminders as we approach the end of the semester.\r\n\r\nHomework\r\n\r\nHomework 14<https://moodle.ut.ee/mod/assign/view.php?id=905693> and 15<https://moodle.ut.ee/mod/assign/view.php?id=905694> are now available. These are the last homework assignments for the semester. The final deadline to submit these homework assignments (and all other late assignments) is December 20th. The grades for all submitted homework will be given before the test on December 16th (well, at least the homework submitted before December 14th).\r\n\r\nTest\r\n\r\nThe Final Test<https://moodle.ut.ee/mod/assign/view.php?id=833896> will be held on December 16th from 13:55 to 16:15. The test will be open-book and held online, i.e. you can do the test from the comfort of your home (but preferably somewhere where you have access to more than one monitor screen [naeratus]  ). There is no minimum grade requirement to be allowed into the test and no minimum grade required to pass the test. The final grade for the course will be the combination of the final test score and the homework score (and any bonus points collected from the quizzes).\r\n\r\nTo prepare you for the final test, we will review past test files in the final lab session on December 9th @ 14:15. There is also a Test Practice Quiz<https://moodle.ut.ee/mod/quiz/view.php?id=979014> and video of a previous Exam<https://moodle.ut.ee/mod/url/view.php?id=981407> available on Moodle.\r\n\r\nThe question topics for the test will be written in the description section on Moodle under the Week 16: Test Section by the end of this week.\r\n\r\nIf you cannot take the test at the specified time, please contact me before Monday (December 9th) next week to make alternate arrangements.\r\n\r\nQuiz\r\n\r\nThere is only one more quiz remaining, Quiz 6<https://moodle.ut.ee/mod/quiz/view.php?id=1085876>. It will be open on December 6th @ 12:00 and close on December 20th @ 23:59. It will cover the topics from Weeks 13, 14 and 15.\r\n\r\n\r\nFeel free to respond to this post with any questions you may have (or message/email).\r\n\r\nBest Regards,\r\nDMM\r\n\r\nVasta <https://moodle.ut.ee/mod/forum/post.php?reply=2515623>\r\nKuva see postitus kontekstis <https://moodle.ut.ee/mod/forum/discuss.php?d=993576#p2515623>\r\n________________________________\r\nSaate muuta enda foorumi kokkuvõtte-eelistusi<https://moodle.ut.ee/mod/forum/index.php?id=10877>\r\n\r\nLoed seda teadet e-kirjas? Lae endale mobiiliäpp ja loe teateid äpis<https://download.moodle.org/mobile?version=2022112813.02&lang=et&iosappid=633359593&androidappid=com.moodle.moodlemobile>.\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Viktor-Vassiljev Bogdanov (saidi TÜ Moodle kaudu)",
+            "address": "noreply-moodle@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Viktor-Vassiljev Bogdanov (saidi TÜ Moodle kaudu)",
+            "address": "noreply-moodle@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Madis Kõivopuu",
+                "address": "madis.koivopuu@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "TÜ Moodle",
+                "address": "noreply-moodle@ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "LTAT.04.009 homework submission deadline",
+        "start_date": null,
+        "end_date": "2024-12-20T23:59:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Deadline", "Homework"
+        ]
+    },
+    {
+        "event_name": "LTAT.04.009 exam preparation session",
+        "start_date": "2024-12-09T14:15:00",
+        "end_date": "2024-12-16T15:45:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Exam preparation"
+        ]
+    },
+    {
+        "event_name": "LTAT.04.009 exam",
+        "start_date": "2024-12-16T13:55:00",
+        "end_date": "2024-12-16T16:15:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Exam"
+        ]
+    },
+    {
+        "event_name": "LTAT.04.009 quiz 6",
+        "start_date": null,
+        "end_date": "2024-12-20T23:59:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Deadline", "Quiz"
+        ]
+    }
+]

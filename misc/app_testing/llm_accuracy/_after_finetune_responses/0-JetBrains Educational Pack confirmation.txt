@@ -1,0 +1,163 @@
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAF1nH9r\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAF2C66RAAA=",
+    "createdDateTime": "2024-03-05T14:06:12Z",
+    "lastModifiedDateTime": "2024-03-05T14:11:13Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAF1nH9r",
+    "categories": [],
+    "receivedDateTime": "2024-03-05T14:06:13Z",
+    "sentDateTime": "2024-03-05T14:06:10Z",
+    "hasAttachments": false,
+    "internetMessageId": "<0102018e0eefa6ae-e4c9e6de-a02a-4e2e-8f93-3436b75cfedc-000000@eu-west-1.amazonses.com>",
+    "subject": "JetBrains Educational Pack confirmation",
+    "bodyPreview": "Hi,\r\n\r\nYou're receiving this email because your email address was used to register or update a JetBrains Educational Pack.\r\n\r\nPlease click this link to proceed:\r\nhttps://www.jetbrains.com/shop/eform/students/request?code=7fmv0gcs7azd33a6n4i1s5tcz\r\n\r\nAfter",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAJgkBLKH4QJDiCHCjxwWgbQ=",
+    "conversationIndex": "AQHabwZHmCQEsofhAkOIIcKPHBaBtA==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAF2C66RAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Hi,\r\n\r\nYou're receiving this email because your email address was used to register or update a JetBrains Educational Pack.\r\n\r\nPlease click this link to proceed:\r\nhttps://www.jetbrains.com/shop/eform/students/request?code=kM3vegcsk8JAdm87i32d5\r\n\r\nAfter accepting the License Agreement, you will be asked to sign up for a JetBrains Account.\r\nYou will need to use this account whenever you want to access JetBrains tools.\r\n\r\nIf you have any questions, please email us – we’re always happy to help.\r\n\r\nKind Regards,\r\nThe JetBrains team\r\nwww.jetbrains.com<https://www.jetbrains.com>\r\nThe Drive to Develop\r\n\r\n[https://account.jetbrains.com/services/email/track-opened.gif?trackingCode=000F739B43ACA5A63EABD307BA9E57C36E4831B8F61AFF3C07FDD65052317F18869E882F5F52C27650F0B58B68C4A229798C851387D855FDDDCEE54A752577A55F]\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "JetBrains Account",
+            "address": "no_reply@jetbrains.com"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "JetBrains Account",
+            "address": "no_reply@jetbrains.com"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Aleks Jõggi",
+                "address": "aleks.joggi@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "JetBrains Support Team",
+                "address": "support-int@jetbrains.com"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+	"Conference",
+	"Workshop",
+	"Registration",
+	"Data science",
+	"Lecture",
+	"Summer school",
+	"Webinar",
+	"Internship",
+	"Physical exercise",
+	"Coding bootcamp",
+	"Psychology",
+	"Digital marketing",
+	"Walking",
+	"Cybersecurity",
+	"Birthday",
+	"Debate",
+	"Power World",
+	"Student union",
+	"Mental health",
+	"Scholarship",
+	"Business Pitch",
+	"Astronomy",
+	"Party",
+	"Volunteering",
+	"Briefing",
+	"Game night",
+	"Autonomous driving",
+	"Fundraiser",
+	"Demo day",
+	"Chemistry",
+	"Poster session",
+	"Systems science",
+	"University of Tartu",
+	"Engineering",
+	"Book club",
+	"Spring school",
+	"Abstract art",
+	"AI",
+	"Survey",
+	"Coaching",
+	"Quiz",
+	"Art exhibition",
+	"Film screening",
+	"Robotics",
+	"Student council",
+	"Elections",
+	"Urban mobility",
+	"Deadline",
+	"Gymnasium teaching",
+	"Math",
+	"Thesis defense",
+	"Technology",
+	"Painting",
+	"Dance night",
+	"Debate club",
+	"Running",
+	"Sports",
+	"Master's degree",
+	"Hackathon",
+	"Manufacturing",
+	"UI/UX workshop",
+	"Music performance",
+	"Networking",
+	"Enron",
+	"Jogging",
+	"Powerlifting",
+	"Career day",
+	"Sustainability",
+	"Philosophy",
+	"Community service",
+	"Drawing",
+	"Mentoring",
+	"Game jam",
+	"Biology",
+	"Competition",
+	"AI ethics",
+	"Application",
+	"Climate workshop",
+	"Movie",
+	"Finance",
+	"Training",
+	"Music lessons",
+	"Presentation",
+	"Habits",
+	"Olympiad",
+	"Biotech",
+	"Stipend",
+	"Convention",
+	"Tech talk",
+	"Dance club",
+	"Medicine"
+]
+!<-=->!
+[]
+!<-=->!
+[]
+!<-=->!
+[]
+!<-=->!
+[]

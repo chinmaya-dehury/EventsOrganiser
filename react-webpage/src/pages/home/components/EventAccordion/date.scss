@@ -1,0 +1,38 @@
+.event-date-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-left: 2px solid #007AFF;
+
+    padding: 0.5rem;
+}
+
+.event-date-container > hr {
+    border: 0;
+    border-top: 2px solid #C7C7CC;
+
+    margin: 0.25rem;
+    width: 1rem;
+}
+
+.event-date {
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.event-date > h2 {
+    margin: 0;
+}
+
+.event-date > span {
+    margin-top: -0.4rem;
+}
+
+.event-accordion-body h3 {
+    margin: 0;
+    margin-bottom: 0.25rem;
+}

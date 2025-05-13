@@ -1,0 +1,149 @@
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJzDb8w\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJzmpq3AAA=",
+    "createdDateTime": "2025-03-25T01:30:22Z",
+    "lastModifiedDateTime": "2025-03-25T05:42:46Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJzDb8w",
+    "categories": [],
+    "receivedDateTime": "2025-03-25T01:30:26Z",
+    "sentDateTime": "2025-03-25T01:30:17Z",
+    "hasAttachments": false,
+    "internetMessageId": "<is.3121A8BF9A968ABFE0630100007F4D1B@ut.ee>",
+    "subject": "Erialastipendiumi (IT õppekavad) mittemääramine",
+    "bodyPreview": "Olete käesoleval semestril esitanud taotluse erialastipendiumi saamiseks. Teavitame, et sellel semestril teile erialastipendiumi ei määratud. Stipendiumi mitte määramise kohta saate täpsemat infot oma valdkonna dekanaadist. Taotlusvoorud on ÕISis taas ava",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAG-IuKlXkVxHrlKCE0pBolM=",
+    "conversationIndex": "AQHbnSV5b8i4qVeRXEeuUoITSkGiUw==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJzmpq3AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Olete käesoleval semestril esitanud taotluse erialastipendiumi saamiseks. Teavitame, et sellel semestril teile erialastipendiumi ei määratud. Stipendiumi mitte määramise kohta saate täpsemat infot oma valdkonna dekanaadist. Taotlusvoorud on ÕISis taas avatud iga aasta septembris ja veebruaris.\r\nTäiendav informatsioon: https://www.ut.ee/et/sisu/infotehnoloogia-oppekavade-sihttoetusest-rahastatav-erialastipendium\r\n\r\nLugupidamisega\r\nTÜ õppeosakond\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "noustaja@ut.ee",
+            "address": "noustaja@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "noustaja@ut.ee",
+            "address": "noustaja@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Mihai Ivan",
+                "address": "mihai.ivan@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+	"Systems science",
+	"Movie",
+	"Dance club",
+	"Competition",
+	"Running",
+	"Climate workshop",
+	"Thesis defense",
+	"Enron",
+	"Workshop",
+	"Deadline",
+	"Master's degree",
+	"Powerlifting",
+	"Robotics",
+	"Game night",
+	"Painting",
+	"Career day",
+	"AI",
+	"Briefing",
+	"Biology",
+	"Finance",
+	"Music lessons",
+	"Party",
+	"Chemistry",
+	"Physical exercise",
+	"Registration",
+	"Sports",
+	"Gymnasium teaching",
+	"Psychology",
+	"Book club",
+	"Autonomous driving",
+	"Summer school",
+	"Cybersecurity",
+	"Spring school",
+	"Data science",
+	"Jogging"
+]
+!<-=->!
+[]
+!<-=->!
+[
+	{
+		"event_name": "Deadline for IT Scholarship Application",
+		"start_date": "2025-03-25T00:00:00",
+		"end_date": "2025-04-25T23:59:59",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Deadline",
+			"Enron",
+			"Finance",
+			"Master's degree"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "Erialastipendiumi (IT \u00f5ppekavad) mittem\u00e4ramine",
+		"start_date": "2025-03-25T01:30:17",
+		"end_date": "2025-03-25T00:00:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Enron",
+			"Deadline",
+			"Thesis defense",
+			"Briefing",
+			"Registration",
+			"Enron"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "Erialastipendiumi (IT \u00f5ppekavad) mittem\u00e4ramine",
+		"start_date": "2025-03-25T00:00:00+02:00",
+		"end_date": "2025-04-01T23:59:59+02:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Enron",
+			"Systems science",
+			"Briefing"
+		]
+	}
+]

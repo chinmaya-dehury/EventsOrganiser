@@ -1,0 +1,69 @@
+in English
+!<-=->!
+
+!<-=->!
+steven.jaagup.lepp@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAFsFtx+\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAFshbIIAAA=",
+    "createdDateTime": "2024-02-19T07:44:44Z",
+    "lastModifiedDateTime": "2024-02-19T07:44:47Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAFsFtx+",
+    "categories": [],
+    "receivedDateTime": "2024-02-19T07:44:45Z",
+    "sentDateTime": "2024-02-19T07:44:35Z",
+    "hasAttachments": false,
+    "internetMessageId": "<0100018dc052e6d7-de1fc14e-2539-4432-989c-4a8bfd33bf27-000000@email.amazonses.com>",
+    "subject": "📄 New messages from 2 conversations in UT System Administration",
+    "bodyPreview": "Your team is working in Slack. Here’s what happened recently.\r\n#questions:\r\n\r\nYou were added to this channel on Feb 13, 2024\r\n\r\nSee previous messages\r\nJoosep Kull   February 16th at 5:02 PM\r\nWhat does this mean\r\n\r\nimage.png\r\n+ 33 replies\r\nJoosep Kull   ",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAPzmdKTW2MZNlPTIWl2Z9ak=",
+    "conversationIndex": "AQHaYweB/OZ0pNbYxk2U9MhaXZn1qQ==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAFshbIIAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "other",
+    "body": {
+        "contentType": "text",
+        "content": "[slack logo]\r\nYour team is working in Slack. Here’s what happened recently.\r\n#questions:<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/messages/C031FE1DVP1>\r\n\r\nYou were added to this channel on Feb 13, 2024\r\n\r\n<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/archives/C031FE1DVP1/p1708095725173039?thread_ts=1708095725.173039>\r\nSee previous messages<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/archives/C031FE1DVP1/p1708095725173039?thread_ts=1708095725.173039>\r\n[https://secure.gravatar.com/avatar/75e464ea77edbe437c7379dbc559cc33.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png]<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/messages/C031FE1DVP1/team/U06K0G26ZU6>\r\nJoosep Kull<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/messages/C031FE1DVP1/team/U06K0G26ZU6>   February 16th at 5:02 PM<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/archives/C031FE1DVP1/p1708095725173039>\r\nWhat does this mean\r\n\r\nimage.png<https://files.slack.com/files-pri/TU344D4KA-F06KW8PSMPS/download/image.png>\r\n+ 33 replies<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/archives/C031FE1DVP1/p1708095725173039>\r\n[https://secure.gravatar.com/avatar/75e464ea77edbe437c7379dbc559cc33.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png]<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/messages/C031FE1DVP1/team/U06K0G26ZU6>\r\nJoosep Kull<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/messages/C031FE1DVP1/team/U06K0G26ZU6>   February 16th at 5:02 PM<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/archives/C031FE1DVP1/p1708095734145009>\r\nI have been logged in fro 45 min or so\r\n[https://avatars.slack-edge.com/2024-02-16/6655395026260_c23edf36cfb269d6732f_72.gif]<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/messages/C031FE1DVP1/team/U06K6QC73PV>\r\nEduard Ilves<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/messages/C031FE1DVP1/team/U06K6QC73PV>   February 16th at 5:30 PM<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/archives/C031FE1DVP1/p1708097417478539>\r\nQuestion: Lab1, Task 5 about finding compressed file. Command ls outputs only:\r\n[eduard@lab1 ~]$ ls\r\narchive.tar.gz  ctf  flag.txt subdirectoryI don't see any other compressed files, am I missing something?\r\n+ 8 replies<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/archives/C031FE1DVP1/p1708097417478539>\r\n[https://avatars.slack-edge.com/2024-02-16/6655395026260_c23edf36cfb269d6732f_72.gif]<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/messages/C031FE1DVP1/team/U06K6QC73PV>\r\nEduard Ilves<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/messages/C031FE1DVP1/team/U06K6QC73PV>   February 17th at 1:47 PM<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/archives/C031FE1DVP1/p1708170426148339>\r\nQuestion about Lab 1, Task 6. I cannot find the symbolic link. I did ls -l and found the broken link:\r\n./.softlink_broken.txt -> /opt/ctf/challenges/slink/source_files.txt\r\nMy directory looks like this:\r\nAny clue how to proceed? Should I go to look for softlink_broken.txt link in other directories (archive, subdirectory)?\r\n\r\nScreenshot 2024-02-17 at 12.45.14.png<https://files.slack.com/files-pri/TU344D4KA-F06KQ6DBBPT/download/screenshot_2024-02-17_at_12.45.14.png>\r\n+ 2 replies<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/archives/C031FE1DVP1/p1708170426148339>\r\n[https://secure.gravatar.com/avatar/5481129fb168f2325a49d67c23f44b65.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png]<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/messages/C031FE1DVP1/team/U06KDM1FQAU>\r\nKevin Oja<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/messages/C031FE1DVP1/team/U06KDM1FQAU>   February 18th at 12:39 PM<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/archives/C031FE1DVP1/p1708252788106029>\r\nI still cant find the name of the remote server in Task 13. I have the password, but I have tried multiple flags of the previous tasks.\r\n+ 13 replies<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/archives/C031FE1DVP1/p1708252788106029>\r\nOpen in Slack<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/archives/C031FE1DVP1/p1708252788106029?thread_ts=1708252788.106029>\r\n\r\n#general:<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/messages/CTRKS8B19>\r\n\r\nYou were added to this channel on Feb 13, 2024\r\n\r\n<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/archives/CTRKS8B19/p1708099595520939>\r\nSee previous messages<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/archives/CTRKS8B19/p1708099595520939>\r\n[https://secure.gravatar.com/avatar/7aa89683b9cb538c76ee4d3d25058169.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png]<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/messages/CTRKS8B19/team/U06JEG60FNH>\r\nMihhail K<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/messages/CTRKS8B19/team/U06JEG60FNH>   February 16th at 6:06 PM<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/archives/CTRKS8B19/p1708099595520939>\r\nJust a note about Lab1 page, when it goes over how to connect to the virtual machine from Linux or Windows, then for Windows a Windows Terminal (or old PowerShell terminal, should work as well ) can be suggested to connect to lab directly. This setup requires an optional feature OpenSSH Client , but it should be available by default in the latest versions of Windows 10 or 11. Here could read a bit more: https://github.com/MicrosoftDocs/terminal/blob/main/TerminalDocs/tutorials/ssh.md Just in case, if someone may prefer this approach or just to know about it!:D Also attached a screenshot of the connection to Lab1. From my experience, works pretty well, think only cannot scroll through man pages, but can use Page Up/Down keys to navigate them\r\n\r\nterminal.png<https://files.slack.com/files-pri/TU344D4KA-F06KACJPN3W/download/terminal.png>\r\nOpen in Slack<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/archives/CTRKS8B19/p1708099595520939>\r\n\r\nU<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/signin>\r\nWorkspace name: UT System Administration\r\nUT System Administration\r\nWorkspace URL: utkasdfis-ftg1943.slack.com\r\nEmail: madis.koivopuu@ut.ee\r\nSign In<https://utkasdfis-ftg1943.slack.com/x-p955140446656-6629454250803-6664223730292/signin>\r\n[slack logo]    [https://a.slack-edge.com/b8be608/marketing/img/icons/icon_colored_twitter.png] <https://twitter.com/slackhq> [https://a.slack-edge.com/b8be608/marketing/img/icons/icon_colored_facebook.png] <https://facebook.com/slackhq> [https://a.slack-edge.com/b8be608/marketing/img/icons/icon_colored_linkedin.png] <https://www.linkedin.com/company/tiny-spec-inc/>\r\nOur Blog<https://slackhq.com>   |   Unsubscribe<https://utkasdfis-ftg1943.slack.com/unsub/U06JHDC7CPM-1763a65102516dc5eb8fdd0261ed45a643e17f57e184d216d292a004f4e8570d-digest>   |   Policies<https://slack.com/legal>   |   Help Center<https://slack.com/help>   |   Slack Community<https://slack.com/community>\r\n\r\n©2024 Slack Technologies, LLC, a Salesforce company.\r\n415 Mission Street, San Francisco, CA 94105\r\n\r\nAll rights reserved.\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Slack",
+            "address": "no-reply@slack.com"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Slack",
+            "address": "no-reply@slack.com"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Steven Jaagup Lepp",
+                "address": "steven.jaagup.lepp@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "no-reply@slack.com",
+                "address": "no-reply@slack.com"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[]

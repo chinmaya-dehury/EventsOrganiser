@@ -1,0 +1,98 @@
+{
+	"expected_response": [],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "LTAT.06.201 Andmebaaside l\u00f5ppemise teatamine",
+					"start_date": "2023-06-18T12:35:12",
+					"end_date": "2023-06-18T12:35:12",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": []
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Registration deadline for Kordusekamis",
+					"start_date": "2023-06-25T00:00:00",
+					"end_date": "2023-07-01T23:59:59",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Registration",
+						"Deadline"
+					]
+				},
+				{
+					"event_name": "Summer break",
+					"start_date": "2023-06-19T00:00:00",
+					"end_date": "2023-08-21T23:59:59",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Survey"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "LTAT.06.201 Andmebaasid",
+					"start_date": "2023-06-19T00:00:00+00:00",
+					"end_date": "2023-06-19T23:59:00+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Workshop",
+						"Registration",
+						"Deadline"
+					]
+				},
+				{
+					"event_name": "Kordusekamid",
+					"start_date": "2023-06-19T00:00:00+00:00",
+					"end_date": "2023-06-19T23:59:00+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "1008",
+					"tags": [
+						"Registration",
+						"Deadline"
+					]
+				},
+				{
+					"event_name": "Suvetamise nautimine",
+					"start_date": "2023-06-19T00:00:00+00:00",
+					"end_date": "2023-06-19T23:59:00+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Networking",
+						"Community service"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		}
+	]
+}

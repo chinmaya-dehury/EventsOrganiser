@@ -1,0 +1,165 @@
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJ/3SjU\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAKAbKRtAAA=",
+    "createdDateTime": "2025-04-11T07:29:34Z",
+    "lastModifiedDateTime": "2025-04-11T07:29:37Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJ/3SjU",
+    "categories": [],
+    "receivedDateTime": "2025-04-11T07:29:35Z",
+    "sentDateTime": "2025-04-11T07:29:17Z",
+    "hasAttachments": false,
+    "internetMessageId": "<AS2PR02MB883923ED6D5005CF09308E83F9B62@AS2PR02MB8839.eurprd02.prod.outlook.com>",
+    "subject": "[ltt tudengid:444] Summer school \"Engineering Sustainability in the AI World\"",
+    "bodyPreview": "Technische Hochschule Lübeck shares a call for applications to attend the\r\n\r\n\r\n\r\nSummer school \"Engineering Sustainability in the AI World\"\r\n\r\n\r\n\r\nStudents who are interested in shaping the future of technology and sustainability are invited to this event",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAIDAFUns00ZAmpXSAeBrhnw=",
+    "conversationIndex": "Aduqs1bAgMAVSezTRkCaldIB4GuGfA==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAKAbKRtAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Technische Hochschule Lübeck shares a call for applications to attend the\r\n\r\n\r\n\r\nSummer school \"Engineering Sustainability in the AI World\"\r\n\r\n\r\n\r\nStudents who are interested in shaping the future of technology and sustainability are invited to this event that takes place from 21-30 July 2025 in Lübeck. Interdisciplinary courses, taught in English, will challenge and inspire with cutting-edge topics at the intersection of AI, engineering, and sustainability.\r\n\r\nIn addition to academic insights, the program offers cultural excursions, social events, and plenty of opportunities to explore Lübeck and its surroundings. Participants will get the opportunity to connect with students from around the world and network with regional companies to expand their horizons both professionally and personally.\r\n\r\nApplications are open until 6 May.\r\n\r\n\r\n\r\nRead more about the event and apply via Technische Hochschule Lübeck's website<https://www.th-luebeck.de/en/studies/study-offer/summer-school/engineering-sustainability/>.\r\n[A large brick building with two tall towers.]\r\n\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "ltt.tudengid-request@lists.ut.ee",
+            "address": "ltt.tudengid-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Lotte Püttsepp",
+            "address": "ltt.tudengid@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+	"Summer school",
+	"AI",
+	"Deadline",
+	"Registration"
+]
+!<-=->!
+[
+	{
+		"event_name": "[REGISTRATION REQUIRED] Summer school - Engineering Sustainability in the AI World",
+		"start_date": "2025-07-21T00:00:00",
+		"end_date": "2025-07-30T23:59:00",
+		"country": "Germany",
+		"city": "L\u00fcbeck",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Summer school",
+			"AI"
+		]
+	},
+	{
+		"event_name": "Summer school registration deadline - Engineering Sustainability in the AI World",
+		"start_date": null,
+		"end_date": "2025-05-06T23:59:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Summer school",
+			"AI",
+			"Deadline",
+			"Registration"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "Summer school \"Engineering Sustainability in the AI World\"",
+		"start_date": "2025-07-21T00:00:00+00:00",
+		"end_date": "2025-07-30T23:59:00+00:00",
+		"country": "Germany",
+		"city": "L\u00fcbeck",
+		"address": "Technische Hochschule L\u00fcbeck",
+		"room": "",
+		"tags": [
+			"Summer school",
+			"AI",
+			"Summer school"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "Summer school \"Engineering Sustainability in the AI World\"",
+		"start_date": "2025-07-21T00:00:00Z",
+		"end_date": "2025-07-30T23:59:00Z",
+		"country": "Germany",
+		"city": "L\u00fcbeck",
+		"address": "A large brick building with two tall towers.",
+		"room": "",
+		"tags": [
+			"Summer school",
+			"AI",
+			"Summer school"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "Summer school \"Engineering Sustainability in the AI World\"",
+		"start_date": "2025-07-21T00:00:00",
+		"end_date": "2025-07-30T23:59:00",
+		"country": "Germany",
+		"city": "L\u00fcbeck",
+		"address": "Technische Hochschule L\u00fcbeck",
+		"room": "",
+		"tags": [
+			"Summer school",
+			"AI",
+			"Summer school",
+			"Summer school",
+			"Summer school"
+		]
+	},
+	{
+		"event_name": "Application deadline",
+		"start_date": "2025-05-06T00:00:00",
+		"end_date": "2025-05-06T23:59:00",
+		"country": "Germany",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Deadline",
+			"Registration"
+		]
+	}
+]

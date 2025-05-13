@@ -1,0 +1,281 @@
+{
+	"expected_response": [
+		{
+			"event_name": "Andmeteaduse magistri\u00f5ppekava infotund",
+			"start_date": "2025-04-24T16:00:00",
+			"end_date": "2025-04-24T17:00:00",
+			"country": "",
+			"city": "",
+			"address": "",
+			"room": "veebis (Zoom)",
+			"tags": [
+				"Master's degree",
+				"Briefing",
+				"Data science"
+			]
+		},
+		{
+			"event_name": "G\u00fcmnaasiumi loodusteaduste \u00f5petaja \u00f5ppekava infotund",
+			"start_date": "2025-05-06T15:00:00",
+			"end_date": "2025-05-06T16:00:00",
+			"country": "",
+			"city": "",
+			"address": "",
+			"room": "veebis (Zoom)",
+			"tags": [
+				"Master's degree",
+				"Briefing",
+				"Gymnasium teaching"
+			]
+		}
+	],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "Andmeteaduse magistri\u00f5ppesse infotund",
+					"start_date": "2025-04-24T16:00:00Z",
+					"end_date": "2025-04-24T23:59:59Z",
+					"country": "Estonia",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Cybersecurity",
+						"Master's degree"
+					]
+				},
+				{
+					"event_name": "G\u00fcmnaasiumi loodusteaduste \u00f5petaja \u00f5ppekava infotund",
+					"start_date": "2025-05-06T15:00:00Z",
+					"end_date": "2025-05-06T16:00:00Z",
+					"country": "Estonia",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Gymnasium teaching",
+						"Master's degree"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Andmeteaduse magistri\u00f5ppesse infotund",
+						"start_date": "2025-04-24T16:00:00Z",
+						"end_date": "2025-04-24T23:59:59Z",
+						"country": "Estonia",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Cybersecurity",
+							"Master's degree"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.8,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 0.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.333333333333333
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "G\u00fcmnaasiumi loodusteaduste \u00f5petaja \u00f5ppekava infotund",
+						"start_date": "2025-05-06T15:00:00Z",
+						"end_date": "2025-05-06T16:00:00Z",
+						"country": "Estonia",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Gymnasium teaching",
+							"Master's degree"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 1.0,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 0.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.6666666666666666
+				}
+			],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Andmeteaduse magistri\u00f5ppekava infotund",
+					"start_date": "2025-04-24T16:00:00Z",
+					"end_date": "2025-04-24T23:59:59Z",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Cybersecurity",
+						"Data science",
+						"Workshop"
+					]
+				},
+				{
+					"event_name": "G\u00fcmnaasiumi loodusteaduste \u00f5petaja \u00f5ppekava infotund",
+					"start_date": "2025-06-06T15:00:00Z",
+					"end_date": "2025-06-06T16:00:00Z",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Gymnasium teaching",
+						"Psychology",
+						"Briefing"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Andmeteaduse magistri\u00f5ppekava infotund",
+						"start_date": "2025-04-24T16:00:00Z",
+						"end_date": "2025-04-24T23:59:59Z",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Cybersecurity",
+							"Data science",
+							"Workshop"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 1.0,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.3333333333333333,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.3333333333333333
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "G\u00fcmnaasiumi loodusteaduste \u00f5petaja \u00f5ppekava infotund",
+						"start_date": "2025-06-06T15:00:00Z",
+						"end_date": "2025-06-06T16:00:00Z",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Gymnasium teaching",
+							"Psychology",
+							"Briefing"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.6666666666666666,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 1.0,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.6666666666666666
+				}
+			],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Andmeteaduse magistri\u00f5ppe infotund",
+					"start_date": "2025-04-24T16:00:00+02:00",
+					"end_date": "2025-04-24T23:59:59+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Cybersecurity",
+						"Data science"
+					]
+				},
+				{
+					"event_name": "G\u00fcmnaasiumi loodusteaduste \u00e4rasti\u00f6ppetaja \u00e4rasti\u00f6ppetund",
+					"start_date": "2025-05-06T15:00:00+02:00",
+					"end_date": "2025-05-06T16:00:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Gymnasium teaching",
+						"Psychology"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Andmeteaduse magistri\u00f5ppe infotund",
+						"start_date": "2025-04-24T16:00:00+02:00",
+						"end_date": "2025-04-24T23:59:59+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Cybersecurity",
+							"Data science"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 1.0,
+					"start_date_grade": 0.66666666666666,
+					"end_date_grade": 0.666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.3333333333333333
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "G\u00fcmnaasiumi loodusteaduste \u00e4rasti\u00f6ppetaja \u00e4rasti\u00f6ppetund",
+						"start_date": "2025-05-06T15:00:00+02:00",
+						"end_date": "2025-05-06T16:00:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Gymnasium teaching",
+							"Psychology"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.5,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.3333333333333333
+				}
+			],
+			"event_finding_grade": 1.0
+		}
+	]
+}

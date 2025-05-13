@@ -1,7 +1,0 @@
-- name: Reboot server
-  ansible.builtin.reboot:
-    post_reboot_delay: 90
-
-- name: Restart server
-  ansible.builtin.reboot:
-    post_reboot_delay: 90

@@ -1,0 +1,247 @@
+{
+            "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJ9UU+B\"",
+            "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJ934gGAAA=",
+            "createdDateTime": "2025-04-08T10:29:38Z",
+            "lastModifiedDateTime": "2025-04-08T11:54:02Z",
+            "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJ9UU+B",
+            "categories": [],
+            "receivedDateTime": "2025-04-08T10:29:39Z",
+            "sentDateTime": "2025-04-08T10:29:23Z",
+            "hasAttachments": false,
+            "internetMessageId": "<GV1PR02MB10720ED2D32A3F5563F31896B80B52@GV1PR02MB10720.eurprd02.prod.outlook.com>",
+            "subject": "[cs.student:1120] Come to Summer School",
+            "bodyPreview": "/English below/\r\nTere kõigile!\r\n\r\nSel suvel korraldame me kolme suvekooli, kuhu ootame osalejaid erinevatelt eluvaldkondadelt!\r\n\r\nSelf-driving Cars, Tartus, 28. juuli–8. august.\r\nRegistreerumine lõpeb 30. aprillil.\r\n\r\nAIProHealth Summer School 2025, Tartu",
+            "importance": "normal",
+            "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+            "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAPflY1IAmidGlnenmgGDV2Y=",
+            "conversationIndex": "AQHbqGyA9+VjUgCaJ0aWd6eaAYNXZg==",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": true,
+            "isDraft": false,
+            "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJ934gGAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "text",
+                "content": "Hi everyone!\r\n\r\nThis summer we are organising three summer schools, and we are welcoming participants from different fields!\r\n\r\nSelf-driving Cars<https://ut.ee/en/content/self-driving-cars>, in Tartu, 28 July–8 August.\r\nRegistration ends on 30 April.\r\n\r\nAIProHealth Summer School 2025<https://eithealth.eu/programmes/aiprohealth/>, in Tartu, 11–15 August.\r\nRegistration ends on 25 May.\r\n\r\nEstonian Summer School on Computer and Systems Science 2025 (ESSCaSS)<https://courses.cs.ut.ee/t/esscass2025/>, in Tartu, 18–21 August.\r\n\r\nBest regards\r\n--\r\nKudmund Allova\r\nMarketing and Communication Specialist\r\nInstitute of Computer Science\r\nUniversity of Tartu\r\n+372 737 7182\r\nwww.cs.ut.ee<http://www.cs.ut.ee>\r\n"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "cs.student-request@lists.ut.ee",
+                    "address": "cs.student-request@lists.ut.ee"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Kudmund Allova",
+                    "address": "cs.student@lists.ut.ee"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "cs.student@lists.ut.ee",
+                        "address": "cs.student@lists.ut.ee"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [
+                {
+                    "emailAddress": {
+                        "name": "cs.student@lists.ut.ee",
+                        "address": "cs.student@lists.ut.ee"
+                    }
+                }
+            ],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        }
+!<-=->!
+[
+	"Deadline",
+	"Registration",
+	"Summer school",
+	"Autonomous driving",
+	"AI",
+	"Systems science",
+	"Physical exercise",
+	"Climate workshop",
+	"Thesis defense",
+	"Jogging",
+	"Powerlifting"
+]
+!<-=->!
+[
+	{
+		"event_name": "[REGISTRATION NEEDED] Summer school - self-driving cars",
+		"start_date": "2025-07-28T00:00:00",
+		"end_date": "2025-08-08T23:59:00",
+		"country": "Estonia",
+		"city": "Tartu",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Summer school",
+			"Autonomous driving"
+		]
+	},
+	{
+		"event_name": "Summer school registration deadline - self-driving cars",
+		"start_date": null,
+		"end_date": "2025-04-30T23:59:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Summer school",
+			"Autonomous driving",
+			"Deadline",
+			"Registration"
+		]
+	},
+	{
+		"event_name": "[REGISTRATION NEEDED] Summer school - AIProHealth",
+		"start_date": "2025-08-11T00:00:00",
+		"end_date": "2025-08-15T23:59:00",
+		"country": "Estonia",
+		"city": "Tartu",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Summer school",
+			"AI"
+		]
+	},
+	{
+		"event_name": "Summer school registration deadline - AIProHealth",
+		"start_date": null,
+		"end_date": "2025-04-30T23:59:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Summer school",
+			"AI",
+			"Deadline",
+			"Registration"
+		]
+	},
+	{
+		"event_name": "[REGISTRATION NEEDED] Summer school - compoter and systems science (ESSCaSS)",
+		"start_date": "2025-08-18T00:00:00",
+		"end_date": "2025-08-21T23:59:00",
+		"country": "Estonia",
+		"city": "Tartu",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Summer school",
+			"Systems science"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "[REGISTRATION REQUIRED] Estonian Summer School on Computer and Systems Science",
+		"start_date": "2025-08-18T00:00:00",
+		"end_date": "2025-08-21T00:00:00",
+		"country": "Estonia",
+		"city": "Tartu",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Systems science",
+			"Registration"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "[REGISTRATION REQUIRED] Estonian School of Information Technology Summer school",
+		"start_date": "2025-08-18T00:00:00",
+		"end_date": "2025-08-21T00:00:00",
+		"country": "Estonia",
+		"city": "Tartu",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Systems science",
+			"Summer school"
+		]
+	},
+	{
+		"event_name": "[REGISTRATION REQUIRED] AI summer school. Topic: AI Pro Health",
+		"start_date": "2025-08-11T00:00:00",
+		"end_date": "2025-08-14T00:00:00",
+		"country": "Estonia",
+		"city": "Tartu",
+		"address": "",
+		"room": "",
+		"tags": [
+			"AI",
+			"Summer school"
+		]
+	},
+	{
+		"event_name": "[REGISTRATION REQUIRED] AI summer school. Topic: Advanced Software Development Methods",
+		"start_date": "2025-08-15T00:00:00",
+		"end_date": "2025-08-20T00:00:00",
+		"country": "Estonia",
+		"city": "Tartu",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Systems science",
+			"Summer school"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "[REGISTRATION REQUIRED] Estonian School of Information Technology summer school)",
+		"start_date": "2025-08-18T00:00:00+02:00",
+		"end_date": "2025-08-21T00:00:00+02:00",
+		"country": "Estonia",
+		"city": "Tartu",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Systems science",
+			"Summer school"
+		]
+	},
+	{
+		"event_name": "[REGISTRATION REQUIRED] AI and Self-driving Cars summer school",
+		"start_date": "2025-08-28T00:00:00+02:00",
+		"end_date": "2025-08-08T00:00:00+02:00",
+		"country": "Estonia",
+		"city": "Tartu",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Autonomous driving",
+			"Summer school"
+		]
+	},
+	{
+		"event_name": "[REGISTRATION REQUIRED] AIProHealth Summer School",
+		"start_date": "2025-08-11T00:00:00+02:00",
+		"end_date": "2025-08-15T00:00:00+02:00",
+		"country": "Estonia",
+		"city": "Tartu",
+		"address": "",
+		"room": "",
+		"tags": [
+			"AI",
+			"Summer school"
+		]
+	}
+]

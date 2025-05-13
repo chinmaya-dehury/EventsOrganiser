@@ -1,0 +1,82 @@
+in Estonian;
+!<-=->!
+Moodle; Test; Online; UI/UX workshop; Digiral marketing; Career coaching; Thesis meeting; Climate; Cybersecurity; Bioinformatics
+!<-=->!
+liisa.kivikas@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AACQTBS+\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AACQhVA5AAA=",
+    "createdDateTime": "2023-03-23T12:01:08Z",
+    "lastModifiedDateTime": "2023-03-23T12:03:01Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AACQTBS+",
+    "categories": [],
+    "receivedDateTime": "2023-03-23T12:01:08Z",
+    "sentDateTime": "2023-03-23T12:01:01Z",
+    "hasAttachments": false,
+    "internetMessageId": "<641c3f7da47915.30075706@moodle.ut.ee>",
+    "subject": "[UT Moodle-Reminder] (MTMS.02.059_K-Test) Kodu 6 avatakse",
+    "bodyPreview": "(MTMS.02.059_K-Test) Kodu 6 avatakse\r\nTähtaeg reede, 24. märts 2023 14:00   Euroopa/Tallinn\r\nKursus  Tõenäosusteooria ja matemaatiline statistika (MTMS.02.059 KEVAD)\r\nTegevus Test: Kodu 6\r\n\r\nKodu 6 avatakse\r\n\r\nMeeldetuletus Moodle Calendar\r\n\r\nLoed seda te",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAN3ak-nqOSVFrGJf3_dAcXg=",
+    "conversationIndex": "AQHZXX8n3dqT+eo5JUWsYl/f50BxeA==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AACQhVA5AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "other",
+    "body": {
+        "contentType": "text",
+        "content": "<https://moodle.ut.ee/calendar/view.php?view=day&cal_d=24&cal_m=3&cal_y=2023#event_300143>\r\n(MTMS.02.059_K-Test) Kodu 6 avatakse\r\nTähtaeg reede, 24. märts 2023 14:00   Euroopa/Tallinn\r\nKursus  Tõenäosusteooria ja matemaatiline statistika (MTMS.02.059 KEVAD)\r\nTegevus Test: Kodu 6<https://moodle.ut.ee/mod/quiz/view.php?id=300143>\r\n\r\nKodu 6 avatakse\r\n\r\nMeeldetuletus Moodle Calendar<https://moodle.ut.ee/calendar/index.php>\r\n\r\nLoed seda teadet e-kirjas? Lae endale mobiiliäpp ja loe teateid äpis<https://download.moodle.org/mobile?version=2020061519&lang=et&iosappid=633359593&androidappid=com.moodle.moodlemobile>.\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "UT Moodle (saidi TÜ Moodle kaudu)",
+            "address": "noreply-moodle@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "UT Moodle (saidi TÜ Moodle kaudu)",
+            "address": "noreply-moodle@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Liisa Kivikas",
+                "address": "liisa.kivikas@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "TÜ Moodle",
+                "address": "noreply-moodle@ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "Tõenäosusteooria ja matemaatiline statistika - test 6 avaneb",
+        "start_date": "2023-03-24T14:00:00",
+        "end_date": "2023-03-24T14:10:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Online", "Test", "Moodle"
+        ]
+    }
+]

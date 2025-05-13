@@ -1,0 +1,64 @@
+in Estonian;
+technically does have events (db related test), 
+but the actual time for the reader can't be found from the e-mail alone
+!<-=->!
+
+!<-=->!
+madis.koivopuu@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AACg9Dcu\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAChMpoiAAA=",
+    "createdDateTime": "2023-04-17T04:50:28Z",
+    "lastModifiedDateTime": "2023-04-17T04:50:29Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AACg9Dcu",
+    "categories": [],
+    "receivedDateTime": "2023-04-17T04:50:28Z",
+    "sentDateTime": "2023-04-17T04:50:26Z",
+    "hasAttachments": false,
+    "internetMessageId": "<2E.67.09704.210DC346@berta.it.da.ut.ee>",
+    "subject": "LTAT.03.004 Andmebaasid",
+    "bodyPreview": "Tere\r\nKuna eelmisel nädalal oli teine kontrolltöö, siis alustan selle kokkuvõttega. Kontrolltöö sooritas 304 õppurit (auditooriumis 227 ja veebirühmades 77). Keskmine punktisumma oli 4,53 (auditoorsetes rühmades 4,60 ja veebirühmades 4,34). Rõõmu teeb, et",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAJ01l1ubjDRApmvLYB6fp4Q=",
+    "conversationIndex": "AQHZcOghnTWXW5uMNECma8tgHp+nhA==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAChMpoiAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Tere\r\nKuna eelmisel nädalal oli teine kontrolltöö, siis alustan selle kokkuvõttega. Kontrolltöö sooritas 304 õppurit (auditooriumis 227 ja veebirühmades 77). Keskmine punktisumma oli 4,53 (auditoorsetes rühmades 4,60 ja veebirühmades 4,34). Rõõmu teeb, et 61 (20,1 % kõigist testi sooritanutest) said maksimumpunktid. Loengute kontrolltööde lävend on täis 102 õppijal ning 93 neist on ületatud ka kodutööde ja praktikumide lävendi. Tublid olete! Kõige keerulisemateks osutusid teises kontrolltöös normaalkujude kontrollid. Kuna üks eksamiküsimus tuleb kindlasti ka normaalkujude kohta, siis kõigil, kes tunnevad end selles teemas ebakindlana, palun vaadake veel üle loengu ja praktikumi materjal. Ja loomulikult saate abi ka lisapraktikumist.\r\nAeg on kuidagi kiiresti liikunud ja selle kuu lõpus on oma projektide esitamise tähtaeg. Funktsioonide ja protseduuridega olete veidi juba tutvunud, praktikumis saate veel neid teadmisi kinnistada ning kui midagi on arusaamatuks jäänud, siis praktikumijuhendajalt selgitusi küsida. Saate ka oma projekti III etapi lõpule viidud, mis on ka üks selle nädala koduülesanne. Ja nagu ikka, siis meeletuletus, et instituudis käib tudengiprojektide võistlus https://cs.ut.ee/et/sisu/tudengiprojektide-voistlus. Praktikumijuhendajatelt ka palve, et kui lisate vahepealseid mudeleid, siis kirjutage juurde, kas tegemist on vaheetapi või lõpliku mudeliga.  On loomulik, et töö käigus mudel areneb (nii on see ka reaalses elus), aga hea oleks teada, mis on lõplik mudel, sest praktikumi juhendaja hindab just seda. Kuna aine lõpp järjest läheneb, on juhendite mooduli all Moodles ka arvestuspäringute sooritamise reeglid ja näidisülesanded. Ja avatud on registreerumine eksamile. Valige \r\n endale sobiv eksamiaeg!\r\nLoengu  teemaks alanud nädalal on failide organiseerimine ja indekseerimine. Viimane loengute kontrolltöö toimub nädala pärast ehk siis kellel 24. aprillil, kellel 25. aprillil ning seal on teemadeks vaated, funktsioonid, protseduurid, trigerid, transaktsioonid ja indeksid. Ikka 6 küsimust (igast teemast üks) ja aega 20 minutit. Seega palun vaadake lisaks selle nädala loengule nende teemade loengumaterjalid veel läbi. Ja kolmas kontrolltöö on praktikumide algul, seega püüdke õigeks ajaks kohal olla. Tuletan ka meelde, et kontrolltöö sooritamiseks peab osalema kas auditoorses või veebipraktikumis. Indeksite ja trigerite kohta on ka kodulugemine ning koduülesanne.\r\nParimat\r\nAndrus Savi\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Andrus Savi ",
+            "address": "andrus.savi@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Andrus Savi ",
+            "address": "andrus.savi@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Madis Kõivopuu",
+                "address": "madis.koivopuu@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[]

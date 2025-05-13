@@ -1,0 +1,78 @@
+in Estonian (English removed);
+since the e-mail is only in Estonian, the expected response should show only one event (the estonian seminar)
+because the reader is most likely estonian;
+maybe in the future it would be a nice addition to add a language preference setting
+!<-=->!
+Internship; Introduction; Course Advertisement; UI/UX workshop; Workshop; Volunteer day; Coaching
+!<-=->!
+joonas.salo@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAEB/hFv\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAECTJeHAAA=",
+    "createdDateTime": "2023-09-12T12:20:43Z",
+    "lastModifiedDateTime": "2023-09-12T12:20:46Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAEB/hFv",
+    "categories": [],
+    "receivedDateTime": "2023-09-12T12:20:44Z",
+    "sentDateTime": "2023-09-12T12:20:41Z",
+    "hasAttachments": false,
+    "internetMessageId": "<7B.23.09898.89750056@berta.it.da.ut.ee>",
+    "subject": "Praktika infoseminar // Information seminar of the Practical Training",
+    "bodyPreview": "Tere\r\n\r\nSelle semestri Praktika informaatikas ainete infoseminar toimub 14 Septembril, Neljapäeval kell 16:15 (Inglise keeles) ja 18:15 (Eesti keeles). Seminari toimub Deltas ruumis 1037 ja veebiülekandena Zoom keskkonnas. Ülekande link ilmub aine koduleh",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQADcc7Ow3r1xMiHAG_9p9Ero=",
+    "conversationIndex": "AQHZ5XONNxzs7DevXEyIcAb72n0Sug==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAECTJeHAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Tere\r\n\r\nSelle semestri Praktika informaatikas ainete infoseminar toimub 14 Septembril, Neljapäeval kell 16:15 (Inglise keeles) ja 18:15 (Eesti keeles). Seminari toimub Deltas ruumis 1037 ja veebiülekandena Zoom keskkonnas. Ülekande link ilmub aine kodulehele enne seminari algust.\r\n\r\nTudengid, kes soovivad rohkem teada praktika ainete ja mooduli läbimise kohta, peaksid seminarist osa võtma. Praktika ainete üldine info asub kursuste kodulehel: https://courses.cs.ut.ee/2023/praktika/fall\r\n\r\nSinna lisatakse ka infoseminari slaidid ja video.\r\n\r\nVõtke minuga ühendust, kui teil on peale infoseminari küsimusi praktika mooduli läbimise kohta.\r\n\r\nParimate soovidega,\r\nMihai Ivan\r\nArvutiteaduse instituut \r\nTartu Ülikool\r\nNarva mnt 18 - 2039, Tartu\r\nTel: +372 713 5819\r\n\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Rasmus Luks",
+            "address": "luks@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Rasmus Luks ",
+            "address": "luks@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Joonas Jimi Salo",
+                "address": "joonas.salo@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "Praktika informaatikas - kursuse infoseminar",
+        "start_date": "2024-09-14T18:15:00",
+        "end_date": "2024-09-14T19:45:00",
+        "country": "Eesti",
+        "city": "Tartu",
+        "address": "Narva mnt 18 (Delta keskus)",
+        "room": "ruum 1037 ja Online (Zoom)",
+        "tags": [
+            "Internship", "Introduction", "Course Advertisement"
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+in English & Estonian;
+output is in Estonian
+!<-=->!
+Seminar; Master's programme; AI ethics; Career coaching; Peer mentoring; Finance; Coding bootcamp
+!<-=->!
+steven.jaagup.lepp@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAFs2a/v\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAFtSPjrAAA=",
+    "createdDateTime": "2024-02-20T09:49:57Z",
+    "lastModifiedDateTime": "2024-02-20T09:54:04Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAFs2a/v",
+    "categories": [],
+    "receivedDateTime": "2024-02-20T09:49:57Z",
+    "sentDateTime": "2024-02-20T09:18:34Z",
+    "hasAttachments": false,
+    "internetMessageId": "<PAWPR02MB10024DDE1A6AA51BD59A1E2A2E8502@PAWPR02MB10024.eurprd02.prod.outlook.com>",
+    "subject": "[cs.student:1033] Nipid praktikale kandideerimiseks ja IT-tööstusmagistrantuuri programmi tutvustus /Tips for applying for internships and an introduction to the Industrial Master's program in IT",
+    "bodyPreview": "/English below/\r\n\r\nHea üliõpilane!\r\n\r\n22. veebruaril 15.00 toimub Delta õppehoones Sandboxis (ruum 3095) seminar, kus saad hulgaliselt näpunäiteid, kuidas edukalt praktikale või stipendiumile kandideerida. Sulle tuleb oma teadmisi jagama TÜ nõustamiskesku",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAODwSmHsQJ5PnvH4PN1B3Ks=",
+    "conversationIndex": "AQHaY9d24PBKYexAnk+e8fg83UHcqw==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAFtSPjrAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "other",
+    "body": {
+        "contentType": "text",
+        "content": "/English below/\r\n\r\nHea üliõpilane!\r\n\r\n22. veebruaril 15.00 toimub Delta õppehoones Sandboxis (ruum 3095) seminar, kus saad hulgaliselt näpunäiteid, kuidas edukalt praktikale või stipendiumile kandideerida. Sulle tuleb oma teadmisi jagama TÜ nõustamiskeskuse karjäärinõustaja Kadri Jurs.\r\nRegistreeru siin<https://cs.ut.ee/et/sisu/it-toostusmagistrantuuri-programmi-tutvustus-ja-praktikale-kandideerimist-toetav-seminar>. Samuti võid registreerimisvormis oma küsimused juba ette ära saata.\r\n\r\nSeminaril saad lähemalt tuttavaks ka IT-tööstusmagistrantuuri programmiga, mida tutvustab Carolin Siimenson.\r\nEttekannetele järgneb mõnus olemine koos suupistetega, kus saad IT-tööstusmagistrantuuri kohta lähemalt uurida ka varem programmis osalenud tudengitelt.\r\n\r\nSeminar on mõeldud eelkõige arvutiteaduse instituudi esimese aasta magistrantidele, kuid teretulnud on ka kõik bakalaureuse tasemel õppijad. Seminar toimub inglise keeles.\r\n\r\nOled oodatud!\r\n------\r\nDear student!\r\n\r\nOn February 22nd at 3:00 PM, a seminar will take place in the Delta Study Building, in Sandbox (room 3095), where you can receive numerous tips on how to successfully apply for internships or scholarships. Career advisor Kadri Jurs from the University of Tartu Counseling Center will be sharing her knowledge with you. Register here<https://cs.ut.ee/en/content/how-successfully-apply-internships-industrial-masters-it-introduction-and-career>. You can also submit your questions in advance through the registration form.\r\n\r\nDuring the seminar, you will also get acquainted with the Industrial Master's Programme in IT, presented by Carolin Siimenson. Following the presentations, there will be a gathering with snacks, where you can learn more about the IT Industry Master's Program from students who have previously participated in the program.\r\n\r\nThe seminar is primarily intended for first-year master's students of the Institute of Computer Science, but all undergraduate students are also welcome. The seminar will be conducted in English.\r\n\r\nYou are welcome to participate!\r\n\r\nBest wishes,\r\n\r\nCarolin Siimenson, PhD\r\n\r\nIndustry Collaboration Coordinator\r\n\r\nInstitute of Computer Science\r\n\r\nUniversity of Tartu\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "cs.student-request@lists.ut.ee",
+            "address": "cs.student-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Liisa Ilves",
+            "address": "cs.student@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "[VAJA REGISTREERIDA] Praktikale & stipendiumile kandideerimise nippide seminar",
+        "start_date": "2024-02-22T15:00:00",
+        "end_date": "2024-02-22T16:00:00",
+        "country": "Eesto",
+        "city": "Tartu",
+        "address": "Narva mnt 18 (Delta keskus)",
+        "room": "Sandbox",
+        "tags": [
+            "Seminar", "Master's programme"
+        ]
+    }
+]

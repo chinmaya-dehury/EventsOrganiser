@@ -1,0 +1,84 @@
+in Estonian;
+has a deadline, good example for the LLM since it has to figure out 
+the end date by the email sending date & the phrase 'today's the last chance'
+!<-=->!
+Student council; University of Tartu; Deadline; Application; Dance night; Coding bootcamp; Mentoring; Internship; Astronomy; Chemistry; Cybersecurity; Poster session; AI ethics; Debate club; Workshop; Hackathon; Scholarship
+!<-=->!
+uno.muurissepp@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAGObPV0\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAGO3KPTAAA=",
+    "createdDateTime": "2024-04-12T09:01:10Z",
+    "lastModifiedDateTime": "2024-04-12T09:06:27Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAGObPV0",
+    "categories": [],
+    "receivedDateTime": "2024-04-12T09:01:11Z",
+    "sentDateTime": "2024-04-12T08:44:45Z",
+    "hasAttachments": false,
+    "internetMessageId": "<DB8PR02MB56747188D9510A1483DB49C285042@DB8PR02MB5674.eurprd02.prod.outlook.com>",
+    "subject": "[ltt tudengid:386] Viimane võimalus kandideerida!",
+    "bodyPreview": "Head tudengid\r\n\r\n\r\nTäna on veel viimane võimalus kandideerida üliõpilasesindajaks oma instituudis või valdkonnas. Aita oma kaastudengid ja tule tudengi hääleks!\r\n\r\nKandideerimine ja lisainfo TÜÜE kodulehel: https://tyye.ut.ee/et/sisu/valimise",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQANY8nK-S_OFFnwm1FwknLzM=",
+    "conversationIndex": "AQHajLTR1jycr9L44UWfCbUXCScvMw==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAGO3KPTAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "other",
+    "body": {
+        "contentType": "text",
+        "content": "Head tudengid\r\n\r\n\r\nTäna on veel viimane võimalus kandideerida üliõpilasesindajaks oma instituudis või valdkonnas. Aita oma kaastudengid ja tule tudengi hääleks!\r\n\r\nKandideerimine ja lisainfo TÜÜE kodulehel: https://tyye.ut.ee/et/sisu/valimised-2024\r\n\r\n\r\nLugupidamisega\r\nIgor Mang"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "ltt.tudengid-request@lists.ut.ee",
+            "address": "ltt.tudengid-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Igor Mang",
+            "address": "ltt.tudengid@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "Üliõpilasesindajaks kandideerimise tähtaeg",
+        "start_date": null,
+        "end_date": "2024-04-12T23:59:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "University of Tartu", "Student council", "Application", "Deadline"
+        ]
+    }
+]

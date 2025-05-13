@@ -1,0 +1,253 @@
+Message-ID: <5923193.1075855467611.JavaMail.evans@thyme>
+Date: Tue, 4 Dec 2001 06:00:40 -0800 (PST)
+From: andreas.simou@garp.com
+Subject: The GARP 2002 Convention: gentle reminder
+Cc: shirley.crenshaw@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: shirley.crenshaw@enron.com
+X-From: "Andreas Simou" <andreas.simou@garp.com>@ENRON
+X-To: vkamins@enron.com, Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VKAMINS>
+X-cc: Crenshaw, Shirley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SCRENSH>
+X-bcc: 
+X-Folder: \Vincent_Kaminski_Jan2002_1\Kaminski, Vince J\Inbox
+X-Origin: Kaminski-V
+X-FileName: vkamins (Non-Privileged).pst
+
+
+Dear Convention Speaker
+ 
+I am writing concerning the GARP 2002 Convention,  which will be held at the Roosevelt Hotel, New York on 11th to 14th February  2002.
+ 
+This is just a gentle reminder that speaker  presentations should be e-mailed to me by Friday 14th  December to ensure that they are placed in the delegate packs. I am  sure that you can appreciate that with over 80 speakers, this is a massive  logistical task and requires advance planning. After this date, I can not  guarantee that they will be included in the delegate packs.
+ 
+Moreover, if you have not yet returned you  speaker checklist by fax, can you please return this as soon as possible.  Also, if you are staying at the Roosevelt Hotel, please complete the hotel  form and fax it directly to the hotel. If you do not have a form, please  do e-mail me and I will forward one to you.
+ 
+Finally, if you would like the brochure to  be received by any financial or risk professionals, please do provide me  with the names and any contact details (e-mail or postal address) and  I will ensure they receive a copy. 
+ 
+If you have any questions or queries please do not  hesitate to contact me. I look forward to receiving your presentation next week  and to meeting you in New York in February.
+ 
+Kind regards
+ 
+Andreas
+ 
+______________________
+Andreas  Simou
+Conference Director, GARP
+Tel: +44 (0)20 7626 9301
+Fax: +44 (0)20  7626 9900www.garp.com 
+ 
+Don't miss the GARP 2002 Convention,
+for full  program details visit our web site, www.garp.com
+!<-=->!
+[
+	"Deadline",
+	"Convention",
+	"Presentation",
+	"Art exhibition",
+	"Movie",
+	"Party",
+	"Birthday"
+]
+!<-=->!
+[
+	{
+		"event_name": "GARP 2002 Convention",
+		"start_date": "2002-02-11T00:00:00",
+		"end_date": "2002-02-14T23:59:00",
+		"country": "United States",
+		"city": "New York City",
+		"address": "East 45th Street",
+		"room": "",
+		"tags": [
+			"Convention",
+			"Presentation"
+		]
+	},
+	{
+		"event_name": "GARP 2002 speaker presentation submission deadline",
+		"start_date": null,
+		"end_date": "2001-12-14T23:59:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Deadline",
+			"Presentation"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "GARP 2002 Convention conclusion",
+		"start_date": null,
+		"end_date": "2002-02-17T23:59:00",
+		"country": "United States",
+		"city": "New York",
+		"address": "Roosevelt Hotel",
+		"room": "",
+		"tags": [
+			"Convention"
+		]
+	},
+	{
+		"event_name": "GARP 2002 Convention ends today",
+		"start_date": "2002-02-17T00:00:00",
+		"end_date": "2002-02-17T23:59:00",
+		"country": "United States",
+		"city": "New York",
+		"address": "Roosevelt Hotel",
+		"room": "",
+		"tags": [
+			"Convention"
+		]
+	},
+	{
+		"event_name": "GARP 2002 Convention starts today",
+		"start_date": "2002-02-12T00:00:00",
+		"end_date": "2002-02-17T23:59:00",
+		"country": "United States",
+		"city": "New York",
+		"address": "Roosevelt Hotel",
+		"room": "",
+		"tags": [
+			"Convention"
+		]
+	},
+	{
+		"event_name": "Registration deadline for GARP 2002 Convention is today",
+		"start_date": "2002-02-06T00:00:00",
+		"end_date": "2002-02-17T23:59:00",
+		"country": "United States",
+		"city": "New York",
+		"address": "Roosevelt Hotel",
+		"room": "",
+		"tags": [
+			"Deadline"
+		]
+	},
+	{
+		"event_name": "First day of GARP 2002 Convention registration",
+		"start_date": "2002-02-04T00:00:00",
+		"end_date": "2002-02-17T23:59:00",
+		"country": "United States",
+		"city": "New York",
+		"address": "Roosevelt Hotel",
+		"room": "",
+		"tags": [
+			"Convention",
+			"Deadline"
+		]
+	},
+	{
+		"event_name": "GARP 2002 Convention program available",
+		"start_date": "2002-01-28T00:00:00",
+		"end_date": "2002-02-17T23:59:00",
+		"country": "United States",
+		"city": "New York",
+		"address": "Roosevelt Hotel",
+		"room": "",
+		"tags": [
+			"Convention",
+			"Deadline"
+		]
+	},
+	{
+		"event_name": "Registration for GARP 2002 Convention opens today",
+		"start_date": "2002-01-21T00:00:00",
+		"end_date": "2002-02-17T23:59:00",
+		"country": "United States",
+		"city": "New York",
+		"address": "Roosevelt Hotel",
+		"room": "",
+		"tags": [
+			"Convention",
+			"Deadline"
+		]
+	},
+	{
+		"event_name": "Survey on topic areas complete",
+		"start_date": "2002-01-14T00:00:00",
+		"end_date": "2002-01-21T23:59:00",
+		"country": "United States",
+		"city": "New York",
+		"address": "Roosevelt Hotel",
+		"room": "",
+		"tags": [
+			"Convention",
+			"Deadline"
+		]
+	},
+	{
+		"event_name": "GARP 2002 Convention to be held at the Roosevelt Hotel in New York",
+		"start_date": "2001-12-18T00:00:00",
+		"end_date": "2002-01-21T23:59:00",
+		"country": "United States",
+		"city": "New York",
+		"address": "Roosevelt Hotel",
+		"room": "",
+		"tags": [
+			"Convention",
+			"Deadline"
+		]
+	},
+	{
+		"event_name": "Convention theme confirmed",
+		"start_date": "2001-12-11T00:00:00",
+		"end_date": "2002-01-21T23:59:00",
+		"country": "United States",
+		"city": "New York",
+		"address": "Roosevelt Hotel",
+		"room": "",
+		"tags": [
+			"Convention",
+			"Deadline"
+		]
+	},
+	{
+		"event_name": ":)",
+		"start_date": "2001-12-06T00:00:00",
+		"end_date": "2002-01-20T23:59:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": []
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "GARP 2002 Convention review submission deadline",
+		"start_date": null,
+		"end_date": "2001-12-08T19:40:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Convention",
+			"Deadline",
+			"Presentation"
+		]
+	}
+]
+!<-=->!
+[
+	{
+		"event_name": "GARP 2002 Convention review submission deadline",
+		"start_date": null,
+		"end_date": "2001-12-07T23:59:00+00:00",
+		"country": "",
+		"city": "",
+		"address": "",
+		"room": "",
+		"tags": [
+			"Convention",
+			"Deadline"
+		]
+	}
+]

@@ -1,8 +1,19 @@
 *.env
+*.env.production
+*.env.dev
+
 *.gguf
+*.safetensors
+*.rar
+*.zip
 emails.json
 emails_output/
+
+llama.cpp/
+unsloth_compiled_cache/
+_unsloth_sentencepiece_temp/
 
 flask_session/
 __pycache__/
 .venv/
+.idea

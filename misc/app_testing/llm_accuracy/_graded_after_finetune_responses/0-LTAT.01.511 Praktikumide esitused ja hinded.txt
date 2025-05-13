@@ -1,0 +1,52 @@
+{
+	"expected_response": [],
+	"exemplars": [
+		{
+			"llm_response": [],
+			"grades_for_each_event": [],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [],
+			"grades_for_each_event": [],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "LTAT.01.511 praktikumi docment lahenduse esitamine - hinded",
+					"start_date": null,
+					"end_date": "2023-10-27T23:59:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"University of Tartu",
+						"Application",
+						"Math",
+						"Career day"
+					]
+				},
+				{
+					"event_name": "LTAT.01.511 praktikumi test lahenduse loomine - vaja",
+					"start_date": null,
+					"end_date": "2023-10-28T23:59:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"University of Tartu",
+						"Application",
+						"Math",
+						"Career day"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		}
+	]
+}

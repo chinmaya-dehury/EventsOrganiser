@@ -1,0 +1,99 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: events-private-deployment
+  namespace: events-organiser
+  labels:
+    app: events-private
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: events-private
+  template:
+    metadata:
+      labels:
+        app: events-private
+    spec:
+      containers:
+        - name: events-private
+          image: "{{ events_org_config.dockerhub_username }}/events-private"
+          resources:
+            limits:
+              memory: "10240Mi"
+              cpu: "6.0"
+          ports:
+            - containerPort: 80
+          env:
+            - name: MYSQL_EVENTS_USER
+              value: "events"
+            - name: MYSQL_EVENTS_DB
+              value: "events"
+            - name: MYSQL_EVENTS_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: secrets
+                  key: events.MYSQL_EVENTS_PASSWORD
+            - name: MYSQL_HOST
+              valueFrom:
+                configMapKeyRef:
+                  name: config
+                  key: events.MYSQL_HOST
+
+            - name: RABBITMQ_HOST
+              valueFrom:
+                configMapKeyRef:
+                  name: config
+                  key: events.RABBITMQ_HOST
+            - name: RABBITMQ_VIRTUALHOST
+              value: "/events-parser"
+            - name: RABBITMQ_USERNAME
+              value: "events-parser"
+            - name: RABBITMQ_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: secrets
+                  key: events.RABBITMQ_PASSWORD
+            - name: RABBITMQ_EMAILS_QUEUE
+              value: "email_parsing_queue"
+            - name: RABBITMQ_EVENTS_OUTPUT_QUEUE
+              value: "parsed_events_queue"
+            - name: LLM_PATH
+              value: "/llm/llama.gguf"
+
+            - name: EMAIL_ENCRYPTION_SECRET
+              valueFrom:
+                secretKeyRef:
+                  name: secrets
+                  key: EMAIL_ENCRYPTION_SECRET
+          volumeMounts:
+          - name: llm-dir
+            mountPath: /llm
+      initContainers:
+      - name: install
+        image: alpine
+        command:
+        - wget
+        - "-O"
+        - "/llm/llama.gguf"
+        - "{{ events_org_config.llm_gguf_url }}"  # Replace this with your own Llama-3 file if necessary
+        volumeMounts:
+        - name: llm-dir
+          mountPath: /llm
+      volumes:
+      - name: llm-dir
+        emptyDir: {}
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: events-private-svc
+  namespace: events-organiser
+spec:
+  type: ClusterIP
+  selector:
+    app: events-private
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80

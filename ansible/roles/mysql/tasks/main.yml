@@ -1,0 +1,106 @@
+- name: Install Python package "PyMySQL[rsa]" necessary for Ansible role 
+  ansible.builtin.apt:
+    name: "python3-pymysql"
+    state: latest
+
+- name: Install/update MySQL
+  ansible.builtin.apt:
+    name: '{{ item }}'
+    state: latest
+  with_items:
+  - "mysql-server"
+  notify:
+  - Restart mysql
+
+#- name: Enable ufw, open SSH port
+#  community.general.ufw:
+#    state: enabled
+#    rule: allow
+#    port: "{{ item }}"
+#    proto: tcp
+#  with_items:
+#    - "3306"
+
+- name: Make MySQL bind to 0.0.0.0 (use external firewall to block connections from random IPs to 3306)
+  ansible.builtin.lineinfile:
+    path: "{{ mysql_conf_file }}"
+    regexp: "#?\\s*bind-address"
+    line: "bind-address = 0.0.0.0"
+  notify:
+    - Restart mysql
+
+- name: Start mysql
+  ansible.builtin.systemd:
+    name: mysql
+    state: started
+    enabled: true
+
+- name: Set root user password
+  community.mysql.mysql_user:
+    config_file: /etc/mysql/debian.cnf
+    name: root
+    password: "{{ mysql_root_password | mandatory }}"
+    update_password: always
+
+- name: Set .my.cnf with root user credentials
+  template:
+    src: 'my.cnf.j2'
+    dest: '/root/.my.cnf'
+    owner: root
+    group: mysql
+    mode: '0440'
+
+- name: Enable event scheduler for MySQL
+  community.mysql.mysql_variables:
+    config_file: /etc/mysql/debian.cnf
+    mode: persist
+    variable: event_scheduler
+    value: 1
+
+- name: Create necessary databases for Events Organiser
+  community.mysql.mysql_db:
+    config_file: /etc/mysql/debian.cnf
+    name: "{{ item }}"
+  with_items:
+    - "microsoft"
+    - "events"
+    - "auth"
+
+- name: Create MySQL user "events"
+  community.mysql.mysql_user:
+    config_file: /etc/mysql/debian.cnf
+    name: events
+    host: "{{ item }}"
+    password: "{{ events_org_secret.mysql_user_events_password | mandatory }}"
+    priv: "events.*:ALL"
+  with_items:
+    - "localhost"
+    - "192.168.0.0/255.255.0.0"
+    - "10.0.0.0/255.0.0.0"
+    #- "11.11.11.11" # add your own IP here, if you want to access the DB outside of the cluster
+
+- name: Create MySQL user "msmicroservice" # if name = microsoft then mysql just doesn't want to allow any connections to that user.....
+  community.mysql.mysql_user:
+    config_file: /etc/mysql/debian.cnf
+    name: msmicroservice
+    host: "{{ item }}"
+    password: "{{ events_org_secret.mysql_user_microsoft_password | mandatory }}"
+    priv: "microsoft.*:ALL"
+  with_items:
+    - "localhost"
+    - "192.168.0.0/255.255.0.0"
+    - "10.0.0.0/255.0.0.0"
+    #- "11.11.11.11" # add your own IP here, if you want to access the DB outside of the cluster
+
+- name: Create MySQL user "auth"
+  community.mysql.mysql_user:
+    config_file: /etc/mysql/debian.cnf
+    name: auth
+    host: "{{ item }}"
+    password: "{{ events_org_secret.mysql_user_auth_password | mandatory }}"
+    priv: "auth.*:ALL"
+  with_items:
+    - "localhost"
+    - "192.168.0.0/255.255.0.0"
+    - "10.0.0.0/255.0.0.0"
+    #- "11.11.11.11" # add your own IP here, if you want to access the DB outside of the cluster

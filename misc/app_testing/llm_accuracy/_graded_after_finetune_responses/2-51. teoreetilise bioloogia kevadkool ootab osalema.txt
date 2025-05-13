@@ -1,0 +1,176 @@
+{
+	"expected_response": [
+		{
+			"event_name": "[VAJA REGISTREERIDA] Teoreetilise bioloogia kevadkool",
+			"start_date": "2025-04-25T00:00:00",
+			"end_date": "2025-04-27T23:59:00",
+			"country": "Eesti",
+			"city": "\u00c4nkk\u00fcla",
+			"address": "Mokko talu",
+			"room": "",
+			"tags": [
+				"Spring school",
+				"Biology"
+			]
+		},
+		{
+			"event_name": "Teoreetilise bioloogia kevadkooli registreerimise t\u00e4htaeg",
+			"start_date": null,
+			"end_date": "2025-04-17T23:59:00",
+			"country": "",
+			"city": "",
+			"address": "",
+			"room": "",
+			"tags": [
+				"Spring school",
+				"Biology",
+				"Deadline",
+				"Registration"
+			]
+		}
+	],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "Application period for the 51. Theoretical Biology Spring School",
+					"start_date": "2025-04-15T00:00:00",
+					"end_date": "2025-04-23T23:59:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Biology",
+						"Registration"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Application period for the 51. Theoretical Biology Spring School",
+						"start_date": "2025-04-15T00:00:00",
+						"end_date": "2025-04-23T23:59:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Deadline",
+							"Biology",
+							"Registration"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 1.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.75
+				}
+			],
+			"event_finding_grade": 0.5
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Application period for the 51. Theoretical Biology Spring School closes",
+					"start_date": "2025-03-22T23:59:00",
+					"end_date": "2025-03-23T23:59:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Registration",
+						"Spring school",
+						"Biology"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Application period for the 51. Theoretical Biology Spring School closes",
+						"start_date": "2025-03-22T23:59:00",
+						"end_date": "2025-03-23T23:59:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Deadline",
+							"Registration",
+							"Spring school",
+							"Biology"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 1.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 1.0
+				}
+			],
+			"event_finding_grade": 0.5
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Application period for the 51. Theoretical Biology Spring School closes",
+					"start_date": "2025-03-23T23:59:00",
+					"end_date": "2025-03-30T23:59:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Registration",
+						"Spring school",
+						"Biology"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Application period for the 51. Theoretical Biology Spring School closes",
+						"start_date": "2025-03-23T23:59:00",
+						"end_date": "2025-03-30T23:59:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Deadline",
+							"Registration",
+							"Spring school",
+							"Biology"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 1.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 1.0
+				}
+			],
+			"event_finding_grade": 0.5
+		}
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"expected_response": [],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "LTAT.06.982 Ootame tagasisidet OOPi kursusele",
+					"start_date": null,
+					"end_date": "2023-05-26T23:59:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Olympiad",
+						"Deadline",
+						"Application"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "LTAT.06.982 Ootame tagasisidet OOPi kursusele",
+					"start_date": "2023-05-26T10:00:00+02:00",
+					"end_date": "2023-05-26T11:15:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Olympiad",
+						"Deadline"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "LTAT.06.982 Ootame tagasisidet OOPi kursusele",
+					"start_date": null,
+					"end_date": "2023-05-26T23:59:00+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Olympiad",
+						"Deadline"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		}
+	]
+}

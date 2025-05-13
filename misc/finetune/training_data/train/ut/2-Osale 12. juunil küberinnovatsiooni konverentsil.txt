@@ -1,0 +1,96 @@
+mainly Estonian, a bit of English;
+since time isn't mentioned explicitly, the AI should just put it as an 1-day event (spanning the entire day)
+expected output is in Estonian
+!<-=->!
+Conference; Deadline; University of Tartu; Registration; Painting workshop; Urban mobility; Art exhibition; Music
+!<-=->!
+steven.jaagup.lepp@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAGwlzAD\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAGxBh7WAAA=",
+    "createdDateTime": "2024-06-03T07:29:03Z",
+    "lastModifiedDateTime": "2024-06-03T07:34:08Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAGwlzAD",
+    "categories": [],
+    "receivedDateTime": "2024-06-03T07:29:04Z",
+    "sentDateTime": "2024-06-03T07:28:51Z",
+    "hasAttachments": false,
+    "internetMessageId": "<GV1PR02MB1072021D32E91114B35D58B8880FF2@GV1PR02MB10720.eurprd02.prod.outlook.com>",
+    "subject": "[cs.student:1056] Osale 12. juunil küberinnovatsiooni konverentsil",
+    "bodyPreview": "Tere!\r\n\r\nOotame teid eestikeelsele konverentsile „Küberinnovatsioon 2024 Tartu\". Üritus toimub 12. juunil TÜ Delta õppehoones. Konverentsi õhtust programmi korraldab tehisintellekti- ja robootikakeskus AIRE. Tutvu kogu programmiga siin.\r\n\r\nTartu Ülikooli ",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQANVwvJL0sUVAjxY6y1y6Ig0=",
+    "conversationIndex": "AQHatYOF1XC8kvSxRUCPFjrLXLoiDQ==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAGxBh7WAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Tere!\r\n\r\nOotame teid eestikeelsele konverentsile „Küberinnovatsioon 2024 Tartu\"<https://kuberinnovatsioon.cs.ut.ee/>. Üritus toimub 12. juunil TÜ Delta õppehoones. Konverentsi õhtust programmi korraldab tehisintellekti- ja robootikakeskus AIRE. Tutvu kogu programmiga siin<https://kuberinnovatsioon.cs.ut.ee/programm/>.\r\n\r\nTartu Ülikooli üliõpilastele on pilet tasuta kuni 6. juuni südaööni. Kui soovid osaleda, siis anna oma soovist teada kirjutades meilile kuberinnovatsioon@ut.ee<mailto:kuberinnovatsioon@ut.ee>. Tudengipileteid on piiratud koguses.\r\n\r\nEsinejad räägivad seekord küberinnovatsioonist ühiskonnas ja tööstuses ning lavale jõuavad ka tulevikutegijad.\r\n\r\n  *   Tartu Ülikooli krüptograafia professor Margus Kask kõneleb oma teadusloengus nullteadmustõestustest, mis nüüdseks juba praktilisse maailma jõudnud.\r\n  *   Cybernetica AS-i infoturbeinstituudi direktor Mathieu Herbautproovib ennustada tehisaru arenguid. Tema mõtteid on huvitav paari aasta pärast tegelikkusega võrrelda.\r\n  *   RIA CERT-EE juht Vello Vaher teeb sissevaate CERT-i töö köögipoolele ja räägib lahti viimase aja küberruumi juhtumised.\r\n  *   Bolti esindajana vaatab Kersti Vaher tagasi Bolti turbemeeskonna arenguloole.\r\n  *   Kavas on eelmistel aastatel väga positiivse vastuvõtu saanud rubriik, kus meie tulevikutegijad, tudengid, tutvustavad oma teadustöid.\r\n  *   Esinejaid on varuks teisigi ja tutvu kogu programmiga konverentsi kodulehel<https://kuberinnovatsioon.cs.ut.ee/programm/>.\r\nAIRE klubis<https://aire-edih.eu/sundmus/aire-klubi-27/> kõnelevad küberturvalisuse olulisusest tööstusettevõttes Foxway, Fujitsu Estonia ja Riigi Infosüsteemi Ameti esindajad.\r\n\r\nOotame teid küberinnovatsiooni konverentsile!\r\n\r\nKonverentsi peakorraldaja on Tartu Ülikooli arvutiteaduse instituut. Ürituse suurtoetaja on tehisintellekti- ja robootikakeskus AIRE. Toetajad CHESS, CHAISE ja Tartu Häkkerikoda.\r\n\r\nParimate soovidega\r\n--\r\nDear all,\r\n\r\nOn 12 June we are organising the conference „Cyberinnovation 2024 Tartu“. The event is free for our students if you register, but the main presentations are in Estonian.\r\n\r\nBest regards\r\n---\r\nSigne Vaher\r\nturundus- ja kommunikatsioonijuht / Head of Marketing and Communication\r\narvutiteaduse instituut / Institute of Computer Science\r\nTartu Ülikool / University of Tartu\r\n+372 511 8232\r\nwww.cs.ut.ee<http://www.cs.ut.ee>\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "cs.student-request@lists.ut.ee",
+            "address": "cs.student-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Signe Vaher",
+            "address": "cs.student@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "[VAJA REGISTREERIDA] Konverents \"Küberinnovatsioon 2024 Tartu\"",
+        "start_date": "2024-06-12T00:00:00",
+        "end_date": "2024-06-12T23:59:00",
+        "country": "Eesti",
+        "city": "Tartu",
+        "address": "Narva mnt 18 (Delta keskus)",
+        "room": "",
+        "tags": [
+            "Conference", "University of Tartu"
+        ]
+    },
+    {
+        "event_name": "Konverentsi \"Küberinnovatsioon 2024 Tartu\" registreerimistähtaeg",
+        "start_date": null,
+        "end_date": "2024-06-06T23:59:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Deadline", "Registration"
+        ]
+    }
+]

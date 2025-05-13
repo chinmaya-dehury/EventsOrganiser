@@ -1,0 +1,1860 @@
+{
+	"expected_response": [
+		{
+			"event_name": "[REGISTRATION NEEDED] EXAI - Leading the Way with Trustworthy AI",
+			"start_date": "2024-05-28T15:45:00",
+			"end_date": "2024-05-28T20:30:00",
+			"country": "Estonia",
+			"city": "Tartu",
+			"address": "Narva street 18 (Delta building)",
+			"room": "room 1037 (main lecture hall)",
+			"tags": [
+				"AI",
+				"Presentation"
+			]
+		}
+	],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "Opening Event of the Estonian Centre of Excellence in AI",
+					"start_date": "2024-05-28T16:00:00+02:00",
+					"end_date": "2024-05-28T20:30:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"AI",
+						"Finance"
+					]
+				},
+				{
+					"event_name": "Welcoming coffee",
+					"start_date": "2024-05-28T15:45:00+02:00",
+					"end_date": "2024-05-28T16:00:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": []
+				},
+				{
+					"event_name": "Jaagup Tamson: EXAI: Leading the Way with Trustworthy AI",
+					"start_date": "2024-05-28T16:00:00+02:00",
+					"end_date": "2024-05-28T16:20:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"AI"
+					]
+				},
+				{
+					"event_name": "Sten L\u00f5hmus: Security and AI",
+					"start_date": "2024-05-28T16:20:00+02:00",
+					"end_date": "2024-05-28T16:40:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"AI",
+						"Finance"
+					]
+				},
+				{
+					"event_name": "Karl-August Kangur: The crucial dependencies between privacy enhancing technologies and AI in e-government",
+					"start_date": "2024-05-28T16:40:00+02:00",
+					"end_date": "2024-05-28T17:00:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"AI",
+						"Finance"
+					]
+				},
+				{
+					"event_name": "Igor Kozlov: AI for education",
+					"start_date": "2024-05-28T17:00:00+02:00",
+					"end_date": "2024-05-28T17:20:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"AI",
+						"Psychology"
+					]
+				},
+				{
+					"event_name": "Margit Osula: No, we are not done yet!",
+					"start_date": "2024-05-28T17:20:00+02:00",
+					"end_date": "2024-05-28T17:40:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"AI"
+					]
+				},
+				{
+					"event_name": "Joosep Paju: Explainable reasoning combining LLMs, databases, and automatic provers",
+					"start_date": "2024-05-28T17:40:00+02:00",
+					"end_date": "2024-05-28T18:00:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"AI",
+						"Digital marketing"
+					]
+				},
+				{
+					"event_name": "Coffee break",
+					"start_date": "2024-05-28T18:00:00+02:00",
+					"end_date": "2024-05-28T18:20:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": []
+				},
+				{
+					"event_name": "Oskar Alamets: Harnessing AI for Good: Building a Smarter, More Efficient Estonia",
+					"start_date": "2024-05-28T18:20:00+02:00",
+					"end_date": "2024-05-28T18:40:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"AI",
+						"Finance"
+					]
+				},
+				{
+					"event_name": "Kristiina Kaasik: The Use of AI in the Judicial System",
+					"start_date": "2024-05-28T18:40:00+02:00",
+					"end_date": "2024-05-28T19:00:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"AI",
+						"Finance"
+					]
+				},
+				{
+					"event_name": "Andres Koppel: How to make government AI as trustworthy as TikTok",
+					"start_date": "2024-05-28T19:00:00+02:00",
+					"end_date": "2024-05-28T19:20:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"AI",
+						"Finance"
+					]
+				},
+				{
+					"event_name": "Anto Kirsipuu: AI in Video Conferencing",
+					"start_date": "2024-05-28T19:20:00+02:00",
+					"end_date": "2024-05-28T19:40:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"AI",
+						"Digital marketing"
+					]
+				},
+				{
+					"event_name": "Piret Kull: Should we trust artificial intelligence? A philosophical perspective",
+					"start_date": "2024-05-28T19:40:00+02:00",
+					"end_date": "2024-05-28T20:00:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"AI",
+						"Psychology"
+					]
+				},
+				{
+					"event_name": "Panel Discussion \"AI Estonia\"",
+					"start_date": "2024-05-28T20:00:00+02:00",
+					"end_date": "2024-05-28T20:30:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"AI"
+					]
+				},
+				{
+					"event_name": "Networking with food and drinks",
+					"start_date": "2024-05-28T20:30:00+02:00",
+					"end_date": "2024-05-28T21:00:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": []
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Opening Event of the Estonian Centre of Excellence in AI",
+						"start_date": "2024-05-28T16:00:00+02:00",
+						"end_date": "2024-05-28T20:30:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"AI",
+							"Finance"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.8,
+					"start_date_grade": 0.3333333333333333,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.5
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Welcoming coffee",
+						"start_date": "2024-05-28T15:45:00+02:00",
+						"end_date": "2024-05-28T16:00:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": []
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Jaagup Tamson: EXAI: Leading the Way with Trustworthy AI",
+						"start_date": "2024-05-28T16:00:00+02:00",
+						"end_date": "2024-05-28T16:20:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"AI"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Sten L\u00f5hmus: Security and AI",
+						"start_date": "2024-05-28T16:20:00+02:00",
+						"end_date": "2024-05-28T16:40:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"AI",
+							"Finance"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Karl-August Kangur: The crucial dependencies between privacy enhancing technologies and AI in e-government",
+						"start_date": "2024-05-28T16:40:00+02:00",
+						"end_date": "2024-05-28T17:00:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"AI",
+							"Finance"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Igor Kozlov: AI for education",
+						"start_date": "2024-05-28T17:00:00+02:00",
+						"end_date": "2024-05-28T17:20:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"AI",
+							"Psychology"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Margit Osula: No, we are not done yet!",
+						"start_date": "2024-05-28T17:20:00+02:00",
+						"end_date": "2024-05-28T17:40:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"AI"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Joosep Paju: Explainable reasoning combining LLMs, databases, and automatic provers",
+						"start_date": "2024-05-28T17:40:00+02:00",
+						"end_date": "2024-05-28T18:00:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"AI",
+							"Digital marketing"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Coffee break",
+						"start_date": "2024-05-28T18:00:00+02:00",
+						"end_date": "2024-05-28T18:20:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": []
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Oskar Alamets: Harnessing AI for Good: Building a Smarter, More Efficient Estonia",
+						"start_date": "2024-05-28T18:20:00+02:00",
+						"end_date": "2024-05-28T18:40:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"AI",
+							"Finance"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Kristiina Kaasik: The Use of AI in the Judicial System",
+						"start_date": "2024-05-28T18:40:00+02:00",
+						"end_date": "2024-05-28T19:00:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"AI",
+							"Finance"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Andres Koppel: How to make government AI as trustworthy as TikTok",
+						"start_date": "2024-05-28T19:00:00+02:00",
+						"end_date": "2024-05-28T19:20:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"AI",
+							"Finance"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Anto Kirsipuu: AI in Video Conferencing",
+						"start_date": "2024-05-28T19:20:00+02:00",
+						"end_date": "2024-05-28T19:40:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"AI",
+							"Digital marketing"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Piret Kull: Should we trust artificial intelligence? A philosophical perspective",
+						"start_date": "2024-05-28T19:40:00+02:00",
+						"end_date": "2024-05-28T20:00:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"AI",
+							"Psychology"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Panel Discussion \"AI Estonia\"",
+						"start_date": "2024-05-28T20:00:00+02:00",
+						"end_date": "2024-05-28T20:30:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"AI"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Networking with food and drinks",
+						"start_date": "2024-05-28T20:30:00+02:00",
+						"end_date": "2024-05-28T21:00:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": []
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				}
+			],
+			"event_finding_grade": 0.0625
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Opening Event of the Estonian Centre of Excellence in AI",
+					"start_date": "2024-05-28T16:00:00+02:00",
+					"end_date": "2024-05-28T20:30:00+02:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "Delta Study Building Main Lecture Hall",
+					"room": "1037",
+					"tags": [
+						"AI",
+						"Finance",
+						"Sustainability"
+					]
+				},
+				{
+					"event_name": "Welcoming Coffee",
+					"start_date": "2024-05-28T15:45:00+02:00",
+					"end_date": "2024-05-28T16:00:00+02:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "Delta Study Building Main Lecture Hall",
+					"room": "",
+					"tags": []
+				},
+				{
+					"event_name": "Jaagup Tamson: EXAI: Leading the Way with Trustworthy AI",
+					"start_date": "2024-05-28T16:00:00+02:00",
+					"end_date": "2024-05-28T16:20:00+02:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "Delta Study Building Main Lecture Hall",
+					"room": "1037",
+					"tags": [
+						"AI",
+						"Finance",
+						"Sustainability"
+					]
+				},
+				{
+					"event_name": "Sten L\u00f5hmus: Security and AI",
+					"start_date": "2024-05-28T16:20:00+02:00",
+					"end_date": "2024-05-28T16:40:00+02:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "Delta Study Building Main Lecture Hall",
+					"room": "1037",
+					"tags": [
+						"AI",
+						"Finance",
+						"Sustainability"
+					]
+				},
+				{
+					"event_name": "Karl-August Kangur: The crucial dependencies between privacy enhancing technologies and AI in e-government",
+					"start_date": "2024-05-28T16:40:00+02:00",
+					"end_date": "2024-05-28T17:00:00+02:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "Delta Study Building Main Lecture Hall",
+					"room": "1037",
+					"tags": [
+						"AI",
+						"Finance",
+						"Sustainability"
+					]
+				},
+				{
+					"event_name": "Igor Kozlov: AI for education",
+					"start_date": "2024-05-28T17:00:00+02:00",
+					"end_date": "2024-05-28T17:20:00+02:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "Delta Study Building Main Lecture Hall",
+					"room": "1037",
+					"tags": [
+						"AI",
+						"Finance",
+						"Sustainability"
+					]
+				},
+				{
+					"event_name": "Margit Osula: No, we are not done yet!",
+					"start_date": "2024-05-28T17:20:00+02:00",
+					"end_date": "2024-05-28T17:40:00+02:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "Delta Study Building Main Lecture Hall",
+					"room": "1037",
+					"tags": [
+						"AI",
+						"Finance",
+						"Sustainability"
+					]
+				},
+				{
+					"event_name": "Joosep Paju: Explainable reasoning combining LLMs, databases, and automatic provers",
+					"start_date": "2024-05-28T17:40:00+02:00",
+					"end_date": "2024-05-28T18:00:00+02:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "Delta Study Building Main Lecture Hall",
+					"room": "1037",
+					"tags": [
+						"AI",
+						"Finance",
+						"Sustainability"
+					]
+				},
+				{
+					"event_name": "Coffee break",
+					"start_date": "2024-05-28T18:00:00+02:00",
+					"end_date": "2024-05-28T18:20:00+02:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "Delta Study Building Main Lecture Hall",
+					"room": "",
+					"tags": []
+				},
+				{
+					"event_name": "Oskar Alamets: Harnessing AI for Good: Building a Smarter, More Efficient Estonia",
+					"start_date": "2024-05-28T18:20:00+02:00",
+					"end_date": "2024-05-28T18:40:00+02:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "Delta Study Building Main Lecture Hall",
+					"room": "1037",
+					"tags": [
+						"AI",
+						"Finance",
+						"Sustainability"
+					]
+				},
+				{
+					"event_name": "Kristiina Kaasik: The Use of AI in the Judicial System",
+					"start_date": "2024-05-28T18:40:00+02:00",
+					"end_date": "2024-05-28T19:00:00+02:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "Delta Study Building Main Lecture Hall",
+					"room": "1037",
+					"tags": [
+						"AI",
+						"Finance",
+						"Sustainability"
+					]
+				},
+				{
+					"event_name": "Andres Koppel: How to make government AI as trustworthy as TikTok",
+					"start_date": "2024-05-28T19:00:00+02:00",
+					"end_date": "2024-05-28T19:20:00+02:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "Delta Study Building Main Lecture Hall",
+					"room": "1037",
+					"tags": [
+						"AI",
+						"Finance",
+						"Sustainability"
+					]
+				},
+				{
+					"event_name": "Anto Kirsipuu: AI in Video Conferencing",
+					"start_date": "2024-05-28T19:20:00+02:00",
+					"end_date": "2024-05-28T19:40:00+02:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "Delta Study Building Main Lecture Hall",
+					"room": "1037",
+					"tags": [
+						"AI",
+						"Finance",
+						"Sustainability"
+					]
+				},
+				{
+					"event_name": "Piret Kull: Should we trust artificial intelligence? A philosophical perspective",
+					"start_date": "2024-05-28T19:40:00+02:00",
+					"end_date": "2024-05-28T20:00:00+02:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "Delta Study Building Main Lecture Hall",
+					"room": "1037",
+					"tags": [
+						"AI",
+						"Finance",
+						"Sustainability"
+					]
+				},
+				{
+					"event_name": "Panel Discussion \u201cAI Estonia\u201d",
+					"start_date": "2024-05-28T20:00:00+02:00",
+					"end_date": "2024-05-28T20:30:00+02:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "Delta Study Building Main Lecture Hall",
+					"room": "1037",
+					"tags": [
+						"AI",
+						"Finance",
+						"Sustainability"
+					]
+				},
+				{
+					"event_name": "Networking with food and drinks",
+					"start_date": "2024-05-28T20:30:00+02:00",
+					"end_date": "2024-05-28T21:00:00+02:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "Delta Study Building Main Lecture Hall",
+					"room": "1037",
+					"tags": []
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Opening Event of the Estonian Centre of Excellence in AI",
+						"start_date": "2024-05-28T16:00:00+02:00",
+						"end_date": "2024-05-28T20:30:00+02:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "Delta Study Building Main Lecture Hall",
+						"room": "1037",
+						"tags": [
+							"AI",
+							"Finance",
+							"Sustainability"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.8,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 0.5,
+					"room_grade": 1.0,
+					"categories_grade": 0.3333333333333333
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Welcoming Coffee",
+						"start_date": "2024-05-28T15:45:00+02:00",
+						"end_date": "2024-05-28T16:00:00+02:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "Delta Study Building Main Lecture Hall",
+						"room": "",
+						"tags": []
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Jaagup Tamson: EXAI: Leading the Way with Trustworthy AI",
+						"start_date": "2024-05-28T16:00:00+02:00",
+						"end_date": "2024-05-28T16:20:00+02:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "Delta Study Building Main Lecture Hall",
+						"room": "1037",
+						"tags": [
+							"AI",
+							"Finance",
+							"Sustainability"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Sten L\u00f5hmus: Security and AI",
+						"start_date": "2024-05-28T16:20:00+02:00",
+						"end_date": "2024-05-28T16:40:00+02:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "Delta Study Building Main Lecture Hall",
+						"room": "1037",
+						"tags": [
+							"AI",
+							"Finance",
+							"Sustainability"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Karl-August Kangur: The crucial dependencies between privacy enhancing technologies and AI in e-government",
+						"start_date": "2024-05-28T16:40:00+02:00",
+						"end_date": "2024-05-28T17:00:00+02:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "Delta Study Building Main Lecture Hall",
+						"room": "1037",
+						"tags": [
+							"AI",
+							"Finance",
+							"Sustainability"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Igor Kozlov: AI for education",
+						"start_date": "2024-05-28T17:00:00+02:00",
+						"end_date": "2024-05-28T17:20:00+02:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "Delta Study Building Main Lecture Hall",
+						"room": "1037",
+						"tags": [
+							"AI",
+							"Finance",
+							"Sustainability"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Margit Osula: No, we are not done yet!",
+						"start_date": "2024-05-28T17:20:00+02:00",
+						"end_date": "2024-05-28T17:40:00+02:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "Delta Study Building Main Lecture Hall",
+						"room": "1037",
+						"tags": [
+							"AI",
+							"Finance",
+							"Sustainability"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Joosep Paju: Explainable reasoning combining LLMs, databases, and automatic provers",
+						"start_date": "2024-05-28T17:40:00+02:00",
+						"end_date": "2024-05-28T18:00:00+02:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "Delta Study Building Main Lecture Hall",
+						"room": "1037",
+						"tags": [
+							"AI",
+							"Finance",
+							"Sustainability"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Coffee break",
+						"start_date": "2024-05-28T18:00:00+02:00",
+						"end_date": "2024-05-28T18:20:00+02:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "Delta Study Building Main Lecture Hall",
+						"room": "",
+						"tags": []
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Oskar Alamets: Harnessing AI for Good: Building a Smarter, More Efficient Estonia",
+						"start_date": "2024-05-28T18:20:00+02:00",
+						"end_date": "2024-05-28T18:40:00+02:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "Delta Study Building Main Lecture Hall",
+						"room": "1037",
+						"tags": [
+							"AI",
+							"Finance",
+							"Sustainability"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Kristiina Kaasik: The Use of AI in the Judicial System",
+						"start_date": "2024-05-28T18:40:00+02:00",
+						"end_date": "2024-05-28T19:00:00+02:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "Delta Study Building Main Lecture Hall",
+						"room": "1037",
+						"tags": [
+							"AI",
+							"Finance",
+							"Sustainability"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Andres Koppel: How to make government AI as trustworthy as TikTok",
+						"start_date": "2024-05-28T19:00:00+02:00",
+						"end_date": "2024-05-28T19:20:00+02:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "Delta Study Building Main Lecture Hall",
+						"room": "1037",
+						"tags": [
+							"AI",
+							"Finance",
+							"Sustainability"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Anto Kirsipuu: AI in Video Conferencing",
+						"start_date": "2024-05-28T19:20:00+02:00",
+						"end_date": "2024-05-28T19:40:00+02:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "Delta Study Building Main Lecture Hall",
+						"room": "1037",
+						"tags": [
+							"AI",
+							"Finance",
+							"Sustainability"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Piret Kull: Should we trust artificial intelligence? A philosophical perspective",
+						"start_date": "2024-05-28T19:40:00+02:00",
+						"end_date": "2024-05-28T20:00:00+02:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "Delta Study Building Main Lecture Hall",
+						"room": "1037",
+						"tags": [
+							"AI",
+							"Finance",
+							"Sustainability"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Panel Discussion \u201cAI Estonia\u201d",
+						"start_date": "2024-05-28T20:00:00+02:00",
+						"end_date": "2024-05-28T20:30:00+02:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "Delta Study Building Main Lecture Hall",
+						"room": "1037",
+						"tags": [
+							"AI",
+							"Finance",
+							"Sustainability"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Networking with food and drinks",
+						"start_date": "2024-05-28T20:30:00+02:00",
+						"end_date": "2024-05-28T21:00:00+02:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "Delta Study Building Main Lecture Hall",
+						"room": "1037",
+						"tags": []
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				}
+			],
+			"event_finding_grade": 0.0625
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Opening Event of the Estonian Centre of Excellence in AI",
+					"start_date": "2024-05-28T16:00:00+02:00",
+					"end_date": "2024-05-28T20:30:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Demo day",
+						"Finance",
+						"Sustainability",
+						"AI",
+						"Presentation"
+					]
+				},
+				{
+					"event_name": "Welcoming coffee",
+					"start_date": "2024-05-28T15:45:00+02:00",
+					"end_date": "2024-05-28T16:00:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": []
+				},
+				{
+					"event_name": "Jaagup Tamson: EXAI: Leading the Way with Trustworthy AI",
+					"start_date": "2024-05-28T16:00:00+02:00",
+					"end_date": "2024-05-28T16:20:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Demo day",
+						"Finance",
+						"Sustainability",
+						"AI",
+						"Presentation"
+					]
+				},
+				{
+					"event_name": "Sten L\u00f5hmus: Security and AI",
+					"start_date": "2024-05-28T16:20:00+02:00",
+					"end_date": "2024-05-28T16:40:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Demo day",
+						"Finance",
+						"Sustainability",
+						"AI",
+						"Presentation"
+					]
+				},
+				{
+					"event_name": "Karl-August Kangur: The crucial dependencies between privacy enhancing technologies and AI in e-government",
+					"start_date": "2024-05-28T16:40:00+02:00",
+					"end_date": "2024-05-28T17:00:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Demo day",
+						"Finance",
+						"Sustainability",
+						"AI",
+						"Presentation"
+					]
+				},
+				{
+					"event_name": "Igor Kozlov: AI for education",
+					"start_date": "2024-05-28T17:00:00+02:00",
+					"end_date": "2024-05-28T17:20:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Demo day",
+						"Finance",
+						"Sustainability",
+						"AI",
+						"Presentation"
+					]
+				},
+				{
+					"event_name": "Margit Osula: No, we are not done yet!",
+					"start_date": "2024-05-28T17:20:00+02:00",
+					"end_date": "2024-05-28T17:40:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Demo day",
+						"Finance",
+						"Sustainability",
+						"AI",
+						"Presentation"
+					]
+				},
+				{
+					"event_name": "Joosep Paju: Explainable reasoning combining LLMs, databases, and automatic provers",
+					"start_date": "2024-05-28T17:40:00+02:00",
+					"end_date": "2024-05-28T18:00:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Demo day",
+						"Finance",
+						"Sustainability",
+						"AI",
+						"Presentation"
+					]
+				},
+				{
+					"event_name": "Coffee break",
+					"start_date": "2024-05-28T18:00:00+02:00",
+					"end_date": "2024-05-28T18:20:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": []
+				},
+				{
+					"event_name": "Oskar Alamets: Harnessing AI for Good: Building a Smarter, More Efficient Estonia",
+					"start_date": "2024-05-28T18:20:00+02:00",
+					"end_date": "2024-05-28T18:40:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Demo day",
+						"Finance",
+						"Sustainability",
+						"AI",
+						"Presentation"
+					]
+				},
+				{
+					"event_name": "Kristiina Kaasik: The Use of AI in the Judicial System",
+					"start_date": "2024-05-28T18:40:00+02:00",
+					"end_date": "2024-05-28T19:00:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Demo day",
+						"Finance",
+						"Sustainability",
+						"AI",
+						"Presentation"
+					]
+				},
+				{
+					"event_name": "Andres Koppel: How to make government AI as trustworthy as TikTok",
+					"start_date": "2024-05-28T19:00:00+02:00",
+					"end_date": "2024-05-28T19:20:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Demo day",
+						"Finance",
+						"Sustainability",
+						"AI",
+						"Presentation"
+					]
+				},
+				{
+					"event_name": "Anto Kirsipuu: AI in Video Conferencing",
+					"start_date": "2024-05-28T19:20:00+02:00",
+					"end_date": "2024-05-28T19:40:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Demo day",
+						"Finance",
+						"Sustainability",
+						"AI",
+						"Presentation"
+					]
+				},
+				{
+					"event_name": "Piret Kull: Should we trust artificial intelligence? A philosophical perspective",
+					"start_date": "2024-05-28T19:40:00+02:00",
+					"end_date": "2024-05-28T20:00:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Demo day",
+						"Finance",
+						"Sustainability",
+						"AI",
+						"Presentation"
+					]
+				},
+				{
+					"event_name": "Panel Discussion \u201cAI Estonia\u201d",
+					"start_date": "2024-05-28T20:00:00+02:00",
+					"end_date": "2024-05-28T20:30:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Demo day",
+						"Finance",
+						"Sustainability",
+						"AI",
+						"Presentation"
+					]
+				},
+				{
+					"event_name": "Networking with food and drinks",
+					"start_date": "2024-05-28T20:30:00+02:00",
+					"end_date": "2024-05-28T21:00:00+02:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": []
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Opening Event of the Estonian Centre of Excellence in AI",
+						"start_date": "2024-05-28T16:00:00+02:00",
+						"end_date": "2024-05-28T20:30:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Demo day",
+							"Finance",
+							"Sustainability",
+							"AI",
+							"Presentation"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.8,
+					"start_date_grade": 0.3333333333333333,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.4
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Welcoming coffee",
+						"start_date": "2024-05-28T15:45:00+02:00",
+						"end_date": "2024-05-28T16:00:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": []
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Jaagup Tamson: EXAI: Leading the Way with Trustworthy AI",
+						"start_date": "2024-05-28T16:00:00+02:00",
+						"end_date": "2024-05-28T16:20:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Demo day",
+							"Finance",
+							"Sustainability",
+							"AI",
+							"Presentation"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Sten L\u00f5hmus: Security and AI",
+						"start_date": "2024-05-28T16:20:00+02:00",
+						"end_date": "2024-05-28T16:40:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Demo day",
+							"Finance",
+							"Sustainability",
+							"AI",
+							"Presentation"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Karl-August Kangur: The crucial dependencies between privacy enhancing technologies and AI in e-government",
+						"start_date": "2024-05-28T16:40:00+02:00",
+						"end_date": "2024-05-28T17:00:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Demo day",
+							"Finance",
+							"Sustainability",
+							"AI",
+							"Presentation"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Igor Kozlov: AI for education",
+						"start_date": "2024-05-28T17:00:00+02:00",
+						"end_date": "2024-05-28T17:20:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Demo day",
+							"Finance",
+							"Sustainability",
+							"AI",
+							"Presentation"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Margit Osula: No, we are not done yet!",
+						"start_date": "2024-05-28T17:20:00+02:00",
+						"end_date": "2024-05-28T17:40:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Demo day",
+							"Finance",
+							"Sustainability",
+							"AI",
+							"Presentation"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Joosep Paju: Explainable reasoning combining LLMs, databases, and automatic provers",
+						"start_date": "2024-05-28T17:40:00+02:00",
+						"end_date": "2024-05-28T18:00:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Demo day",
+							"Finance",
+							"Sustainability",
+							"AI",
+							"Presentation"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Coffee break",
+						"start_date": "2024-05-28T18:00:00+02:00",
+						"end_date": "2024-05-28T18:20:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": []
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Oskar Alamets: Harnessing AI for Good: Building a Smarter, More Efficient Estonia",
+						"start_date": "2024-05-28T18:20:00+02:00",
+						"end_date": "2024-05-28T18:40:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Demo day",
+							"Finance",
+							"Sustainability",
+							"AI",
+							"Presentation"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Kristiina Kaasik: The Use of AI in the Judicial System",
+						"start_date": "2024-05-28T18:40:00+02:00",
+						"end_date": "2024-05-28T19:00:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Demo day",
+							"Finance",
+							"Sustainability",
+							"AI",
+							"Presentation"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Andres Koppel: How to make government AI as trustworthy as TikTok",
+						"start_date": "2024-05-28T19:00:00+02:00",
+						"end_date": "2024-05-28T19:20:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Demo day",
+							"Finance",
+							"Sustainability",
+							"AI",
+							"Presentation"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Anto Kirsipuu: AI in Video Conferencing",
+						"start_date": "2024-05-28T19:20:00+02:00",
+						"end_date": "2024-05-28T19:40:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Demo day",
+							"Finance",
+							"Sustainability",
+							"AI",
+							"Presentation"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Piret Kull: Should we trust artificial intelligence? A philosophical perspective",
+						"start_date": "2024-05-28T19:40:00+02:00",
+						"end_date": "2024-05-28T20:00:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Demo day",
+							"Finance",
+							"Sustainability",
+							"AI",
+							"Presentation"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Panel Discussion \u201cAI Estonia\u201d",
+						"start_date": "2024-05-28T20:00:00+02:00",
+						"end_date": "2024-05-28T20:30:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Demo day",
+							"Finance",
+							"Sustainability",
+							"AI",
+							"Presentation"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "Networking with food and drinks",
+						"start_date": "2024-05-28T20:30:00+02:00",
+						"end_date": "2024-05-28T21:00:00+02:00",
+						"country": "",
+						"city": "",
+						"address": "",
+						"room": "",
+						"tags": []
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				}
+			],
+			"event_finding_grade": 0.0625
+		}
+	]
+}

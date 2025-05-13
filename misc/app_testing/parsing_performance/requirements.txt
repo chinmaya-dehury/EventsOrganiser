@@ -1,0 +1,4 @@
+pika
+python-dotenv
+python-dateutil
+pandas

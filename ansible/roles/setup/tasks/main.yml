@@ -1,0 +1,22 @@
+- name: Install a few core modules
+  ansible.builtin.apt:
+    name: "{{ item }}"
+    state: latest
+  with_items:
+    - "python3"
+    - "python3-pip"
+    - "unzip"
+    - "nano"
+  notify:
+    - Restart server
+
+#- name: Enable ufw, open SSH port
+#  community.general.ufw:
+#    state: enabled
+#    rule: allow
+#    port: "{{ item }}"
+#    proto: tcp
+#  with_items:
+#    - "22"
+#    - "80"
+#    - "443"

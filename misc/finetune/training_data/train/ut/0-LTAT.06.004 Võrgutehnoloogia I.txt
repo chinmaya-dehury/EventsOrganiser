@@ -1,0 +1,62 @@
+in Estonian; no events
+!<-=->!
+
+!<-=->!
+karlis.karu@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAEvJmDm\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAEvhB-SAAA=",
+    "createdDateTime": "2023-11-18T12:45:15Z",
+    "lastModifiedDateTime": "2023-11-18T12:45:17Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAEvJmDm",
+    "categories": [],
+    "receivedDateTime": "2023-11-18T12:45:15Z",
+    "sentDateTime": "2023-11-18T12:45:11Z",
+    "hasAttachments": false,
+    "internetMessageId": "<CC.35.14016.7D1B8556@frida.it.da.ut.ee>",
+    "subject": "LTAT.06.004 Võrgutehnoloogia I",
+    "bodyPreview": "Tere\r\n\r\nLaborites osalemise info on väljas aine lehel https://courses.cs.ut.ee/2023/VT1/fall/Main/Osavott\r\n16% lõpp-punktid tulevad laborites osalemise eest. \r\nAliased saadetud varasemalt e-kirjaga personaalselt. Kel küsimusi, probleeme, saab kirjutada mu",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAMXY5kYj2t9DtLmxiGSId9o=",
+    "conversationIndex": "AQHaGh0UxdjmRiPa30O0ubGIZIh32g==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAEvhB%2FSAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Tere\r\n\r\nLaborites osalemise info on väljas aine lehel https://courses.cs.ut.ee/2023/VT1/fall/Main/Osavott\r\n16% lõpp-punktid tulevad laborites osalemise eest. \r\nAliased saadetud varasemalt e-kirjaga personaalselt. Kel küsimusi, probleeme, saab kirjutada mulle.\r\n\r\nKel tegemata mooduliteste, siis tehke ka need ilusasti ära. Moodulitestidest saate 12% lõpp-punktidest.\r\n1-10. detsember aktiveerin veelkorra testid, siis on võimalik teha teist korda mooduliteste, kui kellelgi esimene kord kehvasti läks midagi. Arvesse läheb viimane kord.\r\n\r\nEksamite toimumiste ajad on väljas ÕIS-s, palun registreeruge.\r\n\r\nEdu,\r\nLiisa Mets\r\nlaaneoks&#64;ut.ee\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Liisa Mets ",
+            "address": "liisa.mets@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Liisa Mets ",
+            "address": "liisa.mets@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Karlis Karu",
+                "address": "karlis.karu@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[]

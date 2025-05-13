@@ -1,0 +1,63 @@
+in Estonian;
+it has one event related to filling out a survey, but no date so the LLM shouldn't produce any event output 
+!<-=->!
+
+!<-=->!
+reader-email@gmail.com
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AABI9cWQ\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AABJGJHTAAA=",
+    "createdDateTime": "2022-12-05T07:50:11Z",
+    "lastModifiedDateTime": "2022-12-05T07:50:13Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AABI9cWQ",
+    "categories": [],
+    "receivedDateTime": "2022-12-05T07:50:11Z",
+    "sentDateTime": "2022-12-05T07:50:10Z",
+    "hasAttachments": false,
+    "internetMessageId": "<31.B7.24448.2B2AD836@frida.it.da.ut.ee>",
+    "subject": "Palun anna tagasisidet oma tuutorite tegevusele",
+    "bodyPreview": "Hea esmakursuslane!\r\n\r\nSinu õppekaval tegutses tänavu tuutor (või mitu), kelle ülesandeks oli aidata esmakursuslastel ülikoolellu sisse elada. Palume Sinu tagasisidet oma tuutorite tegevusele! Selleks tuleks täita lühike anonüümne küsimustik, mis võtab ae",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQACayAgkBW0tBgHG54KgiF70=",
+    "conversationIndex": "AQHZCH4zJrICCQFbS0GAcbngqCIXvQ==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AABJGJHTAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Hea esmakursuslane!\r\n\r\nSinu õppekaval tegutses tänavu tuutor (või mitu), kelle ülesandeks oli aidata esmakursuslastel ülikoolellu sisse elada. Palume Sinu tagasisidet oma tuutorite tegevusele! Selleks tuleks täita lühike anonüümne küsimustik, mis võtab aega vaid paar minutit. Sinu arvamust saavad nii tuutorid kui ka tuutorite koolitajad edaspidi arvesse võtta. \r\nhttps://survey.ut.ee/index.php/185214?lang=et  \r\n\r\nHeade soovidega\r\n\r\nJaagup Raudvassar\r\nNõustamiskeskuse õppekorraldusnõustaja\r\nÕppeosakond\r\nTartu Ülikool\r\n515 6674\r\nut.ee/noustamiskeskus\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Jaagup Raudvassar ",
+            "address": "jaagup.raudvassar@ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Jaagup Raudvassar ",
+            "address": "jaagup.raudvassar@ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Madis Kõivopuu",
+                "address": "madis.koivopuu@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[]

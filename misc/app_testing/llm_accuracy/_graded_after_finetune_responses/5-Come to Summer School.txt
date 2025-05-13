@@ -1,0 +1,355 @@
+{
+	"expected_response": [
+		{
+			"event_name": "[REGISTRATION NEEDED] Summer school - self-driving cars",
+			"start_date": "2025-07-28T00:00:00",
+			"end_date": "2025-08-08T23:59:00",
+			"country": "Estonia",
+			"city": "Tartu",
+			"address": "",
+			"room": "",
+			"tags": [
+				"Summer school",
+				"Autonomous driving"
+			]
+		},
+		{
+			"event_name": "Summer school registration deadline - self-driving cars",
+			"start_date": null,
+			"end_date": "2025-04-30T23:59:00",
+			"country": "",
+			"city": "",
+			"address": "",
+			"room": "",
+			"tags": [
+				"Summer school",
+				"Autonomous driving",
+				"Deadline",
+				"Registration"
+			]
+		},
+		{
+			"event_name": "[REGISTRATION NEEDED] Summer school - AIProHealth",
+			"start_date": "2025-08-11T00:00:00",
+			"end_date": "2025-08-15T23:59:00",
+			"country": "Estonia",
+			"city": "Tartu",
+			"address": "",
+			"room": "",
+			"tags": [
+				"Summer school",
+				"AI"
+			]
+		},
+		{
+			"event_name": "Summer school registration deadline - AIProHealth",
+			"start_date": null,
+			"end_date": "2025-04-30T23:59:00",
+			"country": "",
+			"city": "",
+			"address": "",
+			"room": "",
+			"tags": [
+				"Summer school",
+				"AI",
+				"Deadline",
+				"Registration"
+			]
+		},
+		{
+			"event_name": "[REGISTRATION NEEDED] Summer school - compoter and systems science (ESSCaSS)",
+			"start_date": "2025-08-18T00:00:00",
+			"end_date": "2025-08-21T23:59:00",
+			"country": "Estonia",
+			"city": "Tartu",
+			"address": "",
+			"room": "",
+			"tags": [
+				"Summer school",
+				"Systems science"
+			]
+		}
+	],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "[REGISTRATION REQUIRED] Estonian Summer School on Computer and Systems Science",
+					"start_date": "2025-08-18T00:00:00",
+					"end_date": "2025-08-21T00:00:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Systems science",
+						"Registration"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "[REGISTRATION REQUIRED] Estonian Summer School on Computer and Systems Science",
+						"start_date": "2025-08-18T00:00:00",
+						"end_date": "2025-08-21T00:00:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Systems science",
+							"Registration"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 1.0,
+					"start_date_grade": 1.0,
+					"end_date_grade": 1.0,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.5
+				}
+			],
+			"event_finding_grade": 0.2
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "[REGISTRATION REQUIRED] Estonian School of Information Technology Summer school",
+					"start_date": "2025-08-18T00:00:00",
+					"end_date": "2025-08-21T00:00:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Systems science",
+						"Summer school"
+					]
+				},
+				{
+					"event_name": "[REGISTRATION REQUIRED] AI summer school. Topic: AI Pro Health",
+					"start_date": "2025-08-11T00:00:00",
+					"end_date": "2025-08-14T00:00:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "",
+					"room": "",
+					"tags": [
+						"AI",
+						"Summer school"
+					]
+				},
+				{
+					"event_name": "[REGISTRATION REQUIRED] AI summer school. Topic: Advanced Software Development Methods",
+					"start_date": "2025-08-15T00:00:00",
+					"end_date": "2025-08-20T00:00:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Systems science",
+						"Summer school"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "[REGISTRATION REQUIRED] Estonian School of Information Technology Summer school",
+						"start_date": "2025-08-18T00:00:00",
+						"end_date": "2025-08-21T00:00:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Systems science",
+							"Summer school"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.8,
+					"start_date_grade": 1.0,
+					"end_date_grade": 1.0,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 1.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "[REGISTRATION REQUIRED] AI summer school. Topic: AI Pro Health",
+						"start_date": "2025-08-11T00:00:00",
+						"end_date": "2025-08-14T00:00:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "",
+						"room": "",
+						"tags": [
+							"AI",
+							"Summer school"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 1.0,
+					"start_date_grade": 1.0,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 1.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "[REGISTRATION REQUIRED] AI summer school. Topic: Advanced Software Development Methods",
+						"start_date": "2025-08-15T00:00:00",
+						"end_date": "2025-08-20T00:00:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Systems science",
+							"Summer school"
+						]
+					},
+					"should_be_graded": false,
+					"event_name_grade": 0.0,
+					"start_date_grade": 0.0,
+					"end_date_grade": 0.0,
+					"country_grade": 0.0,
+					"city_grade": 0.0,
+					"address_grade": 0.0,
+					"room_grade": 0.0,
+					"categories_grade": 0.0
+				}
+			],
+			"event_finding_grade": 0.4
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "[REGISTRATION REQUIRED] Estonian School of Information Technology summer school)",
+					"start_date": "2025-08-18T00:00:00+02:00",
+					"end_date": "2025-08-21T00:00:00+02:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Systems science",
+						"Summer school"
+					]
+				},
+				{
+					"event_name": "[REGISTRATION REQUIRED] AI and Self-driving Cars summer school",
+					"start_date": "2025-08-28T00:00:00+02:00",
+					"end_date": "2025-08-08T00:00:00+02:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Autonomous driving",
+						"Summer school"
+					]
+				},
+				{
+					"event_name": "[REGISTRATION REQUIRED] AIProHealth Summer School",
+					"start_date": "2025-08-11T00:00:00+02:00",
+					"end_date": "2025-08-15T00:00:00+02:00",
+					"country": "Estonia",
+					"city": "Tartu",
+					"address": "",
+					"room": "",
+					"tags": [
+						"AI",
+						"Summer school"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "[REGISTRATION REQUIRED] Estonian School of Information Technology summer school)",
+						"start_date": "2025-08-18T00:00:00+02:00",
+						"end_date": "2025-08-21T00:00:00+02:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Systems science",
+							"Summer school"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.9,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 1.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "[REGISTRATION REQUIRED] AI and Self-driving Cars summer school",
+						"start_date": "2025-08-28T00:00:00+02:00",
+						"end_date": "2025-08-08T00:00:00+02:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "",
+						"room": "",
+						"tags": [
+							"Autonomous driving",
+							"Summer school"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.7,
+					"start_date_grade": 0.3333333333333333,
+					"end_date_grade": 0.3333333333333333,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 1.0
+				},
+				{
+					"llm_generated_event": {
+						"event_name": "[REGISTRATION REQUIRED] AIProHealth Summer School",
+						"start_date": "2025-08-11T00:00:00+02:00",
+						"end_date": "2025-08-15T00:00:00+02:00",
+						"country": "Estonia",
+						"city": "Tartu",
+						"address": "",
+						"room": "",
+						"tags": [
+							"AI",
+							"Summer school"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 1.0,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.3333333333333333,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 1.0
+				}
+			],
+			"event_finding_grade": 0.6
+		}
+	]
+}

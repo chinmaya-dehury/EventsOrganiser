@@ -1,0 +1,152 @@
+{
+	"expected_response": [
+		{
+			"event_name": "Huviloeng - harjumused ja nende kujundamine",
+			"start_date": "2024-04-18T18:00:00",
+			"end_date": "2024-04-18T20:30:00",
+			"country": "Eesti",
+			"city": "Tartu",
+			"address": "Narva mnt 18 (Delta keskus)",
+			"room": "ruum 1006",
+			"tags": [
+				"Habits"
+			]
+		}
+	],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "Tartu \u00dclikooli tudengitele suunatud \u00dclrikooli harjumuste \u00dclrikool",
+					"start_date": "2024-04-18T18:00:00",
+					"end_date": "2024-04-18T19:55:00",
+					"country": "Eesti",
+					"city": "Tartu",
+					"address": "Narva mnt 18 (Delta keskus)",
+					"room": "ruum 1006",
+					"tags": [
+						"Philosophy",
+						"Habits",
+						"Fundraiser"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Tartu \u00dclikooli tudengitele suunatud \u00dclrikooli harjumuste \u00dclrikool",
+						"start_date": "2024-04-18T18:00:00",
+						"end_date": "2024-04-18T19:55:00",
+						"country": "Eesti",
+						"city": "Tartu",
+						"address": "Narva mnt 18 (Delta keskus)",
+						"room": "ruum 1006",
+						"tags": [
+							"Philosophy",
+							"Habits",
+							"Fundraiser"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.3,
+					"start_date_grade": 1.0,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.3333333333333333
+				}
+			],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Tartu \u00dclikooli tudengitele suunatud \u00dclrika \u00dcriis: \u00dclrika 3.\u00dclrika",
+					"start_date": "2024-04-15T18:00:00",
+					"end_date": "2024-04-16T17:00:00",
+					"country": "Eesti",
+					"city": "Tartu",
+					"address": "Riia tn 18 (Delta keskus)",
+					"room": "ruum 1006",
+					"tags": [
+						"Fundraiser"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Tartu \u00dclikooli tudengitele suunatud \u00dclrika \u00dcriis: \u00dclrika 3.\u00dclrika",
+						"start_date": "2024-04-15T18:00:00",
+						"end_date": "2024-04-16T17:00:00",
+						"country": "Eesti",
+						"city": "Tartu",
+						"address": "Riia tn 18 (Delta keskus)",
+						"room": "ruum 1006",
+						"tags": [
+							"Fundraiser"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.3,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.3333333333333333,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 0.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.0
+				}
+			],
+			"event_finding_grade": 1.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "Tartu \u00dclikooli tudengitele suunatud \u00dclrikoo \u00dclrikogust\u00f5mine",
+					"start_date": "2024-04-16T18:00:00",
+					"end_date": "2024-04-16T19:15:00",
+					"country": "Eesti",
+					"city": "Tartu",
+					"address": "Narva mnt 18 (Delta keskus)",
+					"room": "ruum 1006",
+					"tags": [
+						"Philosophy",
+						"Habits",
+						"Fundraiser"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "Tartu \u00dclikooli tudengitele suunatud \u00dclrikoo \u00dclrikogust\u00f5mine",
+						"start_date": "2024-04-16T18:00:00",
+						"end_date": "2024-04-16T19:15:00",
+						"country": "Eesti",
+						"city": "Tartu",
+						"address": "Narva mnt 18 (Delta keskus)",
+						"room": "ruum 1006",
+						"tags": [
+							"Philosophy",
+							"Habits",
+							"Fundraiser"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.3,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.3333333333333333,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 1.0,
+					"room_grade": 1.0,
+					"categories_grade": 0.3333333333333333
+				}
+			],
+			"event_finding_grade": 1.0
+		}
+	]
+}

@@ -1,0 +1,68 @@
+{
+	"expected_response": [],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "LTAT.00.007 Bachelor's Thesis Seminar",
+					"start_date": "2025-03-28T00:00:00+00:00",
+					"end_date": "2025-03-28T23:59:59+00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Biology",
+						"Psychology",
+						"Workshop"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "LTAT.00.007 Bachelor's Thesis Seminar",
+					"start_date": "2025-03-28T00:00:00",
+					"end_date": "2025-03-28T23:59:59",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Workshop",
+						"Biology",
+						"Chemistry",
+						"Thesis defense"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "LTAT.00.007 Bachelor's Thesis Seminar",
+					"start_date": "2025-03-28T14:00:00",
+					"end_date": "2025-03-28T16:00:00",
+					"country": "",
+					"city": "",
+					"address": "",
+					"room": "",
+					"tags": [
+						"Deadline",
+						"Workshop",
+						"Thesis defense"
+					]
+				}
+			],
+			"grades_for_each_event": [],
+			"event_finding_grade": 0.0
+		}
+	]
+}

@@ -1,0 +1,69 @@
+in Estonian; no events
+!<-=->!
+
+!<-=->!
+madis.koivopuu@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAB51GPu\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAB6AzRvAAA=",
+    "createdDateTime": "2023-02-17T16:14:18Z",
+    "lastModifiedDateTime": "2023-02-17T16:14:20Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAB51GPu",
+    "categories": [],
+    "receivedDateTime": "2023-02-17T16:14:18Z",
+    "sentDateTime": "2023-02-17T16:14:16Z",
+    "hasAttachments": false,
+    "internetMessageId": "<167665045615.3244016.476278717692997948@zulip>",
+    "subject": "#üldkanal > 3. kodutöö automaatkontroll",
+    "bodyPreview": "Valerij Vakhovsjkyj: Tere! Seekord on Moodle'is osade koduülesannete jaoks olemas automaatkontrollid, mis annavad lahenduse kohta esmase tagasiside. Kuna mõned neist on koostatud vaid sel aastal, siis on võimalik, et automaatkontrollides on mõned vead sees. See",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAE_IbW8ueuZAk6_js8o4ag0=",
+    "conversationIndex": "AQHZQuriT4htby565kCTr6OzyjhqDQ==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAB6AzRvAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "other",
+    "body": {
+        "contentType": "text",
+        "content": "Valerij Vakhovsjkyj: Tere! Seekord on Moodle'is osade koduülesannete jaoks olemas automaatkontrollid, mis annavad lahenduse kohta esmase tagasiside. Kuna mõned neist on koostatud vaid sel aastal, siis on võimalik, et automaatkontrollides on mõned vead sees. Seega kui näete, et automaatkontrolli väljund pole mõistetav/loetav, toimib valesti või üldse ei toimi (üldjuhul peaks nende väljund teid aitama), siis andke palun sellest teada! [:smile:]\r\nRohkem infot automaatkontrollide kasutamise kohta on näiteks siin: https://courses.cs.ut.ee/2023/OOP/spring/Main/Practice3\r\n@all\r\n\r\n—\r\nYou are receiving this because you were mentioned in Objektorienteeritud Programmeerimine.\r\nReply in Zulip<https://javaprog.zulip.cs.ut.ee/#narrow/stream/279-.C3.BCldkanal/topic/3.2E.20kodut.C3.B6.C3.B6.20automaatkontroll>, or manage email preferences<https://oop.zulip.cs.ut.ee/#settings/notifications>.\r\n\r\nDo not reply to this email. This Zulip server is not configured to accept incoming emails (help<https://zulip.readthedocs.io/en/latest/production/email-gateway.html>).\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Zulip notifications",
+            "address": "noreply@zulip.cs.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Zulip notifications",
+            "address": "noreply@zulip.cs.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Madis Kõivopuu",
+                "address": "madis.koivopuu@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "noreply@zulip.cs.ut.ee",
+                "address": "noreply@zulip.cs.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[]

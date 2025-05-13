@@ -1,0 +1,106 @@
+in Estonian; 3 day long event, each day has different location
+!<-=->!
+Presentation; Nutrition; Excursion; Workshop; Party; Birthday; Cultural festival; Workshop; Career fair
+!<-=->!
+tuuli.tudeng@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAA4nZty\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAA4uQITAAA=",
+    "createdDateTime": "2022-11-10T14:09:11Z",
+    "lastModifiedDateTime": "2022-11-10T14:14:27Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAA4nZty",
+    "categories": [],
+    "receivedDateTime": "2022-11-10T14:09:11Z",
+    "sentDateTime": "2022-11-10T14:08:52Z",
+    "hasAttachments": false,
+    "internetMessageId": "<AM0PR02MB37786FC0D951529ED58A9F5EF9019@AM0PR02MB3778.eurprd02.prod.outlook.com>",
+    "subject": "[ltt tudengid:285] Korduskutse - Tudengite toiduakadeemia 17.-19. november",
+    "bodyPreview": "Tere!\r\n\r\nKorraldame Tartu Biotehnoloogia Pargis koostöös EIT Foodi ja Bioteaduste Üliõpilaste Seltsiga kolmepäevase toiduteemalise sügiskooli „Tudengite toiduakadeemia“. Ürituse programmis käsitletakse toidu ringmajanduse, tulevikutoidu ning innovaatilist",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAPyJERbNgY5OtjxIbkZKlZk=",
+    "conversationIndex": "AQHY9QKY/IkRFs2Bjk62PEhuRkqVma44MaaA",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAA4uQITAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Tere!\r\n\r\nKorraldame Tartu Biotehnoloogia Pargis koostöös EIT Foodi ja Bioteaduste Üliõpilaste Seltsiga kolmepäevase toiduteemalise sügiskooli „Tudengite toiduakadeemia“. Ürituse programmis käsitletakse toidu ringmajanduse, tulevikutoidu ning innovaatiliste toidulahenduste teemasid, kus oma ala asjatundjad jagavad tudengitega teadmisi ning kogemusi ettevõtete, teadlaste ja kogukonna kaasajate vaates.\r\n\r\nÜritusele on osalema oodatud kõik tudengid, kes on huvitatud toidu-, innovatsiooni- ning ettevõtlusvaldkondadest. Üritus on tasuta, kuid vajalik on registreerimine!\r\n\r\nOleksime väga tänulikud, kui jagaksite ürituse kutset edasi kontaktidele, keda üritus võiks puudutada. Jagada võib kutset meilina (allpool) või Facebooki üritusena (link: https://fb.me/e/5z9rjxSRY)\r\n\r\nSuur tänu juba ette!\r\n\r\nHeade soovidega\r\n--\r\nJessike Tamson\r\nProject Manager\r\nTartu Biotechnology Park\r\ntamson@biopark.ee<mailto:marie@biopark.ee>\r\n\r\n[Logo]\r\nKutsume osalema toiduteemalises sügiskoolis “Tudengite toiduakadeemia”\r\nTartu Biotehnoloogia Pargi, EIT Foodi ja Bioteaduste Üliõpilaste Seltsi koostöös leiab aset kolmepäevane toiduteemaline sügiskool „Tudengite toiduakadeemia“. Ürituse programmis käsitletakse toidu ringmajanduse, tulevikutoidu ning innovaatiliste toidulahenduste teemasid, kus oma ala asjatundjad jagavad tudengitega teadmisi ning kogemusi ettevõtete, teadlaste ja kogukonna kaasajate vaates.\r\n📅Millal? 17.-19. november 2022\r\n📍Kus? SPARK Demo, Narva maantee 3, Tartu (17.-18.11); Tõrva (19.11)\r\n👉Registreeru üritusele siin: https://forms.gle/NSuf7bd9Ge8ppwxf8<https://forms.gle/NSuf7bd9Ge8ppwxf8?fbclid=IwAR2eGIQULYsjwvKnhQq0ZsZJ5BCe2ngl0UCjjR8pEGpidnIv8cPqNtWahn0>\r\nÜritus on eesti keeles!\r\n\r\nKellele? Osalema on oodatud kõik tudengid, kes on huvitatud toidu-, innovatsiooni- ning ettevõtlusvaldkondadest. Üritus on tasuta, kuid vajalik on registreerimine!\r\n🗓️Programm:\r\nNeljapäev, 17. november, 2022\r\nAsukoht: SparkDemo (Narva mnt 3)\r\nAeg: 17:00-19:30\r\nPäeva teema: Toit ja taaskasutus (moderaator Janek Nõmm)\r\n17:00-17:30 Kristjan Allik (Eesti Maaülikool) – “Ringmajanduse olemus – mis on toidul ringmajandusega pistmist?\r\n17:30-18:00 Dokumentaalfilmi “Homme saabub paradiis” vaatamine\r\n18:00-18:10 Kohvipaus\r\n18:10-18:50 Kohtumine filmi loojatega – Laura Lemsalu ja Legendra Männikuga. Arutelu toidu taaskasutuse teemal: Kuidas päästa planeet? Kuidas meist igaüks saaks toiduraiskamist vähendada?\r\n18:50-19:30 Lauren Tamsalu (Foodsharing Tartu) – “Toiduraiskamise 101 ja Tartu Toidujagamise kogemus”\r\n19:30-19:45 Päeva kokkuvõte\r\nReede, 18. november, 2022\r\nAsukoht: Bio CC (Riia 182) SparkDemo (Narva mnt 3)\r\nAeg: 16:00-18:30\r\nPäeva teema: Tervislik toit ja tulevikutoidu trendid\r\n16:00 Bussitransfeer ettevõttesse Bio CC (Riia mnt 181A)\r\n16:15-17:00 Ettevõtte Bio CC külastus\r\n17:00-17:15 Bussitransfeer SparkDemo’sse\r\n17:15-17:30 Kohvipaus\r\n17:30-18:00 Eliisabet Jõgi (RootBioMe) – “Inuliini rikas maapirn on kasulik meie kõhubakteritele”.\r\n18:00-18:30 Kersti Zakatov (Winsect OÜ) – “Kaasaegne putukakasvandus – kas “häiriv” tarbimistava muutus või normaalne jätkusuutlik tootmissüsteem, mis toodab teaduse ja tehnoloogia abil biloogilistest ressurssidest toiduaineid ja sööda komponente, nii et keegi ei jääks toidust ilma?”\r\nLaupäev, 19. november, 2022\r\nAsukoht: Tõrva (Chaga Health OÜ, Tõrva Noortekeskus)\r\nAeg: 9:00-19:00\r\nPäeva teema: Toiduinnovatsioon Lõuna-Eestis\r\n\r\n9:00-10:00 Väljasõit Tartust, suundume Tõrvasse\r\n10:00-11:00 Chaga Health OÜ külastamine Tõrvas (tutvumine tehases toimuva tootmisega, toodete degusteerimine)\r\n11:00-11:15 Kohvipaus\r\n11:15-13:45 Väljasõit Chaga Health metsadesse (tüüblite istutamine)\r\n14:00-15:00 Lõuna (Tõrva Läti Saatkond)\r\n15:15-18:00 Meeskondliku kogukonnaprojekti töötuba toiduakadeemia teemadel (Tõrva Noortekeskus; moderaator Margit Allik)\r\n18:00-19:00 Bussitransfeer Tartusse\r\nREGISTREERI SIIN<https://forms.gle/NSuf7bd9Ge8ppwxf8>\r\nTudengite toiduakadeemia info kodulehel<https://biopark.ee/sundmused/tudengite-toiduakadeemia-17-19-november/>\r\n\r\nTudengite toiduakadeemia Facebooki üritus<https://www.facebook.com/events/2060087087525698/2067805993420474/?ref=newsfeed>\r\n[https://dim.mcusercontent.com/cs/ca5c62e082ef78a31a22c4d93/images/83e29213-e158-446e-384f-ad5c30d8c3d2.png?w=542&dpr=2]\r\n[Facebook icon]<https://www.facebook.com/events/2060087087525698/2067805993420474/?ref=newsfeed>\r\n[Website icon]<https://biopark.ee/sundmused/tudengite-toiduakadeemia-17-19-november/>\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "ltt.tudengid-request@lists.ut.ee",
+            "address": "ltt.tudengid-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Mauri Tamme",
+            "address": "ltt.tudengid@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "Sügiskool \"Tudengite toiduakadeemia\" (1. päev)",
+        "start_date": "2022-11-17T17:00:00",
+        "end_date": "2022-11-17T19:45:00",
+        "country": "Eesti",
+        "city": "Tartu",
+        "address": "Narva mnt 3 (SparkDemo)",
+        "room": "",
+        "tags": [
+            "Presentation", "Nutrition"
+        ]
+    },
+    {
+        "event_name": "Sügiskool \"Tudengite toiduakadeemia\" (2. päev)",
+        "start_date": "2022-11-18T16:00:00",
+        "end_date": "2022-11-18T18:30:00",
+        "country": "Eesti",
+        "city": "Tartu",
+        "address": "Narva mnt 3 (SparkDemo)",
+        "room": "",
+        "tags": [
+            "Presentation", "Nutrition"
+        ]
+    },
+    {
+        "event_name": "Sügiskool \"Tudengite toiduakadeemia\" (3. päev)",
+        "start_date": "2022-11-18T16:00:00",
+        "end_date": "2022-11-18T18:30:00",
+        "country": "Eesti",
+        "city": "Tõrva",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Workshop", "Excursion"
+        ]
+    }
+]

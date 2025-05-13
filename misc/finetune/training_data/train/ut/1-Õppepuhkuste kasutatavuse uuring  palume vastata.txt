@@ -1,0 +1,84 @@
+in Estonian, English and Russian;
+good example for the LLM so that it does not produce duplicate events because of different languages
+response is in Estonian
+!<-=->!
+Survey; University of Tartu; Sports; Gaming; Jogging; Rowing; Deadlift; Book club; Cybersecurity
+!<-=->!
+karlis.karu@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAEbtOSr\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAEcDwnXAAA=",
+    "createdDateTime": "2023-10-20T07:39:18Z",
+    "lastModifiedDateTime": "2023-10-20T07:44:36Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAEbtOSr",
+    "categories": [],
+    "receivedDateTime": "2023-10-20T07:39:18Z",
+    "sentDateTime": "2023-10-20T07:34:58Z",
+    "hasAttachments": false,
+    "internetMessageId": "<VI1PR02MB379116A5F91B278348D27E61F9DBA@VI1PR02MB3791.eurprd02.prod.outlook.com>",
+    "subject": "[ltt tudengid:354] Õppepuhkuste kasutatavuse uuring - palume vastata",
+    "bodyPreview": "In English below / На русском ниже\r\n\r\n\r\nHea õppija!\r\n\r\nPalume Teil osaleda uuringus, mille eesmärk on mõista õppepuhkuste taotlemise, võimaldamise ja rahastamise praktikaid ja kogemusi nii tööandjate kui ka õppijate perspektiivist. Uuringu on tellinud H",
+    "importance": "high",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAGpj2EpyctVMhfEq3mWCtC8=",
+    "conversationIndex": "AQHaAyftamPYSnJy1UyF8SreZYK0Lw==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAEcDwnXAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "other",
+    "body": {
+        "contentType": "text",
+        "content": "\r\nIn English below / На русском ниже\r\n\r\n\r\nHea õppija!\r\n\r\nPalume Teil osaleda uuringus, mille eesmärk on mõista õppepuhkuste taotlemise, võimaldamise ja rahastamise praktikaid ja kogemusi nii tööandjate kui ka õppijate perspektiivist. Uuringu on tellinud Haridus- ja Teadusministeerium ning seda viib läbi Tartu Ülikooli sotsiaalteaduslike rakendusuuringute keskus RAKE.\r\n\r\nOotame uuringus osalema õppijaid, kes õpingute ajal ka töötavad. Teie kui õppija sisend on meile oluline – palume Teil küsimustele vastata ka juhul, kui Teil seni õppepuhkustega kokkupuudet pole olnud.\r\n\r\n\r\nKüsitluse tulemused on anonüümsed ning esitatakse uuringuaruandes üldistatud kujul. Andmetele ligipääs on ainult Tartu Ülikooli teadlastel. Küsimustiku täitmine võtab aega umbes 20 minutit. Ootame vastuseid kuni 13.11.2023.\r\n\r\nKüsitlusele vastamiseks vajutage siia: https://survey.ut.ee/oppepuhkused\r\n\r\nKui Teil tekib uuringu kohta küsimusi, pöörduge palun Andrus Metsa poole (andrus.mets@ut.ee<mailto:andrus.mets@ut.ee>).  \r\n\r\nTeie aja ja vastuste eest ette tänades\r\n\r\nAndrus Mets\r\nharidus- ja teaduspoliitika teemavaldkonna juht\r\nSotsiaalteaduslike rakendusuuringute keskus RAKE\r\nTartu Ülikool\r\n-------------\r\n\r\n\r\n\r\nDear Learner/Student,\r\n\r\nWe would like to ask you to participate in a study which purpose is to understand the practices and experiences of applying for, enabling, and financing study holidays from the perspective of employers and learners. The Study on the Usability of Study Leave was commissioned by the Ministry of Education and Research and is being conducted by the Centre for Applied Social Sciences (CASS) at the University of Tartu.\r\n\r\nWe welcome students who also work during their studies to participate in the study. Your input as a learner is important to us – we ask you to answer the questions even if you have not had any experience with study leave yet.\r\n\r\nThe results of the survey are anonymous and will be presented in a generalized form in the survey report. Only University of Tartu researchers have access to the data. Responding to the survey is voluntary. Filling out the questionnaire takes about 20 minutes. We will be accepting answers until November 13, 2023.\r\n\r\nTo participate, please click here: https://survey.ut.ee/study_leave\r\n\r\nShould you have any questions about the study, please contact Andrus Mets (andrus.mets@ut.ee<mailto:andrus.mets@ut.ee>).\r\n\r\nThank you in advance for your time and answers!\r\n\r\nAndrus Mets\r\nthematic leader for education and research policy\r\nCentre for Applied Social Sciences (CASS)\r\nUniversity of Tartu\r\n-------------\r\n\r\n\r\n\r\nУважаемый учащийся / Уважаемая учащаяся!\r\n\r\nМы просим вас принять участие в опросе, направленном на понимание  практики и опыта подачи заявок, предоставления и финансирования учебного отпуска с точки зрения как работодателей, так и учащихся. Исследование проведено по заказу Министерства образования и науки Центром прикладных исследований в области социальных наук Тартуского университета.\r\n\r\nМы приветствуем участие в исследовании студентов, которые также работают во время учебы. Ваш вклад как учащегося важен для нас - мы просим вас ответить на ваши вопросы, даже если у вас до сих пор не было никаких контактов с учебным отпуском\r\n\r\n\r\nРезультаты опроса являются анонимными и будут представлены в обобщенной форме в отчете об исследовании. Доступ к данным имеют только исследователи из Тартуского университета. Заполнение анкеты займет около 20 минут. Ждем ответов до 13.11.2023 год.\r\n\r\nДля участия нажмите здесь: https://survey.ut.ee/uchebnyj_otpusk\r\n\r\n\r\n\r\nЕсли у вас есть какие-либо вопросы об опросе, пожалуйста, свяжитесь с  Хелен Урманн (andrus.mets@ut.ee<mailto:andrus.mets@ut.ee>).\r\n\r\nЗаранее благодарю за уделенное время и ответы\r\n\r\nХелен Урманн\r\nРуководительница направления политики в области образования и науки\r\n\r\nЦентра прикладных исследований в области социальных наук RAKE\r\nТартуский университет\r\n\r\n\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "ltt.tudengid-request@lists.ut.ee",
+            "address": "ltt.tudengid-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "lt dekanaat",
+            "address": "ltt.tudengid@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "ltt.tudengid@lists.ut.ee",
+                "address": "ltt.tudengid@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "Õppepuhkuste kasutatavuse küsitluse tähtaeg",
+        "start_date": null,
+        "end_date": "2023-11-13T23:59:00",
+        "country": "",
+        "city": "",
+        "address": "",
+        "room": "",
+        "tags": [
+            "Survey", "University of Tartu"
+        ]
+    }
+]

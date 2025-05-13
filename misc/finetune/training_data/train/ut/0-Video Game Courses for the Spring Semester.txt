@@ -1,0 +1,81 @@
+in English
+!<-=->!
+
+!<-=->!
+elmo.sepp@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AABpAdHH\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AABpK46gAAA=",
+    "createdDateTime": "2023-01-23T07:53:43Z",
+    "lastModifiedDateTime": "2023-01-23T07:59:02Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AABpAdHH",
+    "categories": [],
+    "receivedDateTime": "2023-01-23T07:53:44Z",
+    "sentDateTime": "2023-01-21T01:57:09Z",
+    "hasAttachments": false,
+    "internetMessageId": "<AS1PR02MB80919EAA1AAD6758E7225A3481CA9@AS1PR02MB8091.eurprd02.prod.outlook.com>",
+    "subject": "[cs.student:895] Video Game Courses for the Spring Semester",
+    "bodyPreview": "Hey students!\r\n\r\nIt looks like the spring semester is just around the corner. Hope your exams have been going well and you are ready to make a cool plan for the spring!\r\nFrom the CGVR Study Lab, we offer courses on video games, computer graphics, and virt",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQAGJYtwaHc4JDpkufkHPu0zo=",
+    "conversationIndex": "AQHZLS/JYli3BodzgkOmS5+Qc+7TOg==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AABpK46gAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Hey students!\r\n\r\nIt looks like the spring semester is just around the corner. Hope your exams have been going well and you are ready to make a cool plan for the spring!\r\nFrom the CGVR Study Lab, we offer courses on video games, computer graphics, and virtual reality. Here is a visual overview:\r\n[cid:ab1dd5b9-269c-4520-83f4-8ba93fa25e8d]\r\nMore info: https://cgvr.cs.ut.ee/courses/\r\n\r\nAs you can see, in the spring semesters, we tend to offer advancement courses. These build upon the skills and knowledge learned in our basics courses, usually in the fall.\r\nThe courses we offer in the upcoming spring semester are:\r\n\r\nVirtual Reality (LTAT.06.019)\r\nWith the advent of standalone headsets, virtual reality (VR) is becoming more commonplace. For example, VR software from an Estonian company Futuclass<https://futuclass.com/> is being extensively used in Estonian schools for teaching chemistry. Another Estonian company, MaruVR<https://maruvr.ee/>, is developing high-quality VR games. One such game even features<https://maruvr.ee/games/kalevipoegs-journey-to-hell/> the Estonian epic hero Kalevipoeg. In the Virtual Reality course, you can learn how to make such games and experiences yourself. You can also brush up on your Unreal Engine skills. Many video game companies in Estonia require<https://doi.org/10.5539/jel.v11n5p183> their employees to be proficient in both Unity and Unreal Engine. This course is an excellent opportunity to build cool things and prepare yourself for the job market of tomorrow!\r\nhttps://ois2.ut.ee/#/courses/LTAT.06.019/version/8d89c0fd-835d-2f99-a450-fa32af69156e/details\r\n\r\nProgramming Patterns in Computer Games (MTAT.03.315)\r\nWhen developing larger projects than just your regular programming course homework, it is important to design the codebase in a readable and maintainable way. In developing computer games or other real-time interactive applications, developers have, through hard experience, found good code design patterns that help to solve common challenges. For example, if you have two spaceships fighting each other, how do you make it so that when one takes damage, this is shown in the GUI, a sound effect is played, and maybe the controller needs to vibrate? In this course, you can learn best-practice solutions for these and other common programming challenges. You will learn how to really program.\r\nhttps://courses.cs.ut.ee/2023/programming-games/spring\r\n\r\nEvolution of Video Games (LTAT.02.019)\r\nThe world of video games is much larger than just writing code for them. When you are trying to understand player behavior, building your startup video game company business model, doing market research on your pet idea, wondering if games cause addiction, trying to plan for future gaming technologies, or are just very curious about everything related to video games, then this course has you covered. It is a fully online course, where help is always just a Discord message away. It also lasts ten weeks, so you will be done by mid-April.\r\nhttps://courses.cs.ut.ee/2023/evolution-of-video-games/spring\r\n\r\nComputer Graphics Project (MTAT.03.328)\r\nIn this project course, you can build whatever you want, as long as it is somehow related to video games, computer graphics, or virtual reality. You set your own goals and are assessed on how well you achieve them. This helps you later make reliable promises to your future employer, clients, or even yourself. If you face difficulties in your project, there will always be an experienced game development educator and fellow students there to help you out. If you love designing and building stuff, this course is for you.\r\nhttps://courses.cs.ut.ee/2023/cg-pro/spring\r\n\r\nComputer Graphics Seminar (MTAT.03.305)\r\nIn this seminar course, you can learn whatever you want, as long as it is somehow related to video games, computer graphics, or virtual reality. At the beginning of the course, you propose a topic that is somehow interesting or useful to know for yourself. Then you study it. At some point during the semester, you tell others about it during a seminar. That's it. This seminar is for you if you either prefer or want to work on doing independent learning and presenting to colleagues. The topics are usually quite interesting, and students can find themselves surprisingly inspired by other students.\r\nhttps://courses.cs.ut.ee/2023/cg-sem/spring\r\n\r\nNow, some of these courses are already full, but we always have a registration queue available. If you are interested and a course is full, register yourself in the queue and be patient. There is a high chance that several spots will open up when the semester starts.\r\n\r\nIf you have any questions about these courses, feel free to write to me or to the educators of the particular course.\r\n\r\nWish you a calm conclusion to the current semester and an inspiring new spring!\r\n\r\nRegards,\r\nAleksi Virolainen\r\nhttps://cgvr.cs.ut.ee/\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "cs.student-request@lists.ut.ee",
+            "address": "cs.student-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Aleksi Virolainen",
+            "address": "cs.student@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        },
+        {
+            "emailAddress": {
+                "name": "aine.ati.arvutigraafika@lists.ut.ee",
+                "address": "aine.ati.arvutigraafika@lists.ut.ee"
+            }
+        },
+        {
+            "emailAddress": {
+                "name": "labor.ati.cgvr@lists.ut.ee",
+                "address": "labor.ati.cgvr@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[]

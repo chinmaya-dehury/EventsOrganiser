@@ -1,0 +1,83 @@
+in Estonian;
+LLM can infer the location from email by knowing that the 1037 room is in Delta
+!<-=->!
+Resit test; Algorithms and Data Structures; Movie; Presentation; Festival; Music festival; Presentation
+!<-=->!
+karlis.karu@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAEbtPol\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAEcDwnZAAA=",
+    "createdDateTime": "2023-10-20T14:03:05Z",
+    "lastModifiedDateTime": "2023-10-20T14:08:21Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAEbtPol",
+    "categories": [],
+    "receivedDateTime": "2023-10-20T14:03:05Z",
+    "sentDateTime": "2023-10-20T14:03:02Z",
+    "hasAttachments": false,
+    "internetMessageId": "<169781058246.1589892.16334232984639326626@zulip>",
+    "subject": "#üldkanal > TASEMETÖÖD",
+    "bodyPreview": "Andrei Zevakin: Tere!\r\nPaljudel ei õnnestunud kohale tulla ja paljudel ei õnnestunud see kohe esimese katsega ära teha.\r\n\r\n  1.  tasemetöö korduskatse on neljapäeval, 2. novembril algusega kell 18.00 ruumis 1037 (suur auditoorium). Olge kohal mõned minutid va",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQANM0hkubZIBPkadKiyjeUeE=",
+    "conversationIndex": "AQHaA14l0zSGS5tkgE+Rp0qLKN5R4Q==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAEcDwnZAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "other",
+    "body": {
+        "contentType": "text",
+        "content": "Andrei Zevakin: Tere!\r\nPaljudel ei õnnestunud kohale tulla ja paljudel ei õnnestunud see kohe esimese katsega ära teha.\r\n\r\n  1.  tasemetöö korduskatse on neljapäeval, 2. novembril algusega kell 18.00 ruumis 1037 (suur auditoorium). Olge kohal mõned minutid varem, et jõuaksime kell 18.00 alustada.\r\nToimunud 1. tasemetöö variandid on üleval moodle'is. Kõik need, kellel ei õnnestunud see 1. katsel ära teha, proovige neid variante lahendada arvutis ja saada korrektselt tööle. Sellega saate mingi kogemuse, kas teie poolt tehtud kood paberil võiks ka töötada. Harjutage pigem rohkem kui vähem. Rekursiivne mõtteviis on klassikalistes algoritmides olulisel kohal, võib lausa öelda, et seda printsiipi tundmata on raske isegi algoritmidest aru saada. Samas, enamusel jäi arvestusest vaid natuke puudu. Seega, proovige aru saada, milles eksisite ja vajadusel enda praksijuhendajalt või siit kanalist nõu küsida.\r\nParimat,\r\nAndrei Zevakin\r\n@all\r\n\r\n—\r\nYou are receiving this because you were mentioned in Algoritmid ja Andmestruktuurid.\r\nReply in Zulip<https://aa1.zulip.cs.ut.ee/#narrow/stream/373-.C3.BCldkanal/topic/TASEMET.C3.96.C3.96D>, or manage email preferences<https://aa1.zulip.cs.ut.ee/#settings/notifications>.\r\n\r\nDo not reply to this email. This Zulip server is not configured to accept incoming emails (help<https://zulip.readthedocs.io/en/latest/production/email-gateway.html>).\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "Zulip notifications",
+            "address": "noreply@zulip.cs.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Zulip notifications",
+            "address": "noreply@zulip.cs.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "Karlis Karu",
+                "address": "karlis.karu@ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "noreply@zulip.cs.ut.ee",
+                "address": "noreply@zulip.cs.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "Algoritmid ja Andmestruktuurid - 1. tasemetöö korduskatse",
+        "start_date": "2023-11-02T18:00:00",
+        "end_date": "2023-11-02T19:45:00",
+        "country": "Eesti",
+        "city": "Tartu",
+        "address": "Narva mnt 18 (Delta keskus)",
+        "room": "ruum 1037 (suur auditoorium)",
+        "tags": [
+            "Resit test", "Algorithms and Data Structures"
+        ]
+    }
+]

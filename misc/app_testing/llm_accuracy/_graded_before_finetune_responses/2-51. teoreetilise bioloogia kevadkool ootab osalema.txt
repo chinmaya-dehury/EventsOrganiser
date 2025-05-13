@@ -1,0 +1,172 @@
+{
+	"expected_response": [
+		{
+			"event_name": "[VAJA REGISTREERIDA] Teoreetilise bioloogia kevadkool",
+			"start_date": "2025-04-25T00:00:00",
+			"end_date": "2025-04-27T23:59:00",
+			"country": "Eesti",
+			"city": "\u00c4nkk\u00fcla",
+			"address": "Mokko talu",
+			"room": "",
+			"tags": [
+				"Spring school",
+				"Biology"
+			]
+		},
+		{
+			"event_name": "Teoreetilise bioloogia kevadkooli registreerimise t\u00e4htaeg",
+			"start_date": null,
+			"end_date": "2025-04-17T23:59:00",
+			"country": "",
+			"city": "",
+			"address": "",
+			"room": "",
+			"tags": [
+				"Spring school",
+				"Biology",
+				"Deadline",
+				"Registration"
+			]
+		}
+	],
+	"exemplars": [
+		{
+			"llm_response": [
+				{
+					"event_name": "51. teoreetilise bioloogia kevadkool ootab osalema",
+					"start_date": "2025-04-25T00:00:00+02:00",
+					"end_date": "2025-04-27T23:59:59+02:00",
+					"country": "Eesti",
+					"city": "J\u00f3gevamaa",
+					"address": "Mokko maahotell",
+					"room": "",
+					"tags": [
+						"Registration",
+						"Biology",
+						"Spring school"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "51. teoreetilise bioloogia kevadkool ootab osalema",
+						"start_date": "2025-04-25T00:00:00+02:00",
+						"end_date": "2025-04-27T23:59:59+02:00",
+						"country": "Eesti",
+						"city": "J\u00f3gevamaa",
+						"address": "Mokko maahotell",
+						"room": "",
+						"tags": [
+							"Registration",
+							"Biology",
+							"Spring school"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.7,
+					"start_date_grade": 0.6666666666666666,
+					"end_date_grade": 0.6666666666666666,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 0.5,
+					"room_grade": 1.0,
+					"categories_grade": 0.6666666666666666
+				}
+			],
+			"event_finding_grade": 0.5
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "51. teoreetilise bioloogia kevadkool ootab osalema",
+					"start_date": "2025-04-25T00:00:00",
+					"end_date": "2025-04-27T23:59:59",
+					"country": "Eesti",
+					"city": "J\u00f3gevamaa",
+					"address": "Mokko maahotellis",
+					"room": "",
+					"tags": [
+						"Registration",
+						"Biology",
+						"Spring school"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "51. teoreetilise bioloogia kevadkool ootab osalema",
+						"start_date": "2025-04-25T00:00:00",
+						"end_date": "2025-04-27T23:59:59",
+						"country": "Eesti",
+						"city": "J\u00f3gevamaa",
+						"address": "Mokko maahotellis",
+						"room": "",
+						"tags": [
+							"Registration",
+							"Biology",
+							"Spring school"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.7,
+					"start_date_grade": 1.0,
+					"end_date_grade": 1.0,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 0.5,
+					"room_grade": 1.0,
+					"categories_grade": 0.6666666666666666
+				}
+			],
+			"event_finding_grade": 0.5
+		},
+		{
+			"llm_response": [
+				{
+					"event_name": "51. teoreetilise bioloogia kevadkool ootab osalema",
+					"start_date": "2025-04-25T00:00:00",
+					"end_date": "2025-04-27T23:59:59",
+					"country": "Eesti",
+					"city": "J\u00f6gevamaa",
+					"address": "Mokko maahotellis",
+					"room": "",
+					"tags": [
+						"Registration",
+						"Biology",
+						"Deadline"
+					]
+				}
+			],
+			"grades_for_each_event": [
+				{
+					"llm_generated_event": {
+						"event_name": "51. teoreetilise bioloogia kevadkool ootab osalema",
+						"start_date": "2025-04-25T00:00:00",
+						"end_date": "2025-04-27T23:59:59",
+						"country": "Eesti",
+						"city": "J\u00f6gevamaa",
+						"address": "Mokko maahotellis",
+						"room": "",
+						"tags": [
+							"Registration",
+							"Biology",
+							"Deadline"
+						]
+					},
+					"should_be_graded": true,
+					"event_name_grade": 0.7,
+					"start_date_grade": 1.0,
+					"end_date_grade": 1.0,
+					"country_grade": 1.0,
+					"city_grade": 1.0,
+					"address_grade": 0.5,
+					"room_grade": 1.0,
+					"categories_grade": 0.3333333333333333
+				}
+			],
+			"event_finding_grade": 0.5
+		}
+	]
+}

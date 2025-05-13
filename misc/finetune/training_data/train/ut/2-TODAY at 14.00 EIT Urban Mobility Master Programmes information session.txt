@@ -1,0 +1,98 @@
+in English; 2 events, though one is mentioned only briefly but it is the main event (which includes the primary one)
+end_date is undefined actually, since it isn't explicitly mentioned - the LLM cant deduce it 
+real end dates are used in the parsed events though
+
+location for 2nd event can be deduced, since 1st event is a part of the 2nd one
+!<-=->!
+Urban mobility; Master's programme; Presentation; Finance; Mentoring; Data science
+!<-=->!
+kaur.soomets@ut.ee
+!<-=->!
+{
+    "@odata.etag": "W/\"CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJb6nyD\"",
+    "id": "AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJcdIjMAAA=",
+    "createdDateTime": "2025-02-19T08:04:58Z",
+    "lastModifiedDateTime": "2025-02-19T08:05:01Z",
+    "changeKey": "CQAAABYAAABJvb8eBOBkTbkZuk8Vsug2AAJb6nyD",
+    "categories": [],
+    "receivedDateTime": "2025-02-19T08:04:59Z",
+    "sentDateTime": "2025-02-19T07:30:00Z",
+    "hasAttachments": false,
+    "internetMessageId": "<AS4PR02MB82367EF2C2BA79A3AC3F04898FFA2@AS4PR02MB8236.eurprd02.prod.outlook.com>",
+    "subject": "[cs.student:1108] EIT Urban Mobility Master Programmes information session - 25.02.2025",
+    "bodyPreview": "Dear students,\r\n\r\n\r\n\r\nWe are pleased to invite you to an info session on 25 February at 16:15 in room 1008. The session will introduce two EIT Urban Mobility Master School Programmes:\r\n\r\n  *   Sustainable Urban Mobility Transitions (SUMT)\r\n  *   Smart Mob",
+    "importance": "normal",
+    "parentFolderId": "AQMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5AGNkNTM2M2JjMTgALgAAA6glF0FyHgpBoh6vSQ_q3AoBAEm9vx4E4GRNuRm6TxWy6DYAAAIBDAAAAA==",
+    "conversationId": "AAQkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOAAQALnfVikzxytMrLIgfDEd9h4=",
+    "conversationIndex": "AQHbgqT4ud9WKTPHK0yssiB8MR32Hg==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": true,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADVjYjM3M2Q3LTg1ZTYtNDA1OC1hMWE5LTk5Y2Q1MzYzYmMxOABGAAAAAACoJRdBch4KQaIer0kPqtwKBwBJvb8eBOBkTbkZuk8Vsug2AAAAAAEMAABJvb8eBOBkTbkZuk8Vsug2AAJcdIjMAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+        "contentType": "text",
+        "content": "Dear students,\r\n\r\n\r\n\r\nWe are pleased to invite you to an info session on 25 February at 16:15 in room 1008. The session will introduce two EIT Urban Mobility Master School Programmes:\r\n\r\n  *   Sustainable Urban Mobility Transitions<https://cs.ut.ee/et/node/163062> (SUMT)\r\n  *   Smart Mobility Data Science and Analytics<https://cs.ut.ee/et/smart-mobility-data-science-and-analytics> (SMDSA)\r\n\r\n\r\nTo participate register here:  https://forms.gle/Y8LYHZwcgGNgWcvZ7\r\n\r\n\r\n\r\nThe EIT Urban Mobility Master School is a unique institution cooperating with leading European universities, industries, and cities. The Master’s programmes provide:\r\n\r\n  *   An education urgently needed by industry and cities\r\n  *   A valuable network\r\n  *   A truly international experience\r\n\r\n\r\n\r\nKey Highlights of the Programmes:\r\n\r\n  *   Integration of leading technological knowledge with training and practice in innovation and entrepreneurship\r\n  *   A two-year programme degree programme awarded by two partner universities\r\n  *   An EIT Label Certificate\r\n  *   Participate in an intensive summer school across two European cities, addressing critical city-based challenges.\r\n  *   A mandatory internship to gain valuable industry experience or with a European city-based work experience\r\n  *   A generous scholarship programme to attract the best talent globally\r\n\r\n\r\nThe EIT Urban Mobility Foundation coordinates the delivery of the Master School and offers support, scholarships and allowances to students.\r\n\r\n\r\nBest regards\r\n\r\nKalle Jürgenson\r\n\r\nProgramme Lead\r\n\r\n--\r\nMaret Tobreluts\r\nPeaspetsialist\r\nArvutiteaduse instituut\r\nTartu Ülikool\r\n\r\nPhD Study Specialist\r\nInstitute of Computer Science\r\nUniversity of Tartu\r\n\r\nNarva mnt 18-2045\r\n711 4918\r\n\r\n"
+    },
+    "sender": {
+        "emailAddress": {
+            "name": "cs.student-request@lists.ut.ee",
+            "address": "cs.student-request@lists.ut.ee"
+        }
+    },
+    "from": {
+        "emailAddress": {
+            "name": "Maret Tobreluts",
+            "address": "cs.student@lists.ut.ee"
+        }
+    },
+    "toRecipients": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [
+        {
+            "emailAddress": {
+                "name": "cs.student@lists.ut.ee",
+                "address": "cs.student@lists.ut.ee"
+            }
+        }
+    ],
+    "flag": {
+        "flagStatus": "notFlagged"
+    }
+}
+!<-=->!
+[
+    {
+        "event_name": "[REGISTRATION REQUIRED] Introduction to EIT Urban Mobility Master School Programmes",
+        "start_date": "2025-01-30T14:00:00",
+        "end_date": "2025-01-30T15:00:00",
+        "country": "Estonia",
+        "city": "Tartu",
+        "address":  "Narva mnt 18 (Delta Centre)",
+        "room": "Sandbox",
+        "tags": [
+            "Presentation", "Master's programme"
+        ]
+    },
+        {
+        "event_name": "[REGISTRATION REQUIRED] Futures Bazaar: sustainable urban mobility",
+        "start_date": "2025-01-30T09:30:00",
+        "end_date": "2025-01-30T15:00:00",
+        "country": "Estonia",
+        "city": "Tartu",
+        "address":  "Narva mnt 18 (Delta Centre)",
+        "room": "Sandbox",
+        "tags": [
+            "Urban mobility", "Presentation", "Master's programme"
+        ]
+    }
+]
